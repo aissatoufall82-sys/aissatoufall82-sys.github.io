@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:10:21.928784+00:00",
+  "generated_at": "2026-07-24T09:10:09.490593+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,257 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "a741a6bc9ae3d9253280",
+      "title": "Hollywood home of Martin Short’s late daughter is listed for $1.8 million",
+      "summary": "The California home where Martin Short’s daughter, Katherine, died has been listed for sale, just five months after her death.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/hollywood-home-of-martin-shorts-late-daughter-is-listed-for-1-8-million-632e4a12?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T09:03:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "15b7cc2d608c87286ba3",
+      "title": "Mauritius Tax Wave Threatens to Erode Its Banks’ Profitability",
+      "summary": "A raft of new corporate taxes that could erode banks’ profitability is testing Mauritius’s long-standing status as a low-tax gateway for cross-border capital, according to Moody’s Ratings.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/mauritius-tax-wave-threatens-to-erode-its-banks-profitability",
+      "published_at": "2026-07-24T08:47:24+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "eced8922e3a083622c06",
+      "title": "PIC: Why South Africa’s Biggest Fund Manager Is in Turmoil",
+      "summary": "The South African firm that oversees state workers’ pensions has been plunged into a fresh crisis triggered by the suspension of its chief executive and the resignation of its chairman.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/pic-why-south-africa-s-biggest-fund-manager-is-in-turmoil",
+      "published_at": "2026-07-24T08:46:02+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.992,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "92239c9c40b3debe2494",
+      "title": "SoftBank Weighs Deal for Robotics Startup Gravis",
+      "summary": "SoftBank Group Corp. is considering an acquisition of Gravis Robotics AG, people familiar with the matter said, as the Japanese investor targets the artificial intelligence technologies underpinning robotics.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis",
+      "published_at": "2026-07-24T08:45:39+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.992,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1c25165af5e56419dea4",
+      "title": "Victoria Plc Slumps to £326 Million Loss as Debt Deal Bites",
+      "summary": "Victoria Plc reported a wider annual loss as the troubled British carpetmaker counted the cost of its recent debt refinancing.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/victoria-plc-slumps-to-326-million-loss-as-debt-deal-bites",
+      "published_at": "2026-07-24T08:40:22+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.99,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b59d32f658f411c8540b",
+      "title": "Zara’s Ortega Buys Paris Office Complex for About €800 Million",
+      "summary": "Zara billionaire Amancio Ortega bought a business center in Paris from Invesco Ltd., in what is his biggest transaction in Europe.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/zara-s-ortega-buys-paris-office-complex-for-about-800-million",
+      "published_at": "2026-07-24T08:13:59+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.982,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "7328948cad33ed922831",
       "title": "Wise Group shares tank after U.S. bank charter rejected. What’s next for the fintech.",
@@ -45,7 +296,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.999,
+      "recency_weight": 0.98,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -86,7 +337,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -127,7 +378,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -138,6 +389,60 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "030fac31c4221dc3b519",
+      "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
+      "summary": "U.S. President Donald Trump told Axios he was mulling a \"massive attack\" on Iran, without giving a deadline for when he would make a decision. U.S. Secretary of State Marco Rubio told reporters the president's approach to the war was \"a head for an eye.\" The U.K. said it is \"ready to defend itself\" after Iran labeled the country an \"accomplice\" to the United States in the war. U.S. President Donald Trump said he will soon make a decision on whether to launch a \"massive attack\" on Iran after the conflict in the Middle East extended to a new battleground in the Red Sea. Speaking to Axios on Thursday, the president said the proposed strikes would be bigger than anything seen in the war so far, and that Iran has not \"received enough pain yet.\" \"I am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it,\" Trump said in the interview. U.S. forces have pummeled Iranian targets over the past two weeks, with Central Command completing a 13th consecutive night of strikes overnight. Trump did not give a deadline for when he would make a decision about a major attack on Iran, according to Axios. He said that Israel would join the operation \"in two minutes if I ask them to,\" but that Israel would potentially face retaliation from Iran if it did take part. The president also repeated that the Iranian side \"want to negotiate,\" but told the outlet Tehran is not yet ready to make a deal with the U.S. On Thursday, Trump said he would hold Iran responsible for further attacks by Yemen's Tehran-backed Houthis, after the militant group claimed to have struck two Saudi Arabian oil tankers in the Red Sea. \"If they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves,\" he said in a Truth Social post . The Houthis declared a maritime embargo against Saudi Arabia on Monday, threatening to cut off the kingdom's oil exports through the Red Sea and the Bab el-Mandeb strait. Iran's Revolutionary Guard said Thursday that it had attacked U.S. military facilities at an American military base in Jordan, according to state media. Speaking to reporters on Thursday, U.S. Secretary of State Marco Rubio labeled Trump's approach to the Iran war as \"a head for an eye.\" \"Honestly, that's what it's going to be,\" he said. \"They will pay a very heavy price for the things they're doing. They're already paying a very heavy price.\" Oil prices fell by around 1% on Friday morning, but were still on course for a weekly rise of 10%. Global benchmark Brent crude futures held above the $99-per-barrel mark, while U.S. West Texas Intermediate crude futures were trading at $91.08 a barrel. Meanwhile, the U.K. said it \"stands ready 24/7 to defend itself\" after Iran labeled the country an \"accomplice\" to the U.S. over the use of British military bases by American forces. Shortly after the start of the U.S.-Iran war, the U.K. gave permission for the U.S. to use British bases for defensive operations. That agreement was extended last week, and has not been changed by the U.K.'s new Prime Minister Andy Burnham. Tehran’s Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night Iran says it attacked Amazon infrastructure in Bahrain U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war Strait of Hormuz shutdown: A visual guide to the world's most critical oil chokepoint Oil markets are betting on a swift end to the Iran war. Investors may regret it The Middle East war is testing the Gulf’s ambitions to become an AI hub Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality Why the confusion around the Iran situation could get worse. How to profit anyway Strait of Hormuz: Ships attacked as Trump extends Iran ceasefire Trump tells CNBC he expects U.S. to make 'great deal' with Iran Iran's Ministry of Foreign Affairs said in a statement on Thursday that \"any party that, in any manner, participates in military aggression against Iran will bear responsibility for the consequences and repercussions of its decision.\" \"The British government has chosen to align itself with the aggressors, reducing its standing to that of an accomplice of the United States and Israel in a brutal war against the Iranian nation,\" it added. In a separate statement, an Iranian official warned any European nation that providing military bases or territory to the United States would place European countries \"in the ranks of the aggressors,\" according to state media.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+      "published_at": "2026-07-24T07:57:12+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.4,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.977,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -174,7 +479,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.995,
+      "recency_weight": 0.977,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -227,7 +532,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.992,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -274,7 +579,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.991,
+      "recency_weight": 0.972,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -316,7 +621,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.99,
+      "recency_weight": 0.971,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -357,7 +662,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.989,
+      "recency_weight": 0.97,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -402,7 +707,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.987,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -444,7 +749,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.985,
+      "recency_weight": 0.966,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -485,7 +790,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.982,
+      "recency_weight": 0.963,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -532,7 +837,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.98,
+      "recency_weight": 0.961,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -574,7 +879,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.977,
+      "recency_weight": 0.958,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -618,48 +923,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.975,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "50525a965bc89b7a6077",
-      "title": "Indonesia Seeks to Revive Cocoa Output After Years of Decline",
-      "summary": "Once the world’s third-largest cocoa producer, Indonesia is seeking to revive cocoa production after years of underinvestment, aging trees and pests left the industry short of beans and increasingly dependent on imports.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/indonesia-seeks-to-revive-cocoa-output-after-years-of-decline",
-      "published_at": "2026-07-24T06:47:38+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.974,
+      "recency_weight": 0.957,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -703,7 +967,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.964,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -745,7 +1009,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.963,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -792,7 +1056,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.963,
+      "recency_weight": 0.944,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -838,95 +1102,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.962,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "abc4c1d442ea22a67cb6",
-      "title": "Tanker Exits Red Sea Dark as Another China Ship Heads to Strait",
-      "summary": "A Greek tanker carrying Saudi crude exited the Red Sea with its transponder off, while another Chinese vessel headed toward Bab el-Mandeb as Houthi attacks heightened risks for commercial shipping.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/tanker-exits-red-sea-dark-as-another-china-ship-heads-to-strait",
-      "published_at": "2026-07-24T06:01:34+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.96,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5840fdc7232bc2dec241",
-      "title": "FTSE 100 Live: UK Stocks Lag Europe as Oil Stocks Drag",
-      "summary": "",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/live-blog/2026-07-24/ftse-100-live-pound-uk-retail-sales-pmi-data-trump-tariffs-iran-hormuz-oil-prices-ai-stocks-what-s-moving-uk-markets-right-now-markets-today",
-      "published_at": "2026-07-24T05:51:38+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.956,
+      "recency_weight": 0.944,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -968,7 +1144,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.955,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -979,50 +1155,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3e4046e1c06d0fa9683f",
-      "title": "China Rushes to Buy East Russian Oil as Mideast Risks Grow",
-      "summary": "Chinese buyers are snapping up Russia’s flagship ESPO crude weeks earlier than usual, as heightened risks to Middle East oil flows prompt refiners to secure supplies before they’re needed.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/china-rushes-to-buy-east-russian-oil-as-middle-east-risks-grow",
-      "published_at": "2026-07-24T05:19:40+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.947,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1053,7 +1185,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.938,
+      "recency_weight": 0.92,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1064,53 +1196,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "88effd5a9232252a662f",
-      "title": "Global Bonds Are Reeling as Oil Surge Renews Inflation Threat",
-      "summary": "Global bonds are being pummeled by the latest resurgence in energy prices, delivering losses to investors who bet the worst of this year’s rout was over and teeing up credibility tests for central bankers.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/global-bonds-are-reeling-as-oil-surge-renews-inflation-threat",
-      "published_at": "2026-07-24T04:33:23+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.933,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1145,7 +1230,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.9,
+      "recency_weight": 0.883,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1192,7 +1277,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.895,
+      "recency_weight": 0.878,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1242,7 +1327,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.89,
+      "recency_weight": 0.873,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1291,7 +1376,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.876,
+      "recency_weight": 0.86,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1334,7 +1419,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1379,7 +1464,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.865,
+      "recency_weight": 0.848,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1422,7 +1507,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.859,
+      "recency_weight": 0.843,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1464,7 +1549,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.858,
+      "recency_weight": 0.842,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1510,7 +1595,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.855,
+      "recency_weight": 0.839,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1552,7 +1637,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.853,
+      "recency_weight": 0.837,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1593,7 +1678,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.85,
+      "recency_weight": 0.834,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d4a500091eafa6cd0ba6",
+      "title": "Japan Is Whipsawing Wall Street’s CLO Machine, Study Shows",
+      "summary": "The $1.3 trillion US CLO market is taking its cues from Tokyo as much as Wall Street.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/clo-price-swings-dictated-by-tokyo-wharton-led-study-shows",
+      "published_at": "2026-07-23T22:59:07+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1612,7 +1738,7 @@
     {
       "event_id": "9888447067b49feabc50",
       "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
-      "summary": "IBM CEO Arvind Krishna told CNBC that just 2% of IBM's software could be replaced with applications built with artificial intelligence models. The comments followed disappointing results, as customers prioritized spending on servers and storage rather than mainframe computers, leading to a decline in related software. IBM shares are down about 30% this year. IBM CEO Arvind Krishna said that only 2% of his company's software could be replaced with applications constructed by artificial intelligence models, as he seeks to reassure Wall Street following disappointing second-quarter results . \"The rest of our software really helps people get ready for AI, unlocking data in real time, reducing the cost and complexity of managing it, going across the hybrid infrastructure, which most of our clients are using,\" Krishna told CNBC's \"Squawk on the Street\" on Thursday. \"And because it would be what you would call maybe infrastructure software, not applications, I believe it'll be a tail wind for us.\" Wall Street has turned skeptical on software stocks over the past couple years due to concerns that AI will disrupt their business models as technology from Anthropic, OpenAI and others gets more powerful. IBM shares are down about 30% this year, and the iShares Expanded Tech-Software Sector Exchange-Traded Fund (IGV) has dropped 17%. In February, IBM saw shares sink 13% after Anthropic issued a blog post on its Claude Code tool's ability to modernize code written in Cobol, which is often found on mainframes. Krishna told analysts on Wednesday, after the company's earnings report, that IBM's current-generation z17 mainframe encountered challenges in the quarter. Finance chief Jim Kavanaugh said some customers chose to spend money on other data center equipment, such as servers and storage, as memory prices spike because of AI chip requirements. For every dollar in revenue IBM generates from mainframe infrastructure, it picks up $3 in software. Just as IBM's Z mainframe business saw revenue drop 42% in the quarter, transaction processing software declined 9%. It was a sudden shift from the first quarter , when Z revenue grew 48%, and transaction processing increased 2%. During the June quarter, 45% of IBM's revenue came from software, where profit margins are the strongest. Krishna said Starbucks spends about $2 million per year on IBM software. He said the coffee maker is taking out Tririga lease management software. IBM bought Tririga in 2011, and plans to end support in 2027. \"That is a big component of that 2% I talked about, and I do think that software like that is subject to risk,\" he said. \"By the way, what they had in place was a 10-year-old piece of software.\" While IBM stuck with its guidance for a $1 billion bump to free cash flow in 2026, Kavanaugh said Wednesday that he now expects 6% to 8% growth in software revenue for the year. In January, he said he was confident the growth rate would be in the double digits. Krishna said on Thursday that mainframe hardware capacity is growing, which has implications for software. \"The software on that tends to lag the hardware capacity, and I do think that if we give it another year, you'll find the software will catch back up,\" he said. About 75% of deals that slipped from the second quarter should come back to IBM before year end, Krishna said. \"We would avoid giving full credit for the maintained guide until a larger portion of the slipped activity is reflected in reported results,\" analysts at Jefferies wrote in a Thursday note to clients. They recommend buying the stock. WATCH: IBM CEO: Prices for a lot of infrastructure components have gone way up",
+      "summary": "IBM's CEO highlighted growing mainframe hardware capacity, and said software should \"catch back up\" within a year.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1624,14 +1750,10 @@
       "affected_tags": [
         "ai",
         "broad_equity",
-        "corporate",
-        "datacenter",
         "growth",
         "macro",
         "market",
-        "memory",
         "semiconductor",
-        "storage",
         "tech"
       ],
       "categories": [
@@ -1642,7 +1764,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.833,
+      "recency_weight": 0.817,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1653,7 +1775,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1690,7 +1811,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.827,
+      "recency_weight": 0.812,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1737,7 +1858,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.827,
+      "recency_weight": 0.811,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1780,7 +1901,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.825,
+      "recency_weight": 0.81,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1797,35 +1918,33 @@
       }
     },
     {
-      "event_id": "89c2dba797735ab40397",
-      "title": "Stocks Drift as Traders Shun Risk Before Weekend: Markets Wrap",
-      "summary": "US stocks are on track for their first back-to-back weekly loss since the early stages of the war in the Middle East as investors shunned risk ahead of a weekend laden with geopolitical uncertainty.",
+      "event_id": "a914a9cfa281a3e1fbd1",
+      "title": "Stocks Get Some Relief as Brent Slips Below $100: Markets Wrap",
+      "summary": "US stocks are finding some respite after posting their biggest drop this month as Brent crude eased below $100 a barrel and bond yields halted their ascent.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
       "published_at": "2026-07-23T22:06:16+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "geopolitical",
-        "gold",
+        "energy",
         "macro",
         "market",
-        "oil",
-        "safe_haven"
+        "oil"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "regime",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.824,
+      "impact_score": 7.36,
+      "recency_weight": 0.808,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1869,7 +1988,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.823,
+      "recency_weight": 0.808,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1912,7 +2031,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.823,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1958,7 +2077,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.823,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2004,7 +2123,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2047,7 +2166,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.821,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2089,7 +2208,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.82,
+      "recency_weight": 0.805,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2130,7 +2249,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.819,
+      "recency_weight": 0.804,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "e5566af095f073fef191",
+      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+      "summary": "The Trump administration has ramped its tariff actions back up since the president's trade agenda suffered major legal setbacks earlier this year.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+      "published_at": "2026-07-23T21:43:10+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.802,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2176,7 +2336,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.817,
+      "recency_weight": 0.802,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2224,7 +2384,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.813,
+      "recency_weight": 0.798,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2266,51 +2426,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.811,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3bddbaa39e67929a8957",
-      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-      "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-      "published_at": "2026-07-23T21:15:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.81,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2355,7 +2471,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.809,
+      "recency_weight": 0.794,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2395,7 +2511,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.807,
+      "recency_weight": 0.791,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2414,21 +2530,20 @@
     {
       "event_id": "a9716aa1c81128507b03",
       "title": "SK Hynix Tycoon Ordered to Pay $643 Million Divorce Settlement",
-      "summary": "SK Hynix Inc. billionaire Chey Tae-won, whose fortune has been supercharged by the AI boom, was ordered to pay his former wife 944 billion won ($643 million) as a divorce settlement in a fresh court ruling that brings the acrimonious dispute closer to an end.",
+      "summary": "SK Hynix Inc. billionaire Chey Tae-won was ordered by a South Korean court to pay his former wife 944 billion won ($643 million) in a divorce settlement that brings the long-running feud near a conclusion.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-billionaire-to-get-long-awaited-ruling-on-divorce-case",
       "published_at": "2026-07-23T21:00:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
+      "event_type": "market",
+      "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "growth",
         "market",
         "semiconductor",
-        "tech",
         "technology"
       ],
       "categories": [
@@ -2440,8 +2555,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.806,
+      "impact_score": 1.84,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2487,7 +2602,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2536,7 +2651,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2586,7 +2701,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2636,7 +2751,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2686,7 +2801,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2732,7 +2847,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.804,
+      "recency_weight": 0.788,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2774,7 +2889,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.803,
+      "recency_weight": 0.787,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2819,7 +2934,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.8,
+      "recency_weight": 0.784,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2866,7 +2981,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.799,
+      "recency_weight": 0.784,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2909,7 +3024,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.798,
+      "recency_weight": 0.783,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2956,7 +3071,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.798,
+      "recency_weight": 0.782,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2968,47 +3083,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2840928fb0a7862f1fa9",
-      "title": "As the S&P 500 sells off, traders eye key 'risk pivot' level",
-      "summary": "Options traders are seeking clues on whether more volatility may be ahead.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/23/as-the-sp-500-sells-off-traders-eye-key-risk-pivot-level.html",
-      "published_at": "2026-07-23T20:22:32+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.797,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3039,7 +3113,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.794,
+      "recency_weight": 0.779,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3056,53 +3130,9 @@
       }
     },
     {
-      "event_id": "a5720ed556921936cbc9",
-      "title": "Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia",
-      "summary": "Oil prices rose after attacks on ships in the Red Sea, and U.S. President Donald Trump's threatened to bomb Iranian infrastructure.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
-      "published_at": "2026-07-23T20:12:13+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.794,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "778fe16641d31fbc01ff",
-      "title": "SAP Cloud Growth Beats Estimates as Customer Orders Accelerate",
-      "summary": "SAP SE reported better-than-expected sales for its cloud products, as Europe’s largest software company pushes its enterprise customers to upgrade systems and adopt a suite of artificial intelligence products.",
+      "event_id": "d6c9851c2e9c3af3eced",
+      "title": "SAP Cloud Growth Beats Estimates as Customer Orders Speed Up",
+      "summary": "SAP SE reported better-than-expected sales for its cloud products after pushing enterprise customers to upgrade systems at a faster pace and adopt a suite of artificial intelligence products.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -3128,7 +3158,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.794,
+      "recency_weight": 0.778,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3170,7 +3200,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.793,
+      "recency_weight": 0.778,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3217,7 +3247,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.792,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3264,7 +3294,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.789,
+      "recency_weight": 0.774,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3311,7 +3341,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.781,
+      "recency_weight": 0.766,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3358,7 +3388,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.778,
+      "recency_weight": 0.763,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3404,7 +3434,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.771,
+      "recency_weight": 0.756,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3450,7 +3480,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.764,
+      "recency_weight": 0.749,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3496,7 +3526,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.754,
+      "recency_weight": 0.74,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3538,7 +3568,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.747,
+      "recency_weight": 0.733,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3584,7 +3614,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.746,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3626,7 +3656,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.737,
+      "recency_weight": 0.723,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3665,7 +3695,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.705,
+      "recency_weight": 0.691,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3706,7 +3736,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.686,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3747,7 +3777,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.672,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3793,7 +3823,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.667,
+      "recency_weight": 0.654,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3839,7 +3869,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.646,
+      "recency_weight": 0.634,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3850,53 +3880,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "409fee940aac8ad87fbd",
-      "title": "Intel Needs More Than Blowout Earnings as Chips Rally Falters",
-      "summary": "Intel Corp. is expected to report strong second-quarter earnings after the market close, but even blowout results likely won’t be enough to reverse the stock’s July slide.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-needs-more-than-blowout-earnings-as-chips-rally-falters",
-      "published_at": "2026-07-23T08:35:56+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.635,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -3928,7 +3911,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.615,
+      "recency_weight": 0.603,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3973,7 +3956,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.526,
+      "recency_weight": 0.516,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4015,7 +3998,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.498,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4064,7 +4047,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.498,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4111,7 +4094,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.463,
+      "recency_weight": 0.454,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -4151,7 +4134,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.436,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4194,7 +4177,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 6.0,
-      "recency_weight": 0.436,
+      "recency_weight": 0.427,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4235,7 +4218,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.333,
+      "recency_weight": 0.326,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4284,7 +4267,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.314,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4327,7 +4310,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.272,
+      "recency_weight": 0.267,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -4365,7 +4348,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.27,
+      "recency_weight": 0.264,
       "scored_for_probability": false,
       "source_profile": {
         "key": "defense",
@@ -4764,7 +4747,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-24T08:00:21+00:00",
+      "latest_published_at": "2026-07-24T08:47:24+00:00",
       "warning": null
     },
     {
@@ -4773,7 +4756,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-24T07:44:09+00:00",
+      "latest_published_at": "2026-07-24T08:45:39+00:00",
       "warning": null
     },
     {
@@ -4782,7 +4765,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-24T08:06:00+00:00",
+      "latest_published_at": "2026-07-24T09:03:00+00:00",
       "warning": null
     },
     {
@@ -4791,7 +4774,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-24T07:56:12+00:00",
+      "latest_published_at": "2026-07-24T07:57:12+00:00",
       "warning": null
     },
     {
