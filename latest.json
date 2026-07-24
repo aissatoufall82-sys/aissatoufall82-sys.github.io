@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:10:14.284001+00:00",
+  "generated_at": "2026-07-24T22:10:09.147233+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,431 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "917bc3ab6e385c51e37f",
+      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+      "summary": "“I own my home outright, have no children or other dependents.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T22:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6bdffbc8afd8632868ca",
+      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "summary": "SpaceX saw shares drop about 7% for the week ahead of a planned test flight of its massive Starship V3 rocket on Friday. With the stock slides, Musk's wealth dropped by roughly $130 billion. It was a rough week for Elon Musk . Tesla shares plunged 18% during the week to close at $313.03 on Friday, their worst weekly slump since 2022. And SpaceX's stock continued its downward slide, dropping 7.2% over five days to close at $115.07 Friday, its lowest since the company's record initial public offering last month. The declines in both stocks wiped away about $130 billion of Musk's wealth, weeks after he'd become the world's first trillionaire. In a post on X on Friday, Musk wrote, \"(Former) trillionaire.\" Tesla's slump was spurred by weaker-than-expected earnings when the electric vehicle maker reported second-quarter results late Wednesday. The company turned cash flow negative due to a surge in spending on futuristic projects like robotaxis, humanoid robots and a giant chip fab. \"We expect this to pressure free cash flow and delay earnings growth, without providing any near-term shareholder return,\" wrote analysts at Argus Research, which has a hold rating on the stock, in a report on Friday. \"We believe it will be nearly impossible for Tesla to generate any consistency in profit growth in the near-term.\" Tesla's stock is now down 30% for the year, by far the worst performer among tech's mega-caps. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide Meanwhile, SpaceX's stock has been on a steady downward trajectory over the past month following an initial pop when the company went public. The shares have dropped for four of the past five weeks and are about 43% off their peak close on June 16. On Friday evening, SpaceX will again attempt the 13th test flight of Starship , the largest rocket ever built or flown. The company plans to fly the new version of the rocket, Starship V3, from its company town and launch facility in Starbase, Texas. The rocket is designed to be fully reusable and is considered crucial for SpaceX's near-term aims to vastly grow its Starlink satellite network. In a post on X, which is owned by SpaceX, the company said it delayed the test flight planned for Thursday \"due to weather.\" SpaceX previously scrubbed a test flight last week, after the rocket's booster triggered a hold, which \"shut down the engines right as they were starting to ignite,\" a SpaceX employee said during a livestream of the event. A successful launch of Starship V3, an upgraded version of its roughly 400-foot-tall rocket, would be the first since the company's IPO. SpaceX plans to use Starship to bring U.S. astronauts back to the Moon's surface, and Musk wants the rocket to eventually power manned missions to Mars. Musk made a public appearance this week, sitting down for what turned out to be a contentious interview with The Economist. Zanny Minton Beddoes, editor-in-chief of the publication, asked Musk about his support for \"not just the populist right, but the far right, in fact very fringe parties in some countries.\" In addition to his financial and vocal support for President Donald Trump , including his work for the second administration, Musk has endorsed Germany's AfD, an extreme anti-immigrant party, as well as the U.K.'s Restore Britain, founded by Rupert Lowe, who also calls to \"reverse mass migration.\" \"It's just normal people!\" Musk said in response. He berated Beddoes and \"the traditional media\" for an \"absurd characterization of the far right.\" WATCH: SpaceX learning as much as it can about newest rocket",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+      "published_at": "2026-07-24T21:57:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "71547120f001c0d06654",
+      "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
+      "summary": "Your answer to this viral poll question probably says a lot about the state of your finances.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T21:48:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4498daa69a6c1f454688",
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T21:45:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.992,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3c1f61fc8654fd067833",
+      "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
+      "summary": "Long-bond spike would crush stock gains and deepen bond-fund losses.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T21:38:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.99,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a7bcb08274bdf5e528c8",
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T21:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "54ba8a9416855c4337c7",
+      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
+      "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T21:30:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9bcc437c544a1d8b689d",
+      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "summary": "Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027. It had previously said it intended to complete the transaction by the end of September. The merger is facing a lawsuit from a group of state attorneys general who have said it raises antitrust concerns. Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027 — a multi-month delay that will ultimately raise the deal price — as the tie-up faces a legal challenge. Last week, a group of state attorneys general led by California's Rob Bonta sued to block the deal over antitrust concerns. On Monday, a judge reviewing the case issued a temporary restraining order , delivering a near-term delay. Paramount had repeatedly said it intended to complete the transaction by the end of September. The agreement announced Friday says Paramount won't complete its acquisition until the court rules on the states' claims or until June 1, 2027, whichever comes first. In a statement Friday, Paramount called the agreement a \"significant win.\" \"The result is exactly what we have sought from the outset: a direct path to a trial based on the evidence. This is the fastest and clearest way to prove that this transaction is good for competition, good for consumers, and good for creators, a conclusion dozens of competition authorities around the world have already reached,\" the company said. \"Plaintiffs' market definitions bear no relationship to the realities of today's marketplace and cannot withstand scrutiny. We look forward to proving our case at trial.\" Under the terms of its agreement, Paramount will owe Warner Bros. Discovery shareholders a \"ticking fee\" the longer the deal is delayed, starting Sept. 30. The fee, an additional 25 cents per share, per quarter until closing, could amount to roughly $650 million in cash value every quarter. A delay as long as June 2027 could add roughly $1.7 billion to the deal price. Should the deal fall apart entirely, Paramount would owe WBD a $7 billion breakup fee. Paramount and WBD agreed to combine in February after the David Ellison-led company outbid Netflix . The $110 billion deal would bring together two major Hollywood studios, two popular streaming services and a host of TV networks. In June, the antitrust division of the U.S. Department of Justice cleared the proposed merger. Earlier this week, European antitrust regulators likewise granted their approval for the deal. But U.S. state officials have raised concerns that the tie-up would reduce competition and result in job losses in the film industry. \"Our argument against this illegal merger is straightforward: When too few corporations have too much power in markets central to American life, it makes things more expensive, and it makes things worse,\" Bonta said in a statement Friday. \"Today's agreement is great news for audiences, movie theaters, and the many people who write, build, and create the art, news, and entertainment so many of us enjoy. We are eager to continue to make our case in court and celebrate another tremendous win in our effort to ensure this unlawful merger never sees the light of day.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "published_at": "2026-07-24T21:24:09+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.985,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "61605d071515321c6aba",
+      "title": "Pay raises keep shrinking. Here’s how much smaller they’ll be next year.",
+      "summary": "One solution is getting a different job — but that’s not so simple.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T21:22:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.985,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "01c859057a8b59335107",
+      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
+      "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T21:21:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.984,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "d555d4f8e0d7211e3907",
       "title": "Why bond investors are pushing up some of your interest rates",
@@ -56,7 +481,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 1.0,
+      "recency_weight": 0.981,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -107,7 +532,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -120,47 +545,6 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "69427f889d7a65cb7e95",
-      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
-      "summary": "Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027. It had previously said it intended to complete the transaction by the end of September. The merger is facing a lawsuit from a group of state attorneys general who have said it raises antitrust concerns. Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027 — a multi-month delay that will ultimately raise the deal price — as the tie-up faces a legal challenge. Last week, a group of state attorneys general led by California's Rob Bonta sued to block the deal over antitrust concerns. On Monday, a judge reviewing the case issued a temporary restraining order , delivering a near-term delay. Paramount had repeatedly said it intended to complete the transaction by the end of September. The agreement announced Friday says Paramount won't complete its acquisition until the court rules on the states' claims or until June 1, 2027, whichever comes first. In a statement Friday, Paramount called the agreement a \"significant win.\" \"The result is exactly what we have sought from the outset: a direct path to a trial based on the evidence. This is the fastest and clearest way to prove that this transaction is good for competition, good for consumers, and good for creators, a conclusion dozens of competition authorities around the world have already reached,\" the company said. \"Plaintiffs' market definitions bear no relationship to the realities of today's marketplace and cannot withstand scrutiny. We look forward to proving our case at trial.\" Under the terms of its agreement, Paramount will owe Warner Bros. Discovery shareholders a \"ticking fee\" the longer the deal is delayed, starting Sept. 30. The fee, an additional 25 cents per share, per quarter until closing, could amount to roughly $650 million in cash value every quarter. A delay as long as June 2027 could add roughly $1.7 billion to the deal price. Should the deal fall apart entirely, Paramount would owe WBD a $7 billion breakup fee. Paramount and WBD agreed to combine in February after the David Ellison-led company outbid Netflix . The $110 billion deal would bring together two major Hollywood studios, two popular streaming services and a host of TV networks. In June, the antitrust division of the U.S. Department of Justice cleared the proposed merger. Earlier this week, European antitrust regulators likewise granted their approval for the deal. But U.S. state officials have raised concerns that the tie-up would reduce competition and result in job losses in the film industry. \"Our argument against this illegal merger is straightforward: When too few corporations have too much power in markets central to American life, it makes things more expensive, and it makes things worse,\" Bonta said in a statement Friday. \"Today's agreement is great news for audiences, movie theaters, and the many people who write, build, and create the art, news, and entertainment so many of us enjoy. We are eager to continue to make our case in court and celebrate another tremendous win in our effort to ensure this unlawful merger never sees the light of day.\"",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
-      "published_at": "2026-07-24T20:58:47+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.996,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -190,7 +574,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.995,
+      "recency_weight": 0.976,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -236,7 +620,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.992,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -283,7 +667,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.988,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -326,7 +710,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.986,
+      "recency_weight": 0.967,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -367,7 +751,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.985,
+      "recency_weight": 0.966,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -378,54 +762,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "90e3f236f1474b960663",
-      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-      "summary": "SpaceX dropped about 7% for the week ahead of a planned test flight of its massive Starship V3 rocket on Friday. With the stock slides, Musk's wealth dropped by roughly $130 billion. It was a rough week for Elon Musk . Tesla shares plunged 18% during the week to close at $313.03 on Friday, their worst weekly slump since 2022. And SpaceX continued its downward slide, dropping 7.2% over five days to close at $115.07 Friday, its lowest since the company's record IPO last month. The declines in both stocks wiped away about $130 billion of Musk's wealth, weeks after he'd become the world's first trillionaire. In a post on X on Friday, Musk wrote, \"(Former) trillionaire.\" Tesla's slump was spurred by weaker-than-expected earnings when the electric vehicle maker reported second-quarter results late Wednesday. The company turned cash flow negative due to a surge in spending on futuristic projects like robotaxis, humanoid robots and a giant chip fab. \"We expect this to pressure free cash flow and delay earnings growth, without providing any near-term shareholder return,\" wrote analysts at Argus Research, which has a hold rating on the stock, in a report on Friday. \"We believe it will be nearly impossible for Tesla to generate any consistency in profit growth in the near-term.\" Tesla's stock is now down 30% for the year, by far the worst performer among tech's megacaps. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide Meanwhile, SpaceX's stock has been on a steady downward trajectory over the past month following an initial pop when the company went public. The shares have dropped for four of the past five weeks and are about 43% off their peak close on June 16. On Friday evening, SpaceX will again attempt the 13th test flight of Starship , the largest rocket ever built or flown. The company plans to fly the new version of the rocket, Starship V3, from its company town and launch facility in Starbase, Texas. The rocket is designed to be fully reusable and is considered crucial for SpaceX's near-term aims to vastly grow its Starlink satellite network. In a post on X, which is owned by SpaceX, the company said it delayed the test flight planned for Thursday \"due to weather.\" SpaceX previously scrubbed a test flight last week, after the rocket's booster triggered a hold, which \"shut down the engines right as they were starting to ignite,\" a SpaceX employee said during a livestream of the event. A successful launch of Starship V3, an upgraded version of its roughly 400-foot-tall rocket, would be the first since the company's IPO. SpaceX plans to use Starship to bring U.S. astronauts back to the Moon's surface, and Musk wants the rocket to eventually run manned missions to Mars. Musk made a public appearance this week, sitting down for what turned out to be a contentious interview with The Economist. Zanny Minton Beddoes, editor-in-chief of the publication, asked Musk about his support for \"not just the populist right, but the far right, in fact very fringe parties in some countries.\" In addition to his financial and vocal support for President Donald Trump , including his work for the second administration, Musk has endorsed Germany's AfD, an extreme anti-immigrant party, as well as the UK's Restore Britain, founded by Rupert Lowe, who also calls to \"reverse mass migration.\" \"It's just normal people!\" Musk said in response. He berated Beddoes and \"the traditional media\" for an \"absurd characterization of the far right.\" WATCH: SpaceX learning as much as it can about newest rocket",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
-      "published_at": "2026-07-24T20:20:05+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.984,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -458,7 +794,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.983,
+      "recency_weight": 0.964,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -508,7 +844,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.982,
+      "recency_weight": 0.963,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -551,7 +887,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.981,
+      "recency_weight": 0.962,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -601,7 +937,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.98,
+      "recency_weight": 0.961,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -653,7 +989,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.979,
+      "recency_weight": 0.961,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -700,7 +1036,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.977,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -742,7 +1078,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.976,
+      "recency_weight": 0.957,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -783,7 +1119,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.975,
+      "recency_weight": 0.956,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -824,7 +1160,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.974,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -870,7 +1206,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.972,
+      "recency_weight": 0.953,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -913,7 +1249,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.971,
+      "recency_weight": 0.953,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -924,50 +1260,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "fef64ec087a7d400f15a",
-      "title": "The world is facing its largest oil shock ever. Here is why prices are not higher.",
-      "summary": "Oil prices aren’t yet near the level economists had said would put the global economy in jeopardy of a recession.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/the-world-is-facing-its-largest-oil-shock-ever-here-is-why-prices-are-not-higher-0bb943c7?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T19:31:00+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.969,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -998,7 +1290,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.969,
+      "recency_weight": 0.95,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1039,48 +1331,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.966,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f08b0340c76774b3221f",
-      "title": "Don’t rush to save Social Security, AARP tells Congress: ‘It should be debated openly — not through an accelerated process’",
-      "summary": "The Promise Act would curtail proper debate, the senior-focused organization said.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/dont-rush-to-save-social-security-aarp-tells-congress-it-should-be-debated-openly-not-through-an-accelerated-process-96cfb75d?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T19:17:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.964,
+      "recency_weight": 0.947,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1134,7 +1385,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.963,
+      "recency_weight": 0.944,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1146,52 +1397,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "df14ee98783ea4c9b169",
-      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
-      "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T19:12:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.963,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1223,7 +1428,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.961,
+      "recency_weight": 0.943,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1269,7 +1474,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1281,47 +1486,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8552e0c437cd3bd29c4b",
-      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
-      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T19:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.959,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1352,48 +1516,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6135cc7860a67e5e9b85",
-      "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
-      "summary": "Long-bond spike would crush stock gains and deepen bond-fund losses.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T18:58:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.958,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1438,7 +1561,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.955,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1485,7 +1608,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.955,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1497,149 +1620,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6ab019318be0ffab7963",
-      "title": "The bond market hasn’t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening.",
-      "summary": "Junk-bond spreads are near the lows reached before the financial crisis of 2007-09. Here’s how to hedge before the market wakes up.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/the-bond-market-hasnt-been-this-calm-since-the-dot-com-bust-and-the-financial-crisis-history-warns-of-a-rude-awakening-5597c25d?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T18:47:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.955,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4a4509f6cab3cfb5698e",
-      "title": "This energy company sidestepped Iran war challenges by pushing into data centers",
-      "summary": "SLB has looked beyond the Middle East, capitalizing on revenue opportunities in other regions and in the AI market.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/this-energy-company-sidestepped-iran-war-challenges-by-pushing-into-data-centers-0aed9ca7?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T18:39:00+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.953,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "006a0aa68ebb160940c3",
-      "title": "Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up",
-      "summary": "There isn’t one “smoking gun” catalyst — but investors could be reacting to Chinese memory developments, Korean stock-market weakness and Intel’s inability to sustain postearnings gains",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/why-micron-and-other-major-chip-stocks-are-falling-even-as-the-rest-of-tech-holds-up-506851dc?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T18:37:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "datacenter",
-        "growth",
-        "macro",
-        "market",
-        "memory",
-        "semiconductor",
-        "storage",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.952,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1674,7 +1654,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1720,7 +1700,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.939,
+      "recency_weight": 0.922,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1767,7 +1747,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.937,
+      "recency_weight": 0.919,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1810,7 +1790,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.931,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1856,7 +1836,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.929,
+      "recency_weight": 0.911,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1902,7 +1882,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1944,7 +1924,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.919,
+      "recency_weight": 0.902,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1990,7 +1970,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.915,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2034,7 +2014,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.909,
+      "recency_weight": 0.892,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2080,7 +2060,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.908,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2122,7 +2102,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.904,
+      "recency_weight": 0.887,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2167,7 +2147,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.9,
+      "recency_weight": 0.883,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2209,7 +2189,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.897,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2255,7 +2235,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2297,7 +2277,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.886,
+      "recency_weight": 0.869,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2343,7 +2323,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.88,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2386,7 +2366,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.874,
+      "recency_weight": 0.858,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2433,7 +2413,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.874,
+      "recency_weight": 0.857,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2480,7 +2460,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.873,
+      "recency_weight": 0.856,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2529,7 +2509,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.872,
+      "recency_weight": 0.856,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2570,7 +2550,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2614,7 +2594,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.87,
+      "recency_weight": 0.853,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2656,7 +2636,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.863,
+      "recency_weight": 0.847,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2701,7 +2681,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.857,
+      "recency_weight": 0.841,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2748,7 +2728,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.857,
+      "recency_weight": 0.841,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2798,7 +2778,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.855,
+      "recency_weight": 0.839,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2847,7 +2827,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.849,
+      "recency_weight": 0.833,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2890,7 +2870,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.841,
+      "recency_weight": 0.825,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2940,7 +2920,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.835,
+      "recency_weight": 0.819,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2988,7 +2968,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.823,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3035,7 +3015,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3077,7 +3057,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3123,7 +3103,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3170,7 +3150,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.814,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3212,7 +3192,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.81,
+      "recency_weight": 0.794,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3257,7 +3237,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.807,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3303,7 +3283,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.787,
+      "recency_weight": 0.772,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3350,7 +3330,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.726,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3392,7 +3372,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.675,
+      "recency_weight": 0.662,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3437,7 +3417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.673,
+      "recency_weight": 0.66,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3486,7 +3466,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.641,
+      "recency_weight": 0.629,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3532,7 +3512,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.641,
+      "recency_weight": 0.629,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3578,7 +3558,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.63,
+      "recency_weight": 0.618,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3618,7 +3598,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3661,7 +3641,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3707,7 +3687,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3753,7 +3733,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3802,7 +3782,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3852,7 +3832,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3902,7 +3882,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3952,7 +3932,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3993,7 +3973,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.625,
+      "recency_weight": 0.613,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4034,7 +4014,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.618,
+      "recency_weight": 0.607,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4079,7 +4059,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.618,
+      "recency_weight": 0.606,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4125,7 +4105,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.616,
+      "recency_weight": 0.605,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4167,7 +4147,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.582,
+      "recency_weight": 0.571,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4208,7 +4188,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.574,
+      "recency_weight": 0.563,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4247,7 +4227,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.549,
+      "recency_weight": 0.538,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4288,7 +4268,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.388,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4337,7 +4317,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.388,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4384,7 +4364,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.361,
+      "recency_weight": 0.354,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -4424,7 +4404,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.346,
+      "recency_weight": 0.339,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4467,7 +4447,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 6.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4508,7 +4488,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4926,7 +4906,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-24T20:26:00+00:00",
+      "latest_published_at": "2026-07-24T22:00:00+00:00",
       "warning": null
     },
     {
@@ -4935,7 +4915,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-24T21:09:24+00:00",
+      "latest_published_at": "2026-07-24T21:57:01+00:00",
       "warning": null
     },
     {
