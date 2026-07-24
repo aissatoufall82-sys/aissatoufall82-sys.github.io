@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:10:26.910380+00:00",
+  "generated_at": "2026-07-24T18:10:10.323574+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,638 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "461e004bc702b29ff3d9",
+      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+      "summary": "President Donald Trump announced a trade probe into the European Union, saying it will likely result in a \"substantial\" tariff on the 27-member bloc. Trump accused the EU of \"'ROBBING' American Companies\" through its fines against U.S. tech giants, including a recent $1 billion fine on Google. Trump said the U.S. will immediately launch a \"301\" probe, the same authority his administration just used to impose new tariffs on more than 80 countries. President Donald Trump on Friday said his administration will launch a trade probe into the European Union that will cancel hefty fines levied against U.S. tech giants and likely result in a \"substantial\" tariff on the 27-member bloc. Trump, in a lengthy Truth Social post , accused the EU of \"'ROBBING' American Companies and, in turn, the American Taxpayer\" as he raged over its recent $1 billion fine on Google for allegedly giving priority to its own services in its search engine. \"The European Union is at it again and, as usual, taking direct aim at GREAT American Companies!\" Trump wrote in the post, which also railed against prior European fines against Apple , Meta and Amazon . Trump claimed that the latest penalty against Google was issued \"without explanation.\" But the European Commission, the EU's executive branch, said in a press release that the fines totaling 890 million euros were due to Google's alleged noncompliance with the bloc's Digital Markets Act , which aims to scrutinize Big Tech's practices. Trump claimed that the EU's behavior is \"not going to continue during the Trump Administration.\" \"The United States of America is not a 'PIGGYBANK' for Europe, nor will we allow it to be!\" he wrote. Trump said the U.S. will \"immediately\" start an investigation under Section 301 of the Trade Act of 1974, which permits the imposition of tariffs in response to practices that are found to unfairly burden U.S. commerce. The Trump administration has launched multiple probes using that tariff authority. Hours earlier, it imposed new duties between 10% and 12.5% on goods from more than 80 countries, including those in the EU, over alleged forced labor issues. \"The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about,\" Trump warned in Friday's post. \"The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment,\" he wrote, adding, \"Stay tuned!\" This is breaking news. Please refresh for updates.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "published_at": "2026-07-24T18:08:57+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 1.0,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "27095727cc87d8743a0c",
+      "title": "Jensen Huang has a high-stakes message for AI policymakers",
+      "summary": "As Washington considers tighter restrictions on open-weight AI over concerns of intellectual-property theft, Nvidia and other tech companies are pushing back.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/jensen-huang-has-a-high-stakes-message-for-ai-policymakers-aa60017b?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T18:06:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.999,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d8f23903091101fbef74",
+      "title": "Getting Ditched by Amazon Revitalized One Game Studio",
+      "summary": "Maverick Games, the maker of ‘Clutch,’ was ditched by Amazon but is doing just fine",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-24/getting-ditched-by-amazon-revitalized-one-game-studio",
+      "published_at": "2026-07-24T18:01:59+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1dee617d9e778ecde538",
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T18:01:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5257507bfd1f931f8f16",
+      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+      "summary": "A group of 25 tech companies released a letter urging policymakers to avoid \"premature restrictions\" on open-weight AI models. Chinese open-weight models are gaining steam against leading offerings from American companies, which has sparked a debate about whether they should be restricted. OpenAI and Anthropic, which are gearing up for potentially massive IPOs, did not sign the letter. Nvidia , Microsoft , Meta , Palantir and more than 20 other companies released a letter Friday urging policymakers to avoid \"premature restrictions\" on open-weight artificial intelligence models that would \"stifle competition or drive innovation overseas.\" Open-weight AI models are available for users to download, modify and run on their own infrastructure, and they have been the subject of fierce debate within the tech sector in recent weeks. Chinese open-weight models are gaining steam against leading offerings from American companies like OpenAI and Anthropic , which primarily develop proprietary, closed models. Officials and executives have been weighing whether or not to restrict access to Chinese models in the U.S. Moonshot AI, a Chinese startup, amplified concerns earlier this month after releasing a model called Kimi K3 that outperforms cutting-edge American offerings across some industry benchmarks. U.S. Treasury Secretary Scott Bessent told CNBC on Tuesday that the Trump administration would look into whether Chinese companies were stealing American intellectual property, and stated that the government has \"the ability to sanction them because of this theft.\" But in the letter on Friday, the group of U.S. tech companies cautioned against any rash actions. They wrote that open-weight models strengthen competition and ensure that the benefits of the technology are \"broadly shared rather than concentrated in a few hands.\" \"Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect,\" the letter said. \"And concentrating advanced AI capabilities behind a small number of closed models compounds that risk.\" Nvidia CEO Jensen Huang and Microsoft CEO Satya Nadella both shared the letter on their personal social media accounts. Elon Musk , who runs an AI business under his rocket company SpaceX , also applified the letter on social media, writing that it has his \"full support\" in a post on X . SpaceX did not officially sign the letter. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide OpenAI and Anthropic did not sign the letter. Both companies, which are each valued at nearly $1 trillion, are gearing up for potentially massive initial public offerings that could land as soon as this year. Anthropic confidentially filed its prospectus with the Securities and Exchange Commission in June, and OpenAI followed suit days later. Greg Brockman, OpenAI's president, said Thursday that the company believes in broad access, and that he has not been involved in any conversations with the Trump administration about potentially banning Chinese open-weight models in the U.S. \"I think that, that fundamentally, AI and AI usage is something that is actually very important to democratize,\" Brockman told reporters during a briefing in New York City. \"And so, for me, at a sort of deep level, I think that having more models, more usage, that is a good thing.\" OpenAI CEO Sam Altman addressed the letter in a post on X on Friday, writing that he wants the U.S. to win with both open-weight and proprietary models, and that he is \"glad to see this.\" Earlier this month, the AI company Hugging Face used an open-weight model from the Chinese company Z.ai to contain a cyberattack that rogue OpenAI models carried out. OpenAI disclosed the attack on Tuesday and characterized it as an \"unprecedented cyber incident.\" Yacine Jernite, head of machine learning at Hugging Face, told CNBC that the company initially tried to use Anthropic's Fable 5 to analyze the attack, but that it didn't work because the model's guardrails couldn't determine that Hugging Face was trying to defend itself. Jernite said Hugging Face turned to Z.ai's model GLM 5.2, and was able to contain the attack \"very quickly using this model.\" White House advisor Michael Kratsios on Wednesday said that China's Moonshot AI developed its Kimi K3 model by distilling Anthropic's technology. Distillation is a term for an AI training method where a smaller, less capable model is built using outputs from an existing, stronger model. Kratsios wrote in a post on X that legitimate AI distillation plays a vital role in the open innovation ecosystem, but warned that \"large-scale, covert industrial distillation aimed at stealing proprietary U.S.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "published_at": "2026-07-24T17:55:37+00:00",
+      "event_type": "black_swan",
+      "severity": "major",
+      "sentiment": -0.6,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.995,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ee7943ca9113e7b644da",
+      "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
+      "summary": "The selloff in SpaceX shares has driven the stock near a level that would imply investors are assigning no value to its artificial intelligence business, according to analysts at Morgan Stanley.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
+      "published_at": "2026-07-24T17:48:21+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9b071e78c8ea0676da6d",
+      "title": "Why there are still more Trump tariffs expected — even after this past week’s rollouts",
+      "summary": "The Trump administration’s trade fights are far from over, even after its big move on Thursday evening to maintain its elevated tariffs for 60 economies.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/why-there-are-still-more-trump-tariffs-expected-even-after-this-past-weeks-rollouts-86b623f6?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T17:41:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "57f40138b066515d9144",
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "summary": "The AI buildout is eroding the free cash flow and increasing balance-sheet risk at hyperscalers like Alphabet and Microsoft, warned Moody's Ratings. In a research note released this week, Moody's highlighted stock sales and off-balance-sheet moves that \"threaten credit quality.\" The Moody's report tracks six companies, including Amazon, Meta, Oracle and CoreWeave. Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world. The race to build artificial intelligence infrastructure at a trillion-dollar annual clip is eroding the free cash flow and increasing balance-sheet risk at so-called hyperscalers, warned Moody's Ratings. In a research note released this week, Moody's said that the spending surge is forcing even the world's most cash-rich corporations like Alphabet and Microsoft to lean heavily on debt, stock sales and off-balance-sheet moves to fund their AI ambitions. \"Previously, these companies relied on asset-light structures centered on software, intellectual property, and scalable cloud services that required modest capital investment,\" Moody's said in the Wednesday note. \"The transition from asset-light to asset-heavy models requires unprecedented levels of investment and capital raising.\" The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report. The ratings firm projects that capital expenditures — or capex, which are investment for physical assets like data centers — will hit $785 billion in 2026 before reaching about $1 trillion next year. The shift breaks a decades-long Silicon Valley formula that created the world's most valuable companies. Software costs little to replicate, yielding fat profit margins and fortress balance sheets. Generative AI, by contrast, demands a vast physical footprint: warehouses crammed with expensive and energy-hungry servers and chips. To finance the expansion, tech giants are increasingly turning to Wall Street , resulting in booming profits for the financial industry. Direct debt across the six hyperscalers has reached approximately $460 billion, according to Moody's. Tech companies are also tapping public markets for cash, including Google-parent Alphabet, which last month announced an $85 billion equity sale . The ratings firm noted that because AI hardware and infrastructure require massive upfront investment while revenue materializes over a longer time horizon, free cash flow across the sector is coming under pressure. To keep direct debt off their balance sheets, hyperscalers are leaning on off-balance-sheet financing, mostly through long-term data center leases, the report explained. Moody's said that lease commitments across the group have ballooned to $1.2 trillion. More than $820 billion of that total is from leases that haven't started yet, meaning the data centers are still being built. While these obligations don't show up as traditional debt, Moody's says it considers them as debt-equivalent liabilities that will bind companies to significant rent payments down the line. Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat. While their free cash flows are tightening and their borrowing buffers are shrinking, Moody's does not view their investment-grade ratings as under imminent downgrade threat. The immediate pressure is concentrated on lower-rated entities like Oracle and specialized AI cloud provider CoreWeave. Oracle carries a rating of Baa2 with a negative outlook, placing it just two notches above junk status. Meanwhile, CoreWeave operates within the high-yield market with a Ba3 rating, relying on complex private debt structures to finance its GPU hardware fleets. Moody's also pointed to structural circularity within the AI boom. Some of the multibillion-dollar backlogs reported by hyperscalers stem from strategic deals with pre-IPO artificial intelligence labs including OpenAI and Anthropic, Moody's noted. The firms have invested billions into AI labs that, in turn, spend heavily on cloud computing from those same companies, creating what Moody's described as a circular AI ecosystem. The overlapping relationships heighten risks because many of the industry's biggest companies are increasingly dependent on the same AI customers and the same assumptions about future demand, Moody's said. Even so, the tech giants have significant strengths that help offset those risks. Demand for AI computing remains robust, cloud businesses continue to grow and hyperscalers have signed hundreds of billions of dollars in long-term customer contracts that should provide predictable revenue. Those deals support the industry's largely-strong credit profiles, even amid the spending boom.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "published_at": "2026-07-24T17:37:49+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.99,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "721331414fe1868e1eb4",
+      "title": "CDC says massive cyclospora outbreak is now in nine states",
+      "summary": "The nation's largest multistate outbreak of cyclosporiasis linked to shredded iceberg lettuce has expanded to nine states, the Centers for Disease Control and Prevention said. The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan. Cyclospora is a microscopic parasite that typically infects people through contaminated food or water and causes cyclosporiasis, a gastrointestinal illness that can result in symptoms including severe diarrhea. The nation's largest multistate outbreak of cyclosporiasis linked to shredded iceberg lettuce has expanded to nine states, the Centers for Disease Control and Prevention said Friday. The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania – join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan. Cyclospora is a microscopic parasite that typically infects people through contaminated food or water and causes cyclosporiasis, a gastrointestinal illness that can result in symptoms including severe diarrhea. Patients can require hospitalization, but no deaths have been recorded related to the parasite this year. The outbreak is already the largest of cyclosporiasis reported in the U.S. this year, with thousands of illnesses recorded nationwide. That is well above the roughly 200 to 1,000 cases typically reported annually. Meanwhile, the Food and Drug Administration is investigating a separate cyclosporiasis outbreak linked to an unidentified food product or products. The U.S. is trying to investigate the sources of the parasite and contain its spread amid confusion over its response to the outbreak and staffing cuts that some experts say made it harder to curb it. U.S. health and food regulators have zeroed in on shredded iceberg lettuce supplied by Taylor Farms. Mexican health authorities on Thursday said that samples of lettuce and water from Taylor Farms' plant in central Mexico tested negative for cyclospora. However, that result does not disprove the Food and Drug Administration's earlier identification as Taylor Farms de Mexico as the likely source of the outbreak. The earliest cases began showing symptoms in mid-May. Moreover, the long incubation period for infection means that the crop responsible would have been distributed weeks ago. Last week, the FDA said that the produce giant supplied the shredded iceberg lettuce to the Taco Bell restaurants where people ate before becoming ill. Taylor Farms issued a voluntary recall for all iceberg lettuce sourced from its Guanajuato, Mexico, facility, and Taco Bell pulled the affected lettuce from its restaurants. The CDC has so far tallied 1,947 people infected with cyclospora who also reported eating at Taco Bell in the nine states. Illnesses in the outbreak tied to iceberg lettuce began on June 22 and have continued through July 20, the CDC said. The federal count has lagged behind state tallies, so some of the states hit by the outbreak have reported much higher numbers of infections. But Taylor Farms has drawn criticism for its response to the outbreak. Some health experts blasted its recall notice, which included abbreviations and did not allow consumers to understand easily if they had bought or eaten any product that was at risk. After the FDA reported a false positive of lettuce samples from Taylor Farms on Sunday, the company issued a statement saying that the health agency had apologized. The FDA later clarified that it had not apologized to Taylor Farms, and the company deleted the statement on X, although it is still available on its website. The agency also said it still considered the company's iceberg lettuce the likely source of the outbreak. Taylor Farms supplies lettuce and other produce to major retailers such as Walmart, Target and Whole Foods, as well as restaurant chains including Taco Bell.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+      "published_at": "2026-07-24T17:32:22+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f53bd3582769c74699db",
+      "title": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
+      "summary": "U.S. Treasury yields slid on Friday as oil prices dropped following a report that Pakistan is ​exploring a way to restart peace talks between the U.S. and Iran. The yield on the 10-year U.S. Treasury note — the key benchmark for mortgage and auto loans and credit card debt — was last down more than 4 basis points at 4.657%. On Thursday, it had risen above 4.7%, the highest since Jan. 15, 2025, before the start of President Donald Trump's second term. The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, also pulled back more than 4 basis points, to 4.311%. The longer-dated 30-year Treasury bond yield was down more than 3 basis points, to 5.14%. One basis point equals 0.01%, and yields and prices move inversely to one another. On Friday, Reuters reported that Pakistan, with China's support, is exploring a path to resume talks between the U.S. and Iran on ending the conflict in the Middle East. The report said that Pakistan's foreign minister discussed the new push with Chinese officials last week. International benchmark Brent crude futures declined 4% to around $96 per barrel, while U.S. West Texas Intermediate futures shed 4% to trade at around $88. \"Today's decline in oil prices has tempered some of the recent upward pressure on inflation and rate expectations,\" said JoAnne Bianco, senior investment strategist at BondBloxx. \"Long-dated U.S. Treasuries remain especially sensitive to developments in the Middle East given their impact on energy markets and longer-term inflation expectations.\" President Donald Trump told Axios on Thursday he will soon make a decision on whether to launch a \"massive attack\" on Iran after the conflict in the Middle East expanded to a new battleground in the Red Sea earlier this week as Houthi rebels in Yemen threatened oil tankers. \"I am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it,\" the president said. U.S. forces have already hammered Iranian targets in recent days. In fact, Central Command completed its 13th night of strikes in a row overnight. Yields moved lower earlier in the day after the S&P Global Flash U.S. purchasing managers index — which measures the economic health of American manufacturing and the service sector — moved down slightly in July to 53.8, below the 54.4 that economists polled by Dow Jones had estimated. — CNBC's Chloe Taylor contributed to this report.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+      "published_at": "2026-07-24T17:31:56+00:00",
+      "event_type": "macro",
+      "severity": "major",
+      "sentiment": -0.35,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6cec3640084e2ac9eaa8",
+      "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
+      "summary": "The bearish Tesla set-up we flagged ahead of Wednesday's report has delivered most of what it can. Two ways forward: bank the entire gain, or press the same playbook against another priced-for-perfection name reporting in two weeks. Heading into Tesla 's second-quarter report, I argued the risks were skewed to the downside. Greeting a delivery beat with selling was a classic tell of expectations \"priced for perfection.\" While revenue of $28.2 billion beat handily, up 26% year over year, adjusted earnings of 34 cents per share missed the consensus (50 cents) by a wide margin. Operating margin compressed to 1.4%, and a 142% surge in capital spending swung free cash flow negative. Combining disappointing EPS, a call for patience (this is the pattern with Tesla) on robotaxi, and the stock slid roughly 14.5% Thursday, through our short put strike, and closed near the move targeted by the trade. Investors are apparently more interested in the \"show\" rather than the \"tell\" in Tesla earnings. Which brings us to the less glamorous but more important part of trading: what to do when a position works. Our bearish structure has captured the bulk of its maximum potential value. When most of the possible profit is already in hand, the math flips against you — what's left to earn is small relative to what you'd give back if the stock snaps back (a possibility I consider quite unlikely). So that leaves us with a couple reasonable paths: Path one: take the money and run. Close the position, book the gain, and wait for another fat pitch. There is never anything wrong with this. There's an old saw in investing: \"One never loses money taking profits.\" Platitudinous admittedly, but we'll reserve a more nuanced approach for another day. Path two: bank most of it, and press. Make a similar play with \"house money\". Somewhat emboldened, redeploy a portion of the profits toward another high-multiple pioneering company whose valuation and price action make it vulnerable to disappointment: Palantir , which reports August 3rd. Palantir is a remarkable company, one of my favorites actually. But several counterpoints deserve weight heading into the print. The stated ambition to grow revenues tenfold without scaling the sales force is, to put it charitably, ambitious. Competition among LLM providers is likely to intensify, and enterprise customers increasingly look to deploy large language models directly rather than through an intermediary platform. The total addressable market, while large, is finite — and international sales are likely to be constrained by the understandable preference for local vendors wherever national security is concerned. The numbers, while good, were less good last quarter. Commercial backlog growth slowed to 12% in the first quarter, per Bloomberg, down from 21% in the fourth quarter of 2025. And even net of its recent declines, Palantir trades at a material premium to its software peer group — and well above its own historical EV/sales average. For context, the average move in Palantir from one week before earnings (about where we are now) through two weeks after (consistent with August regular way expiration) is approximately 26%! The options market is pricing a one-day earnings move of 9.5% — larger than the past four quarters delivered, but substantially below the long-term average of more than 14%. That suggests August options, expensive as they appear at 65% implied volatility, may be reasonably priced, particularly if you use spreads, selling one expensive option against another to neutralize the volatility premium. Step 1: Close the TSLA position — sell the August 360/330 put spread, banking at ~$23, well more than a double from the price at which we put it on. Step 2 (for those pressing): Buy the PLTR August 21st $120/$95 put spread for ~$6.50, funded with a portion of the TSLA proceeds. Max profit: the $25 spread width less the debit, if PLTR closes at or below $95 at expiration — a decline of roughly 23% from current levels, in line with the historical three-week earnings window. The short $95 put materially offsets the 65% vol premium embedded in the long strike. Like the Tesla trade, the Palantir put spread offers defined risk, and for those using the proceeds from the winner in Tesla, less than the \"house money\" (profits) collected on the first trade.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html",
+      "published_at": "2026-07-24T17:28:15+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 12.88,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a257efc533cb58be53d1",
+      "title": "FDA advisers vote against sleep peptide as they debate safety and health claims",
+      "summary": "An FDA advisory committee is meeting for two days to discuss whether seven peptides — which have become popular in wellness circles — should be allowed to be compounded.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T17:26:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b9807b9ec4c08be49df3",
+      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+      "summary": "Anthropic announced its latest AI model, Claude Opus 5, which the company said is its best-performing and most cost-effective offering. Opus 5 outperforms Fable 5 on coding and knowledge work evaluations, but is not state-of-the-art for \"risky, dual-use capabilities\" like cybersecurity. Anthropic has had to appease a more cost-conscious customer base, where enterprises are less inclined to experiment without a clear picture of ROI. Anthropic on Friday announced its latest artificial intelligence model, Claude Opus 5, which it said is its best-performing and most cost-effective offering across a number of industry benchmarks. Opus 5 outperforms the last model that Anthropic released, Claude Fable 5, on coding and knowledge work evaluations, and the company said it's \"designed to be used every day,\" according to a blog post. Opus 5 is also half the price of Fable 5, and will cost users $5 per million input tokens and $25 per million output tokens. Anthropic said Opus 5 is not the state-of-the-art for \"risky, dual-use capabilities,\" like cybersecurity. The model launch comes as Anthropic and its chief rival, OpenAI, have been working to appease a more cost-conscious customer base , where enterprises are less inclined to experiment with pricey models without a clear picture of the return on their investment. Anthropic is also facing pressure from competitors that tout cheaper offerings, including Microsoft , Amazon , Google , and a number of Chinese startups. \"Enterprises, in our feedback and with our customer base, are looking for value,\" Dianne Penn, Anthropic's head of product management for research, told CNBC in an interview. \"If it's a cheaper model or a cheaper offering, but it's not accomplishing a similar level of quality, it's actually not useful.\" Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide Anthropic has been the subject of intense scrutiny since it released a model called Claude Mythos Preview in April, which it rolled out to a select group of users. The company said the model was extremely capable in cybersecurity, and that it excelled at discovering and exploiting vulnerabilities within software. In June, Anthropic released an updated version of the model, Mythos 5, and it also launched another version of the model, Fable 5, that it said was safe for general use. The company said Fable 5's capabilities exceeded those of all other models it had ever released publicly, according to a blog post. Anthropic had to briefly disable access to Mythos 5 and Fable 5 days after they were released in order to comply with an export control directive from the government that cited \"national security authorities.\" The export controls were lifted after roughly two weeks of intense negotiations, and Anthropic was able to restore access to both models. Penn said Anthropic is continuing to collaborate with government agencies as part of its pre-deployment and testing, including with Opus 5. The company said Opus 5 remains behind Mythos 5 in offensive cybersecurity and biology research. WATCH: Anthropic partnership is driving uptick in Google could revenue, says DA Davidson’s Gil Luria",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
+      "published_at": "2026-07-24T17:20:47+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.984,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "847e02476a6671856d6c",
+      "title": "SpaceX is banking on a successful Starship launch to stem the stock’s bleeding",
+      "summary": "The newest timeline has Starship due to take flight on Friday.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/spacex-is-banking-on-a-successful-starship-launch-to-stem-the-stocks-bleeding-5ef18578?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T17:17:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "b514865364b0079fb286",
       "title": "Don’t rush to save Social Security, AARP tells Congress: ‘It should be debated openly — not through an accelerated process’",
@@ -45,7 +677,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.998,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -56,54 +688,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f048b1138052e320485e",
-      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
-      "summary": "Anthropic announced its latest AI model, Claude Opus 5, which the company said is its best-performing and most cost-effective offering. Opus 5 outperforms Fable 5 on coding and knowledge work evaluations, but is not state-of-the-art for \"risky, dual-use capabilities\" like cybersecurity. Anthropic has had to appease a more cost-conscious customer base, where enterprises are less inclined to experiment without a clear picture of ROI. Anthropic on Friday announced its latest artificial intelligence model, Claude Opus 5, which it said is its best-performing and most cost-effective offering across a number of industry benchmarks. Opus 5 outperforms the last model that Anthropic released, Claude Fable 5, on coding and knowledge work evaluations, and the company said it's \"designed to be used every day,\" according to a blog post. Opus 5 is also half the price of Fable 5, and will cost users $5 per million input tokens and $25 per million output tokens. Anthropic said Opus 5 is not the state-of-the-art for \"risky, dual-use capabilities,\" like cybersecurity. The model launch comes as Anthropic and its chief rival, OpenAI, have been working to appease a more cost-conscious customer base , where enterprises are less inclined to experiment with pricey models without a clear picture of the return on their investment. Anthropic is also facing pressure from competitors that tout cheaper offerings, including Microsoft , Amazon , Google , and a number of Chinese startups. \"Enterprises, in our feedback and with our customer base, are looking for value,\" Dianne Penn, Anthropic's head of product management for research, told CNBC in an interview. \"If it's a cheaper model or a cheaper offering, but it's not accomplishing a similar level of quality, it's actually not useful.\" Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide Anthropic has been the subject of intense scrutiny since it released a model called Claude Mythos Preview in April, which it rolled out to a select group of users. The company said the model was extremely capable in cybersecurity, and that it excelled at discovering and exploiting vulnerabilities within software. In June, Anthropic released an updated version of the model, Mythos 5, and it also launched another version of the model, Fable 5, that it said was safe for general use. The company said Fable 5's capabilities exceeded those of all other models it had ever released publicly, according to a blog post. Anthropic had to briefly disable access to Mythos 5 and Fable 5 days after they were released in order to comply with an export control directive from the government that cited \"national security authorities.\" The export controls were lifted after roughly two weeks of intense negotiations, and Anthropic was able to restore access to both models. Penn said Anthropic is continuing to collaborate with government agencies as part of its pre-deployment and testing, including with Opus 5. The company said Opus 5 remains behind Mythos 5 in offensive cybersecurity and biology research. WATCH: Anthropic partnership is driving uptick in Google could revenue, says DA Davidson’s Gil Luria",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
-      "published_at": "2026-07-24T17:00:01+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.997,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -138,7 +722,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -185,7 +769,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.995,
+      "recency_weight": 0.976,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -228,7 +812,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.993,
+      "recency_weight": 0.974,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -269,7 +853,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.99,
+      "recency_weight": 0.971,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -310,7 +894,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -351,7 +935,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.985,
+      "recency_weight": 0.966,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -392,7 +976,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.984,
+      "recency_weight": 0.966,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -403,97 +987,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2d68931ec49c1f233dc4",
-      "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
-      "summary": "The 30-year fixed-rate mortgage edged up to its highest level of 2026.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T16:20:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.984,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "90fba2d5805d66a83309",
-      "title": "Treasury yields retreat as oil prices fall amid hopes for new U.S.-Iran peace talks",
-      "summary": "U.S. Treasury yields retreated on Friday as oil prices dropped following a report that Pakistan is ​exploring a way to restart peace talks between the U.S. and Iran. The yield on the 10-year U.S. Treasury note — the key benchmark for mortgage and auto loans and credit card debt — was last down more than 4 basis points at 4.657%. On Thursday, it had risen above 4.7%, the highest since Jan. 15, 2025, before the start of President Donald Trump's second term. The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, also pulled back more than 4 basis points, to 4.311%. The longer-dated 30-year Treasury bond yield was down more than 3 basis points, to 5.14%. One basis point equals 0.01%, and yields and prices move inversely to one another. On Friday, Reuters reported that Pakistan, with China's support, is exploring a path to resume talks between the U.S. and Iran on ending the conflict in the Middle East. The report said that Pakistan's foreign minister discussed the new push with Chinese officials last week. International benchmark Brent crude futures declined 4% to around $96 per barrel, while U.S. West Texas Intermediate futures shed 4% to trade at around $88. This comes after President Donald Trump said he will soon make a decision on whether to launch a \"massive attack\" on Iran after the conflict in the Middle East expanded to a new battleground in the Red Sea earlier this week as Houthi rebels in Yemen threatened oil tankers. \"I am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it,\" Trump said to Axios on Thursday. U.S. forces have already hammered Iranian targets in recent days. In fact, Central Command completed its 13th night of strikes in a row overnight. Yields were lower earlier in the day after the S&P Global Flash U.S. purchasing managers index — which measures the economic health of American manufacturing and the service sector — moved down slightly in July to 53.8, below the 54.4 that economists polled by Dow Jones had estimated. — CNBC's Chloe Taylor contributed to this report.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
-      "published_at": "2026-07-24T16:16:28+00:00",
-      "event_type": "macro",
-      "severity": "major",
-      "sentiment": -0.35,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.983,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -526,7 +1019,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.982,
+      "recency_weight": 0.964,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -538,47 +1031,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "20f83c64f8cf0e426273",
-      "title": "CDC says massive cyclospora outbreak is now in nine states",
-      "summary": "The nation's largest multistate outbreak of cyclosporiasis linked to shredded iceberg lettuce has expanded to nine states, the Centers for Disease Control and Prevention said. The four newly linked states – Illinois, Kansas, Oklahoma and Pennsylvania – join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan. Cyclospora is a microscopic parasite that typically infects people through contaminated food or water and causes cyclosporiasis, a gastrointestinal illness that can result in symptoms including severe diarrhea. The nation's largest multistate outbreak of cyclosporiasis linked to shredded iceberg lettuce has expanded to nine states, the Centers for Disease Control and Prevention said Friday. The four newly linked states – Illinois, Kansas, Oklahoma and Pennsylvania – join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan. Cyclospora is a microscopic parasite that typically infects people through contaminated food or water and causes cyclosporiasis, a gastrointestinal illness that can result in symptoms including severe diarrhea. Patients can require hospitalization, but no deaths have been recorded related to the parasite this year. The outbreak is already the largest of cyclosporiasis reported in the U.S. this year, with thousands of illnesses recorded nationwide. That is well above the roughly 200 to 1,000 cases typically reported annually. Meanwhile, the Food and Drug Administration is investigating a separate cyclosporiasis outbreak linked to an unidentified food product or products. The U.S. is trying to investigate the sources of the parasite and contain its spread amid confusion over its response to the outbreak and staffing cuts that some experts say made it harder to curb it. U.S. health and food regulators have zeroed in on shredded iceberg lettuce supplied by Taylor Farms. Mexican health authorities on Thursday said that samples of lettuce and water from Taylor Farms' plant in central Mexico tested negative for cyclospora. However, that result does not disprove the Food and Drug Administration's earlier identification as Taylor Farms de Mexico as the likely source of the outbreak. The earliest cases began showing symptoms in mid-May. Moreover, the long incubation period for infection means that the crop responsible would have been distributed weeks ago. Last week, the FDA said that the produce giant supplied the shredded iceberg lettuce to the Taco Bell restaurants where people ate before becoming ill. Taylor Farms also issued a voluntary recall for all iceberg lettuce sourced from its Guanajuato, Mexico facility, and Taco Bell pulled the affected lettuce from its restaurants. The CDC has so far tallied 1,947 people infected with cyclospora who also reported eating at Taco Bell in the nine states. Illnesses in the outbreak tied to iceberg lettuce began on June 22 and have continued through July 20, the CDC said. The federal count has lagged behind state tallies, so some of the states hit by the outbreak have reported much higher numbers of infections. But Taylor Farms has drawn criticism for its response to the outbreak. Some health experts blasted its recall notice, which included abbreviations and did not allow consumers to understand easily if they had bought or eaten any product that was at risk. After the FDA reported a false positive of lettuce samples from Taylor Farms on Sunday, the company issued a statement saying that the health agency had apologized. The FDA later clarified that it had not apologized to Taylor Farms, and the company deleted the statement on X, although it is still available on its website. The agency also said it still considered the company's iceberg lettuce the likely source of the outbreak. Taylor Farms supplies lettuce and other produce to major retailers such as Walmart, Target and Whole Foods, as well as restaurant chains including Taco Bell.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-      "published_at": "2026-07-24T16:13:07+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.982,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -613,7 +1065,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.981,
+      "recency_weight": 0.962,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -625,47 +1077,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "0ea52fb5270e358dcc49",
-      "title": "Why there are still more Trump tariffs expected — even after this past week’s rollouts",
-      "summary": "The Trump administration’s trade fights are far from over, even after its big move on Thursday evening to maintain its elevated tariffs for 60 economies.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/why-there-are-still-more-trump-tariffs-expected-even-after-this-past-weeks-rollouts-86b623f6?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T16:10:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.981,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -701,7 +1112,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.979,
+      "recency_weight": 0.961,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -713,88 +1124,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "eba1e3e7826c7fcea104",
-      "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
-      "summary": "“Our daughter is a highly ranked competitive softball pitcher with a 3.94 GPA.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T16:01:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.978,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3a4adc943522cbfbb76b",
-      "title": "FDA advisers vote against sleep peptide as they debate safety and health claims",
-      "summary": "The FDA’s advisory committee is meeting for two days to discuss whether seven peptides — which have become popular in wellness circles — should be allowed to be compounded.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T16:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.978,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -825,7 +1154,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.976,
+      "recency_weight": 0.958,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -836,102 +1165,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cd147bd0240cc06cb59d",
-      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
-      "summary": "A group of 25 tech companies released a letter urging policymakers to avoid \"premature restrictions\" on open-weight AI models. Chinese open-weight models are gaining steam against leading offerings from American companies, which has sparked a debate about whether they should be restricted. OpenAI and Anthropic, which are gearing up for potentially massive IPOs, did not sign the letter. Nvidia , Microsoft , Meta , Palantir and more than 20 other companies released a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight artificial intelligence models that would \"stifle competition or drive innovation overseas.\" Open-weight AI models are available for users to download, modify and run on their own infrastructure, and they have been the subject of fierce debate within the tech sector in recent weeks. Chinese open-weight models are gaining steam against leading offerings from American companies like OpenAI and Anthropic , which primarily develop proprietary, closed models. Officials and executives have been weighing whether or not to restrict access to Chinese models in the U.S. Moonshot AI, a Chinese startup, amplified concerns earlier this month after releasing a model called Kimi K3 that outperforms cutting-edge American offerings across some industry benchmarks. U.S. Treasury Secretary Scott Bessent told CNBC on Tuesday that the Trump administration would look into whether Chinese companies were stealing American intellectual property, and stated that the government has \"the ability to sanction them because of this theft.\" But in the letter on Friday, the group of U.S. tech companies cautioned against any rash actions. They wrote that open-weight models strengthen competition and ensure that the benefits of the technology are \"broadly shared rather than concentrated in a few hands.\" \"Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect,\" the letter said. \"And concentrating advanced AI capabilities behind a small number of closed models compounds that risk.\" Nvidia CEO Jensen Huang and Microsoft CEO Satya Nadella both shared the letter on their personal social media accounts. Elon Musk , who runs an AI business under his rocket company SpaceX , also applified the letter on social media, writing that it has his \"full support\" in a post on X . SpaceX did not officially sign the letter. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide OpenAI and Anthropic did not sign the letter. Both companies, which are each valued at nearly $1 trillion, are gearing up for potentially massive IPOs that could land as soon as this year. Anthropic confidentially filed its prospectus with the Securities and Exchange Commission in June, and OpenAI followed suit days later. Greg Brockman, OpenAI's president, said Thursday that the company believes in broad access, and that he has not been involved in any conversations with the Trump administration about potentially banning Chinese open-weight models in the U.S. \"I think that, that fundamentally, AI and AI usage is something that is actually very important to democratize,\" Brockman told reporters during a briefing in New York City. \"And so, for me, at a sort of deep level, I think that having more models, more usage, that is a good thing.\" White House advisor Michael Kratsios on Wednesday said that Moonshot AI developed its Kimi K3 model by distilling Anthropic's technology. Distillation is a term for an AI training method where a smaller, less capable model is built using outputs from an existing, stronger model. Kratsios wrote in a post on X that legitimate AI distillation plays a vital role in the open innovation ecosystem, but warned that \"large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology\" is \"unacceptable.\" In the letter on Friday, the U.S. tech companies said that concerns about unlawful distillation should be addressed through \"targeted legal and commercial frameworks\" instead of with \"sweeping restrictions on techniques that play an important role in AI innovation.\" \"Our AI leadership will be judged not by one frontier AI model, but by whether the United States builds a strong, open ecosystem that diffuses into every sector,\" the letter said. \"This is essential for creating opportunities for innovation and prosperity across the country.\" WATCH: AI is forcing the cyber industry to revisualize how it operates, says TrustedSec’s David Kennedy",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "published_at": "2026-07-24T15:47:40+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 12.88,
-      "recency_weight": 0.974,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6aa5d61dffd6ff62d231",
-      "title": "How you can get financial advice from MarketWatch tailored to your needs",
-      "summary": "Also in Weekend Reads: Rough waters signaled by the bond market, hope for stocks amid earnings season and advice from the Moneyist.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/how-you-can-get-financial-advice-from-marketwatch-tailored-to-your-needs-4fc0fef8?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T15:42:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.972,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -966,7 +1199,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.972,
+      "recency_weight": 0.953,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -986,7 +1219,7 @@
     {
       "event_id": "41e328172cfda2cd6db5",
       "title": "Why Costco keeps gas prices so low—it's 'straight out of the retail playbook,' expert says",
-      "summary": "Spend Iran conflict could send gas prices higher—how a 'budget reset' could help Save and Invest This common shopping habit could derail your budget—here's how to avoid it Get Ahead If someone does these 5 things, you've probably made a great first impression, research says Leadership Executives are burning out—and they don't know how to handle it, experts say Spend Hybrids are ‘having their moment’ as electric vehicles lose market share Gas prices are rising again following a sharp escalation of the war in Iran . And as Americans look for ways to save money at the pump, many are turning to Costco's gas stations for cheaper fuel. Demand for Costco's gasoline reached record levels during the quarter ended May 10 , though the company didn't disclose sales figures in its fiscal third-quarter earnings call. Several warehouses needed multiple fuel deliveries each day to keep up with demand, and the final five weeks of the quarter were Costco's busiest fuel-volume weeks ever, CEO Ron Vachris said on the call. \"We've seen really strong demand for Costco gas,\" says Mike Baker, managing director and head of consumer research at D.A. Davidson. While gasoline consumption across the U.S. has been flat as higher prices cause some drivers to cut back, Costco has seen double-digit growth in gallons sold, he says. Costco gas prices typically ran an average of 9 cents per gallon below the five largest local competitors and 24 cents below the state average between April 2025 and March 2026, according to a study from financial research firm Gordon Haskett using GasBuddy data. The goal isn't just to undercut other gas stations on price. Instead, company executives say lower fuel prices encourage members to visit Costco more often, shop inside the warehouse and renew their memberships. Members who buy gasoline generally visit Costco more frequently, spend more overall and renew their memberships at higher rates than other members, CFO Gary Millerchip said on the call. He added that \"a little less than half of our members are visiting the warehouse when they visit the gas station.\" The low-cost gas strategy is \"more to keep the value in the membership alive,\" says Baker. \"The lifeblood of Costco is that membership.\" The retailer generated more than $5 billion in membership fee revenue in 2025, equal to roughly two-thirds of its net income. If you're a member, swinging into the Costco gas station to save on gas can feel like a slam dunk. But it's worth keeping the company's sales tactics in mind, says Lucas Bucl, a certified financial planner and founder of Level Up Financial Planning. \"Costco's approach is straight out of the traditional retail playbook — bring in customers with an attractive deal or sale,\" he says. \"Retailers know that impulse buying can lead to purchases shoppers didn't intend to make.\" He recommends making a shopping list before heading into the warehouse to avoid impulse purchases that could wipe out the savings at the pump. \"If it saves you a trip, it is a good thing,\" Bucl says. \"However, resist the urge to cruise the aisles and browse.\" Want to get ahead at work? Then you need to learn how to make effective small talk. In CNBC's new online course, How To Talk To People At Work , expert instructors share practical strategies to help you use everyday conversations to gain visibility, build meaningful relationships and accelerate your career growth. Sign up today! Take control of your money with CNBC Select CNBC Select is editorially independent and may earn a commission from affiliate partners on links. Should you use a home equity loan or HELOC to supplement your income? Here are 3 better alternatives More Americans are taking out personal loans. Here’s how to know if you should CNBC Points Pro: With so many limited-time credit card bonuses available, which is right for me? Best travel insurance for parents visiting their children in U.S. These banks are offering cash bonuses of up to $5,000. Here’s how to apply © 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company",
+      "summary": "Spend Iran conflict could send gas prices higher—how a 'budget reset' could help Save and Invest This common shopping habit could derail your budget—here's how to avoid it Get Ahead If someone does these 5 things, you've probably made a great first impression, research says Spend Hybrids are ‘having their moment’ as electric vehicles lose market share Leadership Executives are burning out—and they don't know how to handle it, experts say Gas prices are rising again following a sharp escalation of the war in Iran . And as Americans look for ways to save money at the pump, many are turning to Costco's gas stations for cheaper fuel. Demand for Costco's gasoline reached record levels during the quarter ended May 10 , though the company didn't disclose sales figures in its fiscal third-quarter earnings call. Several warehouses needed multiple fuel deliveries each day to keep up with demand, and the final five weeks of the quarter were Costco's busiest fuel-volume weeks ever, CEO Ron Vachris said on the call. \"We've seen really strong demand for Costco gas,\" says Mike Baker, managing director and head of consumer research at D.A. Davidson. While gasoline consumption across the U.S. has been flat as higher prices cause some drivers to cut back, Costco has seen double-digit growth in gallons sold, he says. Costco gas prices typically ran an average of 9 cents per gallon below the five largest local competitors and 24 cents below the state average between April 2025 and March 2026, according to a study from financial research firm Gordon Haskett using GasBuddy data. The goal isn't just to undercut other gas stations on price. Instead, company executives say lower fuel prices encourage members to visit Costco more often, shop inside the warehouse and renew their memberships. Members who buy gasoline generally visit Costco more frequently, spend more overall and renew their memberships at higher rates than other members, CFO Gary Millerchip said on the call. He added that \"a little less than half of our members are visiting the warehouse when they visit the gas station.\" The low-cost gas strategy is \"more to keep the value in the membership alive,\" says Baker. \"The lifeblood of Costco is that membership.\" The retailer generated more than $5 billion in membership fee revenue in 2025, equal to roughly two-thirds of its net income. If you're a member, swinging into the Costco gas station to save on gas can feel like a slam dunk. But it's worth keeping the company's sales tactics in mind, says Lucas Bucl, a certified financial planner and founder of Level Up Financial Planning. \"Costco's approach is straight out of the traditional retail playbook — bring in customers with an attractive deal or sale,\" he says. \"Retailers know that impulse buying can lead to purchases shoppers didn't intend to make.\" He recommends making a shopping list before heading into the warehouse to avoid impulse purchases that could wipe out the savings at the pump. \"If it saves you a trip, it is a good thing,\" Bucl says. \"However, resist the urge to cruise the aisles and browse.\" Want to get ahead at work? Then you need to learn how to make effective small talk. In CNBC's new online course, How To Talk To People At Work , expert instructors share practical strategies to help you use everyday conversations to gain visibility, build meaningful relationships and accelerate your career growth. Sign up today! Take control of your money with CNBC Select CNBC Select is editorially independent and may earn a commission from affiliate partners on links. Should you use a home equity loan or HELOC to supplement your income? Here are 3 better alternatives More Americans are taking out personal loans. Here’s how to know if you should CNBC Points Pro: With so many limited-time credit card bonuses available, which is right for me? Best travel insurance for parents visiting their children in U.S. These banks are offering cash bonuses of up to $5,000. Here’s how to apply © 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1013,7 +1246,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.968,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1056,7 +1289,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.96,
+      "recency_weight": 0.942,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1097,7 +1330,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.96,
+      "recency_weight": 0.942,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1138,7 +1371,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1184,7 +1417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1226,7 +1459,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.957,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1272,7 +1505,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1323,7 +1556,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.944,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1345,18 +1578,17 @@
     {
       "event_id": "d72e7b183815e4e18a92",
       "title": "Trump imposes 'sweeping' new tariffs on 60 trade partners as global duties expire",
-      "summary": "President Donald Trump imposed a broad tariff regime on countries around the world plus the European Union as temporary tariffs expire. The new tariffs on dozens of countries took effect at 12:01 a.m. Friday. The 10% to 12.5% duties effectively replace Trump's expiring 10% global tariffs. The Trump administration imposed new tariffs Friday on dozens of countries over alleged forced labor violations, according to a notice in the Federal Register. The duties, set between 10% and 12.5%, effectively replace President Donald Trump 's temporary 10% global tariffs , which expired at 12:01 a.m. ET — the same time as the new ones took effect. The tariffs apply to 60 trade partners and cover 99.4% of U.S. trade, the Office of the U.S. Trade Representative said in a fact sheet Thursday afternoon. The office separately told CNBC that it could not provide an estimate of how much revenue the new tariffs will generate. The move \"is the most sweeping international labor rights action the United States has ever taken — that any country has ever taken,\" a senior Trump administration official told reporters on a call earlier Thursday. The official noted that the new tariffs would not \"stack\" on top of existing import taxes on steel and aluminum, known as Section 232 duties, that Trump imposed last year on national security grounds. The latest trade action underscores how the Trump administration is ramping its aggressive use of tariffs back up, after the president's protectionist agenda suffered major legal setbacks earlier this year. Trump has long touted tariffs as key tools for generating revenue and gaining leverage over foreign trade partners, while brushing aside criticisms that they tax U.S. importers and raise prices for U.S. consumers. The White House recently imposed 25% tariffs on most U.S. imports from Brazil, which took effect Wednesday, and 50% tariffs on a wide range of goods from Canada , which are set to begin next month. The Trump administration had proposed the upcoming tariffs in early June, after concluding that the targeted countries failed to effectively ban the use of forced labor practices in trade with the U.S. Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham The new tariffs are being brought under Section 301 of the Trade Act of 1974, one of trade tools Trump has wielded since the Supreme Court struck down his global \"liberation day\" duties on Feb. 20. Hours after that court loss, a furious Trump said he would impose a worldwide 10% tariff under Section 122 of the 1974 trade law. But that tariff came with a 150-day timer that was set to lapse at 12:01 a.m. ET on Friday. In March, the Trump administration announced two separate Section 301 investigations: the forced labor probe, and another one centered on concerns about excess manufacturing capacity by 16 economies. The latter probe has yet to be finalized. \"We commit to continuing to use tariffs and to negotiate deals to support the reindustrialization of our economy, protect American workers, and increase their wages and shrink our trade deficit,\" U.S. Trade Representative Jamieson Greer said in Senate testimony Wednesday.",
+      "summary": "The Trump administration has ramped its tariff actions back up since the president's trade agenda suffered major legal setbacks earlier this year.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
       "published_at": "2026-07-24T14:11:56+00:00",
-      "event_type": "corporate",
+      "event_type": "market",
       "severity": "minor",
-      "sentiment": 0.35,
+      "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "corporate",
         "macro",
         "market"
       ],
@@ -1368,7 +1600,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.944,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1378,8 +1610,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1388,26 +1619,23 @@
     {
       "event_id": "201e0bc07b937413bde3",
       "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
-      "summary": "U.S. equities fell on Thursday after Brent Crude prices broke above $100 per barrel once again. The rise in oil prices come after the U.S. conducted strikes against Iran for a 12th consecutive night, and reports that a tanker was attacked off the coast of Saudi Arabia. While U.S. stocks initially didn't react much to the reignited conflict while oil prices rose and Treasury yields marched higher, investors on Thursday began to rethink their potential short-sighted outlook. Major U.S. stock indexes tumbled on Thursday as investors began to price in the consequences of a renewed and prolonged conflict in the Middle East. While the U.S. has conducted strikes against Iran 12 nights in a row — sending both oil prices and Treasury yields higher — domestic equities had mostly brushed off the idea of the war between the two countries heating up again, staying flat while oil jumped. That changed on Thursday, though, when Brent Crude futures jumped above $100 per barrel and the 10-year Treasury yield broke through 4.7%, hitting its highest level since January 2025 , after reports of attacks against tankers off the coast of Saudi Arabia. The S&P 500 headed for its biggest decline in a month. \"These problems became too big to ignore,\" said Steve Sosnick, chief strategist at Interactive Brokers, about the move in stocks on Thursday. \"It's too hard to ignore $100 oil. It's too hard to ignore 10-year rates that are above 4.70%. It's too hard for the stock market to ignore 30-year rates that are solidly above 5%.\" Western Texas Intermediate Crude futures jumped 6% to $92 per barrel, up more than 28% from lows below $70 per barrel they hit earlier this month. The S&P 500 is now down about 2% since the consecutive evening strikes by the U.S. began on July 12. In March, after the U.S-Iran war began, the S&P 500 fell more than 7.5% at its low point as oil surged nearly 70% and investors worried about stagflation, where higher energy prices would reignite inflation while elevated costs at the gas pump would weigh on consumer spending. A series of de-escalation announcements between the two countries and a reignited faith in the artificial intelligence trade led the S&P to ferociously rebound in April and May, even as hostilities at various times continued . The big factor, however, was a bet that President Donald Trump would find an off-ramp to end the war rather than face the economic and political consequences of a prolonged conflict. \"We have consistently argued since 2nd half of March to use the equity weakness brought on by the Iran conflict to buy into, as the off-ramp and the eventual deal were likely, in our view,\" wrote JPMorgan equity strategists in a note earlier this month. \"The risks of renewed flareups remain, but we believe one should keep using any dips on the back of adverse geopolitical headlines in order to add.\" Sameer Samana, head of global equities and real assets at Wells Fargo Investment Institute, now thinks traders need to reconsider the economic fears they had in March. Investors should be worried about both higher inflation and the impact higher gas prices may have on consumers, he said. Samana added the reignited conflict is a reason to prepare for a larger drawdown in equities. Sosnick said that stocks on Thursday were also likely pricing in a tighter borrowing environment for companies. Chances for a rate hike by the Federal Reserve next week according to CME'S FedWatch tool are up to almost 38%, while odds for a hike at the central bank's September meeting are at more than 80%. A week ago, those odds were priced at about 12% and 53%, respectively Back in March, many analysts were surprised that the stock market didn't react more to the conflict initially, and concluded that the U.S. economy was in better shape than in the past to handle energy shocks. That's a bet that Michael Tanney, CEO at investment advisory firm Pereon Wealth, is taking again. \"In the short term, the elevated spike is more meaningful to the headlines than client portfolios,\" Tanney said. \"If we have a sustained price above $120, that's the breaking point where you'll see serious trickle down effects.\" — CNBC's Deena Zaidi, Tanaya Macheel, Ananya Chetia contributed reporting",
+      "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
       "published_at": "2026-07-24T14:10:40+00:00",
-      "event_type": "macro",
+      "event_type": "geopolitical",
       "severity": "major",
-      "sentiment": -0.5,
+      "sentiment": -0.55,
       "affected_tags": [
         "broad_equity",
-        "dollar",
         "energy",
         "geopolitical",
         "gold",
-        "growth",
         "macro",
         "market",
         "oil",
-        "rates",
         "safe_haven"
       ],
       "categories": [
@@ -1415,10 +1643,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "regime",
       "confidence": 0.864,
-      "impact_score": 24.15,
-      "recency_weight": 0.944,
+      "impact_score": 19.32,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1438,7 +1666,7 @@
     {
       "event_id": "04b70aeb570d1e04a863",
       "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
-      "summary": "Intel's earnings report lands as the chipmaker tries to find its place in the AI boom. Revenue jumped 25%, the most robust growth for any period since the third quarter of 2011. The stock is up over 170% this year, though it's slumped of late. Intel reported better-than-expected second-quarter results on Thursday, notching its fastest revenue growth rate for any quarter since 2011 and issuing guidance that topped expectations. Here's how the chipmaker did versus LSEG consensus estimates Earnings per share : 42 cents, adjusted, versus 21 cents expected Revenue : $16.1 billion, versus $14.42 billion expected Intel shares are up over 170% so far in 2026 as of Thursday's close after soaring 84% last year, when the U.S. government took a 10% stake in the company as part of an effort to support U.S. chip manufacturing. However, the stock has been in a slump more recently, dropping 28% in July. Despite the recent downturn, the company is getting a boost from the artificial intelligence infrastructure boom, which is helping sales of its server processors. Intel's 25% revenue growth was the fastest for any period in almost 15 years . \"AI is driving unprecedented demand for compute,\" CEO Lip-Bu Tan said in the statement. \"As we continue to execute, Intel is well-positioned to capture sustainable growth across our CPU franchise.\" For the current quarter, Intel said it expects adjusted earnings per share of 38 cents on revenue between $15.8 billion and $16.8 billion. Analysts were expecting revenue of $15.1 billion and EPS of 27 cents, according to LSEG. Intel also said it's starting to craft long-term agreements with customers for its server CPUs, some with pricing locked in and others focused on chip volume. It's a move that's becoming common, particularly in memory , as vendors try to preserve current high pricing and market power in case the AI market turns. Intel said it had reached 10 long-term agreements, and CFO David Zinsner said the company is supply constrained, with data center customers demanding more than it can produce. \"Customers continue to signal a strong and sustainable spending environment,\" Zinsner said on an earnings call with analysts. Revenue in the company's client computing group, which makes chips for PCs, rose 13% to $8.9 billion. It's still Intel's biggest unit, but the robust growth is coming from its data center business, where revenue rose 59% to $6.3 billion. Intel said it expects flat PC sales in the third quarter because of the memory shortage. Intel is boosting its capital expenditures, targeting a \"meaningful increase\" next year, as it aggressively tries to morph into a manufacturer of chips for other companies. Zinsner told CNBC's Kristina Partsinevelos that the company's latest manufacturing process, called 14A, is ahead of where older technologies were at the same point in the cycle. Intel said its foundry reported $5.8 billion in sales, up 31% on an annual basis. \"I did want to give investors at least a line of sight to expect that the number will be up,\" Zinsner said on the earnings call. He said most of the spending would be for factory tooling. Still, Intel did not reveal a major customer for its foundry, as investors and potential customers keep waiting. It primarily manufactures its own chips. Intel's foundry landed Fortinet as its first named customer under Tan earlier this week, but it's using an older manufacturing technology to make security chips. Intel's gross margin also recovered to 42%, up from 2.5% in the year-ago period, which the company attributed to benefits of scale with more revenue, as well as selling chips with higher margins and pricing. WATCH : Bernstein's Stacy Rasgon on Intel",
+      "summary": "Intel's revenue jumped 25%, the most robust growth for any period since the third quarter of 2011.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1446,7 +1674,7 @@
       "published_at": "2026-07-24T14:05:35+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.55,
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
@@ -1462,10 +1690,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.942,
+      "impact_score": 5.52,
+      "recency_weight": 0.925,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1514,7 +1742,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.942,
+      "recency_weight": 0.924,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1555,7 +1783,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -1599,7 +1827,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.939,
+      "recency_weight": 0.922,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1641,7 +1869,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.932,
+      "recency_weight": 0.915,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1686,7 +1914,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.926,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1733,7 +1961,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.926,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1783,7 +2011,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.923,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1828,7 +2056,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.918,
+      "recency_weight": 0.901,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1880,7 +2108,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.917,
+      "recency_weight": 0.899,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1924,7 +2152,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.911,
+      "recency_weight": 0.894,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1965,7 +2193,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.908,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2015,7 +2243,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.902,
+      "recency_weight": 0.884,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2058,7 +2286,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.891,
+      "recency_weight": 0.874,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2104,7 +2332,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.888,
+      "recency_weight": 0.872,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2151,7 +2379,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2193,7 +2421,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2234,7 +2462,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2280,7 +2508,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2327,7 +2555,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2369,7 +2597,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.874,
+      "recency_weight": 0.858,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2414,7 +2642,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2460,7 +2688,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.85,
+      "recency_weight": 0.834,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2503,7 +2731,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.837,
+      "recency_weight": 0.821,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2554,7 +2782,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.834,
+      "recency_weight": 0.818,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2566,52 +2794,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a8af5e0f9c385eda9f5f",
-      "title": "Vietnam Weighs Limiting Social Media Use for Children Under 16",
-      "summary": "Vietnam may ban children under 16 years old from posting, commenting or reacting to posts on social media as the country looks to join other governments tightening online protections for minors.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/vietnam-weighs-limiting-social-media-use-for-children-under-16",
-      "published_at": "2026-07-24T07:40:46+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.833,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -2643,7 +2825,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.824,
+      "recency_weight": 0.808,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2684,7 +2866,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.81,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2695,53 +2877,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b3abc87517c73301b1a5",
-      "title": "Tech Stocks Face Investor Skepticism as Rally Stalls and Profit Estimates Rise",
-      "summary": "The earnings season is confirming worries that the technology rally had gone too far, with investors now harder to please and reluctant to buy into rising profit estimates.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/tech-names-find-investors-much-harder-to-please-taking-stock",
-      "published_at": "2026-07-24T06:11:28+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.809,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2777,7 +2912,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.784,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2823,7 +2958,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.757,
+      "recency_weight": 0.742,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2870,7 +3005,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.753,
+      "recency_weight": 0.738,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2916,7 +3051,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.749,
+      "recency_weight": 0.734,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2958,7 +3093,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.733,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3003,7 +3138,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.727,
+      "recency_weight": 0.713,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3015,47 +3150,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "33293905e0bc2b8821ff",
-      "title": "Allianz to buy HSBC’s Singapore insurance unit for $2.09 billion",
-      "summary": "Allianz to acquire Singapore insurance business from HSBC",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/allianz-to-buy-hsbcs-singapore-insurance-unit-for-2billion.html",
-      "published_at": "2026-07-24T00:18:30+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.723,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3089,7 +3183,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.713,
+      "recency_weight": 0.7,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3135,7 +3229,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.696,
+      "recency_weight": 0.683,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3182,7 +3276,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.693,
+      "recency_weight": 0.68,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3226,7 +3320,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.692,
+      "recency_weight": 0.679,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3272,7 +3366,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.68,
+      "recency_weight": 0.667,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3312,7 +3406,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3355,7 +3449,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3401,7 +3495,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3447,7 +3541,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3496,7 +3590,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3546,7 +3640,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3596,7 +3690,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3646,7 +3740,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3687,7 +3781,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.675,
+      "recency_weight": 0.662,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3698,53 +3792,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "aee43b41533b9a5d416d",
-      "title": "10-year Treasury yield rises to highest since January 2025 as surging oil rekindles inflation fear",
-      "summary": "U.S. Treasury yields climbed on Wednesday, following oil prices higher, as traders also reacted to a slump in weekly claims for unemployment insurance.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
-      "published_at": "2026-07-23T20:30:50+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.672,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3776,7 +3823,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.671,
+      "recency_weight": 0.658,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3818,7 +3865,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.668,
+      "recency_weight": 0.655,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3863,7 +3910,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.667,
+      "recency_weight": 0.655,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3875,47 +3922,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "21cf0007362b2fcd6e7e",
-      "title": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
-      "summary": "Amazon is bringing Luna to the Prime Video streaming service, while Microsoft will test an ad-supported streaming of titles that people own.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/23/amazon-microsoft-cloud-gaming.html",
-      "published_at": "2026-07-23T20:06:50+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.667,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3950,7 +3956,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.666,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3992,7 +3998,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4033,7 +4039,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.62,
+      "recency_weight": 0.608,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4072,7 +4078,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.593,
+      "recency_weight": 0.581,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4113,7 +4119,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4162,7 +4168,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4209,7 +4215,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.39,
+      "recency_weight": 0.382,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -4249,7 +4255,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.373,
+      "recency_weight": 0.366,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4292,7 +4298,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 6.0,
-      "recency_weight": 0.366,
+      "recency_weight": 0.359,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4333,7 +4339,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.274,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4382,7 +4388,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4791,7 +4797,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-24T17:00:00+00:00",
+      "latest_published_at": "2026-07-24T18:01:59+00:00",
       "warning": null
     },
     {
@@ -4800,7 +4806,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-24T17:05:00+00:00",
+      "latest_published_at": "2026-07-24T18:06:00+00:00",
       "warning": null
     },
     {
@@ -4809,7 +4815,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-24T17:00:01+00:00",
+      "latest_published_at": "2026-07-24T18:08:57+00:00",
       "warning": null
     },
     {
