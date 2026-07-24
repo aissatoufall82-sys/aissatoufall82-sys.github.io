@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T14:15:55.400629+00:00",
+  "generated_at": "2026-07-24T15:10:04.048070+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,455 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "c00e78533fd74185bf54",
+      "title": "Treasury yields retreat, 10-year stays near January 2025 highs",
+      "summary": "U.S. Treasury yields retreated on Friday after the 10-year note briefly hit the highest level since January 2025 on Thursday, when Brent crude oil climbed above $100 per barrel and reignited inflationary fears. The yield on the 10-year U.S. Treasury note — the key benchmark for mortgage and auto loans and credit card debt — was last down more than 3 basis points at 4.671%. On Thursday, it had risen above 4.7%, the highest since Jan. 15, 2025, before the start of President Donald Trump's second term. The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, also pulled back more than 3 basis points, to 4.328%. The longer-dated 30-year Treasury bond yield was down 2 basis points, to 5.151%. One basis point equals 0.01%, and yields and prices move inversely to one another. Yields remained lower after the S&P Global Flash U.S. purchasing managers index — which measures the economic health of American manufacturing and the service sector — moved down slightly in July to 53.8, below the 54.4 that economists polled by Dow Jones had estimated. President Trump said he will soon make a decision on whether to launch a \"massive attack\" on Iran after the conflict in the Middle East expanded to a new battleground in the Red Sea earlier this week as Houthi rebels in Yemen threatened oil tankers. Speaking to Axios on Thursday, the president said any proposed strikes would be bigger than what's been seen in the war so far, and that Iran has not \"received enough pain yet.\" \"I am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it,\" Trump said in the interview. U.S. forces have pummeled Iranian targets over the past two weeks, with Central Command completing a 13th consecutive night of strikes overnight. Also on Thursday, jobless claims for the week ended July 18 came in at 187,000, below the 212,000 that economists polled by Dow Jones were expecting, signaling that the labor market remains healthy. — CNBC's Chloe Taylor contributed to this report.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+      "published_at": "2026-07-24T15:01:24+00:00",
+      "event_type": "macro",
+      "severity": "major",
+      "sentiment": -0.35,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 28.98,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "70bf43aa00df710a74cf",
+      "title": "Pork Struggles to Gain Ground Even in Middle of Protein Craze",
+      "summary": "In a time of belt-tightening and America’s protein obsession, pork should be on a winning streak. It’s cheap compared with beef, which is climbing to record high prices, and it’s the type of clean protein consumers can’t seem to get enough of.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/pork-struggles-to-gain-ground-even-in-middle-of-protein-craze",
+      "published_at": "2026-07-24T15:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7345f87d0cf0ab57755f",
+      "title": "Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi",
+      "summary": "A coalition of technology companies led by Nvidia Corp. and Microsoft Corp. called on policymakers to promote the development of open-weight artificial intelligence models, positioning it as key to ensuring the US maintains technological leadership.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi",
+      "published_at": "2026-07-24T14:59:51+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7ed319ae22bd5cc69818",
+      "title": "Colombia Rations LNG on SPEC Port Shutdown; Business, Schools Urged to Go Remote",
+      "summary": "Colombia’s government is urging schools and businesses to operate remotely for several days starting next week as the nation braces for natural gas rationing during planned maintenance of its sole import terminal.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/colombia-rations-lng-on-spec-port-shutdown-business-schools-urged-to-go-remote",
+      "published_at": "2026-07-24T14:52:10+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.994,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c7e27617ec3a2d6f09a7",
+      "title": "U.S. economy had begun to speed up — until Iran peace talks failed and oil prices surged again",
+      "summary": "S&P Global surveys find rising inflation and supply woes.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/u-s-economy-began-to-speed-up-until-iran-peace-talks-failed-and-oil-prices-surged-again-3fce66b2?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T14:43:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "38521724600f7c2f8554",
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T14:31:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2b3ec5df0a5b6f1c3f06",
+      "title": "AI Startup Midjourney Buys Astrology App Co-Star and is Building Its Own Apps",
+      "summary": "Artificial intelligence lab Midjourney Inc. has bought the popular astrology app Co-Star and is building its first standalone image-generation app, the startup’s latest moves to push into new business areas after promising an ambitious expansion last month.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps",
+      "published_at": "2026-07-24T14:30:20+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ce6f552bb55e160b4476",
+      "title": "I lost my job, my emergency fund is running out and now I have to move back in with my parents. What did I do wrong?",
+      "summary": "I’m 38 and thought I did everything right. What should I do now?",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T14:25:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "53d980e22228279e0f3c",
+      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+      "summary": "A group of 25 tech companies released a letter urging policymakers to avoid \"premature restrictions\" on open-weight AI models. Chinese open-weight models are gaining steam against leading offerings from American companies, which has sparked a debate about whether they should be restricted. OpenAI and Anthropic, which are gearing up for potentially massive IPOs, did not sign the letter. Nvidia , Microsoft , Meta , Palantir and more than 20 other companies released a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight artificial intelligence models that would \"stifle competition or drive innovation overseas.\" Open-weight AI models are available for users to download, modify and run on their own infrastructure, and they have been the subject of fierce debate within the tech sector in recent weeks. Chinese open-weight models are gaining steam against leading offerings from American companies like OpenAI and Anthropic , which primarily develop proprietary, closed models. Officials and executives have been weighing whether or not to restrict access to Chinese models in the U.S. Moonshot AI, a Chinese startup, amplified concerns earlier this month after releasing a model called Kimi K3 that outperforms cutting-edge American offerings across some industry benchmarks. U.S. Treasury Secretary Scott Bessent told CNBC on Tuesday that the Trump administration would look into whether Chinese companies were stealing American intellectual property, and stated that the government has \"the ability to sanction them because of this theft.\" But in the letter on Friday, the group of U.S. tech companies cautioned against any rash actions. They wrote that open-weight models strengthen competition and ensure that the benefits of the technology are \"broadly shared rather than concentrated in a few hands.\" \"Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect,\" the letter said. \"And concentrating advanced AI capabilities behind a small number of closed models compounds that risk.\" Nvidia CEO Jensen Huang and Microsoft CEO Satya Nadella both shared the letter on their personal social media accounts. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide OpenAI and Anthropic did not sign the letter. Both companies, which are each valued at nearly $1 trillion, are gearing up for potentially massive IPOs that could land as soon as this year. Anthropic confidentially filed its prospectus with the Securities and Exchange Commission in June, and OpenAI followed suit days later. Greg Brockman, OpenAI's president, said Thursday that the company believes in broad access, and that he has not been involved in any conversations with the Trump administration about potentially banning Chinese open-weight models in the U.S. \"I think that, that fundamentally, AI and AI usage is something that is actually very important to democratize,\" Brockman told reporters during a briefing in New York City. \"And so, for me, at a sort of deep level, I think that having more models, more usage, that is a good thing.\" White House advisor Michael Kratsios on Wednesday said that Moonshot AI developed its Kimi K3 model by distilling Anthropic's technology. Distillation is a term for an AI training method where a smaller, less capable model is built using outputs from an existing, stronger model. Kratsios wrote in a post on X that legitimate AI distillation plays a vital role in the open innovation ecosystem, but warned that \"large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology\" is \"unacceptable.\" In the letter on Friday, the U.S. tech companies said that concerns about unlawful distillation should be addressed through \"targeted legal and commercial frameworks\" instead of with \"sweeping restrictions on techniques that play an important role in AI innovation.\" \"Our AI leadership will be judged not by one frontier AI model, but by whether the United States builds a strong, open ecosystem that diffuses into every sector,\" the letter said. \"This is essential for creating opportunities for innovation and prosperity across the country.\" WATCH: AI is forcing the cyber industry to revisualize how it operates, says TrustedSec’s David Kennedy",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "published_at": "2026-07-24T14:15:47+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 12.88,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "0f71025c771e3c09d530",
+      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T14:15:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.982,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "3803fae1f35fb558b89f",
       "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
@@ -54,7 +503,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.999,
+      "recency_weight": 0.982,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -106,7 +555,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.998,
+      "recency_weight": 0.981,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -149,7 +598,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.998,
+      "recency_weight": 0.981,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -196,7 +645,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.997,
+      "recency_weight": 0.98,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -215,36 +664,37 @@
       }
     },
     {
-      "event_id": "0004d11818655838fbe9",
-      "title": "U.S. economy began to speed up — until Iran peace talks failed and oil prices surged again",
-      "summary": "S&P surveys show rising inflation and supply woes",
-      "source": "MarketWatch Top Stories",
+      "event_id": "bd720835bb052dd7763f",
+      "title": "Meta, Microsoft Face Renewed Unease Over AI Spending: US Earnings Week Ahead",
+      "summary": "Microsoft Corp., Meta Platforms Inc. and Amazon.com Inc. face renewed investor anxiety over their debt-fueled capital expenditure plans after Alphabet Inc. raised the upper end of its spending forecast this year by as much as $15 billion.",
+      "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/u-s-economy-began-to-speed-up-until-iran-peace-talks-failed-and-oil-prices-surged-again-3fce66b2?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T14:03:00+00:00",
-      "event_type": "macro",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
+      "published_at": "2026-07-24T14:05:00+00:00",
+      "event_type": "technology",
       "severity": "moderate",
       "sentiment": 0.0,
       "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
+        "ai",
+        "corporate",
         "growth",
-        "macro",
         "market",
-        "oil",
-        "rates"
+        "semiconductor",
+        "tech",
+        "technology"
       ],
       "categories": [
         "market",
-        "broad_equity",
-        "macro"
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.996,
+      "impact_score": 5.52,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -255,7 +705,59 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期"
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "eac177221ff6181157a4",
+      "title": "Why Costco keeps gas prices so low—it's 'straight out of the retail playbook,' expert says",
+      "summary": "Spend Iran conflict could send gas prices higher—how a 'budget reset' could help Save and Invest This common shopping habit could derail your budget—here's how to avoid it Get Ahead If someone does these 5 things, you've probably made a great first impression, research says Leadership Executives are burning out—and they don't know how to handle it, experts say Startups Military spouses face 20% unemployment. Many start businesses—and face new hurdles Gas prices are rising again following a sharp escalation of the war in Iran . And as Americans look for ways to save money at the pump, many are turning to Costco's gas stations for cheaper fuel. Demand for Costco's gasoline reached record levels during the quarter ended May 10 , though the company didn't disclose sales figures in its fiscal third-quarter earnings call. Several warehouses needed multiple fuel deliveries each day to keep up with demand, and the final five weeks of the quarter were Costco's busiest fuel-volume weeks ever, CEO Ron Vachris said on the call. \"We've seen really strong demand for Costco gas,\" says Mike Baker, managing director and head of consumer research at D.A. Davidson. While gasoline consumption across the U.S. has been flat as higher prices cause some drivers to cut back, Costco has seen double-digit growth in gallons sold, he says. Costco gas prices typically ran an average of 9 cents per gallon below the five largest local competitors and 24 cents below the state average between April 2025 and March 2026, according to a study from financial research firm Gordon Haskett using GasBuddy data. The goal isn't just to undercut other gas stations on price. Instead, company executives say lower fuel prices encourage members to visit Costco more often, shop inside the warehouse and renew their memberships. Members who buy gasoline generally visit Costco more frequently, spend more overall and renew their memberships at higher rates than other members, CFO Gary Millerchip said on the call. He added that \"a little less than half of our members are visiting the warehouse when they visit the gas station.\" The low-cost gas strategy is \"more to keep the value in the membership alive,\" says Baker. \"The lifeblood of Costco is that membership.\" The retailer generated more than $5 billion in membership fee revenue in 2025, equal to roughly two-thirds of its net income. If you're a member, swinging into the Costco gas station to save on gas can feel like a slam dunk. But it's worth keeping the company's sales tactics in mind, says Lucas Bucl, a certified financial planner and founder of Level Up Financial Planning. \"Costco's approach is straight out of the traditional retail playbook — bring in customers with an attractive deal or sale,\" he says. \"Retailers know that impulse buying can lead to purchases shoppers didn't intend to make.\" He recommends making a shopping list before heading into the warehouse to avoid impulse purchases that could wipe out the savings at the pump. \"If it saves you a trip, it is a good thing,\" Bucl says. \"However, resist the urge to cruise the aisles and browse.\" Want to get ahead at work? Then you need to learn how to make effective small talk. In CNBC's new online course, How To Talk To People At Work , expert instructors share practical strategies to help you use everyday conversations to gain visibility, build meaningful relationships and accelerate your career growth. Sign up today! Take control of your money with CNBC Select CNBC Select is editorially independent and may earn a commission from affiliate partners on links. Should you use a home equity loan or HELOC to supplement your income? Here are 3 better alternatives More Americans are taking out personal loans. Here’s how to know if you should CNBC Points Pro: With so many limited-time credit card bonuses available, which is right for me? Best travel insurance for parents visiting their children in U.S. These banks are offering cash bonuses of up to $5,000. Here’s how to apply © 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/why-costco-keeps-gas-prices-so-low.html",
+      "published_at": "2026-07-24T14:00:01+00:00",
+      "event_type": "macro",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 28.98,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -284,7 +786,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.995,
+      "recency_weight": 0.978,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -324,7 +826,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.995,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -369,7 +871,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.994,
+      "recency_weight": 0.976,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -411,7 +913,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.99,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -453,7 +955,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.989,
+      "recency_weight": 0.972,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -495,7 +997,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.986,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -539,7 +1041,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.986,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -580,7 +1082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.985,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -599,7 +1101,7 @@
     {
       "event_id": "b786bcb369a44bf333de",
       "title": "BlackRock Kicks Off $12.3 Billion Bond Sale for Meta Data Center",
-      "summary": "BlackRock Inc. began marketing $12.3 billion of high-grade bonds to fund a Meta Platforms Inc. data center project, testing investor appetite amid growing concerns about excessive AI infrastructure spending.",
+      "summary": "BlackRock Inc. began marketing $12.3 billion of high-grade bonds to fund a Meta Platforms Inc. data center project as investors grapple with concerns about excessive AI infrastructure spending.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -625,7 +1127,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.979,
+      "recency_weight": 0.962,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -672,7 +1174,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.979,
+      "recency_weight": 0.962,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -718,7 +1220,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.978,
+      "recency_weight": 0.961,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -768,7 +1270,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.977,
+      "recency_weight": 0.96,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -781,91 +1283,6 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3352ad4216a76f8733cf",
-      "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
-      "summary": "“We live in a house that I purchased entirely with money I had before we were married.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T13:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.976,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "80a3599a6952838b3db8",
-      "title": "A panicking Fed is just what the bond market needs, says Bank of America’s chief strategist",
-      "summary": "New Fed Chairman Kevin Warsh probably needs to hike soon to reassure the long end of the Treasury curve, says Bank of America strategist Michael Hartnett.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/a-panicking-fed-is-just-what-the-bond-market-needs-says-bank-of-americas-chief-strategist-c780884c?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T12:53:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.974,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -898,7 +1315,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.971,
+      "recency_weight": 0.954,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -942,7 +1359,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.969,
+      "recency_weight": 0.953,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -989,7 +1406,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.967,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1002,50 +1419,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "740b13da4211f2a6f2f7",
-      "title": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
-      "summary": "Bob Elliott sparks buzz highlighting the bargain level of TIPS.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T12:29:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.966,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1080,7 +1453,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.966,
+      "recency_weight": 0.949,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1122,7 +1495,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.964,
+      "recency_weight": 0.947,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1163,7 +1536,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.96,
+      "recency_weight": 0.944,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1214,7 +1587,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.956,
+      "recency_weight": 0.94,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1228,56 +1601,6 @@
           "能源/避险/通胀预期",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6fe1e5a160c5154ad7f7",
-      "title": "Treasury yields retreat, 10-year hovers around January 2025 highs",
-      "summary": "U.S. Treasury yields retreated on Friday after briefly hitting the highest level since January 2025 the day before, when Brent crude oil's climb above $100 per barrel reignited inflationary fears. The yield on the 10-year U.S. Treasury note — the key benchmark for mortgage and auto loans and credit card debt — was last seen down more than 1 basis point at 4.685%. On Thursday, it had risen above 4.7%, the highest level since Jan. 15, 2025, before the start of President Donald Trump's second term. The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, pulled back more than 2 basis points to 4.333%. The longer-dated 30-year Treasury bond yield was down less than a basis point at 5.163%. One basis point equals 0.01%, and yields and prices move inversely to one another. U.S. President Donald Trump said he will soon make a decision on whether to launch a \"massive attack\" on Iran after the conflict in the Middle East extended to a new battleground in the Red Sea. Speaking to Axios on Thursday, the president said the proposed strikes would be bigger than anything seen in the war so far, and that Iran has not \"received enough pain yet.\" \"I am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it,\" Trump said in the interview. U.S. forces have pummeled Iranian targets over the past two weeks, with Central Command completing a 13th consecutive night of strikes overnight. Also on Thursday, jobless claims for the week ended July 18 came in at 187,000, below the 212,000 that economists polled by Dow Jones were expecting. Investors will next look ahead to the latest S&P Global Flash U.S. purchasing managers index report due Friday, which measures the economic health of American manufacturing and services sectors. — CNBC's Chloe Taylor contributed to this report.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
-      "published_at": "2026-07-24T11:53:34+00:00",
-      "event_type": "macro",
-      "severity": "major",
-      "sentiment": -0.35,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.955,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1317,7 +1640,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.953,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1362,51 +1685,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.953,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e77f9dc81c7bd43a3302",
-      "title": "Dangote Targets $100 Billion Empire With Oil and Fertilizers",
-      "summary": "Aliko Dangote is betting that Africa’s largest refinery, the continent’s biggest cement producer and his fertilizer businesses will expand his empire fivefold to $100 billion by the end of the decade.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/dangote-targets-100-billion-empire-with-oil-and-fertilizers",
-      "published_at": "2026-07-24T11:19:37+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.945,
+      "recency_weight": 0.936,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1448,7 +1727,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.942,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1494,7 +1773,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.94,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1514,7 +1793,7 @@
     {
       "event_id": "8740a574b77cd3e49f64",
       "title": "Verizon Beats on Wireless, Internet Revenue Amid Turnaround",
-      "summary": "Verizon Communications Inc. reported mobility and broadband sales that exceeded Wall Street’s expectations in the second quarter, signaling that Chief Executive Officer Dan Schulman’s turnaround plan is starting to bear fruit.",
+      "summary": "Verizon Communications Inc. reported second-quarter earnings that beat analysts’ estimates and raised its forecast for the year as Chief Executive Officer Dan Schulman is beginning to see results from his aggressive turnaround plan and laid out a strategy to tap into the artificial intelligence infrastructure boom.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1522,7 +1801,7 @@
       "published_at": "2026-07-24T11:00:27+00:00",
       "event_type": "corporate",
       "severity": "minor",
-      "sentiment": 0.0,
+      "sentiment": 0.35,
       "affected_tags": [
         "ai",
         "corporate",
@@ -1541,7 +1820,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.939,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1561,33 +1840,29 @@
     {
       "event_id": "43dba5ae4d67ac7e8db4",
       "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
-      "summary": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year. Auction houses said the strength is across the board, in almost all price points and almost every category. A new wave of younger collectors from the tech world is also redefining collectibles. A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox. The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year as the wealthy gained confidence from soaring financial stock markets. Sotheby's reported its best first half ever, with $4.4 billion in sales, up 58% from last year and marking a record for the 282-year-old auction house. Christie's had its best first half since 2021, reporting sales of $4.5 billion, up 71%. Phillips, Heritage and other auctioneers also had breakout starts to the year. There were eight lots that sold for more than $50 million in the first half, compared with none in 2024 and 2025, according to Artnet. Auction executives and dealers say the explosive rebound in the art market, following nearly three years of declines, is being driven largely by the massive wealth creation from the artificial intelligence boom, IPOs and rising stocks. \"The numbers mean there is confidence in the market,\" Christie's CEO Bonnie Brennan said at the Christie's Art + Tech Summit last week. \"There are people willing to sell great objects and there are people spending great amounts of money to acquire those special one-of-one works.\" Added Sotheby's CEO Charles Stewart: \"The wealth being created now is the number one factor in our business right now. It's obviously very visible when you sit here in New York and talk about the SpaceX IPO and these different tech IPOs coming and the AI fever.\" While the dollar totals are being driven largely by a select group of hyper-priced works at the very top of the market, the strength is across the board, in almost all price points and almost every category. Fine art, classic cars, watches, handbags, diamonds, whiskey and even dinosaur bones are all seeing new records. Leading the first half was a Jackson Pollock drip painting, titled \"Number 7A, 1948,\" which sold for $181 million at Christie's. The work, considered one of Pollock's most epic and defining works, had previously been owned by media magnate and collector S.I. Newhouse, which added to its appeal. A Brancusi sculpture also previously owned by Newhouse went for $107.6 million. A new wave of younger collectors, many from the tech world, is also redefining collectibles. In classic cars, 1950s and 1960s sports cars used to dominate the price charts. Now supercars from the 1990s and 2000s are the hottest sellers. Watches are gaining in popularity among tech bros. Phillips in Association with Bacs & Russo reported $235 million in watch auctions in the first half, marking its largest ever. The strong bidding stretched across its auctions in New York, Geneva and Hong Kong. While Patek Philippe remains strong, young collectors are battling over pieces from more rarified, independent brands. The priciest watch sold in the first half was an F.P. Journe Souscription Résonance, which went for $13.9 million. Mark Zuckerberg has become one of the most high-profile devotees of F.P. Journe in recent years, and has sported seven-figure F.P. Journes in public. Get Inside Wealth directly to your inbox The Inside Wealth newsletter by Robert Frank is your weekly guide to high-net-worth investors and the industries that serve them. Brennan said 30% of the buyers in the first half were new to Christie's, with 47% of them millennials or younger, and that 85% of bids were placed online. \"What we show people and how they engage with Christie's is evolving,\" she said. One of the hottest new categories is also the oldest — dinosaur bones. Sotheby's sold a fossil specimen of a Tyrannosaurus rex this month for $50.1 million, making it the most expensive fossil ever auctioned. The T. rex, named \"Gus,\" was excavated out of the South Dakota badlands and is estimated to be 67 million years old. Gus' new owner hasn't been identified. But the sale followed a stegosaurus that was sold by Sotheby's in 2024 to hedge-fund billionaire Ken Griffin for $44.6 million. The stegosaurus, named \"Apex,\" is on loan to the Museum of Natural History. Stewart said institutions as well as individuals are bidding up dinosaur fossils. Seven bidders battled for Gus for 10 minutes, as new wealth vied for a piece of prehistoric history. At 38 feet long, Gus will need either a museum or a very large living room for his new home. \"I say it's 'SpaceX to T. rex,'\" Stewart said. \"It's not just that these people have made the money.",
+      "summary": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
       "published_at": "2026-07-24T11:00:01+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
-        "growth",
         "macro",
-        "market",
-        "semiconductor",
-        "tech"
+        "market"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.939,
+      "impact_score": 1.84,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1597,8 +1872,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1629,7 +1903,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.939,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1675,7 +1949,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.939,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1722,7 +1996,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.93,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1766,7 +2040,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.924,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1812,7 +2086,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.921,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1858,7 +2132,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.899,
+      "recency_weight": 0.884,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1878,25 +2152,20 @@
     {
       "event_id": "9d206bf4b243c66ee609",
       "title": "Volkswagen CFO addresses plant closures, job losses as profits sink",
-      "summary": "Volkswagen posted an operating profit of 3.5 billion euros ($3.98 billion) for the April to June period, down nearly 10% from a year ago. The German auto giant also scrapped hope for sales revenue growth in 2026 as it prepares for a radical overhaul of the business. The results come shortly after the company confirmed it is looking to cut up to 100,000 jobs, twice as many as previously stated. Volkswagen reported weaker-than-expected second-quarter profits on Friday and scrapped hope for sales revenue growth in 2026, as the German auto giant lays the groundwork for a radical overhaul of the business. Europe's biggest carmaker posted an operating profit of 3.5 billion euros ($3.98 billion) for the April to June period, down nearly 10% from a year ago and missing expectations of 4.3 billion euros, according to an LSEG-compiled consensus. The company also flagged it expects sales revenue in 2026 to see a decline of up to 3% this year, versus a previous forecast of sales revenue growth of up to 3%. The results come shortly after the company confirmed it is looking to cut up to 100,000 jobs , twice as many as previously stated, as it seeks to counter a profit slump amid billions of euros in tariff costs and intensifying competition from Chinese car brands. In a widely reported memo to staff earlier this month, CEO Oliver Blume said that the group's costs were 20% higher than comparable businesses and the company would therefore need to reduce costs even further. Volkswagen's CEO reportedly said the company had been unable to confirm alternative uses for four German factories previously threatened with closure. These refer to Volkswagen's plants in Hanover, Zwickau, Emden, and the group's Audi facility in Neckarsulm. The automaker had agreed a deal with unions in late 2024 to avoid factory closures in Germany and rule out compulsory redundancies until the end of 2030. 'We have to do a second step of restructuring' Volkswagen Chief Financial Officer Arno Antlitz said the auto industry has faced substantial challenges over the past 12 months, citing the heavy burden of tariff costs, the rapid growth of China's domestic premium car market and the rapidly growing number of car exports from Beijing to Europe. \"This leads to this weight on our margin, a margin of roughly 4% is clearly a wake-up call that we have to do a second step of restructuring,\" Antlitz told CNBC's Annette Weisbach on Friday. Asked whether the company may look to outsource plant capacity to the defense industry to stave off closures, Antlitz replied: \"There are various options. And look, I'm not looking for job cuts per se and I'm not looking for plant closures per se.\" He continued: \"We want to reduce our cost structure and we want to increase productivity and increase the capacity utilization of our plants. And if there are better options then we will obviously look into that.\" Antlitz said it is \"much better\" for the company to find an alternative solution to plant closures. Volkswagen said in April that it would end production of the ID.4 electric sports utility vehicle out of ‌its Tennessee plant amid a challenging U.S. environment for EVs. Volkswagen's Blume said Friday that the company had managed to offset \"continued unavoidable headwinds\" in the double-digit billions. \"At the same time, the environment for the automotive industry remains extremely challenging: geopolitical crises, trade conflicts, high regulatory requirements, volatile markets and intensified competition,\" Blume said in a statement. \"In an unprecedented risk scenario, Volkswagen Group enters the next phase of its transformation – from a position of strength and with a clear understanding of the opportunities ahead,\" he added.",
+      "summary": "German auto giant Volkswagen on Friday reported weaker-than-expected second-quarter profit and revised down its sales forecast for 2026.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
       "published_at": "2026-07-24T07:56:12+00:00",
-      "event_type": "geopolitical",
-      "severity": "moderate",
-      "sentiment": -0.4,
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
         "corporate",
-        "geopolitical",
-        "gold",
         "macro",
-        "market",
-        "oil",
-        "regulatory",
-        "safe_haven"
+        "market"
       ],
       "categories": [
         "market",
@@ -1905,8 +2174,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.885,
+      "impact_score": 1.84,
+      "recency_weight": 0.87,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1917,9 +2186,7 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
-          "监管/交易结构"
+          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1959,7 +2226,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.882,
+      "recency_weight": 0.867,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2006,7 +2273,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.881,
+      "recency_weight": 0.866,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2048,7 +2315,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.856,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2089,7 +2356,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.857,
+      "recency_weight": 0.842,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2135,7 +2402,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.856,
+      "recency_weight": 0.841,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2179,7 +2446,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.853,
+      "recency_weight": 0.839,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2226,7 +2493,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.829,
+      "recency_weight": 0.815,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2268,7 +2535,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.812,
+      "recency_weight": 0.798,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2279,52 +2546,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "294f145880ed95069ca4",
-      "title": "Wheat Extends July Rally as War Risks Stoke Fears Over Supply",
-      "summary": "Wheat climbed to a two-year high in Chicago and Paris, as escalating geopolitical tensions and worsening weather in key producing regions continued to stoke supply concerns.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/wheat-extends-july-rally-as-war-risks-stoke-fears-over-supply",
-      "published_at": "2026-07-24T03:00:14+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.805,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2359,7 +2580,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.8,
+      "recency_weight": 0.787,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2406,7 +2627,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.796,
+      "recency_weight": 0.782,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2452,7 +2673,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.792,
+      "recency_weight": 0.778,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2463,55 +2684,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "707575d33b72bc3cfb53",
-      "title": "SK Hynix, Samsung and Kioxia Face Pivotal Earnings Test on AI Swings",
-      "summary": "SK Hynix Inc. and Samsung Electronics Co. are set to test investor appetite for memory chips as South Korea’s stock market — now a bellwether for global AI sentiment — grapples with violent swings driven by leveraged chip bets.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/sk-hynix-samsung-and-kioxia-face-pivotal-earnings-test-on-ai-swings",
-      "published_at": "2026-07-24T01:18:27+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.779,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -2543,7 +2715,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.775,
+      "recency_weight": 0.762,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2584,7 +2756,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.771,
+      "recency_weight": 0.757,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2629,7 +2801,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.769,
+      "recency_weight": 0.756,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2671,7 +2843,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.764,
+      "recency_weight": 0.751,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2682,53 +2854,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a1a865471e739fdc04cc",
-      "title": "Top Environmental Fund Sees Japan Key to AI Energy Challenge",
-      "summary": "Asia’s best-performing environmental fund has increased exposure to Japan as it expects the nation’s technology sector to prove increasingly pivotal in solving the artificial intelligence industry’s surging power demands.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
-      "published_at": "2026-07-24T00:04:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.761,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2762,51 +2887,6 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.754,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9888447067b49feabc50",
-      "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
-      "summary": "IBM's CEO highlighted growing mainframe hardware capacity, and said software should \"catch back up\" within a year.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
-      "published_at": "2026-07-23T22:40:53+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
       "recency_weight": 0.741,
       "scored_for_probability": false,
       "source_profile": {
@@ -2817,8 +2897,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2854,7 +2933,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.736,
+      "recency_weight": 0.723,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2872,9 +2951,9 @@
       }
     },
     {
-      "event_id": "2a24476b91222eed6eca",
-      "title": "Stocks Hold Steady as Brent Oil Falls Below $100: Markets Wrap",
-      "summary": "Wall Street is wrapping up a jittery week with stocks holding relatively steady as oil fell after a surge that was triggered by an escalation of Middle East hostilities.",
+      "event_id": "fda721ec2563801f5ae4",
+      "title": "Stocks Get Some Relief as Oil Declines Below $100: Markets Wrap",
+      "summary": "Wall Street is wrapping up a jittery week with stocks edging mildly higher as oil fell after a surge that was triggered by an escalation of Middle East hostilities.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2898,7 +2977,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.733,
+      "recency_weight": 0.72,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2942,7 +3021,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.732,
+      "recency_weight": 0.72,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2954,94 +3033,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ae5b550dd853fea80532",
-      "title": "Nvidia Signs $1.5 Billion Accord With Amkor for Chip Packaging",
-      "summary": "Nvidia Corp. signed a $1.5 billion agreement with Amkor Technology Inc. to help bolster the company’s chip packaging facilities, part of a broader push to expand semiconductor operations in the US.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging",
-      "published_at": "2026-07-23T21:27:05+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.723,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c3048ee1f7eb078f37e7",
-      "title": "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe",
-      "summary": "The subpoenas to New York Times reporters were issued by Manhattan U.S. Attorney Jay Clayton, whom Trump has nominated as director of national intelligence.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/23/doj-subpoenas-new-york-times-trump-plane.html",
-      "published_at": "2026-07-23T21:17:44+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.721,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3076,7 +3067,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.719,
+      "recency_weight": 0.707,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3116,7 +3107,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.717,
+      "recency_weight": 0.705,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3159,7 +3150,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.717,
+      "recency_weight": 0.705,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3205,7 +3196,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.717,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3251,7 +3242,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.717,
+      "recency_weight": 0.705,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3300,7 +3291,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.717,
+      "recency_weight": 0.705,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3350,7 +3341,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.717,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3400,7 +3391,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.717,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3450,7 +3441,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.717,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3491,7 +3482,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.714,
+      "recency_weight": 0.701,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3536,7 +3527,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.711,
+      "recency_weight": 0.699,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3583,7 +3574,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.71,
+      "recency_weight": 0.698,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3626,7 +3617,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.71,
+      "recency_weight": 0.697,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3673,7 +3664,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.709,
+      "recency_weight": 0.697,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3715,7 +3706,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.706,
+      "recency_weight": 0.694,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3760,7 +3751,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.706,
+      "recency_weight": 0.694,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3802,7 +3793,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.693,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3819,9 +3810,9 @@
       }
     },
     {
-      "event_id": "0863061f875b92405279",
-      "title": "Intel Turnaround Fueled by AI Data Centers Needing Its Chips",
-      "summary": "Intel Corp.’s long-awaited turnaround is in progress, now that the artificial intelligence data center boom is fueling demand for its chips.",
+      "event_id": "e0da4f98f5801b8be8d0",
+      "title": "Intel’s Revival Takes Shape With AI-Fueled Data Center Boom",
+      "summary": "Intel Corp.’s years-long effort to revive growth in its chips business is beginning to pay off, fueled by a worldwide buildout of data centers that power artificial intelligence systems.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -3848,7 +3839,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.704,
+      "recency_weight": 0.692,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3894,7 +3885,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.685,
+      "recency_weight": 0.674,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3940,7 +3931,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.671,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3982,7 +3973,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.665,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4023,7 +4014,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.655,
+      "recency_weight": 0.644,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4062,7 +4053,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.627,
+      "recency_weight": 0.616,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4108,7 +4099,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.593,
+      "recency_weight": 0.583,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4150,7 +4141,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.452,
+      "recency_weight": 0.444,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4199,7 +4190,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.452,
+      "recency_weight": 0.444,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4246,7 +4237,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.412,
+      "recency_weight": 0.405,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -4286,7 +4277,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.395,
+      "recency_weight": 0.388,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4329,7 +4320,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 6.0,
-      "recency_weight": 0.387,
+      "recency_weight": 0.381,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4370,7 +4361,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4419,7 +4410,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.285,
+      "recency_weight": 0.28,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4819,7 +4810,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-24T13:32:39+00:00",
+      "latest_published_at": "2026-07-24T15:00:00+00:00",
       "warning": null
     },
     {
@@ -4828,7 +4819,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-24T13:55:51+00:00",
+      "latest_published_at": "2026-07-24T14:59:51+00:00",
       "warning": null
     },
     {
@@ -4837,7 +4828,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-24T14:10:00+00:00",
+      "latest_published_at": "2026-07-24T14:43:00+00:00",
       "warning": null
     },
     {
@@ -4846,7 +4837,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-24T14:12:15+00:00",
+      "latest_published_at": "2026-07-24T15:01:24+00:00",
       "warning": null
     },
     {
