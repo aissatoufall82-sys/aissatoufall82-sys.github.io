@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:08:23.494099+00:00",
+  "generated_at": "2026-07-24T11:10:16.854233+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -50,7 +50,53 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.998,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "43dba5ae4d67ac7e8db4",
+      "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
+      "summary": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year. Auction houses said the strength is across the board, in almost all price points and almost every category. A new wave of younger collectors from the tech world is also redefining collectibles. A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight to your inbox. The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year as the wealthy gained confidence from soaring financial stock markets. Sotheby's reported its best first half ever, with $4.4 billion in sales, up 58% from last year and marking a record for the 282-year-old auction house. Christie's had its best first half since 2021, reporting sales of $4.5 billion, up 71%. Phillips, Heritage and other auctioneers also had breakout starts to the year. There were eight lots that sold for more than $50 million in the first half, compared with none in 2024 and 2025, according to Artnet. Auction executives and dealers say the explosive rebound in the art market, following nearly three years of declines, is being driven largely by the massive wealth creation from the artificial intelligence boom, IPOs and rising stocks. \"The numbers mean there is confidence in the market,\" Christie's CEO Bonnie Brennan said at the Christie's Art + Tech Summit last week. \"There are people willing to sell great objects and there are people spending great amounts of money to acquire those special one-of-one works.\" Added Sotheby's CEO Charles Stewart: \"The wealth being created now is the number one factor in our business right now. It's obviously very visible when you sit here in New York and talk about the SpaceX IPO and these different tech IPOs coming and the AI fever.\" While the dollar totals are being driven largely by a select group of hyper-priced works at the very top of the market, the strength is across the board, in almost all price points and almost every category. Fine art, classic cars, watches, handbags, diamonds, whiskey and even dinosaur bones are all seeing new records. Leading the first half was a Jackson Pollock drip painting, titled \"Number 7A, 1948,\" which sold for $181 million at Christie's. The work, considered one of Pollock's most epic and defining works, had previously been owned by media magnate and collector S.I. Newhouse, which added to its appeal. A Brancusi sculpture also previously owned by Newhouse went for $107.6 million. A new wave of younger collectors, many from the tech world, is also redefining collectibles. In classic cars, 1950s and 1960s sports cars used to dominate the price charts. Now supercars from the 1990s and 2000s are the hottest sellers. Watches are gaining in popularity among tech bros. Phillips in Association with Bacs & Russo reported $235 million in watch auctions in the first half, marking its largest ever. The strong bidding stretched across its auctions in New York, Geneva and Hong Kong. While Patek Philippe remains strong, young collectors are battling over pieces from more rarified, independent brands. The priciest watch sold in the first half was an F.P. Journe Souscription Résonance, which went for $13.9 million. Mark Zuckerberg has become one of the most high-profile devotees of F.P. Journe in recent years, and has sported seven-figure F.P. Journes in public. Get Inside Wealth directly to your inbox The Inside Wealth newsletter by Robert Frank is your weekly guide to high-net-worth investors and the industries that serve them. Brennan said 30% of the buyers in the first half were new to Christie's, with 47% of them millennials or younger, and that 85% of bids were placed online. \"What we show people and how they engage with Christie's is evolving,\" she said. One of the hottest new categories is also the oldest — dinosaur bones. Sotheby's sold a fossil specimen of a Tyrannosaurus rex this month for $50.1 million, making it the most expensive fossil ever auctioned. The T. rex, named \"Gus,\" was excavated out of the South Dakota badlands and is estimated to be 67 million years old. Gus' new owner hasn't been identified. But the sale followed a stegosaurus that was sold by Sotheby's in 2024 to hedge-fund billionaire Ken Griffin for $44.6 million. The stegosaurus, named \"Apex,\" is on loan to the Museum of Natural History. Stewart said institutions as well as individuals are bidding up dinosaur fossils. Seven bidders battled for Gus for 10 minutes, as new wealth vied for a piece of prehistoric history. At 38 feet long, Gus will need either a museum or a very large living room for his new home. \"I say it's 'SpaceX to T. rex,'\" Stewart said. \"It's not just that these people have made the money.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
+      "published_at": "2026-07-24T11:00:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.997,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -134,7 +180,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.993,
+      "recency_weight": 0.992,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -179,7 +225,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.993,
+      "recency_weight": 0.992,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -271,7 +317,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.988,
+      "recency_weight": 0.987,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -313,7 +359,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.988,
+      "recency_weight": 0.987,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -358,7 +404,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.985,
+      "recency_weight": 0.984,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -486,7 +532,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.982,
+      "recency_weight": 0.981,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -574,7 +620,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.981,
+      "recency_weight": 0.98,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -620,7 +666,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.979,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -703,7 +749,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.977,
+      "recency_weight": 0.976,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -744,7 +790,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.976,
+      "recency_weight": 0.975,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -790,7 +836,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.975,
+      "recency_weight": 0.974,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -832,7 +878,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.969,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -873,7 +919,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.961,
+      "recency_weight": 0.96,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -922,7 +968,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.96,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -964,7 +1010,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.956,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1092,7 +1138,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.954,
+      "recency_weight": 0.953,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1133,7 +1179,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.946,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1315,7 +1361,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.937,
+      "recency_weight": 0.936,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1362,7 +1408,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.936,
+      "recency_weight": 0.935,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1453,7 +1499,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.91,
+      "recency_weight": 0.909,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1546,7 +1592,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.909,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1673,7 +1719,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.886,
+      "recency_weight": 0.885,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1719,7 +1765,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.881,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1862,7 +1908,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.841,
+      "recency_weight": 0.84,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1952,7 +1998,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.828,
+      "recency_weight": 0.827,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2014,7 +2060,7 @@
     {
       "event_id": "e734bd34e40608b87af8",
       "title": "Amazon cracks down on use of AI images by sellers after New York law",
-      "summary": "Amazon is requiring third-party sellers to label any photos or videos that feature AI-generated people. The move is in response to a recently enacted New York law that mandates companies disclose when an ad includes a \"synthetic performer\" in place of a human actor. More Amazon sellers have used AI to burnish their product listings, partly by using the company's tools. Amazon is requiring that third-party sellers label any product images or videos that contain \"AI-generated people\" after New York recently passed a law mandating greater transparency around \"synthetic performers\" in ads. The company informed sellers Wednesday of the policy change, according to a copy of the announcement viewed by CNBC. The policy directs sellers to tag images and any \"A+ content,\" which refers to videos or other graphics on listing pages, with specific metadata keywords before they're uploaded. \"Recent legislation requires disclosure when images or videos in advertisements contain photorealistic AI-generated people,\" Amazon wrote in the announcement. The New York law , which took effect last month, requires companies to disclose if \"synthetic performers\" are used in place of human actors in advertising. The legislation applies to \"digitally-created media that appear as a real person.\" Governor Kathy Hochul described it as a \"first-in-the-nation\" law. \"Without notice that the content the public is viewing is not real, AI-generated synthetic performers and manipulated media can undermine one's ability to accurately distill fact from fiction,\" Hochul's office said in a release. Amazon clarified in its announcement that the requirement doesn't apply to content featuring TV, video game and movie characters, or content that includes real people, even if they've been altered using AI. The company said it will \"add an indicator\" to listings on its website, informing consumers that images or other content feature AI-generated people, \"where applicable.\" It's unclear what criteria Amazon will apply when deciding when to display the label to shoppers. Amazon didn't immediately provide a comment. Amazon has embraced AI internally and it's increasingly infusing the technology across its portfolio. The company has optimized listing titles and details so they're more likely to be spotted by AI systems, invested in a recently rebranded assistant called Alexa for Shopping , and launched a feature that injects AI-generated products into its search bar in real time based on user queries. More Amazon third-party sellers are using AI to generate text, images and other content for their listings, partly by using the company's tools . Outside sellers are the engine behind Amazon's core retail business, accounting for more than 60% of goods sold on its marketplace. There is no federal law requiring companies to disclose when advertising content has been created using AI. States have taken steps to require greater transparency around AI content. Earlier this year, California began requiring large AI providers to embed watermarks in AI-generated images, video or other content. Meta , TikTok, Pinterest and Google 's YouTube have added AI-generated content labels to videos and images uploaded to their platforms. TikTok and Meta have recently been criticized for not adequately labeling ads that feature AI-generated influencers hawking dubious products, in some cases without a brand's knowledge. TikTok has said it's taken steps to ban accounts that make misleading health claims, and Meta said it labels AI videos WATCH: Amazon looks to raise $25 billion in bond sale",
+      "summary": "A recently enacted New York law mandates that companies disclose when an ad includes a \"synthetic performer\" in place of a human actor.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2022,7 +2068,7 @@
       "published_at": "2026-07-24T00:36:42+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.55,
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
@@ -2037,10 +2083,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.817,
+      "impact_score": 5.52,
+      "recency_weight": 0.816,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2082,7 +2128,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.812,
+      "recency_weight": 0.811,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2211,7 +2257,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.792,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2297,7 +2343,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.787,
+      "recency_weight": 0.786,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2344,7 +2390,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.782,
+      "recency_weight": 0.781,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2391,7 +2437,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.781,
+      "recency_weight": 0.78,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2480,7 +2526,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.778,
+      "recency_weight": 0.777,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2523,7 +2569,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.776,
+      "recency_weight": 0.775,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2697,7 +2743,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.761,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2742,7 +2788,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.762,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2788,7 +2834,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.761,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2837,7 +2883,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.761,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2887,7 +2933,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2937,7 +2983,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2987,7 +3033,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3033,7 +3079,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.759,
+      "recency_weight": 0.758,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3167,7 +3213,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.755,
+      "recency_weight": 0.754,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3210,7 +3256,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.754,
+      "recency_weight": 0.753,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3269,47 +3315,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2840928fb0a7862f1fa9",
-      "title": "As the S&P 500 sells off, traders eye key 'risk pivot' level",
-      "summary": "Options traders are seeking clues on whether more volatility may be ahead.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/23/as-the-sp-500-sells-off-traders-eye-key-risk-pivot-level.html",
-      "published_at": "2026-07-23T20:22:32+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.753,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3385,7 +3390,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.75,
+      "recency_weight": 0.749,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3427,7 +3432,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.749,
+      "recency_weight": 0.748,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3474,7 +3479,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.748,
+      "recency_weight": 0.747,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3521,7 +3526,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.746,
+      "recency_weight": 0.745,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3660,7 +3665,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.713,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3702,7 +3707,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.706,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3743,7 +3748,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.696,
+      "recency_weight": 0.695,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3782,7 +3787,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.666,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4099,7 +4104,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.438,
+      "recency_weight": 0.437,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -4315,7 +4320,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.257,
+      "recency_weight": 0.256,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -4353,7 +4358,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.255,
+      "recency_weight": 0.254,
       "scored_for_probability": false,
       "source_profile": {
         "key": "defense",
@@ -4780,7 +4785,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-24T10:46:26+00:00",
+      "latest_published_at": "2026-07-24T11:00:01+00:00",
       "warning": null
     },
     {
