@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T20:10:28.536627+00:00",
+  "generated_at": "2026-07-24T21:10:14.284001+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,553 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "d555d4f8e0d7211e3907",
+      "title": "Why bond investors are pushing up some of your interest rates",
+      "summary": "The Federal Reserve sets national interest rate policy. But some kinds of consumer debt, including mortgages and auto loans, are generally influenced by the yields on 10-year U.S. Treasury bonds. Treasury yields closed at their highest level since January 2025 on Thursday. Bond investors influence those yields via expectations around factors like inflation. The Federal Reserve sets national interest rate policy . But the U.S. central bank isn't the only major player in this arena: Bond investors also have a big influence on consumers' borrowing costs. Many types of consumer loans — such as mortgages and auto loans — often peg their interest rates to 10-year U.S. Treasury bonds . That means their rates move higher when 10-year Treasury yields increase, and vice versa. Those bond yields have increased steadily over the past several months. The 10-year Treasury yield was about 4.7% as of market close on Thursday, its highest level since January 2025. The rates on 30-year fixed mortgages on Thursday — about 6.6% — rose to their highest since August 2025, according to weekly data posted by Freddie Mac. Those on 15-year fixed-rate mortgages increased to about 6% this week, the highest since June 2025, Freddie Mac said. Those price pressures come amid others for households, economists said. Average gasoline prices topped $4 a gallon again this week amid renewed tensions in the Iran war, according to data from the Energy Information Administration. The Trump administration also imposed a slew of new tariffs on dozens of countries on Friday. These import taxes raise costs for consumers and businesses, according to economists. Trump Accounts: Who is eligible, how $1,000 deposits work and how to open one Student loan borrowers on new RAP plan can lose key benefits if they pay late AI can make you 'boring' at work, professor says: How to avoid the pitfalls AARP to Congress: 'We strongly object to fast-tracking Social Security changes' CNBC's Financial Advisor 100: Best financial advisors, top firms ranked CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026 Inflation across the U.S. economy has also been above policymakers' target for more than five years, and the financial cushion provided by relatively high tax refunds this spring appears to have waned, economists said. The rise in Treasury yields is \"just another drag for households when you've got affordability hits elsewhere,\" said Thomas Ryan, a North America economist at Capital Economics. \"And we don't see much relief in terms of the borrowing cost side of things,\" he said. Why have Treasury yields increased? The Fed sets an interest-rate benchmark known as the federal funds rate. That benchmark has a direct impact on shorter-term interest rates, like those for credit cards and other variable-rate loans, said Chad NeSmith, a certified financial planner and director of investments at Tobias Financial Advisors, based in Plantation, Florida. But bond investors tend to have a much greater influence over the movement of 10-year Treasury yields and those of other longer-term bonds. More specifically, it's investors' expectations for future inflation and the trajectory of Fed interest rate policy that guide bond yields up or down, experts said. For example, if bond investors expect inflation to move higher, they will demand a higher yield on longer-term Treasury bonds to compensate for the risk of inflation eroding their future returns, experts said. \"It's investors pricing their own reality, and that has a big knock-on effect on consumers in terms of what [rates] they can borrow at,\" Ryan said. In this case, many factors are feeding into investor anxieties about inflation, such as oil prices , which jumped sharply in July as tensions in the Middle East have ratcheted upward. Sustained high oil prices can filter through to prices across the U.S. economy, for things like airline tickets, transportation and goods, NeSmith said. Capital Economics expects the Fed to raise interest rates three times this year, not necessarily in response to high oil prices but more so \"a broader view that inflation looks hot,\" Ryan said. Homeownership likely the biggest impact Consumers will largely feel the impact of higher Treasury yields in their ability to buy or sell a home, NeSmith said. Mortgage rates are more than double what they were during the Covid-19 pandemic, for example, and they could move above 7%, experts said. \"It will increase the lock-in effect in the housing market, where they feel trapped,\" NeSmith said. Consumers who can't find an affordable rate for auto loans might forgo buying a new car, for example, he said. \"It just slows spending, because people have to borrow so much more,\" NeSmith said.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
+      "published_at": "2026-07-24T21:09:24+00:00",
+      "event_type": "macro",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 28.98,
+      "recency_weight": 1.0,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ce1ac3c6b80102e6c6ee",
+      "title": "STX SEC 4: FORM 4",
+      "summary": "Seagate Technology Holdings plc (STX) filed SEC Form 4. Filing date: 2026-07-24. Report date: 2026-07-22. Description: FORM 4. Accession: 0001137789-26-000150.",
+      "source": "SEC EDGAR Submissions",
+      "source_tier": "official",
+      "source_weight": 1.0,
+      "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000150/xslF345X06/wk-form4_1784924313.xml",
+      "published_at": "2026-07-24T21:00:00+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "4",
+        "corporate",
+        "datacenter",
+        "growth",
+        "insider",
+        "memory",
+        "sec",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "corporate",
+        "sec",
+        "4",
+        "insider"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.9,
+      "impact_score": 2.0,
+      "recency_weight": 0.997,
+      "scored_for_probability": true,
+      "source_profile": {
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "impact_axes": [
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "69427f889d7a65cb7e95",
+      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "summary": "Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027. It had previously said it intended to complete the transaction by the end of September. The merger is facing a lawsuit from a group of state attorneys general who have said it raises antitrust concerns. Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027 — a multi-month delay that will ultimately raise the deal price — as the tie-up faces a legal challenge. Last week, a group of state attorneys general led by California's Rob Bonta sued to block the deal over antitrust concerns. On Monday, a judge reviewing the case issued a temporary restraining order , delivering a near-term delay. Paramount had repeatedly said it intended to complete the transaction by the end of September. The agreement announced Friday says Paramount won't complete its acquisition until the court rules on the states' claims or until June 1, 2027, whichever comes first. In a statement Friday, Paramount called the agreement a \"significant win.\" \"The result is exactly what we have sought from the outset: a direct path to a trial based on the evidence. This is the fastest and clearest way to prove that this transaction is good for competition, good for consumers, and good for creators, a conclusion dozens of competition authorities around the world have already reached,\" the company said. \"Plaintiffs' market definitions bear no relationship to the realities of today's marketplace and cannot withstand scrutiny. We look forward to proving our case at trial.\" Under the terms of its agreement, Paramount will owe Warner Bros. Discovery shareholders a \"ticking fee\" the longer the deal is delayed, starting Sept. 30. The fee, an additional 25 cents per share, per quarter until closing, could amount to roughly $650 million in cash value every quarter. A delay as long as June 2027 could add roughly $1.7 billion to the deal price. Should the deal fall apart entirely, Paramount would owe WBD a $7 billion breakup fee. Paramount and WBD agreed to combine in February after the David Ellison-led company outbid Netflix . The $110 billion deal would bring together two major Hollywood studios, two popular streaming services and a host of TV networks. In June, the antitrust division of the U.S. Department of Justice cleared the proposed merger. Earlier this week, European antitrust regulators likewise granted their approval for the deal. But U.S. state officials have raised concerns that the tie-up would reduce competition and result in job losses in the film industry. \"Our argument against this illegal merger is straightforward: When too few corporations have too much power in markets central to American life, it makes things more expensive, and it makes things worse,\" Bonta said in a statement Friday. \"Today's agreement is great news for audiences, movie theaters, and the many people who write, build, and create the art, news, and entertainment so many of us enjoy. We are eager to continue to make our case in court and celebrate another tremendous win in our effort to ensure this unlawful merger never sees the light of day.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "published_at": "2026-07-24T20:58:47+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "72a399bc6eea2d3a5a8c",
+      "title": "Vitol Paid Out $5.9 Billion to Traders as Profit Halved in 2025",
+      "summary": "Commodity trading giant Vitol Group paid out $5.9 billion to its executives and senior staff through share buybacks last year, even as its profits more than halved to $4.2 billion.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/vitol-paid-out-5-9-billion-to-traders-as-profit-halved-in-2025",
+      "published_at": "2026-07-24T20:54:24+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.995,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8767d2d78f145df49883",
+      "title": "CFTC Warns Prediction Markets Over Blanket Self-Certifications",
+      "summary": "The Commodity Futures Trading Commission is tapping the brakes on prediction markets’ practice of “self-certifying” boilerplate contracts that could apply to myriad events.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/cftc-warns-prediction-markets-over-blanket-self-certifications",
+      "published_at": "2026-07-24T20:45:18+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.992,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "bf7f5ca5c88d74a0e943",
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "summary": "The AI buildout is eroding the free cash flow and increasing balance-sheet risk at hyperscalers like Alphabet and Microsoft, warned Moody's Ratings. In a research note released this week, Moody's highlighted stock sales and off-balance-sheet moves that \"threaten credit quality.\" The Moody's report tracks six companies, including Amazon, Meta, Oracle and CoreWeave. Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world. The race to build artificial intelligence infrastructure at a trillion-dollar annual clip is eroding the free cash flow and increasing balance-sheet risk at so-called hyperscalers, warned Moody's Ratings. In a research note released this week, Moody's said that the spending surge is forcing even the world's most cash-rich corporations like Alphabet and Microsoft to lean heavily on debt, stock sales and off-balance-sheet moves to fund their AI ambitions. \"Previously, these companies relied on asset-light structures centered on software, intellectual property, and scalable cloud services that required modest capital investment,\" Moody's said in the Wednesday note. \"The transition from asset-light to asset-heavy models requires unprecedented levels of investment and capital raising.\" The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report. The ratings firm projects that capital expenditures — or capex, which are investment for physical assets like data centers — will hit $785 billion in 2026 before reaching about $1 trillion next year. The shift breaks a decades-long Silicon Valley formula that created the world's most valuable companies. Software costs little to replicate, yielding fat profit margins and fortress balance sheets. Generative AI, by contrast, demands a vast physical footprint: warehouses crammed with expensive and energy-hungry servers and chips. To finance the expansion, tech giants are increasingly turning to Wall Street , resulting in booming profits for the financial industry. Direct debt across the six hyperscalers has reached approximately $460 billion, according to Moody's. Tech companies are also tapping public markets for cash, including Google-parent Alphabet, which last month announced an $85 billion equity sale . The ratings firm noted that because AI hardware and infrastructure require massive up-front investment while revenue materializes over a longer time horizon, free cash flow across the sector is coming under pressure. To keep direct debt off their balance sheets, hyperscalers are leaning on off-balance-sheet financing, mostly through long-term data center leases, the report explained. Moody's said that lease commitments across the group have ballooned to $1.2 trillion. More than $820 billion of that total is from leases that haven't started yet, meaning the data centers are still being built. While these obligations don't show up as traditional debt, Moody's says it considers them as debt-equivalent liabilities that will bind companies to significant rent payments down the line. Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat. The immediate pressure is concentrated on lower-rated entities like Oracle and specialized AI cloud provider CoreWeave. Oracle carries a rating of Baa2 with a negative outlook, placing it just two notches above junk status. Meanwhile, CoreWeave operates within the high-yield market with a Ba3 rating, relying on complex private debt structures to finance its GPU hardware fleets. Moody's also pointed to structural circularity within the AI boom. Some of the multibillion-dollar backlogs reported by hyperscalers stem from strategic deals with pre-IPO artificial intelligence labs including OpenAI and Anthropic, Moody's noted. The firms have invested billions into AI labs that, in turn, spend heavily on cloud computing from those same companies, creating what Moody's described as a circular AI ecosystem. The overlapping relationships heighten risks because many of the industry's biggest companies are increasingly dependent on the same AI customers and the same assumptions about future demand, Moody's said. Even so, the tech giants have significant strengths that help offset those risks. Demand for AI computing remains robust, cloud businesses continue to grow and hyperscalers have signed hundreds of billions of dollars in long-term customer contracts that should provide predictable revenue. Those deals support the industry's largely-strong credit profiles, even amid the spending boom. Still, investors should recognize that the tech industry's financial profile is undergoing a structural change unlike anything seen in the cloud era, according to Moody's.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "published_at": "2026-07-24T20:33:21+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9b34e8726f158785bb8a",
+      "title": "FDA advisers say six popular peptides can be compounded. Here are the issues they considered.",
+      "summary": "A group of experts, some of whom work in the peptide industry, said the Food and Drug Administration should allow six peptides to be compounded, in a move that could widen access to the popular wellness products for Americans.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T20:26:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "89b0895eecad66ae1ea5",
+      "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
+      "summary": "President Donald Trump defended his Department of Justice's issuance of subpoenas to New York Times reporters. A court filing revealed that Google also received a subpoena in the same criminal investigation of the leak of information about the president's new Air Force One plane. President Donald Trump on Friday defended his Department of Justice 's issuance of subpoenas to New York Times reporters, as it was revealed that Google also received a subpoena in the same criminal investigation of the leak of information about the president's new Air Force One plane. Trump's comments on the subpoenas came a day after the DOJ told a New York federal judge it was withdrawing those subpoenas for grand jury testimony by Times reporters and their phone records. The DOJ is investigating the leak of concerns about the security measures on the president's Qatari-donated plane, which the Times wrote about earlier in July. Judge Arun Subramanian had warned prosecutors on Thursday that if they did not voluntarily withdraw the subpoenas, he would quash them. \"We're not after journalists,\" Trump told reporters in the Oval Office on Friday. \"We're after leakers. We're after people that are cowards, people that are unpatriotic, people that are treasonous in many cases.\" \"And the way you find them is through journalists,\" the president said. Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham \"That person should be found, and the way you find them is to tell the journalist, if it's something having to do with national security, you tell the journalist: 'Who is it?' \" Trump said. \"And we have a long way to go with that case,\" he added. At around the same time that Trump was talking, a letter that lawyers for Google sent Friday to Subramanian was unsealed in U.S. District Court in Manhattan on the order of the judge. The letter revealed that Google on July 16 was issued a subpoena from a grand jury at the behest of the DOJ seeking \"subscriber information associated with a phone number.\" The subpoena was sent to Google a day after lawyers for the Times moved to quash subpoenas issued to their reporters. Google also received on July 16 an order not to disclose to the phone number subscriber that fact that it had received a subpoena for their information. In their letter on Friday, Google's lawyers asked Subramanian to vacate the non-disclosure order, which had been signed by a magistrate judge, arguing that the order violates the First Amendment of the Constitution, which established the right to free speech. \"The government has admitted that, at the time of its application for the NDO, it 'inadvertently included language that the investigation was \"not public\" when the fact of the investigation was public,' \" the letter said. Subramanian granted the request to vacate the NDO, a court filing shows.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
+      "published_at": "2026-07-24T20:23:12+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.985,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "90e3f236f1474b960663",
+      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "summary": "SpaceX dropped about 7% for the week ahead of a planned test flight of its massive Starship V3 rocket on Friday. With the stock slides, Musk's wealth dropped by roughly $130 billion. It was a rough week for Elon Musk . Tesla shares plunged 18% during the week to close at $313.03 on Friday, their worst weekly slump since 2022. And SpaceX continued its downward slide, dropping 7.2% over five days to close at $115.07 Friday, its lowest since the company's record IPO last month. The declines in both stocks wiped away about $130 billion of Musk's wealth, weeks after he'd become the world's first trillionaire. In a post on X on Friday, Musk wrote, \"(Former) trillionaire.\" Tesla's slump was spurred by weaker-than-expected earnings when the electric vehicle maker reported second-quarter results late Wednesday. The company turned cash flow negative due to a surge in spending on futuristic projects like robotaxis, humanoid robots and a giant chip fab. \"We expect this to pressure free cash flow and delay earnings growth, without providing any near-term shareholder return,\" wrote analysts at Argus Research, which has a hold rating on the stock, in a report on Friday. \"We believe it will be nearly impossible for Tesla to generate any consistency in profit growth in the near-term.\" Tesla's stock is now down 30% for the year, by far the worst performer among tech's megacaps. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide Meanwhile, SpaceX's stock has been on a steady downward trajectory over the past month following an initial pop when the company went public. The shares have dropped for four of the past five weeks and are about 43% off their peak close on June 16. On Friday evening, SpaceX will again attempt the 13th test flight of Starship , the largest rocket ever built or flown. The company plans to fly the new version of the rocket, Starship V3, from its company town and launch facility in Starbase, Texas. The rocket is designed to be fully reusable and is considered crucial for SpaceX's near-term aims to vastly grow its Starlink satellite network. In a post on X, which is owned by SpaceX, the company said it delayed the test flight planned for Thursday \"due to weather.\" SpaceX previously scrubbed a test flight last week, after the rocket's booster triggered a hold, which \"shut down the engines right as they were starting to ignite,\" a SpaceX employee said during a livestream of the event. A successful launch of Starship V3, an upgraded version of its roughly 400-foot-tall rocket, would be the first since the company's IPO. SpaceX plans to use Starship to bring U.S. astronauts back to the Moon's surface, and Musk wants the rocket to eventually run manned missions to Mars. Musk made a public appearance this week, sitting down for what turned out to be a contentious interview with The Economist. Zanny Minton Beddoes, editor-in-chief of the publication, asked Musk about his support for \"not just the populist right, but the far right, in fact very fringe parties in some countries.\" In addition to his financial and vocal support for President Donald Trump , including his work for the second administration, Musk has endorsed Germany's AfD, an extreme anti-immigrant party, as well as the UK's Restore Britain, founded by Rupert Lowe, who also calls to \"reverse mass migration.\" \"It's just normal people!\" Musk said in response. He berated Beddoes and \"the traditional media\" for an \"absurd characterization of the far right.\" WATCH: SpaceX learning as much as it can about newest rocket",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+      "published_at": "2026-07-24T20:20:05+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.984,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "924c5f47f5d0c101aa2a",
+      "title": "Oil Prices Volatile as Supply Disruptions Hit Four Global Fronts",
+      "summary": "Brent futures surged past $100 a barrel as the conflict in the Middle East widens and Ukraine strikes Russian infrastructure.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/features/2026-07-24/oil-prices-volatile-as-supply-disruptions-hit-four-global-fronts",
+      "published_at": "2026-07-24T20:15:20+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": -0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "581a5f131c48d23fad23",
+      "title": "Wall Street Bulls Are Staring Down $100 Oil, Tariffs, AI Angst",
+      "summary": "Every bull market has a recurring cast of villains. Oil shocks. Inflation. Rising bond yields. Trade wars. This week, investors had to contend with all of them at once.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/wall-street-bulls-are-staring-down-100-oil-tariffs-ai-angst",
+      "published_at": "2026-07-24T20:12:40+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "dollar",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.982,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6ad9f519ab12ed808747",
+      "title": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
+      "summary": "My emergency fund is running out — I thought I did everything right",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+      "published_at": "2026-07-24T20:11:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.981,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "523ab91d5b638cda2feb",
       "title": "Bond market anxiety is growing over AI capex budgets",
@@ -54,7 +601,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.999,
+      "recency_weight": 0.98,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -68,47 +615,6 @@
           "能源/避险/通胀预期",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e7f7a4318a1b051a14e6",
-      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
-      "summary": "Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027. It had previously said it intended to complete the transaction by the end of September. The merger is facing a lawsuit from a group of state attorneys general who have said it raises antitrust concerns. Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027 — a multi-month delay that will ultimately raise the deal price — as the tie-up faces a legal challenge. Last week, a group of state attorneys general led by California's Rob Bonta sued to block the deal over antitrust concerns. On Monday, a judge reviewing the case issued a temporary restraining order , delivering a near-term delay. Paramount had repeatedly said it intended to complete the transaction by the end of September. Yet in a statement Friday, Paramount called the agreement a \"significant win.\" \"The result is exactly what we have sought from the outset: a direct path to a trial based on the evidence. This is the fastest and clearest way to prove that this transaction is good for competition, good for consumers, and good for creators, a conclusion dozens of competition authorities around the world have already reached,\" the company said. \"Plaintiffs' market definitions bear no relationship to the realities of today's marketplace and cannot withstand scrutiny. We look forward to proving our case at trial.\" This is breaking news. Please refresh for updates.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
-      "published_at": "2026-07-24T20:06:10+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.999,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -147,7 +653,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.998,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -159,47 +665,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6631b7ed9a32b0bf3b02",
-      "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
-      "summary": "President Donald Trump defended his Department of Justice's issuance of subpoenas to New York Times reporters. A court filing revealed that Google also received a subpoena in the same criminal investigation of the leak of information about the president's new Air Force One plane. President Donald Trump on Friday defended his Department of Justice's issuance of subpoenas to New York Times reporters, as it was revealed that Google also received a subpoena in the same criminal investigation of the leak of information about the president's new Air Force One plane. Trump's comments on the subpoenas came a day after the DOJ told a federal judge in New York that it was withdrawing those demands for grand jury testimony by Times reporters and their phone records in connection with an article about the president's Qatari-donated plane. Judge Arun Subramanian had warned prosecutors that if they did not voluntarily withdraw the subpoenas, he would quash them. \"We're not after journalists,\" Trump told reporters in the Oval Office. \"We're after leakers. We're after people that are cowards, people that are unpatriotic, people that are treasonous in many cases.\" \"And the way you find them is through journalists,\" the president said. Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham \"That person should be found, and the way you find them is to tell the journalist, if it's something having to do with national security, you tell the journalist: 'Who is it?' \" Trump said. \"And we have a long way to go with that case,\" he added. This is breaking news. Please refresh for updates.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
-      "published_at": "2026-07-24T20:02:44+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.998,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -235,7 +700,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.996,
+      "recency_weight": 0.977,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -277,7 +742,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.994,
+      "recency_weight": 0.976,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "aa43e059ce2cf05aee6a",
+      "title": "US Cattle Herd Grows Slightly in Potential Sign of Rebuilding",
+      "summary": "The US cattle herd grew modestly from the prior year, in a signal that ranchers may be starting to retain more animals following a historic shortage.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/us-cattle-herd-grows-slightly-in-potential-sign-of-rebuilding",
+      "published_at": "2026-07-24T19:51:03+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.975,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -318,7 +824,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.993,
+      "recency_weight": 0.974,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -364,7 +870,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.991,
+      "recency_weight": 0.972,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -407,7 +913,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.99,
+      "recency_weight": 0.971,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -450,7 +956,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.987,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -492,7 +998,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.987,
+      "recency_weight": 0.969,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -533,7 +1039,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.984,
+      "recency_weight": 0.966,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -574,7 +1080,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.983,
+      "recency_weight": 0.964,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -628,7 +1134,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.981,
+      "recency_weight": 0.963,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -675,7 +1181,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.981,
+      "recency_weight": 0.963,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -717,7 +1223,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.979,
+      "recency_weight": 0.961,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -763,7 +1269,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -805,7 +1311,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -846,7 +1352,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.977,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -887,7 +1393,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.977,
+      "recency_weight": 0.958,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -906,7 +1412,7 @@
     {
       "event_id": "74b985fc480bb67dfd19",
       "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
-      "summary": "President Donald Trump told Axios he was mulling a \"massive attack\" on Iran, without giving a deadline for when he would make a decision. Pakistan is looking for ways to restart stalled peace talks between the U.S. and Iran, Reuters reported. Stocks rose, and oil prices fell as investors grew hopeful that the warring powers could find an off-ramp from their path of escalating hostilities. President Donald Trump said he will soon make a decision on whether to launch a \"massive attack\" on Iran after the conflict in the Middle East extended to a new battleground in the Red Sea . At the same time, Pakistan is looking for ways to restart stalled peace talks between the U.S. and Iran, Reuters reported Friday morning, citing three Pakistani sources. Stocks rose , and oil prices fell following that report, which gave investors new hope that the warring powers could find an off-ramp from their path of escalating hostilities. Speaking to Axios on Thursday, the president said that the proposed strikes would be bigger than anything seen in the war so far, and that Iran has not \"received enough pain yet.\" \"I am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it,\" Trump said in the interview. U.S. forces have pummeled Iranian targets over the past two weeks, with Central Command completing a 13th consecutive night of strikes overnight. Iran officials have remained publicly defiant. But this week Iranian Interior Minister Eskandar ​Momeni visited Islamabad for the second time in 10 days to participate in exploratory discussions, according to Reuters. Momeni, who is seen as being allied with Iran's Revolutionary Guard, met with Pakistani leaders and its defense chief, Asim Munir, during his latest trip, the report said. The drive by Pakistan, a mediator throughout the U.S.' nearly five-month-long war with Iran, to find a diplomatic path forward came after a push initiated by China, Iran's largest trading partner, Reuters reported. Defense Secretary Pete Hegseth told the Senate Appropriations Committee this week that Russia and China \"are, at different levels, enabling some of the things Iran is doing.\" But Trump said in a Truth Social post Friday morning that, based on assurances he received from Russian President Vladimir Putin and Chinese leader Xi Jinping , the \"two major Countries that people speak of often in terms of Iran are, in my opinion, not participating.\" \"If they did, it would be very bad for them — Certainly not in their best interests,\" Trump wrote, citing their assurances. Trump did not give a deadline for when he would make a decision about a major attack on Iran, according to Axios. He said Israel would join the operation \"in two minutes if I ask them to,\" but that Israel would potentially face retaliation from Iran if it did take part. The president also repeated his claim Iran wants to negotiate, but added that Tehran is not yet ready to make a deal with the U.S. On Thursday, Trump said he would hold Iran responsible for further attacks by Yemen's Tehran-backed Houthis, after the militant group claimed to have struck two Saudi oil tankers in the Red Sea. \"If they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves,\" he said in a Truth Social post . The Houthis declared a maritime embargo against Saudi Arabia on Monday, threatening to cut off the kingdom's oil exports through the Red Sea and the Bab el-Mandeb Strait. Iran's Revolutionary Guard said Thursday that it had attacked U.S. military facilities at an American military base in Jordan, according to state media. Speaking to reporters on Thursday, Secretary of State Marco Rubio labeled Trump's approach to the Iran war as \"a head for an eye.\" \"Honestly, that's what it's going to be,\" he said. \"They will pay a very heavy price for the things they're doing. They're already paying a very heavy price.\" Meanwhile, the U.K. said it \"stands ready 24/7 to defend itself\" after Iran labeled the country an \"accomplice\" to the U.S. over the use of British military bases by American forces. Shortly after the start of the U.S.-Iran war, the U.K. gave permission for the U.S. to use British bases for defensive operations. That agreement was extended last week, and has not been changed by the U.K.'s new prime minister, Andy Burnham. Tehran’s Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night Iran says it attacked Amazon infrastructure in Bahrain U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war Strait of Hormuz shutdown: A visual guide to the world's most critical oil chokepoint Oil markets are betting on a swift end to the Iran war.",
+      "summary": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -917,7 +1423,6 @@
       "sentiment": 0.35,
       "affected_tags": [
         "broad_equity",
-        "energy",
         "geopolitical",
         "gold",
         "macro",
@@ -930,10 +1435,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "regime",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.974,
+      "impact_score": 12.88,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -953,7 +1458,7 @@
     {
       "event_id": "e1fe4f9cc3eaf392ba38",
       "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
-      "summary": "The two key Middle East oil chokepoints, the Strait of Hormuz and Bab el-Mandeb Strait, are now under simultaneous threat from Iran and its Houthi allies. In Europe, the Ukrainians are stepping up attacks on tankers and other ships associated with Russia in the Black Sea and Sea of Azov. The Caspian Pipeline Corporation suspended loadings due to Ukrainian attacks, jeopardizing Kazakhstan's oil production. Oil tankers are increasingly coming under fire on several fronts as economic warfare is deployed as a weapon in the escalating conflicts in the Middle East and Europe. Iran has stepped up its attacks on tankers in and around the Strait of Hormuz this month as it tries to impose its control over the crucial oil corridor. Tehran's Houthi allies in Yemen opened a second front this week, firing on two Saudi tankers in the Red Sea after declaring a maritime embargo against Riyadh. Ukraine, meanwhile, says it has attacked more than 150 tankers, cargo ships, and other vessels associated with Russia's shadow fleet in the Sea of Azov and Black Sea, according to the Kyiv Post . The oil market is now dealing with wars on multiple fronts, Helima Croft, head of global commodity strategy, told CNBC's \"Power Lunch\" on Thursday. Oil prices have surged more than 30% in July with Brent crude breaking $100 per barrel on Thursday for the first time since May, as the security situation has rapidly deteriorated in the southern Red Sea and Hormuz. Ship traffic through Hormuz has plunged after rebounding in the weeks following the memorandum of understanding signed by the U.S. and Iran on June 17 to reopen the strait. \"After the collapse of the MOU, we have entered the worst phase of this conflict for merchant shipping,\" said Dimitris Maniatis, CEO of the maritime risk service Marisks, headquartered in Athens, Greece. \"The primary reason is the fact that the Iranians want to assert more authority and control over what is happening in the Strait of Hormuz,\" Maniatis said. Some 61 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz, and Gulf of Oman since March 1, resulting in the deaths of at least 17 seafarers and dozens of injuries, according to the International Maritime Organization , a United Nations agency. At least a dozen tankers have been struck this month in and around Hormuz, killing at least two seafarers, as fighting sharply escalates between the U.S. and Iran, according to the IMO data. The Red Sea attacks now threaten millions of barrels per day of oil that the Saudis redirected through a pipeline to its western coast amid to the security situation in Hormuz. The Saudi exports transit through the Bab el-Mandeb Strait, a chokepoint that links the Red Sea to the Gulf of Aden. \"The Iranians and the Houthis together now are implementing a very significant blow to American national interests, the American oil companies and of course Saudi Arabia,\" Maniatis said. \"But they're not managing to entirely choke exports.\" Houthi attacks on ships in the Red Sea from 2023 to 2025 in response to Israel's war in Gaza dramatically reduced traffic through the Bab el-Mandeb. Shipping through the strait had still not fully recovered. The Saudis can redirect some oil through a pipeline that stretches from a port on the Red Sea across Egypt to the Mediterranean but the logistics are complex, said Matt Smith, director of commodity research at Kpler. Supertankers cannot transit the Suez Canal fully loaded because the channel is too shallow, Smith said. The Saudis would have to unload half the cargo at the port of Ain Sokhna, pipe it through to the port of Sidi Kerir, send the supertanker through Suez and retrieve the oil on the other side, he said. The supertanker would then face a much longer journey around Africa to destinations in Asia, and would have to return on the same route through the Suez due to Houthi threats at the Bab el-Mandeb, Smith said. The roundtrip journey would take around eight weeks, he said. Oil shipments by sea from the Middle East are increasingly facing a \"no-way out\" scenario due to the disruptions in the Red Sea, Croft said. In the Black Sea, meanwhile, the Caspian Pipeline Consortium has stopped loading tankers at the Russian port of Novorossiysk due to attacks on vessels. Kazakhstan exports about 80% of its crude oil through that pipeline, Croft said in a note to clients this week. The Kazakhs have limited alternatives to the pipeline, which means their production of around 1.7 million bpd in June, could face shut-ins, Croft said. The Ukrainians have also pounded Russian refineries, resulting in more than 50% of the country's capacity coming offline, the analyst said. \"Russia has now put a export ban on products and their refineries have been hit so massively by Ukraine,\" Croft told CNBC. \"Russia is one of the largest product exporters, one the largest diesel exporters. It's really tightening the products market as well as the crude market.",
+      "summary": "More than 60 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz and Gulf of Oman since March 1.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -980,7 +1485,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.974,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1022,7 +1527,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.974,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1072,7 +1577,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.971,
+      "recency_weight": 0.953,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1123,194 +1628,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.97,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9e6692088dc6e19402c8",
-      "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them more?",
-      "summary": "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T18:31:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.969,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6f24bc2f463476abcf97",
-      "title": "Can AI-powered ETFs beat the stock market?",
-      "summary": "“So far, AI isn’t poised to steal portfolio managers’ jobs.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/can-ai-powered-etfs-beat-the-stock-market-c5be6a9b?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T18:31:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.969,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "fad4e62bf12376e27b6e",
-      "title": "Why bond investors are pushing up some of your interest rates",
-      "summary": "The Federal Reserve sets national interest rate policy. But some kinds of consumer debt, including mortgages and auto loans, are generally influenced by the yields on 10-year U.S. Treasury bonds. Treasury yields closed at their highest level since January 2025 on Thursday. Bond investors influence those yields via expectations around factors like inflation. The Federal Reserve sets national interest rate policy . But the U.S. central bank isn't the only major player in this arena: Bond investors also have a big influence on consumers' borrowing costs. Many types of consumer loans — such as mortgages and auto loans — often peg their interest rates to 10-year U.S. Treasury bonds . That means their rates move higher when 10-year Treasury yields increase, and vice versa. Those bond yields have increased steadily over the past several months. The 10-year Treasury yield was about 4.7% as of market close on Thursday, its highest level since January 2025. The rates on 30-year fixed mortgages on Thursday — about 6.6% — rose to their highest since August 2025, according to weekly data posted by Freddie Mac. Those on 15-year fixed-rate mortgages increased to about 6% this week, the highest since June 2025, Freddie Mac said. Those price pressures come amid others for households, economists said. Average gasoline prices topped $4 a gallon again this week amid renewed tensions in the Iran war, according to data from the Energy Information Administration. The Trump administration also imposed a slew of new tariffs on dozens of countries on Friday. These import taxes raise costs for consumers and businesses, according to economists. Trump Accounts: Who is eligible, how $1,000 deposits work and how to open one Student loan borrowers on new RAP plan can lose key benefits if they pay late AI can make you 'boring' at work, professor says: How to avoid the pitfalls AARP to Congress: 'We strongly object to fast-tracking Social Security changes' CNBC's Financial Advisor 100: Best financial advisors, top firms ranked CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026 Inflation across the U.S. economy has also been above policymakers' target for more than five years, and the financial cushion provided by relatively high tax refunds this spring appears to have waned, economists said. The rise in Treasury yields is \"just another drag for households when you've got affordability hits elsewhere,\" said Thomas Ryan, a North America economist at Capital Economics. \"And we don't see much relief in terms of the borrowing cost side of things,\" he said. Why have Treasury yields increased? The Fed sets an interest-rate benchmark known as the federal funds rate. That benchmark has a direct impact on shorter-term interest rates, like those for credit cards and other variable-rate loans, said Chad NeSmith, a certified financial planner and director of investments at Tobias Financial Advisors, based in Plantation, Florida. But bond investors tend to have a much greater influence over the movement of 10-year Treasury yields and those of other longer-term bonds. More specifically, it's investors' expectations for future inflation and the trajectory of Fed interest rate policy that guide bond yields up or down, experts said. For example, if bond investors expect inflation to move higher, they will demand a higher yield on longer-term Treasury bonds to compensate for the risk of inflation eroding their future returns, experts said. \"It's investors pricing their own reality, and that has a big knock-on effect on consumers in terms of what [rates] they can borrow at,\" Ryan said. In this case, many factors are feeding into investor anxieties about inflation, such as oil prices , which jumped sharply in July as tensions in the Middle East have ratcheted upward. Sustained high oil prices can filter through to prices across the U.S. economy, for things like airline tickets, transportation and goods, NeSmith said. Capital Economics expects the Fed to raise interest rates three times this year, not necessarily in response to high oil prices but more so \"a broader view that inflation looks hot,\" Ryan said. Homeownership likely the biggest impact Consumers will largely feel the impact of higher Treasury yields in their ability to buy or sell a home, NeSmith said. Mortgage rates are more than double what they were during the Covid-19 pandemic, for example, and they could move above 7%, experts said. \"It will increase the lock-in effect in the housing market, where they feel trapped,\" NeSmith said. Consumers who can't find an affordable rate for auto loans might forgo buying a new car, for example, he said. \"It just slows spending, because people have to borrow so much more,\" NeSmith said.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
-      "published_at": "2026-07-24T18:29:56+00:00",
-      "event_type": "macro",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.968,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a80a9ca791af9ff1fc75",
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-      "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-      "published_at": "2026-07-24T18:20:17+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.965,
+      "recency_weight": 0.952,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1356,7 +1674,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.96,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1402,7 +1720,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.958,
+      "recency_weight": 0.939,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1449,7 +1767,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.955,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1492,7 +1810,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.949,
+      "recency_weight": 0.931,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1538,7 +1856,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.947,
+      "recency_weight": 0.929,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1584,7 +1902,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1626,7 +1944,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.937,
+      "recency_weight": 0.919,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1672,7 +1990,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.933,
+      "recency_weight": 0.915,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1716,7 +2034,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.927,
+      "recency_weight": 0.909,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1762,7 +2080,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.926,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1804,7 +2122,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.921,
+      "recency_weight": 0.904,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1849,7 +2167,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.917,
+      "recency_weight": 0.9,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1891,130 +2209,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.914,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "99c3e11a87c5c0c3f871",
-      "title": "PE-Backed Robotics Firm Brooks Automation Said to Weigh IPO",
-      "summary": "Brooks Automation, a robotics and software automation company backed by Thomas H. Lee Partners, is considering an initial public offering, according to people familiar with the matter.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/pe-backed-robotics-firm-brooks-automation-is-said-to-weigh-ipo",
-      "published_at": "2026-07-24T15:04:41+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.907,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a4c99a7fd19a20ebae81",
-      "title": "Trump’s Saudi Deal Spurs Watchdog Interest in Nuclear Settlement",
-      "summary": "Donald Trump’s plans for a nuclear deal with Saudi Arabia are bringing tensions between US and South Korean reactor developers to the fore, surfacing details of a clash over market access that has garnered interest from regulators.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/trump-s-saudi-deal-spurs-watchdog-interest-in-nuclear-settlement",
-      "published_at": "2026-07-24T15:04:07+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.906,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "70bf43aa00df710a74cf",
-      "title": "Pork Struggles to Gain Ground Even in Middle of Protein Craze",
-      "summary": "In a time of belt-tightening and America’s protein obsession, pork should be on a winning streak. It’s cheap compared with beef, which is climbing to record high prices, and it’s the type of clean protein consumers can’t seem to get enough of.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/pork-struggles-to-gain-ground-even-in-middle-of-protein-craze",
-      "published_at": "2026-07-24T15:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2060,7 +2255,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2102,7 +2297,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.903,
+      "recency_weight": 0.886,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2148,7 +2343,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.897,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2191,7 +2386,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.891,
+      "recency_weight": 0.874,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2238,7 +2433,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.891,
+      "recency_weight": 0.874,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2285,7 +2480,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.89,
+      "recency_weight": 0.873,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2334,7 +2529,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.889,
+      "recency_weight": 0.872,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2375,7 +2570,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2419,7 +2614,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.887,
+      "recency_weight": 0.87,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2437,9 +2632,50 @@
       }
     },
     {
+      "event_id": "34fa886e96f18cdfcad9",
+      "title": "Miner Cadillac, Backers Raise C$385 Million in Canada IPO",
+      "summary": "Cadillac Mines Corp. and some of its backers raised C$385 million ($273 million) in an upsized initial public offering, adding to the mining-driven rebound of listing activity in Canada.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/gold-miner-cadillac-backers-raise-c-385-million-in-canada-ipo",
+      "published_at": "2026-07-24T13:32:39+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.863,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
       "event_id": "8a3da716d954d78b5673",
       "title": "BlackRock Gets Soft Demand for Bond Sale After AI Debt Selloff",
-      "summary": "BlackRock Inc. has seen weak demand for a $12.3 billion high-grade bond sale to fund a Meta Platforms Inc. data center project, as investors grapple with concerns about excessive AI infrastructure spending.",
+      "summary": "BlackRock Inc. has seen weaker-than-usual demand for a corporate bond sale tied to a Meta Platforms Inc. data center project in Texas, as investors grapple with concerns about excessive AI infrastructure spending.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2447,7 +2683,7 @@
       "published_at": "2026-07-24T13:09:57+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": -0.55,
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
@@ -2465,7 +2701,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.874,
+      "recency_weight": 0.857,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2512,7 +2748,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.874,
+      "recency_weight": 0.857,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2562,7 +2798,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.872,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2581,29 +2817,25 @@
       }
     },
     {
-      "event_id": "686b94c78ca7b93a7374",
-      "title": "S&P 500 Rebounds as Strong Profits Offset War, Tech Bubble Fears",
-      "summary": "The S&amp;P 500 Index rebounded Friday, closing out a dizzying week as generally strong corporate earnings calmed markets that have been rattled by the oil-price spike and cracks in the AI-fueled tech stock rally.",
+      "event_id": "8d3090d8ed41cad37522",
+      "title": "Nasdaq 100 Tumbles as Oil Spike, AI Jitters Hit Tech Stocks",
+      "summary": "The Nasdaq 100 Index tumbled Friday, capping its first back-to-back weekly loss since late March as it was dragged down by the oil-price spike and a selloff in the tech stocks that once surged on the back of the AI investment boom.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
       "published_at": "2026-07-24T12:39:22+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
-        "corporate",
         "energy",
-        "geopolitical",
-        "gold",
         "growth",
         "macro",
         "market",
         "oil",
-        "safe_haven",
         "semiconductor",
         "tech"
       ],
@@ -2612,10 +2844,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "regime",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.865,
+      "impact_score": 7.36,
+      "recency_weight": 0.849,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2627,7 +2859,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -2659,7 +2890,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.857,
+      "recency_weight": 0.841,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2709,7 +2940,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.851,
+      "recency_weight": 0.835,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2757,7 +2988,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.839,
+      "recency_weight": 0.823,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2804,7 +3035,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2846,7 +3077,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2892,7 +3123,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2939,7 +3170,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.83,
+      "recency_weight": 0.814,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2957,9 +3188,9 @@
       }
     },
     {
-      "event_id": "6822601fe9117097db11",
-      "title": "Dollar Heads for Its Best Week in a Month as Haven Demand Rises",
-      "summary": "The dollar is set for its best week in a month as investors return to the traditional haven amid heightened geopolitical tensions.",
+      "event_id": "a30743379e27ada08892",
+      "title": "Dollar Wraps Its Best Week in a Month as Haven Demand Rises",
+      "summary": "The dollar finished its best week in a month as investors returned to the traditional haven amid heightened geopolitical tensions.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2981,7 +3212,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.825,
+      "recency_weight": 0.81,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3026,7 +3257,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3072,7 +3303,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.803,
+      "recency_weight": 0.787,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3119,7 +3350,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.74,
+      "recency_weight": 0.726,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3131,93 +3362,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "fe01f228fe661542ae71",
-      "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
-      "summary": "The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
-      "published_at": "2026-07-24T02:42:21+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.714,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "298e6e4a12be5a7e654a",
-      "title": "Modi Seeks to Calm Anger as India Student Protests Widen",
-      "summary": "Indian Prime Minister Narendra Modi made a fresh bid to calm mounting anger over examination paper leaks as students continued nationwide protests on Friday, with demands growing for the education minister to step down.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/modi-seeks-to-calm-anger-in-rare-video-as-india-protests-widen",
-      "published_at": "2026-07-24T01:01:32+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.692,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3248,7 +3392,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.688,
+      "recency_weight": 0.675,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3293,98 +3437,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.686,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6bbe07bd96504ddeb882",
-      "title": "Gold Edges Up as Traders Weigh Mideast Conflict, Fed Rate Path",
-      "summary": "Gold edged higher, holding firmly above the key resistance point of $4,000 an ounce even as the widening conflict in the Middle East fuels expectations for tighter monetary policy.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/gold-holds-decline-as-surging-energy-costs-raise-rate-hike-bets",
-      "published_at": "2026-07-23T23:37:23+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
       "recency_weight": 0.673,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5bc79f7264695cfd87a8",
-      "title": "Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation",
-      "summary": "Robotics startup Genesis AI is in talks with investors to raise around $500 million in a new funding round, according to people familiar with the efforts.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million",
-      "published_at": "2026-07-23T22:20:13+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.657,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3433,7 +3486,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.654,
+      "recency_weight": 0.641,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3479,7 +3532,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.654,
+      "recency_weight": 0.641,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3525,7 +3578,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.642,
+      "recency_weight": 0.63,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3565,7 +3618,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3608,7 +3661,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3654,7 +3707,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3700,7 +3753,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3749,7 +3802,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3799,7 +3852,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3849,7 +3902,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3899,7 +3952,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3940,7 +3993,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.637,
+      "recency_weight": 0.625,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3981,7 +4034,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.63,
+      "recency_weight": 0.618,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4026,7 +4079,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.63,
+      "recency_weight": 0.618,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4044,8 +4097,8 @@
       }
     },
     {
-      "event_id": "235ae6905f64b9aea21a",
-      "title": "Intel’s Bombshell Results Still Leave Questions About Customers",
+      "event_id": "5df71b38e8cfe33223f8",
+      "title": "Intel’s Rosy Results Still Leave Questions About Customers",
       "summary": "Intel Corp.’s upbeat quarterly report, which handily beat Wall Street estimates, still left a major question: how soon the chipmaker will line up outside customers for its factories.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
@@ -4072,7 +4125,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4114,7 +4167,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.593,
+      "recency_weight": 0.582,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4155,7 +4208,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.585,
+      "recency_weight": 0.574,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4194,7 +4247,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.559,
+      "recency_weight": 0.549,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4235,7 +4288,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4284,7 +4337,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4331,7 +4384,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.368,
+      "recency_weight": 0.361,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -4371,7 +4424,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.352,
+      "recency_weight": 0.346,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4414,7 +4467,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 6.0,
-      "recency_weight": 0.346,
+      "recency_weight": 0.339,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4455,7 +4508,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4468,55 +4521,6 @@
           "国防/安全事件"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "bb9caaf21791b3b2ea15",
-      "title": "WDC SEC 4: PRIMARY DOCUMENT",
-      "summary": "WESTERN DIGITAL CORP (WDC) filed SEC Form 4. Filing date: 2026-07-21. Form 4 detail: 07/20/2026 code M acquired 13 (1) shares at $0.0; 116,656 shares held after; 07/20/2026 code F disposed 1,309 (2) shares at $487.42; 115,347 shares held after; 07/21/2026 code S disposed 808 shares at $529.63; 114,539 shares held after. Notes: RSU vesting disclosed. Report date: 2026-07-20. Description: PRIMARY DOCUMENT. Accession: 0001266824-26-000160.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000160/xslF345X06/edgardoc.xml",
-      "published_at": "2026-07-21T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "4",
-        "corporate",
-        "datacenter",
-        "growth",
-        "insider",
-        "memory",
-        "sec",
-        "semiconductor",
-        "storage",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "4",
-        "insider"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
         "fetch_status": "live"
       }
     }
@@ -4904,7 +4908,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-24T19:47:47+00:00",
+      "latest_published_at": "2026-07-24T20:54:24+00:00",
       "warning": null
     },
     {
@@ -4913,7 +4917,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-24T18:01:59+00:00",
+      "latest_published_at": "2026-07-24T20:45:18+00:00",
       "warning": null
     },
     {
@@ -4922,7 +4926,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-24T19:31:00+00:00",
+      "latest_published_at": "2026-07-24T20:26:00+00:00",
       "warning": null
     },
     {
@@ -4931,7 +4935,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-24T20:07:36+00:00",
+      "latest_published_at": "2026-07-24T21:09:24+00:00",
       "warning": null
     },
     {
@@ -4940,7 +4944,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 8,
-      "latest_published_at": "2026-07-23T21:00:00+00:00",
+      "latest_published_at": "2026-07-24T21:00:00+00:00",
       "warning": null
     }
   ],
