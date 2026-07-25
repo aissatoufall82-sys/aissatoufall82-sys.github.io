@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T06:10:07.961753+00:00",
-  "generated_at_local": "2026-07-25 14:10:07 北京时间",
-  "next_update_at_local": "2026-07-25 15:10:00 北京时间",
+  "generated_at": "2026-07-25T07:10:19.906518+00:00",
+  "generated_at_local": "2026-07-25 15:10:19 北京时间",
+  "next_update_at_local": "2026-07-25 16:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -579,6 +579,44 @@
       "in_event_ledger": false
     },
     {
+      "id": "0f41c5fa19dc5534ede3",
+      "title": "Big Asia Stock Funds Turn to Laggards to Cut Risk From AI Swings",
+      "translation_label": "原文中文译读",
+      "translation": "亞洲大型股票基金轉向滯漲股以降低人工智能波動帶來的風險。亞洲投資者正在搶購從印尼銀行股到中國電子商務巨頭以及印度科技公司的股票，同時削減對日益波動的熱門人工智能交易的押注。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-asia-stock-funds-turn-to-laggards-to-cut-risk-from-ai-swings",
+      "source": "Bloomberg Technology",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-25T00:00:00+00:00",
+      "pick_score": 97,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "6494f6bbfe9f272a8c52",
       "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
       "translation_label": "原文中文译读",
@@ -592,7 +630,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-24T22:43:56+00:00",
-      "pick_score": 97,
+      "pick_score": 96,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -632,7 +670,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-24T21:57:01+00:00",
-      "pick_score": 97,
+      "pick_score": 96,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -651,44 +689,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "0f41c5fa19dc5534ede3",
-      "title": "Big Asia Stock Funds Turn to Laggards to Cut Risk From AI Swings",
-      "translation_label": "原文中文译读",
-      "translation": "亞洲大型股票基金轉向滯漲股以降低人工智能波動帶來的風險。亞洲投資者正在搶購從印尼銀行股到中國電子商務巨頭以及印度科技公司的股票，同時削減對日益波動的熱門人工智能交易的押注。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-asia-stock-funds-turn-to-laggards-to-cut-risk-from-ai-swings",
-      "source": "Bloomberg Technology",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T00:00:00+00:00",
-      "pick_score": 97,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -875,20 +875,20 @@
       "in_event_ledger": true
     },
     {
-      "id": "1b23bf61b2a11bd6770e",
-      "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
+      "id": "19f715d2f47196753cc1",
+      "title": "Samsung Inks $200 Billion Chip Supply with Broadcom",
       "translation_label": "原文中文译读",
-      "translation": "SK集团会长崔泰源表示，人工智能开发商Anthropic PBC已向全球最大的存储芯片制造商之一SK海力士寻求供应，以制造其自己的半导体。",
+      "translation": "三星电子与Broadcom签订了价值超过2000亿美元的芯片代工合同，双方正竞相争夺人工智能基础设施市场的更大份额。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
       "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom",
       "source": "Bloomberg Technology",
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T00:44:09+00:00",
-      "pick_score": 68,
+      "published_at": "2026-07-25T06:30:12+00:00",
+      "pick_score": 69,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -913,19 +913,19 @@
       "in_event_ledger": false
     },
     {
-      "id": "cc5cca58a7f7a700f5c4",
-      "title": "Nvidia to Invest $1 Billion in Naver and Expand SK Group Accord",
+      "id": "1b23bf61b2a11bd6770e",
+      "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
       "translation_label": "原文中文译读",
-      "translation": "Nvidia將向Naver投資10億美元並擴大與SK集團的協議。Nvidia Corp.將向Naver Corp.投資10億美元，以資助韓國一座正在建設中的人工智能數據中心，這為這家全球市值最高企業的瘋狂交易再添一筆。",
+      "translation": "SK集团会长崔泰源表示，人工智能开发商Anthropic PBC已向全球最大的存储芯片制造商之一SK海力士寻求供应，以制造其自己的半导体。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
       "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
       "source": "Bloomberg Technology",
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-07-24T23:58:05+00:00",
+      "published_at": "2026-07-25T00:44:09+00:00",
       "pick_score": 68,
       "event_type": "technology",
       "severity": "moderate",
@@ -1276,7 +1276,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-25T05:21:13+00:00",
+      "latest_published_at": "2026-07-25T07:00:00+00:00",
       "warning": null
     },
     {
@@ -1285,7 +1285,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-25T02:54:40+00:00",
+      "latest_published_at": "2026-07-25T06:30:12+00:00",
       "warning": null
     },
     {
