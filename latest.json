@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T20:10:24.859881+00:00",
+  "generated_at": "2026-07-25T21:10:28.800129+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,14 +21,14 @@
   "environment": null,
   "events": [
     {
-      "event_id": "7baac6120205ace587f0",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "event_id": "4386c86403be3f46fa1b",
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
       "source": "MarketWatch Top Stories",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T20:00:00+00:00",
+      "url": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T21:00:00+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -62,6 +62,178 @@
       }
     },
     {
+      "event_id": "fe7ccc2dd2afa331ac2c",
+      "title": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
+      "summary": "The Saudi strikes \"focused solely on legitimate military targets\" used by Houthis to attack shipping in the Red Sea, a Saudi military spokesperson said. Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen. The Iran-backed Houthis claimed to have attacked two Saudi oil tankers in the Red Sea earlier in the week. On Thursday, U.S. President Donald Trump said he would hold Iran responsible for further attacks by the Houthis. Saudi Arabia said on Saturday that its coalition forces struck Houthi militia in Yemen after the Iran-backed group claimed to have attacked two Saudi oil tankers in the Red Sea earlier in the week. The latest salvos appeared to indicate an escalation in fighting in a second front in the Iran war. The Saudi strikes \"focused solely on legitimate military targets that the terrorist Houthi militia uses to threaten commercial vessels in the Red Sea,\" Major General Turki Al-Malki, spokesperson for the Saudi-led Coalition to Restore Legitimacy in Yemen, said in a statement . On Thursday, U.S. President Donald Trump said he would hold Iran responsible for further attacks by the Houthis, after the militant group said it had struck the Saudi tankers. \"If they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves,\" he said in a Truth Social post . The Houthis declared a maritime embargo against Saudi Arabia on Monday, threatening to cut off the kingdom's oil exports through the Red Sea and the Bab el-Mandeb Strait. Al-Malki said the Houthis had carried out a \"reckless and cowardly act by targeting commercial vessels in the Red Sea.\" Reuters quoted Greek security sources as saying that air defense systems in Saudi Arabia intercepted two ballistic missiles from Yemen on Saturday targeting oil refineries in Yanbu, a day after U.S. forces launched fresh air strikes on Iran. Saudi Civil Defence said it issued several warnings for Yanbu, located on the Red Sea, and later said the danger had passed. There were no immediate official reports of damage. The defense system was operated by Greek military personnel, the sources were quoted as saying. U.S. forces had launched air strikes on Iran late on Thursday and early on Friday, the 13th consecutive night of attacks. The military reportedly attacked a merchant vessel that was trying to breach its blockade of Iran's ports, The Associated Press quoted U.S. Central Command spokesman Capt. Tim Hawkins as saying that American forces disabled the M/T Lavine in the Gulf of Oman after the ship attempted to run the blockade at least four times. Trump said he will soon make a decision on whether to launch a \"massive attack\" on Iran. At the same time, Pakistan is looking for ways to restart stalled peace talks between the U.S. and Iran, Reuters reported Friday morning, citing three Pakistani sources. Speaking to Axios on Thursday, the president said that the proposed strikes would be bigger than anything seen in the war so far, and that Iran has not \"received enough pain yet.\" — Reuters and The Associated Press contributed to this report.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+      "published_at": "2026-07-25T20:29:41+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "86099de5af0391245c37",
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T20:15:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.982,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7baac6120205ace587f0",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T20:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "55c700b7dd26add046e4",
+      "title": "Here are 4 forces that drove a tough week for stocks",
+      "summary": "Investors navigated everything from escalating tensions in the Middle East to key tech earnings reports to healthcare developments.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+      "published_at": "2026-07-25T19:56:55+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.977,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
       "event_id": "27379bf515db8efe22be",
       "title": "DOW Identifies Army Casualty",
       "summary": "",
@@ -84,7 +256,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.989,
+      "recency_weight": 0.97,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -129,7 +301,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.977,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -171,7 +343,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.976,
+      "recency_weight": 0.957,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -216,7 +388,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.973,
+      "recency_weight": 0.954,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -263,7 +435,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.97,
+      "recency_weight": 0.951,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -305,7 +477,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.969,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -346,7 +518,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.964,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -387,7 +559,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -398,100 +570,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b3d0184fe667b34ddb34",
-      "title": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
-      "summary": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T17:48:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.955,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3f2529f972db986cd52d",
-      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
-      "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T17:36:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.952,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -522,7 +600,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.931,
+      "recency_weight": 0.913,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -568,7 +646,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.902,
+      "recency_weight": 0.885,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -588,7 +666,7 @@
     {
       "event_id": "7820b155c95b4eb1edf3",
       "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
+      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -611,7 +689,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.902,
+      "recency_weight": 0.885,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -653,7 +731,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.895,
+      "recency_weight": 0.878,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -698,7 +776,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.889,
+      "recency_weight": 0.872,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -744,7 +822,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -786,7 +864,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -828,7 +906,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.862,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -874,7 +952,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -923,7 +1001,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -966,7 +1044,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1007,7 +1085,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.849,
+      "recency_weight": 0.833,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1052,7 +1130,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1064,53 +1142,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "019e1cbe4837a8fb03a1",
-      "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
-      "summary": "The Saudi strikes \"focused solely on legitimate military targets\" used by Houthis to attack shipping in the Red Sea, a Saudi military spokesperson said. Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen. The Iran-backed Houthis claimed to have attacked two Saudi oil tankers in the Red Sea earlier in the week. On Thursday, U.S. President Donald Trump said he would hold Iran responsible for further attacks by the Houthis. Saudi Arabia said on Saturday that its coalition forces struck Houthi militia in Yemen after the Iran-backed group claimed to have attacked two Saudi oil tankers in the Red Sea earlier in the week. The latest salvos appeared to indicate an escalation in fighting in a second front in the Iran war. The Saudi strikes \"focused solely on legitimate military targets that the terrorist Houthi militia uses to threaten commercial vessels in the Red Sea,\" Major General Turki Al-Malki, spokesperson for the Saudi-led Coalition to Restore Legitimacy in Yemen, said in a statement . On Thursday, U.S. President Donald Trump said he would hold Iran responsible for further attacks by the Houthis, after the militant group said it had struck the Saudi tankers. \"If they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves,\" he said in a Truth Social post . The Houthis declared a maritime embargo against Saudi Arabia on Monday, threatening to cut off the kingdom's oil exports through the Red Sea and the Bab el-Mandeb Strait. Al-Malki said the Houthis had carried out a \"reckless and cowardly act by targeting commercial vessels in the Red Sea.\" Reuters quoted Greek security sources as saying that air defense systems in Saudi Arabia intercepted two ballistic missiles from Yemen on Saturday targeting oil refineries in Yanbu, a day after U.S. forces launched fresh air strikes on Iran. Saudi Civil Defence said it issued several warnings for Yanbu, located on the Red Sea, and later said the danger had passed. There were no immediate official reports of damage. The defense system was operated by Greek military personnel, the sources were quoted as saying. U.S. forces had launched air strikes on Iran late on Thursday and early on Friday, the 13th consecutive night of attacks. The military reportedly attacked a merchant vessel that was trying to breach its blockade of Iran's ports, The Associated Press quoted U.S. Central Command spokesman Capt. Tim Hawkins as saying that American forces disabled the M/T Lavine in the Gulf of Oman after the ship attempted to run the blockade at least four times. Trump said he will soon make a decision on whether to launch a \"massive attack\" on Iran. At the same time, Pakistan is looking for ways to restart stalled peace talks between the U.S. and Iran, Reuters reported Friday morning, citing three Pakistani sources. Speaking to Axios on Thursday, the president said that the proposed strikes would be bigger than anything seen in the war so far, and that Iran has not \"received enough pain yet.\" – Reuters and The Associated Press contributed to this report.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
-      "published_at": "2026-07-25T10:22:58+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.828,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1141,7 +1172,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.808,
+      "recency_weight": 0.793,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1186,7 +1217,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.805,
+      "recency_weight": 0.789,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1228,7 +1259,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.804,
+      "recency_weight": 0.788,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1239,6 +1270,55 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "15a95a2c2cf50a000a67",
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+      "summary": "Nvidia said it's secured AI memory supply from SK Hynix, potentially alleviating a concern as the memory market faces a global shortage. The chipmaker is aggressively securing supply of high-bandwidth memory, an essential component for its graphics processing units and AI systems. SK Hynix' affiliate SK Telecom will build a cloud business using Nvidia's Vera Rubin systems. Nvidia said it's secured AI memory supply from South Korea's SK Hynix , as the chipmaker tries to lock in a key component for its advanced processors and systems. The agreement, announced late Friday in San Francisco, could be worth $500 billion over a number of years, and includes the construction of large-scale data centers expected to come online in 2027, Nvidia said. SK Hynix affiliate SK Telecom will build a cloud business using Nvidia's Vera Rubin systems. Nvidia said it's targeting enough capacity to require 2 gigawatts of power, which indicates a massive buildout with hundreds of thousands of graphics processing units. In a separate deal, South Korean giant Samsung Electronics said it signed a memorandum of understanding with chip designer Bro adcom to expand their collaboration across memory and foundry technologies. The deal, worth an estimated $200 billion, would help support the next generation of AI infrastructure, Samsung said in a statement . Nvidia is aggressively securing supply of high-bandwidth memory, which is essential for its GPUs and systems, as the AI boom has created a global memory shortage. SK Hynix is the leader in HBM production , according to analysts. \"The expansion will include a co-develop opportunity for us on the next-generation SK Hynix AI memory, and this will help us secure a stable supply of HBM memory,\" Raj Mirpuri, Nvidia enterprise vice president, said on a call with reporters. The agreement is also a sign that massive AI infrastructure buildouts are moving beyond a handful of hyperscalers, with foreign governments and massive conglomerates starting to get involved. The deal was announced at an AI summit in San Francisco with South Korean officials including President Lee Jae Myung. Nvidia also said Friday that it would invest $1 billion into Naver, a Korean cloud company building data centers around its GPUs. Nvidia said the project would provide an opportunity for potential customers in South Korea and around the world to secure AI computing capacity before the 200 megawatts of capacity is completed. SK Hynix, South Korea's second most valuable company, listed on the Nasdaq earlier this month as part of an effort to finance infrastructure developments. WATCH : South Korea's AI boom is spilling into housing – CNBC's Azhar Sukri contributed to this story.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "published_at": "2026-07-25T08:49:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.5,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "datacenter",
+        "growth",
+        "macro",
+        "market",
+        "memory",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.788,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1273,7 +1353,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.78,
+      "recency_weight": 0.765,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1315,7 +1395,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.776,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1361,7 +1441,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.769,
+      "recency_weight": 0.754,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1412,7 +1492,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.754,
+      "recency_weight": 0.739,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1455,7 +1535,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.752,
+      "recency_weight": 0.737,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1496,7 +1576,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.74,
+      "recency_weight": 0.725,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1541,7 +1621,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.726,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1587,7 +1667,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.717,
+      "recency_weight": 0.704,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1607,33 +1687,29 @@
     {
       "event_id": "79a8722318a7795f3bee",
       "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-      "summary": "SpaceX launched its massive Starship rocket in a 13th test flight on Friday after earlier weather and technical delays. Investors are watching Starship test flights closely as the massive rocket is crucial to SpaceX's ambitions to rapidly expand its Starlink satellite internet service. The Starship spacecraft made a \"soft splashdown\" in the Indian Ocean. SpaceX launched its massive Starship rocket Friday evening from its company town and launch facility in Starbase, Texas, in a 13th test flight and the first since the company's record IPO last month. The rocket's Super Heavy booster detached from the Starship spacecraft about two minutes into the flight, and made a controlled splashdown in the Gulf. In a statement following the flight, SpaceX said the landing was not perfect as the booster, \"attempted to relight its engines for the landing burn,\" but only a subset successfully ignited before the \"hard splashdown.\" The upper stage of the rocket made a \"soft splashdown\" in the Indian Ocean, SpaceX said, \"coming to rest intact in the Indian Ocean and providing critical views of an intact heatshield for the first time.\" Employees called the test flight \"lucky number 13,\" in a livestream of the event. Elon Musk's aerospace and defense contractor designed Starship, the largest rocket ever built or flown, to be fully reusable and to lift more cargo for less cost into orbit. Starship is considered crucial for the company's goal to vastly expand its Starlink satellite network, among other missions. About 18 minutes into Friday's test flight, SpaceX successfully deployed 20 of its new Starlink V3 satellites into orbit, a first chance for the company to see how they performed in flight. The satellites were intended to burn up after about 20 minutes. The new satellites, produced at a SpaceX facility in Redmond, Washington, are built to be larger, and more powerful than Starlink's earlier satellites. They're also equipped with solar arrays that generate twice as much power as prior generations, a SpaceX business analyst explained in a livestream. SpaceX is now developing Starmind satellites, which the company intends to launch and eventually use as orbital data centers. Besides using their largest rockets to launch the new, larger satellites, SpaceX wants to use the Starship rocket to bring U.S. astronauts back to the moon's surface, and to eventually power manned missions to Mars. The company is preparing Starship for a major NASA test flight next year. Friday's test flight marked the second for Starship V3, the latest version of the rocket. TMF Associates' Tim Farrar, a satellite services industry expert, said the test flight showed SpaceX has made some progress with Starship but \"remains a long way from achieving rapid reusability of the entire ship.\" He pointed to problems SpaceX had relighting its Raptor engines on Friday. \"Any similar failure during an attempted landing at the company's launch site could cause severe damage to the launchpad,\" he said. In a post on X, which is owned by SpaceX, the company said it delayed an earlier test flight planned for Thursday \"due to weather.\" It also previously scrubbed a test flight on July 16, after the rocket's booster triggered a hold, which \"shut down the engines right as they were starting to ignite,\" a SpaceX employee said during a livestream of the earlier event. SpaceX's stock has dropped in four of the past five weeks, slumping 43% from its peak close on June 16. WATCH: SpaceX falls below IPO prices",
+      "summary": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
       "published_at": "2026-07-25T02:17:11+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
-        "growth",
         "macro",
-        "market",
-        "semiconductor",
-        "tech"
+        "market"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.709,
+      "impact_score": 1.84,
+      "recency_weight": 0.695,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1643,8 +1719,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1675,7 +1750,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.697,
+      "recency_weight": 0.684,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1720,7 +1795,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.691,
+      "recency_weight": 0.678,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1767,7 +1842,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.688,
+      "recency_weight": 0.675,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1814,7 +1889,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1861,7 +1936,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1907,7 +1982,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.663,
+      "recency_weight": 0.651,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1927,34 +2002,30 @@
     {
       "event_id": "6bdffbc8afd8632868ca",
       "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-      "summary": "SpaceX saw shares drop about 7% for the week ahead of a planned test flight of its massive Starship V3 rocket on Friday. With the stock slides, Musk's wealth dropped by roughly $130 billion. It was a rough week for Elon Musk . Tesla shares plunged 18% during the week to close at $313.03 on Friday, their worst weekly slump since 2022. And SpaceX's stock continued its downward slide, dropping 7.2% over five days to close at $115.07 Friday, its lowest since the company's record initial public offering last month. The declines in both stocks wiped away about $130 billion of Musk's wealth, weeks after he'd become the world's first trillionaire. In a post on X on Friday, Musk wrote, \"(Former) trillionaire.\" Tesla's slump was spurred by weaker-than-expected earnings when the electric vehicle maker reported second-quarter results late Wednesday. The company turned cash flow negative due to a surge in spending on futuristic projects like robotaxis, humanoid robots and a giant chip fab. \"We expect this to pressure free cash flow and delay earnings growth, without providing any near-term shareholder return,\" wrote analysts at Argus Research, which has a hold rating on the stock, in a report on Friday. \"We believe it will be nearly impossible for Tesla to generate any consistency in profit growth in the near-term.\" Tesla's stock is now down 30% for the year, by far the worst performer among tech's mega-caps. Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike Tesla misses on earnings, as free cash flow turns negative and margins slide Meanwhile, SpaceX's stock has been on a steady downward trajectory over the past month following an initial pop when the company went public. The shares have dropped for four of the past five weeks and are about 43% off their peak close on June 16. On Friday evening, SpaceX will again attempt the 13th test flight of Starship , the largest rocket ever built or flown. The company plans to fly the new version of the rocket, Starship V3, from its company town and launch facility in Starbase, Texas. The rocket is designed to be fully reusable and is considered crucial for SpaceX's near-term aims to vastly grow its Starlink satellite network. In a post on X, which is owned by SpaceX, the company said it delayed the test flight planned for Thursday \"due to weather.\" SpaceX previously scrubbed a test flight last week, after the rocket's booster triggered a hold, which \"shut down the engines right as they were starting to ignite,\" a SpaceX employee said during a livestream of the event. A successful launch of Starship V3, an upgraded version of its roughly 400-foot-tall rocket, would be the first since the company's IPO. SpaceX plans to use Starship to bring U.S. astronauts back to the Moon's surface, and Musk wants the rocket to eventually power manned missions to Mars. Musk made a public appearance this week, sitting down for what turned out to be a contentious interview with The Economist. Zanny Minton Beddoes, editor-in-chief of the publication, asked Musk about his support for \"not just the populist right, but the far right, in fact very fringe parties in some countries.\" In addition to his financial and vocal support for President Donald Trump , including his work for the second administration, Musk has endorsed Germany's AfD, an extreme anti-immigrant party, as well as the U.K.'s Restore Britain, founded by Rupert Lowe, who also calls to \"reverse mass migration.\" \"It's just normal people!\" Musk said in response. He berated Beddoes and \"the traditional media\" for an \"absurd characterization of the far right.\" WATCH: SpaceX learning as much as it can about newest rocket",
+      "summary": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
       "published_at": "2026-07-24T21:57:01+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
         "corporate",
-        "growth",
         "macro",
-        "market",
-        "semiconductor",
-        "tech"
+        "market"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.652,
+      "impact_score": 1.84,
+      "recency_weight": 0.639,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1965,8 +2036,7 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
+          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1997,48 +2067,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.65,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9bcc437c544a1d8b689d",
-      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
-      "summary": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
-      "published_at": "2026-07-24T21:24:09+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.645,
+      "recency_weight": 0.638,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2079,7 +2108,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.642,
+      "recency_weight": 0.63,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2129,7 +2158,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2178,7 +2207,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2220,7 +2249,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.639,
+      "recency_weight": 0.627,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2232,52 +2261,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8767d2d78f145df49883",
-      "title": "CFTC Warns Prediction Markets Over Blanket Self-Certifications",
-      "summary": "The Commodity Futures Trading Commission is tapping the brakes on prediction markets’ practice of “self-certifying” boilerplate contracts that could apply to myriad events.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/cftc-warns-prediction-markets-over-blanket-self-certifications",
-      "published_at": "2026-07-24T20:45:18+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.637,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2308,7 +2291,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.633,
+      "recency_weight": 0.62,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2319,50 +2302,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "924c5f47f5d0c101aa2a",
-      "title": "Oil Prices Volatile as Supply Disruptions Hit Four Global Fronts",
-      "summary": "Brent futures surged past $100 a barrel as the conflict in the Middle East widens and Ukraine strikes Russian infrastructure.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/features/2026-07-24/oil-prices-volatile-as-supply-disruptions-hit-four-global-fronts",
-      "published_at": "2026-07-24T20:15:20+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": -0.35,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.631,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2397,7 +2336,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.629,
+      "recency_weight": 0.617,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2439,7 +2378,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2480,7 +2419,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.626,
+      "recency_weight": 0.614,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2491,54 +2430,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "be468d73cc8444b87896",
-      "title": "1 hyperscaler megacap down, 3 to go. Alphabet raises the stakes on AI spending",
-      "summary": "\"Capex trends are going to be the number one focus,\" Club portfolio director Jeff Marks said Friday ahead of next week's Big Tech earnings.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html",
-      "published_at": "2026-07-24T19:41:08+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.624,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2569,7 +2460,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.624,
+      "recency_weight": 0.612,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2610,7 +2501,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.622,
+      "recency_weight": 0.61,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2656,7 +2547,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.618,
+      "recency_weight": 0.606,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2698,7 +2589,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.617,
+      "recency_weight": 0.605,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2743,7 +2634,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.614,
+      "recency_weight": 0.602,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2790,7 +2681,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.613,
+      "recency_weight": 0.602,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2836,7 +2727,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.603,
+      "recency_weight": 0.592,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2879,7 +2770,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.598,
+      "recency_weight": 0.587,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2925,7 +2816,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.597,
+      "recency_weight": 0.585,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2965,7 +2856,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.559,
+      "recency_weight": 0.549,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2977,142 +2868,6 @@
           "能源/避险/通胀预期"
         ],
         "canonical_url": "https://www.eia.gov/rss/todayinenergy.xml",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "34fa886e96f18cdfcad9",
-      "title": "Miner Cadillac, Backers Raise C$385 Million in Canada IPO",
-      "summary": "Cadillac Mines Corp. and some of its backers raised C$385 million ($273 million) in an upsized initial public offering, adding to the mining-driven rebound of listing activity in Canada.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/gold-miner-cadillac-backers-raise-c-385-million-in-canada-ipo",
-      "published_at": "2026-07-24T13:32:39+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.554,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8a3da716d954d78b5673",
-      "title": "BlackRock Gets Soft Demand for Bond Sale After AI Debt Selloff",
-      "summary": "BlackRock Inc. has seen weaker-than-usual demand for a corporate bond sale tied to a Meta Platforms Inc. data center project in Texas, as investors grapple with concerns about excessive AI infrastructure spending.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/blackrock-kicks-off-12-3-billion-bond-sale-for-meta-data-center",
-      "published_at": "2026-07-24T13:09:57+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.55,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8d3090d8ed41cad37522",
-      "title": "Nasdaq 100 Tumbles as Oil Spike, AI Jitters Hit Tech Stocks",
-      "summary": "The Nasdaq 100 Index tumbled Friday, capping its first back-to-back weekly loss since late March as it was dragged down by the oil-price spike and a selloff in the tech stocks that once surged on the back of the AI investment boom.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
-      "published_at": "2026-07-24T12:39:22+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.545,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3141,48 +2896,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.528,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a30743379e27ada08892",
-      "title": "Dollar Wraps Its Best Week in a Month as Haven Demand Rises",
-      "summary": "The dollar finished its best week in a month as investors returned to the traditional haven amid heightened geopolitical tensions.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/dollar-set-for-best-week-in-a-month-as-haven-flows-offer-support",
-      "published_at": "2026-07-24T10:12:33+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.52,
+      "recency_weight": 0.518,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3230,7 +2944,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.412,
+      "recency_weight": 0.404,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3272,7 +2986,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3315,7 +3029,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3361,7 +3075,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3410,7 +3124,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3460,7 +3174,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3510,7 +3224,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3560,7 +3274,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3601,7 +3315,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.397,
+      "recency_weight": 0.39,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3614,52 +3328,6 @@
           "监管/交易结构"
         ],
         "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5df71b38e8cfe33223f8",
-      "title": "Intel’s Rosy Results Still Leave Questions About Customers",
-      "summary": "Intel Corp.’s upbeat quarterly report, which handily beat Wall Street estimates, still left a major question: how soon the chipmaker will line up outside customers for its factories.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-      "published_at": "2026-07-23T20:01:43+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.396,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3692,7 +3360,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.375,
+      "recency_weight": 0.367,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3734,7 +3402,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.374,
+      "recency_weight": 0.367,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3775,7 +3443,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.368,
+      "recency_weight": 0.361,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3814,7 +3482,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.352,
+      "recency_weight": 0.346,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3827,96 +3495,6 @@
           "国防/安全事件"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a24e6982f26bd77e6667",
-      "title": "TSLA SEC 8-K: 8-K",
-      "summary": "Tesla, Inc. (TSLA) filed SEC Form 8-K. Filing date: 2026-07-22. 8-K Item 2.02: Results of Operations and Financial Condition. On July 22, 2026, Tesla, Inc. released its financial results for the quarter ended June 30, 2026 by posting its Second Quarter 2026 Update on its website. The full text of the update is attached hereto as Exhibit 99.1 and is incorporated herein by reference . This information is intended to be furnished under. Report date: 2026-07-22. 8-K items: 2.02,9.01. Description: 8-K. Accession: 0001628280-26-049213.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/tsla-20260722.htm",
-      "published_at": "2026-07-22T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "8-k",
-        "corporate",
-        "sec"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "8-k"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 4.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f9e677a9fe7e4a6267d1",
-      "title": "ANET SEC 4: PRIMARY DOCUMENT",
-      "summary": "Arista Networks, Inc. (ANET) filed SEC Form 4. Filing date: 2026-07-22. Form 4 detail: 07/20/2026 code M acquired 17,333 shares at $15.2769; 30,309 shares held after; 07/20/2026 code S disposed 6,567 shares at $169.8977 (2); 23,742 shares held after; 07/20/2026 code S disposed 9,028 shares at $170.7267 (3); 14,714 shares held after; 07/20/2026 code S disposed 1,698 shares at $171.7198 (4); 13,016 shares held after. Report date: 2026-07-20. Description: PRIMARY DOCUMENT. Accession: 0001596532-26-000166.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000166/xslF345X06/edgardoc.xml",
-      "published_at": "2026-07-22T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "4",
-        "ai",
-        "corporate",
-        "cpo",
-        "datacenter",
-        "growth",
-        "insider",
-        "networking",
-        "optical",
-        "sec",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "4",
-        "insider"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
         "fetch_status": "live"
       }
     }
@@ -4303,7 +3881,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 20,
+      "recent_items": 15,
       "latest_published_at": "2026-07-25T13:00:01+00:00",
       "warning": null
     },
@@ -4312,7 +3890,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 10,
+      "recent_items": 8,
       "latest_published_at": "2026-07-25T14:49:55+00:00",
       "warning": null
     },
@@ -4322,7 +3900,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-25T20:00:00+00:00",
+      "latest_published_at": "2026-07-25T21:00:00+00:00",
       "warning": null
     },
     {
@@ -4331,7 +3909,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-25T16:26:11+00:00",
+      "latest_published_at": "2026-07-25T20:29:41+00:00",
       "warning": null
     },
     {
@@ -4339,7 +3917,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 9,
+      "recent_items": 7,
       "latest_published_at": "2026-07-24T21:00:00+00:00",
       "warning": null
     }
