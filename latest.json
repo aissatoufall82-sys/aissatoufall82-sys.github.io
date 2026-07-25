@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T17:10:23.668904+00:00",
+  "generated_at": "2026-07-25T18:10:29.051257+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,264 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "a6aabffc9b5c4cd9ccf7",
+      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T18:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b3d0184fe667b34ddb34",
+      "title": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
+      "summary": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T17:48:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3f2529f972db986cd52d",
+      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
+      "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T17:36:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "cd476e086ba6181e6953",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T17:24:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.985,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "25fcb5696c6dcb100ad1",
+      "title": "Running out of money is not the saddest retirement mistake you can make. This is.",
+      "summary": "The saddest financial mistake in retirement has nothing to do with running out of money.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/running-out-of-money-is-not-the-saddest-retirement-mistake-you-can-make-this-is-09040acf?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T17:19:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.984,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "bfd1b27df4b91654092d",
+      "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them more?",
+      "summary": "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T17:18:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "e2fa05e5ece153b9192e",
       "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
@@ -45,7 +303,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 1.0,
+      "recency_weight": 0.98,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -86,7 +344,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.998,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -127,7 +385,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.992,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -168,138 +426,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.992,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "40872eb5c82560a2374a",
-      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-      "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T16:39:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.99,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "88dba6981bb894871476",
-      "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
-      "summary": "The “Mag Seven” has become the “Bag Seven.” Sharp tech investors are looking elsewhere.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T16:29:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.987,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "aca91818430d910ece5d",
-      "title": "The bond market hasn’t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening.",
-      "summary": "Junk-bond spreads are near the lows reached before the financial crisis of 2007-09. Here’s how to hedge before the market wakes up.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/the-bond-market-hasnt-been-this-calm-since-the-dot-com-bust-and-the-financial-crisis-history-warns-of-a-rude-awakening-5597c25d?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T16:27:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.986,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -340,130 +467,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.986,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9b16841803f20d2bb321",
-      "title": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
-      "summary": "More than 200 individuals had a total of more than $85 billion in tax-sheltered retirement accounts",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T15:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.968,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3ee859c2e3f84b5fe35a",
-      "title": "Still waiting for the free $1,000 to hit your child’s ‘Trump account’? Here’s what to know.",
-      "summary": "Around $1.5 billion has been deposited into the accounts since their launch earlier this month, the Treasury Department said.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/still-waiting-for-the-free-1-000-to-hit-your-trump-account-heres-what-to-know-acc5c789?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T15:20:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.965,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c39acdeed7b217bf633b",
-      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
-      "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T14:59:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.967,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -509,7 +513,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.956,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -529,7 +533,7 @@
     {
       "event_id": "7820b155c95b4eb1edf3",
       "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
+      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year Work 'Doomjobbing’ can hurt your job search and worsen anxiety, experts say: Why it happens and how to avoid it For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -552,7 +556,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.955,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -594,7 +598,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.948,
+      "recency_weight": 0.93,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -639,7 +643,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.942,
+      "recency_weight": 0.924,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -685,7 +689,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.932,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -727,7 +731,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -769,7 +773,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.914,
+      "recency_weight": 0.896,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -815,7 +819,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -864,7 +868,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -907,7 +911,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -948,7 +952,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.9,
+      "recency_weight": 0.883,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -993,7 +997,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1040,7 +1044,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.877,
+      "recency_weight": 0.861,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1082,7 +1086,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.856,
+      "recency_weight": 0.84,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1127,7 +1131,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.853,
+      "recency_weight": 0.836,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1169,7 +1173,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.852,
+      "recency_weight": 0.835,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1214,7 +1218,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.826,
+      "recency_weight": 0.811,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1256,7 +1260,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1302,7 +1306,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.814,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1353,7 +1357,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.799,
+      "recency_weight": 0.783,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1396,7 +1400,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.796,
+      "recency_weight": 0.781,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1437,7 +1441,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.784,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1482,7 +1486,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.769,
+      "recency_weight": 0.754,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1528,7 +1532,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.76,
+      "recency_weight": 0.745,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1574,7 +1578,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.751,
+      "recency_weight": 0.736,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1616,7 +1620,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.738,
+      "recency_weight": 0.724,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1661,7 +1665,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.732,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1708,7 +1712,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.729,
+      "recency_weight": 0.715,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1755,7 +1759,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.718,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1802,7 +1806,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.718,
+      "recency_weight": 0.704,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1848,7 +1852,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.703,
+      "recency_weight": 0.689,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1895,7 +1899,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.691,
+      "recency_weight": 0.677,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1938,7 +1942,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.689,
+      "recency_weight": 0.676,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1979,7 +1983,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.683,
+      "recency_weight": 0.67,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2020,7 +2024,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.68,
+      "recency_weight": 0.667,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2070,7 +2074,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2119,7 +2123,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2161,7 +2165,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.677,
+      "recency_weight": 0.664,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2207,7 +2211,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.675,
+      "recency_weight": 0.662,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2249,7 +2253,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.67,
+      "recency_weight": 0.657,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2292,7 +2296,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.668,
+      "recency_weight": 0.656,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2338,7 +2342,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.667,
+      "recency_weight": 0.654,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2380,7 +2384,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.665,
+      "recency_weight": 0.652,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2421,7 +2425,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.664,
+      "recency_weight": 0.651,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2467,7 +2471,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.661,
+      "recency_weight": 0.649,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2510,7 +2514,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.661,
+      "recency_weight": 0.648,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2551,7 +2555,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.659,
+      "recency_weight": 0.646,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2597,7 +2601,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.655,
+      "recency_weight": 0.643,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2639,7 +2643,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.654,
+      "recency_weight": 0.641,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2684,7 +2688,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.65,
+      "recency_weight": 0.638,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2731,7 +2735,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.65,
+      "recency_weight": 0.638,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2743,52 +2747,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d8f23903091101fbef74",
-      "title": "Getting Ditched by Amazon Revitalized One Game Studio",
-      "summary": "Maverick Games, the maker of ‘Clutch,’ was ditched by Amazon but is doing just fine",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-24/getting-ditched-by-amazon-revitalized-one-game-studio",
-      "published_at": "2026-07-24T18:01:59+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.64,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2823,54 +2781,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.639,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ee7943ca9113e7b644da",
-      "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-      "summary": "The selloff in SpaceX shares has driven the stock near a level that would imply investors are assigning no value to its artificial intelligence business, according to analysts at Morgan Stanley.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-      "published_at": "2026-07-24T17:48:21+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.638,
+      "recency_weight": 0.627,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2913,7 +2824,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.634,
+      "recency_weight": 0.621,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2959,7 +2870,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.632,
+      "recency_weight": 0.62,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3006,7 +2917,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.622,
+      "recency_weight": 0.611,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3046,7 +2957,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.593,
+      "recency_weight": 0.581,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3086,7 +2997,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.587,
+      "recency_weight": 0.576,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3131,7 +3042,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.583,
+      "recency_weight": 0.572,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3179,7 +3090,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.577,
+      "recency_weight": 0.566,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3222,7 +3133,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.559,
+      "recency_weight": 0.549,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3263,7 +3174,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.551,
+      "recency_weight": 0.54,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3311,7 +3222,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.436,
+      "recency_weight": 0.428,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3353,7 +3264,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3396,7 +3307,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3442,7 +3353,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3491,7 +3402,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3541,7 +3452,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3591,7 +3502,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3641,7 +3552,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3682,7 +3593,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.421,
+      "recency_weight": 0.413,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3727,7 +3638,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.419,
+      "recency_weight": 0.411,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3773,7 +3684,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.397,
+      "recency_weight": 0.389,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3815,7 +3726,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.396,
+      "recency_weight": 0.388,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3856,7 +3767,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.39,
+      "recency_weight": 0.383,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3895,7 +3806,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.373,
+      "recency_weight": 0.366,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3936,7 +3847,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3985,7 +3896,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4393,7 +4304,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 13,
+      "recent_items": 11,
       "latest_published_at": "2026-07-25T14:49:55+00:00",
       "warning": null
     },
@@ -4403,7 +4314,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-25T17:09:00+00:00",
+      "latest_published_at": "2026-07-25T18:00:00+00:00",
       "warning": null
     },
     {
