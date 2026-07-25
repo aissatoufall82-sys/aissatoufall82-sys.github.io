@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T23:10:14.376010+00:00",
-  "generated_at_local": "2026-07-25 07:10:14 北京时间",
-  "next_update_at_local": "2026-07-25 08:10:00 北京时间",
+  "generated_at": "2026-07-25T00:10:15.947451+00:00",
+  "generated_at_local": "2026-07-25 08:10:15 北京时间",
+  "next_update_at_local": "2026-07-25 09:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,8 +34,8 @@
     "official",
     "tier1"
   ],
-  "total_items": 99,
-  "total_official_items": 19,
+  "total_items": 100,
+  "total_official_items": 20,
   "media_items": 80,
   "items": [
     {
@@ -765,6 +765,42 @@
       "in_event_ledger": true
     },
     {
+      "id": "cafaaaabf3201d806ce4",
+      "title": "COHR SEC 4: FORM 4",
+      "translation_label": "原文全文翻译",
+      "translation": "COHR SEC 4: FORM 4。COHERENT CORP. (COHR) 提交了 SEC 表格 4。提交日期：2026年7月24日。表 4 详情：2026年7月22日代码 S 以 306.68 美元的价格处置了 1,000 股；持股量在之后为 67,475 股。报告日期：2026年7月22日。描述：FORM 4。登记号：0000899140-26-000726。",
+      "article_explanation": "COHR披露内部人持股变动。首笔已解析交易为代码S，处置1,000股，价格$306.68。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
+      "summary": "COHR披露内部人持股变动。首笔已解析交易为代码S，处置1,000股，价格$306.68。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
+      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给、AI硬件/数据中心产业链，但仍需要市场价格或下一份官方数据确认。",
+      "impact_interpretation": "先发生什么：文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：交易代码P/S、成交金额、交易后持股，以及是否连续多次发生。",
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000089914026000726/xslF345X06/form4.xml",
+      "source": "SEC EDGAR Submissions",
+      "publisher": "美国证券交易委员会（SEC）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-07-24T21:00:00+00:00",
+      "pick_score": 71,
+      "event_type": "corporate",
+      "severity": "minor",
+      "impact_axes": [
+        "公司基本面/股本供给",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "impact_axes": [
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
+    },
+    {
       "id": "01c859057a8b59335107",
       "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
       "translation_label": "原文中文译读",
@@ -778,7 +814,7 @@
       "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-24T21:21:00+00:00",
-      "pick_score": 69,
+      "pick_score": 68,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -794,44 +830,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "54ba8a9416855c4337c7",
-      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
-      "translation_label": "原文中文译读",
-      "translation": "在你让AI投资你的毕生积蓄之前，你需要了解其隐藏的偏好。机器人可以在几秒钟内构建一个投资组合，但它们的财务建议失败的地方远超想象。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "publisher": "MarketWatch",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-24T21:30:00+00:00",
-      "pick_score": 69,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -917,26 +915,25 @@
       "in_event_ledger": false
     },
     {
-      "id": "be468d73cc8444b87896",
-      "title": "1 hyperscaler megacap down, 3 to go. Alphabet raises the stakes on AI spending",
+      "id": "54ba8a9416855c4337c7",
+      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
       "translation_label": "原文中文译读",
-      "translation": "一家超大规模科技巨头财报已过，还有三家待发布。Alphabet提高了人工智能支出的赌注。Club投资组合总监Jeff Marks周五在大科技公司下周发布财报前表示，资本开支趋势将成为头号焦点。",
+      "translation": "在你让AI投资你的毕生积蓄之前，你需要了解其隐藏的偏好。机器人可以在几秒钟内构建一个投资组合，但它们的财务建议失败的地方远超想象。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、公司基本面/股本供给、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：消息先提高报道中的公司的订单、收入或利润预期；只有后续财报兑现，影响才可能从短线反应延续到季度。 可能受益：报道中的公司及其直接供应商；若需求来自整个行业，同赛道龙头也可能获得估值支持。 可能承压：没有同等订单、利润或客户增长支撑的高估值同业，可能在比较中落后。 接下来观察：下一份财报中的收入、利润率、订单和管理层指引，并观察股价是否放量且相对同业走强或走弱。",
-      "url": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
-      "published_at": "2026-07-24T19:41:08+00:00",
+      "published_at": "2026-07-24T21:30:00+00:00",
       "pick_score": 68,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
         "利率/美元/估值折现",
         "指数风险偏好",
-        "公司基本面/股本供给",
         "AI硬件/数据中心产业链"
       ],
       "source_profile": {
@@ -948,7 +945,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1291,7 +1287,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-24T20:45:18+00:00",
+      "latest_published_at": "2026-07-24T22:51:38+00:00",
       "warning": null
     },
     {
@@ -1317,7 +1313,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 8,
+      "recent_items": 9,
       "latest_published_at": "2026-07-24T21:00:00+00:00",
       "warning": null
     }
