@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T09:10:02.122837+00:00",
+  "generated_at": "2026-07-25T10:10:30.046365+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,8 +21,138 @@
   "environment": null,
   "events": [
     {
-      "event_id": "1fc693f96e0c77d8973c",
-      "title": "Chinese Supertanker U-Turns to Shun Red Sea Amid Houthi Blockade",
+      "event_id": "d7c2664353889b5c5fb0",
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T10:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3d5301e2badc7c865bc6",
+      "title": "Ukraine Seeks 30-Year Energy Pact With Canada, Minister Says",
+      "summary": "Ukraine is looking to sign a 30-year strategic energy agreement with Canada and proposing an “energy security bridge” focused on the supply of Canadian LNG, Energy Minister Denys Shmyhal said.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/ukraine-seeks-30-year-energy-pact-with-canada-minister-says",
+      "published_at": "2026-07-25T09:07:34+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.98,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "e1a8f9bc3e33ae320c00",
+      "title": "Charting the Global Economy: Growth Picks Up, AI Boom Continues",
+      "summary": "Applications for US unemployment benefits fell last week to an almost 60-year low, adding to signs of a stable labor market that will allow the Federal Reserve to focus on inflation.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/charting-the-global-economy-growth-picks-up-ai-boom-continues",
+      "published_at": "2026-07-25T09:00:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c7a551f75ed53eaa53da",
+      "title": "Saudi Arabia-Bound Supertanker U-Turns Before Houthi Chokepoint",
       "summary": "A Hong Kong-flagged supertanker bound for Saudi Arabia’s Red Sea port of Yanbu has U-turned just before reaching the Bab el-Mandeb chokepoint, where recent attacks were launched by the Houthis as part of a blockade on ships linked to the kingdom.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
@@ -49,7 +179,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.995,
+      "recency_weight": 0.976,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -91,7 +221,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.994,
+      "recency_weight": 0.974,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -136,7 +266,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.964,
+      "recency_weight": 0.946,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -178,7 +308,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -224,7 +354,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -275,7 +405,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.932,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -318,7 +448,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.929,
+      "recency_weight": 0.911,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -359,7 +489,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.914,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -404,7 +534,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.897,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -450,7 +580,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.887,
+      "recency_weight": 0.869,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -496,7 +626,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.876,
+      "recency_weight": 0.859,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -538,7 +668,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.861,
+      "recency_weight": 0.845,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -583,7 +713,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -630,7 +760,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.85,
+      "recency_weight": 0.834,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -672,7 +802,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.843,
+      "recency_weight": 0.827,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -718,7 +848,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -765,7 +895,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -811,7 +941,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.82,
+      "recency_weight": 0.804,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -858,7 +988,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.818,
+      "recency_weight": 0.802,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -901,7 +1031,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.814,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -942,7 +1072,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.807,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -988,7 +1118,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.806,
+      "recency_weight": 0.79,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1031,7 +1161,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.804,
+      "recency_weight": 0.788,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1072,7 +1202,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.803,
+      "recency_weight": 0.788,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1113,7 +1243,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.803,
+      "recency_weight": 0.787,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1154,7 +1284,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.801,
+      "recency_weight": 0.785,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1195,7 +1325,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.799,
+      "recency_weight": 0.783,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1240,7 +1370,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.799,
+      "recency_weight": 0.783,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1282,7 +1412,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.797,
+      "recency_weight": 0.782,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1323,7 +1453,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.797,
+      "recency_weight": 0.781,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1367,7 +1497,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.796,
+      "recency_weight": 0.781,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1419,7 +1549,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.794,
+      "recency_weight": 0.778,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1471,7 +1601,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1520,7 +1650,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1562,7 +1692,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.79,
+      "recency_weight": 0.775,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1608,7 +1738,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.787,
+      "recency_weight": 0.772,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1620,47 +1750,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9b34e8726f158785bb8a",
-      "title": "FDA advisers say six popular peptides can be compounded. Here are the issues they considered.",
-      "summary": "A group of experts, some of whom work in the peptide industry, said the Food and Drug Administration should allow six peptides to be compounded, in a move that could widen access to the popular wellness products for Americans.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T20:26:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.783,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1691,7 +1780,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.782,
+      "recency_weight": 0.767,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1734,7 +1823,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.78,
+      "recency_weight": 0.765,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1784,7 +1873,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.779,
+      "recency_weight": 0.764,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1836,7 +1925,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.778,
+      "recency_weight": 0.763,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1888,7 +1977,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.777,
+      "recency_weight": 0.762,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1935,7 +2024,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.776,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1977,48 +2066,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.774,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "aa43e059ce2cf05aee6a",
-      "title": "US Cattle Herd Grows Slightly in Potential Sign of Rebuilding",
-      "summary": "The US cattle herd grew modestly from the prior year, in a signal that ranchers may be starting to retain more animals following a historic shortage.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/us-cattle-herd-grows-slightly-in-potential-sign-of-rebuilding",
-      "published_at": "2026-07-24T19:51:03+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.774,
+      "recency_weight": 0.759,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2064,7 +2112,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.771,
+      "recency_weight": 0.757,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2107,7 +2155,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.771,
+      "recency_weight": 0.756,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2148,7 +2196,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.769,
+      "recency_weight": 0.754,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2194,7 +2242,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.764,
+      "recency_weight": 0.75,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2236,7 +2284,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.763,
+      "recency_weight": 0.748,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2281,7 +2329,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.758,
+      "recency_weight": 0.744,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2328,7 +2376,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.758,
+      "recency_weight": 0.744,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2374,7 +2422,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.747,
+      "recency_weight": 0.733,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2420,7 +2468,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.746,
+      "recency_weight": 0.731,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2467,7 +2515,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.744,
+      "recency_weight": 0.73,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2510,7 +2558,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.739,
+      "recency_weight": 0.725,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2556,7 +2604,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.737,
+      "recency_weight": 0.723,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2602,7 +2650,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.733,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2649,7 +2697,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.726,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2695,7 +2743,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.721,
+      "recency_weight": 0.707,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2741,7 +2789,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.714,
+      "recency_weight": 0.701,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2783,7 +2831,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.712,
+      "recency_weight": 0.698,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2829,7 +2877,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.705,
+      "recency_weight": 0.691,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2876,7 +2924,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.698,
+      "recency_weight": 0.685,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2919,7 +2967,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.694,
+      "recency_weight": 0.681,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2966,7 +3014,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.693,
+      "recency_weight": 0.679,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3015,7 +3063,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.693,
+      "recency_weight": 0.679,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3056,7 +3104,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.691,
+      "recency_weight": 0.678,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3100,7 +3148,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.69,
+      "recency_weight": 0.677,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3142,7 +3190,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.685,
+      "recency_weight": 0.672,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3187,7 +3235,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.68,
+      "recency_weight": 0.667,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3234,7 +3282,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.68,
+      "recency_weight": 0.667,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3284,7 +3332,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.679,
+      "recency_weight": 0.666,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3333,7 +3381,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.674,
+      "recency_weight": 0.661,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3376,7 +3424,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.667,
+      "recency_weight": 0.654,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3426,7 +3474,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.663,
+      "recency_weight": 0.65,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3474,7 +3522,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3516,7 +3564,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3557,7 +3605,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.643,
+      "recency_weight": 0.63,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3568,53 +3616,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f49685797941c5bf2db6",
-      "title": "Global Bonds Are Reeling as Oil Surge Rekindles Inflation Threat",
-      "summary": "Global bonds were pummeled this week by the latest resurgence in energy prices, delivering losses to investors who bet the worst of this year’s rout was over and teeing up credibility tests for central bankers.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/global-bonds-are-reeling-as-oil-surge-renews-inflation-threat",
-      "published_at": "2026-07-24T04:33:23+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.576,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3645,7 +3646,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.535,
+      "recency_weight": 0.525,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3693,7 +3694,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.509,
+      "recency_weight": 0.499,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3739,7 +3740,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.509,
+      "recency_weight": 0.499,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3779,7 +3780,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3822,7 +3823,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3868,7 +3869,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3917,7 +3918,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3967,7 +3968,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4017,7 +4018,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4067,7 +4068,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4108,7 +4109,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.491,
+      "recency_weight": 0.481,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4153,7 +4154,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.489,
+      "recency_weight": 0.48,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4195,7 +4196,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.462,
+      "recency_weight": 0.453,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4236,7 +4237,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.455,
+      "recency_weight": 0.447,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4275,7 +4276,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.436,
+      "recency_weight": 0.427,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4316,7 +4317,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.314,
+      "recency_weight": 0.308,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4365,7 +4366,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.314,
+      "recency_weight": 0.308,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4412,7 +4413,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.286,
+      "recency_weight": 0.281,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -4452,7 +4453,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.274,
+      "recency_weight": 0.269,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4495,7 +4496,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 6.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4897,7 +4898,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-25T08:53:45+00:00",
+      "latest_published_at": "2026-07-25T09:07:34+00:00",
       "warning": null
     },
     {
@@ -4915,7 +4916,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-24T22:30:00+00:00",
+      "latest_published_at": "2026-07-25T10:00:00+00:00",
       "warning": null
     },
     {
