@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T19:10:05.306945+00:00",
-  "generated_at_local": "2026-07-26 03:10:05 北京时间",
-  "next_update_at_local": "2026-07-26 04:10:00 北京时间",
+  "generated_at": "2026-07-25T20:10:24.859881+00:00",
+  "generated_at_local": "2026-07-26 04:10:24 北京时间",
+  "next_update_at_local": "2026-07-26 05:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,8 +34,8 @@
     "official",
     "tier1"
   ],
-  "total_items": 87,
-  "total_official_items": 17,
+  "total_items": 88,
+  "total_official_items": 18,
   "media_items": 70,
   "items": [
     {
@@ -679,42 +679,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "cafaaaabf3201d806ce4",
-      "title": "COHR SEC 4: FORM 4",
-      "translation_label": "原文全文翻译",
-      "translation": "COHR SEC 4: FORM 4。COHERENT CORP. (COHR) 提交了 SEC 表格 4。提交日期：2026年7月24日。表 4 详情：2026年7月22日代码 S 以 306.68 美元的价格处置了 1,000 股；持股量在之后为 67,475 股。报告日期：2026年7月22日。描述：FORM 4。登记号：0000899140-26-000726。",
-      "article_explanation": "COHR披露内部人持股变动。首笔已解析交易为代码S，处置1,000股，价格$306.68。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
-      "summary": "COHR披露内部人持股变动。首笔已解析交易为代码S，处置1,000股，价格$306.68。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
-      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给、AI硬件/数据中心产业链，但仍需要市场价格或下一份官方数据确认。",
-      "impact_interpretation": "先发生什么：文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：交易代码P/S、成交金额、交易后持股，以及是否连续多次发生。",
-      "url": "https://www.sec.gov/Archives/edgar/data/820318/000089914026000726/xslF345X06/form4.xml",
-      "source": "SEC EDGAR Submissions",
-      "publisher": "美国证券交易委员会（SEC）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-07-24T21:00:00+00:00",
-      "pick_score": 69,
-      "event_type": "corporate",
-      "severity": "minor",
-      "impact_axes": [
-        "公司基本面/股本供给",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
       "id": "bf4ebe055246493806d1",
       "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
       "translation_label": "原文中文译读",
@@ -867,6 +831,42 @@
         "fetch_status": "live"
       },
       "in_event_ledger": false
+    },
+    {
+      "id": "cafaaaabf3201d806ce4",
+      "title": "COHR SEC 4: FORM 4",
+      "translation_label": "原文全文翻译",
+      "translation": "COHR SEC 4: FORM 4。COHERENT CORP. (COHR) 提交了 SEC 表格 4。提交日期：2026年7月24日。表 4 详情：2026年7月22日代码 S 以 306.68 美元的价格处置了 1,000 股；持股量在之后为 67,475 股。报告日期：2026年7月22日。描述：FORM 4。登记号：0000899140-26-000726。",
+      "article_explanation": "COHR披露内部人持股变动。首笔已解析交易为代码S，处置1,000股，价格$306.68。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
+      "summary": "COHR披露内部人持股变动。首笔已解析交易为代码S，处置1,000股，价格$306.68。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
+      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给、AI硬件/数据中心产业链，但仍需要市场价格或下一份官方数据确认。",
+      "impact_interpretation": "先发生什么：文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：交易代码P/S、成交金额、交易后持股，以及是否连续多次发生。",
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000089914026000726/xslF345X06/form4.xml",
+      "source": "SEC EDGAR Submissions",
+      "publisher": "美国证券交易委员会（SEC）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-07-24T21:00:00+00:00",
+      "pick_score": 68,
+      "event_type": "corporate",
+      "severity": "minor",
+      "impact_axes": [
+        "公司基本面/股本供给",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "impact_axes": [
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
     },
     {
       "id": "70adee3309de3d3beb48",
@@ -1251,8 +1251,8 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
-      "latest_published_at": "2026-07-23T21:00:25+00:00",
+      "recent_items": 4,
+      "latest_published_at": "2026-07-25T19:36:08+00:00",
       "warning": null
     },
     {
@@ -1288,7 +1288,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-25T18:59:00+00:00",
+      "latest_published_at": "2026-07-25T20:00:00+00:00",
       "warning": null
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:10:05.306945+00:00",
+  "generated_at": "2026-07-25T20:10:24.859881+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,86 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "7baac6120205ace587f0",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T20:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "27379bf515db8efe22be",
+      "title": "DOW Identifies Army Casualty",
+      "summary": "",
+      "source": "US Defense Releases",
+      "source_tier": "official",
+      "source_weight": 1.0,
+      "url": "https://www.war.gov/News/Releases/Release/Article/4555712/dow-identifies-army-casualty/",
+      "published_at": "2026-07-25T19:36:08+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "defense",
+        "geopolitical"
+      ],
+      "categories": [
+        "geopolitical",
+        "defense"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.9,
+      "impact_score": 2.0,
+      "recency_weight": 0.989,
+      "scored_for_probability": true,
+      "source_profile": {
+        "key": "defense",
+        "label": "U.S. Defense",
+        "authority": "U.S. Department of Defense",
+        "source_type": "国防部公告、合同和安全事件原文",
+        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
+        "impact_axes": [
+          "能源/避险/通胀预期",
+          "国防/安全事件"
+        ],
+        "canonical_url": "https://www.defense.gov/News/Releases/",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "bf4ebe055246493806d1",
       "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
@@ -49,7 +129,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.996,
+      "recency_weight": 0.977,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -91,7 +171,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.995,
+      "recency_weight": 0.976,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -136,7 +216,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.992,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -183,7 +263,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.988,
+      "recency_weight": 0.97,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -225,7 +305,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.988,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -266,7 +346,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.982,
+      "recency_weight": 0.964,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -307,7 +387,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -353,7 +433,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.974,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -400,7 +480,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.97,
+      "recency_weight": 0.952,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -412,47 +492,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cd476e086ba6181e6953",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T17:24:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.967,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -483,7 +522,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.949,
+      "recency_weight": 0.931,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -529,7 +568,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.92,
+      "recency_weight": 0.902,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -549,7 +588,7 @@
     {
       "event_id": "7820b155c95b4eb1edf3",
       "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
+      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -572,7 +611,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.919,
+      "recency_weight": 0.902,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -614,7 +653,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.912,
+      "recency_weight": 0.895,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -659,7 +698,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.906,
+      "recency_weight": 0.889,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -705,7 +744,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.897,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -747,7 +786,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -789,7 +828,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.879,
+      "recency_weight": 0.862,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -835,7 +874,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -884,7 +923,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -927,7 +966,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -968,7 +1007,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.866,
+      "recency_weight": 0.849,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1013,7 +1052,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1060,7 +1099,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.844,
+      "recency_weight": 0.828,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1102,7 +1141,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.824,
+      "recency_weight": 0.808,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1147,7 +1186,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.821,
+      "recency_weight": 0.805,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1189,7 +1228,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.82,
+      "recency_weight": 0.804,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1234,7 +1273,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.795,
+      "recency_weight": 0.78,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1276,7 +1315,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1322,7 +1361,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.784,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1373,7 +1412,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.769,
+      "recency_weight": 0.754,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1416,7 +1455,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.766,
+      "recency_weight": 0.752,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1457,7 +1496,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.754,
+      "recency_weight": 0.74,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1502,7 +1541,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.74,
+      "recency_weight": 0.726,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1548,7 +1587,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.731,
+      "recency_weight": 0.717,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1594,7 +1633,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.722,
+      "recency_weight": 0.709,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1636,7 +1675,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.71,
+      "recency_weight": 0.697,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1681,7 +1720,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.705,
+      "recency_weight": 0.691,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1728,7 +1767,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.701,
+      "recency_weight": 0.688,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1775,7 +1814,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.691,
+      "recency_weight": 0.678,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1822,7 +1861,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.691,
+      "recency_weight": 0.678,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1868,7 +1907,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.676,
+      "recency_weight": 0.663,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1915,7 +1954,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.665,
+      "recency_weight": 0.652,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1958,7 +1997,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.663,
+      "recency_weight": 0.65,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1999,7 +2038,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.658,
+      "recency_weight": 0.645,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2040,7 +2079,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.655,
+      "recency_weight": 0.642,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2090,7 +2129,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2139,7 +2178,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2181,7 +2220,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.651,
+      "recency_weight": 0.639,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2227,7 +2266,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.65,
+      "recency_weight": 0.637,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2269,7 +2308,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.645,
+      "recency_weight": 0.633,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2312,7 +2351,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.643,
+      "recency_weight": 0.631,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2358,7 +2397,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.642,
+      "recency_weight": 0.629,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2400,7 +2439,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2441,7 +2480,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.639,
+      "recency_weight": 0.626,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2487,7 +2526,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.636,
+      "recency_weight": 0.624,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2530,7 +2569,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.636,
+      "recency_weight": 0.624,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2571,7 +2610,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.634,
+      "recency_weight": 0.622,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2617,7 +2656,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.63,
+      "recency_weight": 0.618,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2659,7 +2698,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.629,
+      "recency_weight": 0.617,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2704,7 +2743,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.626,
+      "recency_weight": 0.614,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2751,7 +2790,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.625,
+      "recency_weight": 0.613,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2797,7 +2836,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.615,
+      "recency_weight": 0.603,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2840,7 +2879,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.61,
+      "recency_weight": 0.598,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2886,7 +2925,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.608,
+      "recency_weight": 0.597,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2926,7 +2965,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.57,
+      "recency_weight": 0.559,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2966,7 +3005,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.565,
+      "recency_weight": 0.554,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3011,7 +3050,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.561,
+      "recency_weight": 0.55,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3059,7 +3098,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.556,
+      "recency_weight": 0.545,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3102,7 +3141,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.538,
+      "recency_weight": 0.528,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3143,7 +3182,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.53,
+      "recency_weight": 0.52,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3191,7 +3230,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.42,
+      "recency_weight": 0.412,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3233,7 +3272,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3276,7 +3315,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3322,7 +3361,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3371,7 +3410,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3421,7 +3460,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3471,7 +3510,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3521,7 +3560,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3562,7 +3601,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.405,
+      "recency_weight": 0.397,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3607,7 +3646,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3653,7 +3692,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.382,
+      "recency_weight": 0.375,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3695,7 +3734,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.381,
+      "recency_weight": 0.374,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3736,7 +3775,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.376,
+      "recency_weight": 0.368,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3775,7 +3814,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.359,
+      "recency_weight": 0.352,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3816,7 +3855,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3865,7 +3904,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4246,8 +4285,8 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
-      "latest_published_at": "2026-07-23T21:00:25+00:00",
+      "recent_items": 4,
+      "latest_published_at": "2026-07-25T19:36:08+00:00",
       "warning": null
     },
     {
@@ -4283,7 +4322,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-25T18:59:00+00:00",
+      "latest_published_at": "2026-07-25T20:00:00+00:00",
       "warning": null
     },
     {
