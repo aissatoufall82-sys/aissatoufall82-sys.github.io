@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T03:10:21.054477+00:00",
-  "generated_at_local": "2026-07-25 11:10:21 北京时间",
-  "next_update_at_local": "2026-07-25 12:10:00 北京时间",
+  "generated_at": "2026-07-25T04:10:17.152011+00:00",
+  "generated_at_local": "2026-07-25 12:10:17 北京时间",
+  "next_update_at_local": "2026-07-25 13:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -710,7 +710,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-24T19:01:24+00:00",
-      "pick_score": 84,
+      "pick_score": 83,
       "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
@@ -784,41 +784,7 @@
       "publisher": "美国证券交易委员会（SEC）",
       "publisher_type": "官方机构",
       "published_at": "2026-07-23T21:00:00+00:00",
-      "pick_score": 74,
-      "event_type": "corporate",
-      "severity": "moderate",
-      "impact_axes": [
-        "公司基本面/股本供给"
-      ],
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
-      "id": "a24e6982f26bd77e6667",
-      "title": "TSLA SEC 8-K: 8-K",
-      "translation_label": "原文全文翻译",
-      "translation": "TSLA SEC 8-K：8-K。Tesla, Inc. (TSLA) 提交了 SEC 表格 8-K。提交日期：2026-07-22。8-K 项目 2.02：运营结果和财务状况。2026年7月22日，Tesla, Inc. 通过在其网站上发布2026年第二季度更新，公布了截至2026年6月30日的季度财务结果。该更新的全文作为附件 99.1 附后，并在此通过引用并入。此信息拟根据规定提供。报告日期：2026-07-22。8-K 项目：2.02, 9.01。描述：8-K。备案号：0001628280-26-049213。",
-      "article_explanation": "TSLA提交8-K，事项编号为2.02,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
-      "summary": "TSLA提交8-K，事项编号为2.02,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
-      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给，但仍需要市场价格或下一份官方数据确认。",
-      "impact_interpretation": "先发生什么：8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：事项编号和正文；2.02常对应业绩，5.02常对应管理层，8.01为其他事项。",
-      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/tsla-20260722.htm",
-      "source": "SEC EDGAR Submissions",
-      "publisher": "美国证券交易委员会（SEC）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-07-22T21:00:00+00:00",
-      "pick_score": 72,
+      "pick_score": 73,
       "event_type": "corporate",
       "severity": "moderate",
       "impact_axes": [
@@ -868,6 +834,40 @@
         "impact_axes": [
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
+    },
+    {
+      "id": "a24e6982f26bd77e6667",
+      "title": "TSLA SEC 8-K: 8-K",
+      "translation_label": "原文全文翻译",
+      "translation": "TSLA SEC 8-K：8-K。Tesla, Inc. (TSLA) 提交了 SEC 表格 8-K。提交日期：2026-07-22。8-K 项目 2.02：运营结果和财务状况。2026年7月22日，Tesla, Inc. 通过在其网站上发布2026年第二季度更新，公布了截至2026年6月30日的季度财务结果。该更新的全文作为附件 99.1 附后，并在此通过引用并入。此信息拟根据规定提供。报告日期：2026-07-22。8-K 项目：2.02, 9.01。描述：8-K。备案号：0001628280-26-049213。",
+      "article_explanation": "TSLA提交8-K，事项编号为2.02,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
+      "summary": "TSLA提交8-K，事项编号为2.02,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
+      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给，但仍需要市场价格或下一份官方数据确认。",
+      "impact_interpretation": "先发生什么：8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：事项编号和正文；2.02常对应业绩，5.02常对应管理层，8.01为其他事项。",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/tsla-20260722.htm",
+      "source": "SEC EDGAR Submissions",
+      "publisher": "美国证券交易委员会（SEC）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-07-22T21:00:00+00:00",
+      "pick_score": 71,
+      "event_type": "corporate",
+      "severity": "moderate",
+      "impact_axes": [
+        "公司基本面/股本供给"
+      ],
+      "source_profile": {
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "impact_axes": [
+          "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
         "fetch_status": "live"
@@ -1285,7 +1285,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-25T00:00:00+00:00",
+      "latest_published_at": "2026-07-25T02:54:40+00:00",
       "warning": null
     },
     {
