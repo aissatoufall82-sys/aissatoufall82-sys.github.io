@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:10:19.867623+00:00",
+  "generated_at": "2026-07-25T14:10:28.366247+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,267 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "fdcb30bb3fcf54ce4bed",
+      "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
+      "summary": "The 30-year fixed-rate mortgage edged up to its highest level of 2026.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T14:08:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.999,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5ee1caff55fe294d23aa",
+      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+      "summary": "With the quick rise of Moonshot AI's Kimi K3, the topic of distillation has become a hot-button issue among techies and lawmakers. Moonshot's offering is one of many coming out of China, where developers are producing so-called open-weight models that are cheaper to use than models from the likes of OpenAI and Anthropic. Leading tech companies published a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight models that would \"stifle competition or drive innovation overseas.\" Earlier this year, Google AI lead Jeff Dean, on a podcast , discussed a concept that, at the time, was hardly spoken about outside of wonky tech circles: distillation. In talking about the development of Google's AI models, Dean said that he and colleagues discovered artificial intelligence distillation techniques because Google was looking to improve performance on its systems without relying on one large image recognition model. \"Through distillation, which is a key technique for making the smaller models more capable, you have to have the frontier model in order to then distill it into your smaller model,\" Dean said in February. Five months later, distillation has suddenly become a hot-button topic from Silicon Valley to Washington, D.C., as techies and lawmakers debate whether the practice is turning into a national security threat and enabling China to catch the U.S. in the high-stakes AI race. Concern bubbled up late last week after Chinese lab Moonshot AI released Kimi K3 , and users quickly found it to be competitive with the best commercially available AI from Anthropic and OpenAI. Unlike the leading U.S. AI companies, which sell access to proprietary models, Moonshot and other Chinese labs are offering so-called open-weight models that allow users to download the technology, tweak it and run it wherever they want. Some government officials attribute Moonshot's ability to catch up so quickly to distillation, describing it as theft of American intellectual property, specifically by incorporating Anthropic's frontier Fable model. \"We have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model,\" White House advisor Michael Kratsios posted on X on Wednesday. \"To do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection.\" At a high level, distillation refers to the use of answers from a chatbot or work product from an advanced AI model to train another model. The practice is controversial because, depending on how it's used, it can allow a model developer to create a competitive offering by simply using the output from companies that have invested many millions or billions of dollars developing the most sophisticated training technology. \"It's almost like someone went to the lectures, read the textbook, and did all the hard work of doing the homework,\" said Pukar Hamal, founder of AI security firm SecurityPal. \"Then some other student is like, 'Hey, I didn't do that. Can I just copy your work?'\" Whether it was Kratsios' post or something else, the biggest tech heavyweights on the planet came together on Friday in what might be unprecedented fashion to make their position clear. After a series of social media posts throughout the week, tech giants Nvidia , Microsoft , Meta , Palantir joined with more than 20 other companies to release a letter urging policymakers to avoid \"premature restrictions\" on open-weight AI models that would \"stifle competition or drive innovation overseas.\" \"Distillation, or the practice of using one model's outputs to help train or improve another, is a widely used technique for model improvement, evolution, and validation,\" they wrote. The emergence of distillation presents a conundrum to U.S. policy makers, who have long been concerned about Chinese technology in terms of both IP theft and national security issues. Colin Shea-Blymyer, a research fellow at Georgetown's Center for Security and Emerging Technology, said the U.S. government is trying to figure out its position. The government could argue that Chinese and Russian companies \"have used the outputs of hardworking American models to make themselves more performant, and so they have an unfair advantage there,\" Shea-Blymyer said. Box CEO Aaron Levie was one of the signatories of Friday's letter. Levie said in an interview that to stay competitive, U.S. companies need to be able to access the best technology, no matter where it's developed. \"Generally the arc is going to be that the more innovation that there is, whether that's from the U.S. or China or otherwise, you should expect more AI progress, and generally it'll bend toward being even lower cost and more efficient over time,\" Levie said.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+      "published_at": "2026-07-25T14:03:03+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "aaddadf9ec5ac7e93176",
+      "title": "Your retirement math may have a surprising flaw",
+      "summary": "Stress-test your retirement plan against late-life healthcare and housing shocks.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T13:53:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.994,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "03b2de4ff63da4a87bbd",
+      "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
+      "summary": "Active stock pickers almost always lose against the broad market. They can’t beat simple math.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+      "published_at": "2026-07-25T13:36:00+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "71c64794e4e96b4a18c5",
+      "title": "Does crypto make your portfolio less risky? Only if you do it right, experts say",
+      "summary": "Nearly half of crypto investors — 45% — say portfolio diversification is the primary reason they hold the asset, according to a new report by the Urban Institute, a think tank. But there's a right way and a wrong way to use digital assets such as bitcoin as a hedge against the performance of stocks and other investments, financial advisors and market analysts said. There have been some lofty claims made about cryptocurrency in the past, including that it will replace government-issued money , prove as groundbreaking as the smart phone and democratize the financial system . But most investors point to a fairly ordinary reason for holding the digital assets: to diversify their investment portfolio. The catch: There's a right way and a wrong way to use digital assets such as bitcoin for diversification, financial advisors and market analysts said. Diversification is an important facet of a sound portfolio, advisors said. At a high level, it helps reduce investment risk. Nearly half of crypto investors — 45% — say diversification is the primary reason they hold the asset, according to a report published this month by the Urban Institute, a think tank. In fact, diversification was investors' No. 1 motivator, according to the report. In other reasons, 27% of the investors said they believe crypto is the future, 11% said they would make more money in crypto than other investments, and 5% said they don't trust the U.S. dollar, according to Urban, which surveyed 3,194 U.S. adults in January. It defines crypto owners as those who report owning cryptocurrency such as bitcoin, solana, ethereum, XRP, stablecoins, memecoins and other digital coins. The findings suggest that investors are looking to crypto as part of a more traditional investment strategy, whereas in the earlier days of its roughly two-decade existence , investors largely held it to be countercultural and nonconformist, experts said. Trump Accounts: Who is eligible, how $1,000 deposits work and how to open one Student loan borrowers on new RAP plan can lose key benefits if they pay late AI can make you 'boring' at work, professor says: How to avoid the pitfalls AARP to Congress: 'We strongly object to fast-tracking Social Security changes' CNBC's Financial Advisor 100: Best financial advisors, top firms ranked CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026 \"As crypto gets more widely integrated into mainstream financial markets, and becomes just another asset, it makes sense that it'll be separated from the anti-establishment views that drove early adopters,\" said Dan Cassino, a professor of political science at Fairleigh Dickinson University and the author of \" Bitcoin Bros: Masculinity, Cryptocurrency, and the Future of Men .\" Overall, it's a good sign that people are thinking of cryptocurrency in investment terms, said Douglas Boneparth, a certified financial planner and president and founder of Bone Fide Wealth in New York. \"When the primary motivation moves from ideology or speculation toward portfolio construction, that's a sign of maturation,\" said Boneparth, who is also a member of the CNBC Financial Advisor Council . However, just how effective crypto can be as a diversifying asset \"depends entirely on the quality of the execution,\" he said. 'A good complement' to traditional investments There are different ways to diversify an investment portfolio. For example, investors can diversify between asset classes by owning a mix of stocks, bonds, cash, commodities and crypto, among others. They can also diversify within asset classes, such as by holding both U.S. stocks and international stocks. The basic premise is to have assets that don't move in tandem, but instead move up and down independently of each other, said Veronica Willis, a senior investment strategist on the asset allocation team at Wells Fargo Investment Institute. That way, when stocks drop, investors can rely on other asset classes to serve as a ballast. Bonds are a traditional way to diversify away from stocks. Over the past 10 years, bonds have displayed a low correlation to U.S. stocks, with a 0.02 correlation to the S&P 500 stock index, Willis said. Aa correlation of 1 means the assets move perfectly in tandem — meaning there isn't a diversification benefit. A correlation of zero means there is no relationship, while a negative correlation means they move in opposite directions. Meanwhile, digital assets have a correlation of 0.2 with the S&P 500 over the past decade, Willis said. That's higher than bonds but still \"very low,\" she said. \"Cryptocurrency tends to be a diversifier, so over the long-term it can be a good complement to more traditional investments,\" said Jim Ferraioli, director of crypto research and strategy at the Schwab Center for Financial Research. Boneparth said bitcoin, in particular, \"earns its place in a portfolio on diversification grounds.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
+      "published_at": "2026-07-25T13:30:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8a81c49d9ad47136bb4a",
+      "title": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market",
+      "summary": "When Donald Trump was elected to a second term as president, amateur and professional traders alike rushed to identify which stocks would benefit from his aggressive economic policies.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
+      "published_at": "2026-07-25T13:00:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "aed13871201ebf726239",
       "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
@@ -45,7 +306,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.992,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -87,7 +348,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -99,52 +360,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "59eebd8f3f68aaed8566",
-      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-      "summary": "With the quick rise of Moonshot AI's Kimi K3, the topic of distillation has become a hot-button issue among techies and lawmakers. Moonshot's offering is one of many coming out of China, where developers are producing so-called open-weight models that are cheaper to use than models from the likes of OpenAI and Anthropic. Leading tech companies published a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight models that would \"stifle competition or drive innovation overseas.\" Earlier this year, Google AI lead Jeff Dean, on a podcast , discussed a concept that, at the time, was hardly spoken about outside of wonky tech circles: distillation. In talking about the development of Google's AI models, Dean said that he and colleagues discovered artificial intelligence distillation techniques because Google was looking to improve performance on its systems without relying on one large image recognition model. \"Through distillation, which is a key technique for making the smaller models more capable, you have to have the frontier model in order to then distill it into your smaller model,\" Dean said in February. Five months later, distillation has suddenly become a hot-button topic from Silicon Valley to Washington, D.C., as techies and lawmakers debate whether the practice is turning into a national security threat and enabling China to catch the U.S. in the high-stakes AI race. Concern bubbled up late last week after Chinese lab Moonshot AI released Kimi K3 , and users quickly found it to be competitive with the best commercially available AI from Anthropic and OpenAI. Unlike the leading U.S. AI companies, which sell access to proprietary models, Moonshot and other Chinese labs are offering so-called open-weight models that allow users to download the technology, tweak it and run it wherever they want. Some government officials attribute Moonshot's ability to catch up so quickly to distillation, describing it as theft of American intellectual property, specifically by incorporating Anthropic's frontier Fable model. \"We have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model,\" White House advisor Michael Kratsios posted on X on Wednesday. \"To do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection.\" At a high level, distillation refers to the use of answers from a chatbot or work product from an advanced AI model to train another model. The practice is controversial because, depending on how it's used, it can allow a model developer to create a competitive offering by simply using the output from companies that have invested many millions or billions of dollars developing the most sophisticated training technology. \"It's almost like someone went to the lectures, read the textbook, and did all the hard work of doing the homework,\" said Pukar Hamal, founder of AI security firm SecurityPal. \"Then some other student is like, 'Hey, I didn't do that. Can I just copy your work?'\" Whether it was Kratsios' post or something else, the biggest tech heavyweights on the planet came together on Friday in what might be unprecedented fashion to make their position clear. After a series of social media posts throughout the week, tech giants Nvidia , Microsoft , Meta , Palantir joined with more than 20 other companies to release a letter urging policymakers to avoid \"premature restrictions\" on open-weight AI models that would \"stifle competition or drive innovation overseas.\" \"Distillation, or the practice of using one model's outputs to help train or improve another, is a widely used technique for model improvement, evolution, and validation,\" they wrote. The emergence of distillation presents a conundrum to U.S. policy makers, who have long been concerned about Chinese technology in terms of both IP theft and national security issues. Colin Shea-Blymyer, a research fellow at Georgetown's Center for Security and Emerging Technology, said the U.S. government is trying to figure out its position. The government could argue that Chinese and Russian companies \"have used the outputs of hardworking American models to make themselves more performant, and so they have an unfair advantage there,\" Shea-Blymyer said. Box CEO Aaron Levie was one of the signatories of Friday's letter. Levie said in an interview that to stay competitive, U.S. companies need to be able to access the best technology, no matter where it's developed. \"Generally the arc is going to be that the more innovation that there is, whether that's from the U.S. or China or otherwise, you should expect more AI progress, and generally it'll bend toward being even lower cost and more efficient over time,\" Levie said.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-      "published_at": "2026-07-25T12:00:02+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.978,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -179,7 +394,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -228,7 +443,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -271,7 +486,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -312,7 +527,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -353,7 +568,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.972,
+      "recency_weight": 0.953,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -394,7 +609,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.968,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -439,7 +654,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -484,7 +699,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -530,7 +745,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.948,
+      "recency_weight": 0.93,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -572,7 +787,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -613,7 +828,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.925,
+      "recency_weight": 0.907,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -658,7 +873,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.921,
+      "recency_weight": 0.903,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -700,7 +915,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.92,
+      "recency_weight": 0.902,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -745,7 +960,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.893,
+      "recency_weight": 0.875,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -787,7 +1002,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -833,7 +1048,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -884,7 +1099,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.863,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -927,7 +1142,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.86,
+      "recency_weight": 0.844,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -968,7 +1183,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.846,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1013,7 +1228,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.83,
+      "recency_weight": 0.815,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1059,7 +1274,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.821,
+      "recency_weight": 0.805,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1105,7 +1320,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.811,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1147,7 +1362,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.797,
+      "recency_weight": 0.782,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1192,7 +1407,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1239,7 +1454,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.787,
+      "recency_weight": 0.772,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1281,7 +1496,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.781,
+      "recency_weight": 0.766,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1327,7 +1542,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.776,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1374,7 +1589,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.776,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1420,7 +1635,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.759,
+      "recency_weight": 0.745,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1462,7 +1677,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.754,
+      "recency_weight": 0.739,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1503,7 +1718,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.747,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1549,7 +1764,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.746,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1592,7 +1807,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.744,
+      "recency_weight": 0.73,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1633,130 +1848,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.744,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4498daa69a6c1f454688",
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T21:45:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.743,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3c1f61fc8654fd067833",
-      "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
-      "summary": "Long-bond spike would crush stock gains and deepen bond-fund losses.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T21:38:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.741,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a7bcb08274bdf5e528c8",
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-      "published_at": "2026-07-24T21:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.74,
+      "recency_weight": 0.73,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1775,7 +1867,7 @@
     {
       "event_id": "9bcc437c544a1d8b689d",
       "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
-      "summary": "Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027. It had previously said it intended to complete the transaction by the end of September. The merger is facing a lawsuit from a group of state attorneys general who have said it raises antitrust concerns. Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027 — a multi-month delay that will ultimately raise the deal price — as the tie-up faces a legal challenge. Last week, a group of state attorneys general led by California's Rob Bonta sued to block the deal over antitrust concerns. On Monday, a judge reviewing the case issued a temporary restraining order , delivering a near-term delay. Paramount had repeatedly said it intended to complete the transaction by the end of September. The agreement announced Friday says Paramount won't complete its acquisition until the court rules on the states' claims or until June 1, 2027, whichever comes first. In a statement Friday, Paramount called the agreement a \"significant win.\" \"The result is exactly what we have sought from the outset: a direct path to a trial based on the evidence. This is the fastest and clearest way to prove that this transaction is good for competition, good for consumers, and good for creators, a conclusion dozens of competition authorities around the world have already reached,\" the company said. \"Plaintiffs' market definitions bear no relationship to the realities of today's marketplace and cannot withstand scrutiny. We look forward to proving our case at trial.\" Under the terms of its agreement, Paramount will owe Warner Bros. Discovery shareholders a \"ticking fee\" the longer the deal is delayed, starting Sept. 30. The fee, an additional 25 cents per share, per quarter until closing, could amount to roughly $650 million in cash value every quarter. A delay as long as June 2027 could add roughly $1.7 billion to the deal price. Should the deal fall apart entirely, Paramount would owe WBD a $7 billion breakup fee. Paramount and WBD agreed to combine in February after the David Ellison-led company outbid Netflix . The $110 billion deal would bring together two major Hollywood studios, two popular streaming services and a host of TV networks. In June, the antitrust division of the U.S. Department of Justice cleared the proposed merger. Earlier this week, European antitrust regulators likewise granted their approval for the deal. But U.S. state officials have raised concerns that the tie-up would reduce competition and result in job losses in the film industry. \"Our argument against this illegal merger is straightforward: When too few corporations have too much power in markets central to American life, it makes things more expensive, and it makes things worse,\" Bonta said in a statement Friday. \"Today's agreement is great news for audiences, movie theaters, and the many people who write, build, and create the art, news, and entertainment so many of us enjoy. We are eager to continue to make our case in court and celebrate another tremendous win in our effort to ensure this unlawful merger never sees the light of day.\"",
+      "summary": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1797,7 +1889,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.738,
+      "recency_weight": 0.724,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1838,7 +1930,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.735,
+      "recency_weight": 0.721,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1888,7 +1980,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.732,
+      "recency_weight": 0.718,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1937,7 +2029,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.732,
+      "recency_weight": 0.718,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1979,7 +2071,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.731,
+      "recency_weight": 0.717,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2025,7 +2117,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.729,
+      "recency_weight": 0.715,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2067,7 +2159,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.724,
+      "recency_weight": 0.71,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2110,7 +2202,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.722,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2122,57 +2214,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "581a5f131c48d23fad23",
-      "title": "Wall Street Bulls Are Staring Down $100 Oil, Tariffs, AI Angst",
-      "summary": "Every bull market has a recurring cast of villains. Oil shocks. Inflation. Rising bond yields. Trade wars. This week, investors had to contend with all of them at once.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/wall-street-bulls-are-staring-down-100-oil-tariffs-ai-angst",
-      "published_at": "2026-07-24T20:12:40+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "dollar",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.721,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2207,7 +2248,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.72,
+      "recency_weight": 0.706,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2249,7 +2290,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.718,
+      "recency_weight": 0.704,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2290,7 +2331,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.717,
+      "recency_weight": 0.703,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2336,7 +2377,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.714,
+      "recency_weight": 0.7,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2379,7 +2420,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.714,
+      "recency_weight": 0.7,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2420,7 +2461,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.712,
+      "recency_weight": 0.698,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2466,7 +2507,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.708,
+      "recency_weight": 0.694,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2508,7 +2549,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.706,
+      "recency_weight": 0.693,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2553,7 +2594,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.702,
+      "recency_weight": 0.689,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2600,7 +2641,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.702,
+      "recency_weight": 0.689,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2646,7 +2687,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.692,
+      "recency_weight": 0.679,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2692,7 +2733,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.69,
+      "recency_weight": 0.677,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2739,7 +2780,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.689,
+      "recency_weight": 0.676,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2782,7 +2823,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.684,
+      "recency_weight": 0.671,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2828,7 +2869,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.683,
+      "recency_weight": 0.67,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2874,7 +2915,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2921,7 +2962,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.672,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2967,7 +3008,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.668,
+      "recency_weight": 0.655,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2979,52 +3020,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "00dd14e9a40e6aeb865e",
-      "title": "Pentagon lowers official Iran war death toll, omitting four killed this month",
-      "summary": "The Pentagon lowered its official Iran war death toll to 14 from 18, removing four service members killed this month.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html",
-      "published_at": "2026-07-24T15:41:39+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.661,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3060,7 +3055,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.652,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3107,7 +3102,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.646,
+      "recency_weight": 0.634,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3154,7 +3149,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.641,
+      "recency_weight": 0.629,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3166,139 +3161,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "bd720835bb052dd7763f",
-      "title": "Meta, Microsoft Face Renewed Unease Over AI Spending: US Earnings Week Ahead",
-      "summary": "Microsoft Corp., Meta Platforms Inc. and Amazon.com Inc. face renewed investor anxiety over their debt-fueled capital expenditure plans after Alphabet Inc. raised the upper end of its spending forecast this year by as much as $15 billion.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
-      "published_at": "2026-07-24T14:05:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.641,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "99502ac2f3b8df4d97dd",
-      "title": "Energia Costa Azul, Mexico's second LNG terminal, shipped first cargo",
-      "summary": "Energia Costa Azul, the second liquefied natural gas (LNG) export facility in Mexico, shipped its initial cargo from Phase 1 of the terminal on July 8, according to the project developer. The completion of the project adds 0.4 billion cubic feet per day (Bcf/d) of nominal export capacity from a single train, tripling Mexico's LNG export capacity. The facility is the first terminal in Mexico and the second in North America, following LNG Canada, to be located on the Pacific Coast, boosting North American export capacity there to 2.2 Bcf/d. The Pacific Coast location allows for shorter shipping routes to importers in Asia.",
-      "source": "EIA Today in Energy",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67884",
-      "published_at": "2026-07-24T14:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "energy",
-        "oil"
-      ],
-      "categories": [
-        "energy",
-        "oil"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.64,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "eia",
-        "label": "EIA",
-        "authority": "U.S. Energy Information Administration",
-        "source_type": "能源供需、库存与价格背景数据",
-        "evidence_role": "能源供需、库存与价格背景数据：确认能源供给、出口、库存和运输风险相关事实。",
-        "impact_axes": [
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "https://www.eia.gov/rss/todayinenergy.xml",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9fedeb7324c89b399614",
-      "title": "Meta Wins Dismissal of Suit Over WhatsApp Privacy",
-      "summary": "A judge dismissed a lawsuit alleging that Meta Platforms Inc.’s WhatsApp is able to access users’ encrypted messages and has made false claims about the privacy and security of its chat service.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/meta-wins-dismissal-of-suit-over-whatsapp-privacy",
-      "published_at": "2026-07-24T13:55:51+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.639,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -3330,7 +3192,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.634,
+      "recency_weight": 0.622,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3375,7 +3237,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.63,
+      "recency_weight": 0.618,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3423,7 +3285,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.624,
+      "recency_weight": 0.612,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3471,7 +3333,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.604,
+      "recency_weight": 0.593,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3513,7 +3375,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.604,
+      "recency_weight": 0.593,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3554,7 +3416,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.595,
+      "recency_weight": 0.584,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3602,7 +3464,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.471,
+      "recency_weight": 0.462,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3644,7 +3506,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.461,
+      "recency_weight": 0.453,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3687,7 +3549,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.461,
+      "recency_weight": 0.453,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3733,7 +3595,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.461,
+      "recency_weight": 0.453,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3782,7 +3644,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.461,
+      "recency_weight": 0.453,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3832,7 +3694,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.461,
+      "recency_weight": 0.453,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3882,7 +3744,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.461,
+      "recency_weight": 0.453,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3932,7 +3794,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.461,
+      "recency_weight": 0.453,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3973,7 +3835,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.454,
+      "recency_weight": 0.446,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4018,7 +3880,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.453,
+      "recency_weight": 0.444,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4064,7 +3926,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.429,
+      "recency_weight": 0.42,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4106,7 +3968,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.428,
+      "recency_weight": 0.419,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4147,7 +4009,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.422,
+      "recency_weight": 0.414,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -4186,7 +4048,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4227,7 +4089,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.291,
+      "recency_weight": 0.285,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4276,7 +4138,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.291,
+      "recency_weight": 0.285,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4323,7 +4185,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.265,
+      "recency_weight": 0.26,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -4336,46 +4198,6 @@
           "指数风险偏好"
         ],
         "canonical_url": "https://www.bls.gov/feed/bls_latest.rss",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "965a0ea5d46aed81903c",
-      "title": "Commercial crude oil inventories increased by 2.0 million barrels",
-      "summary": "For the week ending July 17, 2026, commercial crude oil inventories (excluding the Strategic Petroleum Reserve) increased 2.0 million barrels to 411.7 million barrels, 6% below the previous five-year (2021–2025) average. Gasoline inventories increased 0.8 million barrels, 7% below the five-year average. Distillate inventories increased 1.4 million barrels, 10% below the five-year average. Propane/propylene inventories increased 6.3 million barrels, 34% above the five-year average. Total commercial petroleum inventories increased by 11.6 million barrels for the week.",
-      "source": "EIA Today in Energy",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67868",
-      "published_at": "2026-07-22T14:00:00+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "oil"
-      ],
-      "categories": [
-        "energy",
-        "oil"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 8.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "eia",
-        "label": "EIA",
-        "authority": "U.S. Energy Information Administration",
-        "source_type": "能源供需、库存与价格背景数据",
-        "evidence_role": "能源供需、库存与价格背景数据：确认能源供给、出口、库存和运输风险相关事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "https://www.eia.gov/rss/todayinenergy.xml",
         "fetch_status": "live"
       }
     }
@@ -4734,10 +4556,10 @@
       "name": "EIA Today in Energy",
       "tier": "official",
       "enabled": true,
-      "status": "ok",
-      "recent_items": 2,
-      "latest_published_at": "2026-07-24T14:00:00+00:00",
-      "warning": null
+      "status": "warning",
+      "recent_items": 0,
+      "latest_published_at": null,
+      "warning": "Failed to fetch https://www.eia.gov/rss/todayinenergy.xml: <urlopen error _ssl.c:1063: The handshake operation timed out>"
     },
     {
       "name": "US Defense Releases",
@@ -4763,7 +4585,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-25T12:00:01+00:00",
+      "latest_published_at": "2026-07-25T13:00:01+00:00",
       "warning": null
     },
     {
@@ -4771,7 +4593,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 19,
+      "recent_items": 17,
       "latest_published_at": "2026-07-25T07:16:06+00:00",
       "warning": null
     },
@@ -4781,7 +4603,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-25T12:00:00+00:00",
+      "latest_published_at": "2026-07-25T14:08:00+00:00",
       "warning": null
     },
     {
@@ -4790,7 +4612,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-25T12:46:34+00:00",
+      "latest_published_at": "2026-07-25T14:03:03+00:00",
       "warning": null
     },
     {
@@ -4804,6 +4626,7 @@
     }
   ],
   "warnings": [
+    "EIA Today in Energy: Failed to fetch https://www.eia.gov/rss/todayinenergy.xml: <urlopen error _ssl.c:1063: The handshake operation timed out>",
     "Source-only mode; market breadth skipped."
   ]
 }
