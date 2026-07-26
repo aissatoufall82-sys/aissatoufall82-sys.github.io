@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T18:10:01.399148+00:00",
+  "generated_at": "2026-07-26T19:10:18.810425+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,88 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "87560e3d6261d9b570af",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T19:01:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4acad3517dbe4b3d1e30",
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T18:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "1d941a11c468cc53f2c3",
       "title": "European SpaceX Rival in Talks to Raise $300 Million, FT Reports",
@@ -49,7 +131,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.993,
+      "recency_weight": 0.974,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -96,7 +178,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.981,
+      "recency_weight": 0.963,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -138,7 +220,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -183,7 +265,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.936,
+      "recency_weight": 0.918,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -230,7 +312,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.927,
+      "recency_weight": 0.909,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -277,7 +359,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.925,
+      "recency_weight": 0.907,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -323,7 +405,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -369,7 +451,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -412,7 +494,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -458,7 +540,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.914,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -504,7 +586,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.914,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -551,7 +633,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -594,7 +676,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -637,7 +719,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -679,7 +761,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.897,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -720,7 +802,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.897,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -764,7 +846,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.897,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -814,7 +896,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.893,
+      "recency_weight": 0.876,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -860,7 +942,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -901,7 +983,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -947,7 +1029,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.88,
+      "recency_weight": 0.864,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -960,47 +1042,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "05732a8e770299e06b0a",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "published_at": "2026-07-26T11:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.871,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1035,7 +1076,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.776,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1077,7 +1118,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.74,
+      "recency_weight": 0.725,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1118,7 +1159,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.731,
+      "recency_weight": 0.717,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1159,7 +1200,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.713,
+      "recency_weight": 0.699,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1205,7 +1246,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.705,
+      "recency_weight": 0.691,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1249,7 +1290,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.699,
+      "recency_weight": 0.686,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1291,48 +1332,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.665,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "86099de5af0391245c37",
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T20:15:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.656,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1374,7 +1374,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.652,
+      "recency_weight": 0.639,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1414,7 +1414,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.648,
+      "recency_weight": 0.635,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1455,7 +1455,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.609,
+      "recency_weight": 0.598,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1496,7 +1496,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.59,
+      "recency_weight": 0.579,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1537,7 +1537,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.586,
+      "recency_weight": 0.575,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1582,7 +1582,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.582,
+      "recency_weight": 0.571,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1624,7 +1624,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.576,
+      "recency_weight": 0.565,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1665,7 +1665,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.565,
+      "recency_weight": 0.554,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1710,7 +1710,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.559,
+      "recency_weight": 0.549,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1758,7 +1758,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.559,
+      "recency_weight": 0.549,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1800,7 +1800,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.526,
+      "recency_weight": 0.516,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1845,7 +1845,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.526,
+      "recency_weight": 0.516,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1887,7 +1887,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.494,
+      "recency_weight": 0.484,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1928,7 +1928,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.464,
+      "recency_weight": 0.455,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1970,7 +1970,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2012,7 +2012,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.426,
+      "recency_weight": 0.418,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2053,7 +2053,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.42,
+      "recency_weight": 0.412,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2103,7 +2103,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.419,
+      "recency_weight": 0.411,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2152,7 +2152,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.419,
+      "recency_weight": 0.411,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2193,7 +2193,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.414,
+      "recency_weight": 0.406,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2234,7 +2234,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.41,
+      "recency_weight": 0.402,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2275,7 +2275,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.408,
+      "recency_weight": 0.401,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2316,7 +2316,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.407,
+      "recency_weight": 0.399,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2357,7 +2357,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.404,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2396,7 +2396,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.366,
+      "recency_weight": 0.359,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2436,7 +2436,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.346,
+      "recency_weight": 0.339,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2475,7 +2475,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2518,7 +2518,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2564,7 +2564,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2613,7 +2613,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2663,7 +2663,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2713,7 +2713,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2763,7 +2763,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2804,7 +2804,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.26,
+      "recency_weight": 0.255,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3222,7 +3222,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-26T15:00:00+00:00",
+      "latest_published_at": "2026-07-26T19:01:00+00:00",
       "warning": null
     },
     {
