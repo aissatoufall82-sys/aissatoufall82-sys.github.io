@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T07:10:26.913545+00:00",
-  "generated_at_local": "2026-07-26 15:10:26 北京时间",
-  "next_update_at_local": "2026-07-26 16:10:00 北京时间",
+  "generated_at": "2026-07-26T08:10:14.590718+00:00",
+  "generated_at_local": "2026-07-26 16:10:14 北京时间",
+  "next_update_at_local": "2026-07-26 17:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,9 +34,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 73,
+  "total_items": 70,
   "total_official_items": 16,
-  "media_items": 57,
+  "media_items": 54,
   "items": [
     {
       "id": "fe7ccc2dd2afa331ac2c",
@@ -356,7 +356,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T08:49:00+00:00",
-      "pick_score": 94,
+      "pick_score": 93,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -394,7 +394,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T08:53:45+00:00",
-      "pick_score": 86,
+      "pick_score": 85,
       "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
@@ -432,7 +432,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-26T05:00:01+00:00",
-      "pick_score": 85,
+      "pick_score": 84,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -489,44 +489,6 @@
         "fetch_status": "live"
       },
       "in_event_ledger": true
-    },
-    {
-      "id": "8ecd5337cba72e0be123",
-      "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
-      "translation_label": "原文中文译读",
-      "translation": "根据一份声明，伊拉克将与叙利亚签署一项关于建设输油管道的协议。该协议旨在修建连接伊拉克石油生产基地与通过地中海通往全球出口市场的管道。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T23:34:54+00:00",
-      "pick_score": 68,
-      "event_type": "energy",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
     },
     {
       "id": "2bbf4311480e8218eb7e",
@@ -601,6 +563,44 @@
         "fetch_status": "live"
       },
       "in_event_ledger": true
+    },
+    {
+      "id": "8ecd5337cba72e0be123",
+      "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
+      "translation_label": "原文中文译读",
+      "translation": "根据一份声明，伊拉克将与叙利亚签署一项关于建设输油管道的协议。该协议旨在修建连接伊拉克石油生产基地与通过地中海通往全球出口市场的管道。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-25T23:34:54+00:00",
+      "pick_score": 67,
+      "event_type": "energy",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
     },
     {
       "id": "bf4ebe055246493806d1",
@@ -1271,7 +1271,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 14,
+      "recent_items": 12,
       "latest_published_at": "2026-07-26T02:30:00+00:00",
       "warning": null
     },
@@ -1280,7 +1280,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
+      "recent_items": 2,
       "latest_published_at": "2026-07-26T00:00:00+00:00",
       "warning": null
     },
