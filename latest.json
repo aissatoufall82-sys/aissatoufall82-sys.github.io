@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T11:10:21.154190+00:00",
+  "generated_at": "2026-07-26T12:10:25.781827+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,95 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "a0daa862e3cdb8508b5d",
+      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T12:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f0d122520e4fc13a8259",
+      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+      "summary": "Major indexes remain volatile as investors assess key earnings releases and geopolitical tensions in the Middle East. Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns. In this regard, recommendations of top Wall Street analysts can help shortlist stocks with robust growth opportunities. These experts conduct an in-depth analysis of all the macro and micro factors affecting a company, focusing on its long-term growth potential. Here are three stocks favored by some of Wall Street's top pros, according to TipRanks, a platform that ranks analysts based on their past performance. CrowdStrike Holdings is a cloud-native cybersecurity provider. The company recently announced an expanded partnership with Schwarz Digits to bring its Falcon platform to European enterprises. After hosting several European investor meetings with the CrowdStrike CFO, Stifel analyst Adam Borg reiterated a buy rating on CRWD stock and increased his price target to $230 from $220. The five-star analyst said that the meetings increased his confidence about CrowdStrike being an \"important, well-positioned cybersecurity platform vendor that is an AI beneficiary given its expansive portfolio, unique data set, and ability to both secure AI and use AI to improve security.\" Among the key takeaways, Borg noted that AI is driving a major shift in cybersecurity demand as it presents software vulnerabilities that can be exploited by less sophisticated hackers with capabilities that were once limited to government-backed hacking groups. This has led to companies making cybersecurity a top priority, driving customer interest in CrowdStrike's new AI Detection & Response solution and its broader security platform. Borg added that AI-driven demand is expanding CrowdStrike's pipeline and supporting confidence in the company's higher fiscal 2027 net new annual recurring revenue guidance issued last quarter. Overall, Borg believes that CrowdStrike has multiple growth drivers that can help maintain revenue growth in at least the high-teens and drive improved profitability in the years ahead. Borg ranks No. 651 among more than 12,300 analysts tracked by TipRanks. His ratings have been profitable 65% of the time, delivering an average return of 15%. See CrowdStrike Ownership Structure on TipRanks. Moving on to AST SpaceMobile , a company building a global cellular broadband network in space. Recently, Piper Sandler analyst Alexander Potter initiated coverage of space-related stocks. While the analyst assigned AST SpaceMobile a buy rating with a price target of $100 , he has a neutral stance on rocket builders SpaceX and Rocket Lab due to valuation concerns. \"We prefer ASTS , due to a more palatable valuation, and a clearer path to EBITDA upside,\" said Potter. The five-star analyst highlighted that AST SpaceMobile builds satellites that connect directly to smartphones, ensuring network connectivity for users everywhere and enabling applications like video calls, streaming, and gaming. Potter added that ASTS' technology helps Mobile Network Operators, or MNOs, expand coverage and offer add-on services to travelers and users in remote locations. Additionally, Potter noted that ASTS has collaborated with and received equity investments from some of the largest MNOs, including AT&T , Vodafone , Verizon and Rakuten. He explained that by working with these carriers instead of competing against them, ASTS gains access to more than 3 billion subscribers. Potter ranks No. 708 among more than 12,300 analysts tracked by TipRanks. His ratings have been profitable 48% of the time, delivering an average return of 17.2%. See AST SpaceMobile Technical Analysis on TipRanks. Finally, let's look at Broadcom , a provider of custom AI chips and networking solutions. Recently, Morgan Stanley analyst Joseph Moore reiterated a buy rating on Broadcom stock with a price target of $502 . The five-star analyst is surprised by the underperformance of AVGO stock so far this year compared to its peers, especially given continued momentum in AI-driven demand. Moore cited concerns that competitor MediaTek could gain market share from Broadcom in Google's tensor processing unit chip business and investor preference for faster-growing AI chip names as reasons for the underperformance. While Moore acknowledged that MediaTek's role in Google's TPU business is growing, he contends that it is unlikely to disrupt Broadcom's position significantly. He expects Broadcom to continue to be the major TPU supplier, with about 80% market share. Overall, Moore believes that concerns about a decline in AVGO's market share to 50% or its eventual replacement seem premature. \"AVGO should retain majority share, sustain strong AI growth, and remain a core compute winner, close behind NVDA,\" said Moore.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
+      "published_at": "2026-07-26T11:33:11+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "05732a8e770299e06b0a",
       "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
@@ -45,7 +134,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -91,7 +180,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.982,
+      "recency_weight": 0.964,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -137,7 +226,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -179,7 +268,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.846,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -220,7 +309,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.836,
+      "recency_weight": 0.82,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -261,7 +350,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.815,
+      "recency_weight": 0.8,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -307,7 +396,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -351,7 +440,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.8,
+      "recency_weight": 0.785,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -393,7 +482,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.761,
+      "recency_weight": 0.747,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -434,7 +523,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.75,
+      "recency_weight": 0.736,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -476,7 +565,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.746,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -516,7 +605,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.741,
+      "recency_weight": 0.727,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -561,7 +650,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.732,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -603,7 +692,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.731,
+      "recency_weight": 0.717,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -648,7 +737,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.729,
+      "recency_weight": 0.715,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -695,7 +784,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.726,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -737,7 +826,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.726,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -778,48 +867,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.722,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a6aabffc9b5c4cd9ccf7",
-      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
-      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T18:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.718,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -860,7 +908,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.697,
+      "recency_weight": 0.684,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -906,7 +954,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.676,
+      "recency_weight": 0.663,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -949,7 +997,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.676,
+      "recency_weight": 0.663,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -991,7 +1039,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.67,
+      "recency_weight": 0.658,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1036,7 +1084,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.666,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1082,7 +1130,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.659,
+      "recency_weight": 0.646,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1124,7 +1172,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1166,7 +1214,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.646,
+      "recency_weight": 0.634,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1215,7 +1263,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1262,7 +1310,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.64,
+      "recency_weight": 0.628,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1274,88 +1322,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ec8d2051841f814c2202",
-      "title": "Austin’s Mayor Tackles Housing Affordability, and Canada Faces New Tariffs",
-      "summary": "Former trade negotiator says don’t underestimate Canada’s ire",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-25/austin-s-mayor-tackles-housing-affordability-and-canada-faces-new-tariffs",
-      "published_at": "2026-07-25T12:00:01+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.64,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "dbc96b48e8d7a0f8975a",
-      "title": "Heat Bakes Central US, Raising Energy Demand as East Stays Cool",
-      "summary": "Baking temperatures will sear the central US from the Rocky Mountains to the Mississippi River and eventually push down into the Gulf Coast for the rest of the month, putting regional power grids to the test.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/heat-bakes-central-us-raising-energy-demand-as-east-stays-cool",
-      "published_at": "2026-07-25T11:41:32+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.636,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1386,7 +1352,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.602,
+      "recency_weight": 0.591,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1405,7 +1371,7 @@
     {
       "event_id": "15a95a2c2cf50a000a67",
       "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-      "summary": "Nvidia said it's secured AI memory supply from SK Hynix, potentially alleviating a concern as the memory market faces a global shortage. The chipmaker is aggressively securing supply of high-bandwidth memory, an essential component for its graphics processing units and AI systems. SK Hynix' affiliate SK Telecom will build a cloud business using Nvidia's Vera Rubin systems. Nvidia said it's secured AI memory supply from South Korea's SK Hynix , as the chipmaker tries to lock in a key component for its advanced processors and systems. The agreement, announced late Friday in San Francisco, could be worth $500 billion over a number of years, and includes the construction of large-scale data centers expected to come online in 2027, Nvidia said. SK Hynix affiliate SK Telecom will build a cloud business using Nvidia's Vera Rubin systems. Nvidia said it's targeting enough capacity to require 2 gigawatts of power, which indicates a massive buildout with hundreds of thousands of graphics processing units. In a separate deal, South Korean giant Samsung Electronics said it signed a memorandum of understanding with chip designer Bro adcom to expand their collaboration across memory and foundry technologies. The deal, worth an estimated $200 billion, would help support the next generation of AI infrastructure, Samsung said in a statement . Nvidia is aggressively securing supply of high-bandwidth memory, which is essential for its GPUs and systems, as the AI boom has created a global memory shortage. SK Hynix is the leader in HBM production , according to analysts. \"The expansion will include a co-develop opportunity for us on the next-generation SK Hynix AI memory, and this will help us secure a stable supply of HBM memory,\" Raj Mirpuri, Nvidia enterprise vice president, said on a call with reporters. The agreement is also a sign that massive AI infrastructure buildouts are moving beyond a handful of hyperscalers, with foreign governments and massive conglomerates starting to get involved. The deal was announced at an AI summit in San Francisco with South Korean officials including President Lee Jae Myung. Nvidia also said Friday that it would invest $1 billion into Naver, a Korean cloud company building data centers around its GPUs. Nvidia said the project would provide an opportunity for potential customers in South Korea and around the world to secure AI computing capacity before the 200 megawatts of capacity is completed. SK Hynix, South Korea's second most valuable company, listed on the Nasdaq earlier this month as part of an effort to finance infrastructure developments. WATCH : South Korea's AI boom is spilling into housing – CNBC's Azhar Sukri contributed to this story.",
+      "summary": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1413,17 +1379,14 @@
       "published_at": "2026-07-25T08:49:00+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.5,
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
-        "datacenter",
         "growth",
         "macro",
         "market",
-        "memory",
         "semiconductor",
-        "storage",
         "tech"
       ],
       "categories": [
@@ -1431,10 +1394,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.602,
+      "impact_score": 5.52,
+      "recency_weight": 0.591,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1476,7 +1439,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.565,
+      "recency_weight": 0.554,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1517,7 +1480,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.531,
+      "recency_weight": 0.521,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1559,7 +1522,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.488,
+      "recency_weight": 0.479,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1601,7 +1564,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.487,
+      "recency_weight": 0.478,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1642,7 +1605,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.481,
+      "recency_weight": 0.472,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1692,7 +1655,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.48,
+      "recency_weight": 0.47,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1741,7 +1704,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.48,
+      "recency_weight": 0.47,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1782,7 +1745,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.474,
+      "recency_weight": 0.465,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1827,7 +1790,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.472,
+      "recency_weight": 0.463,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1869,7 +1832,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.469,
+      "recency_weight": 0.46,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1910,7 +1873,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.467,
+      "recency_weight": 0.458,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1951,7 +1914,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.466,
+      "recency_weight": 0.457,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1997,7 +1960,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.463,
+      "recency_weight": 0.454,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2039,7 +2002,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.462,
+      "recency_weight": 0.453,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2084,7 +2047,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.46,
+      "recency_weight": 0.451,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2131,7 +2094,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.46,
+      "recency_weight": 0.451,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2177,7 +2140,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.452,
+      "recency_weight": 0.443,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2220,7 +2183,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.448,
+      "recency_weight": 0.439,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2266,7 +2229,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.447,
+      "recency_weight": 0.438,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2306,7 +2269,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.419,
+      "recency_weight": 0.411,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2346,7 +2309,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.396,
+      "recency_weight": 0.388,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2385,7 +2348,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.296,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2428,7 +2391,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.296,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2474,7 +2437,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.296,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2523,7 +2486,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.296,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2573,7 +2536,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.296,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2623,7 +2586,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.296,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2673,7 +2636,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.296,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2714,7 +2677,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.297,
+      "recency_weight": 0.292,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2759,7 +2722,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.281,
+      "recency_weight": 0.275,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2771,47 +2734,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7150a514817e8970ccdf",
-      "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
-      "summary": "The future of the Ridgeline midsize pickup truck had been in flux, and the automaker said there will be a temporary production stoppage for the truck.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
-      "published_at": "2026-07-23T17:02:35+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.28,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2842,7 +2764,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.276,
+      "recency_weight": 0.271,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2881,7 +2803,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.264,
+      "recency_weight": 0.259,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3280,7 +3202,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 8,
+      "recent_items": 6,
       "latest_published_at": "2026-07-26T02:30:00+00:00",
       "warning": null
     },
@@ -3299,7 +3221,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-26T11:00:00+00:00",
+      "latest_published_at": "2026-07-26T12:00:00+00:00",
       "warning": null
     },
     {
@@ -3308,7 +3230,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-26T10:14:39+00:00",
+      "latest_published_at": "2026-07-26T11:33:11+00:00",
       "warning": null
     },
     {
