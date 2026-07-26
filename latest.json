@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:10:18.810425+00:00",
+  "generated_at": "2026-07-26T20:10:23.571281+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,14 +21,14 @@
   "environment": null,
   "events": [
     {
-      "event_id": "87560e3d6261d9b570af",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "event_id": "6513b3c65024447c8d6e",
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
       "source": "MarketWatch Top Stories",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "published_at": "2026-07-26T19:01:00+00:00",
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T20:00:00+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -62,6 +62,179 @@
       }
     },
     {
+      "event_id": "af1a6dbce13eeae5695c",
+      "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
+      "summary": "“I would likely be the one responsible for dealing with the house.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T19:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c6bb9808a3bf3b3dc2f5",
+      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T19:15:00+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.982,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "87560e3d6261d9b570af",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T19:01:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1d438178a5afb1deac04",
+      "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount",
+      "summary": "Bond traders enter the week seeing a better than one-in-three chance that the Federal Reserve hikes interest rates on Wednesday after flaring Middle East tensions lifted oil prices, boosting inflation worries and yields.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/bond-traders-on-edge-as-risks-of-fed-rate-hike-this-week-mount",
+      "published_at": "2026-07-26T19:00:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.5,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 13.8,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
       "event_id": "4acad3517dbe4b3d1e30",
       "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
       "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
@@ -86,7 +259,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -131,7 +304,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.974,
+      "recency_weight": 0.956,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -178,7 +351,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.963,
+      "recency_weight": 0.944,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -220,7 +393,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -265,7 +438,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.918,
+      "recency_weight": 0.901,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -312,7 +485,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.909,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -359,7 +532,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.907,
+      "recency_weight": 0.89,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -405,7 +578,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -451,7 +624,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -494,7 +667,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -540,7 +713,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.897,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -586,7 +759,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.897,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -633,7 +806,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -676,7 +849,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -687,50 +860,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "863035b624019afa5180",
-      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
-      "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
-      "published_at": "2026-07-26T13:00:00+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.888,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -761,48 +890,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.879,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "89b2febbb30610e99d63",
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "published_at": "2026-07-26T12:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -846,7 +934,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -896,7 +984,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.876,
+      "recency_weight": 0.859,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -942,7 +1030,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -983,7 +1071,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1029,7 +1117,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.864,
+      "recency_weight": 0.847,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1076,7 +1164,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.761,
+      "recency_weight": 0.747,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1118,7 +1206,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.725,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1159,7 +1247,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.717,
+      "recency_weight": 0.703,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1200,7 +1288,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.699,
+      "recency_weight": 0.686,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1246,7 +1334,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.691,
+      "recency_weight": 0.678,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1290,7 +1378,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.686,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1302,47 +1390,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4386c86403be3f46fa1b",
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T21:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.653,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1374,7 +1421,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.639,
+      "recency_weight": 0.627,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1414,7 +1461,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.635,
+      "recency_weight": 0.623,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1455,7 +1502,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.598,
+      "recency_weight": 0.586,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1496,7 +1543,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.579,
+      "recency_weight": 0.568,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1537,7 +1584,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.575,
+      "recency_weight": 0.564,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1582,7 +1629,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.571,
+      "recency_weight": 0.56,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1624,7 +1671,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.565,
+      "recency_weight": 0.554,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1665,7 +1712,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.554,
+      "recency_weight": 0.543,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1710,7 +1757,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.549,
+      "recency_weight": 0.538,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1758,7 +1805,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.549,
+      "recency_weight": 0.538,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1800,7 +1847,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.516,
+      "recency_weight": 0.506,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1845,7 +1892,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.516,
+      "recency_weight": 0.506,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1887,7 +1934,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.484,
+      "recency_weight": 0.475,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1928,7 +1975,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.455,
+      "recency_weight": 0.446,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1970,7 +2017,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.419,
+      "recency_weight": 0.411,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2012,7 +2059,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.418,
+      "recency_weight": 0.41,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2053,7 +2100,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.412,
+      "recency_weight": 0.404,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2103,7 +2150,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2152,7 +2199,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2193,7 +2240,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.406,
+      "recency_weight": 0.398,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2234,7 +2281,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.402,
+      "recency_weight": 0.395,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2275,7 +2322,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.401,
+      "recency_weight": 0.393,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2316,7 +2363,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.399,
+      "recency_weight": 0.392,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2357,7 +2404,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.389,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2396,7 +2443,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.359,
+      "recency_weight": 0.352,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2436,7 +2483,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2475,7 +2522,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2518,7 +2565,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2564,7 +2611,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2613,7 +2660,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2663,7 +2710,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2713,7 +2760,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2763,7 +2810,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2804,7 +2851,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.255,
+      "recency_weight": 0.25,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3203,8 +3250,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 8,
-      "latest_published_at": "2026-07-26T14:00:00+00:00",
+      "recent_items": 9,
+      "latest_published_at": "2026-07-26T19:00:00+00:00",
       "warning": null
     },
     {
@@ -3222,7 +3269,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-26T19:01:00+00:00",
+      "latest_published_at": "2026-07-26T20:00:00+00:00",
       "warning": null
     },
     {
