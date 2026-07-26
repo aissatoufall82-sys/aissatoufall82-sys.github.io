@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T00:10:06.566674+00:00",
-  "generated_at_local": "2026-07-26 08:10:06 北京时间",
-  "next_update_at_local": "2026-07-26 09:10:00 北京时间",
+  "generated_at": "2026-07-26T01:10:05.541008+00:00",
+  "generated_at_local": "2026-07-26 09:10:05 北京时间",
+  "next_update_at_local": "2026-07-26 10:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -90,44 +90,6 @@
       "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T18:34:00+00:00",
-      "pick_score": 99,
-      "event_type": "geopolitical",
-      "severity": "major",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "1e72d8ec74a38b547b96",
-      "title": "El Niño Worsens Plight of Asia’s Rice Belt After War Price Shock",
-      "translation_label": "原文中文译读",
-      "translation": "厄尔尼诺现象加剧了亚洲水稻种植区的困境，此前该地区已遭受战争引发的价格冲击。干旱天气正席卷亚洲的稻田，给原本就在应对伊朗战争引发的高昂燃料和化肥价格的农户带来了又一次打击。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/el-nino-worsens-plight-of-asia-s-rice-belt-after-war-price-shock",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T01:00:00+00:00",
       "pick_score": 99,
       "event_type": "geopolitical",
       "severity": "major",
@@ -343,6 +305,44 @@
       "in_event_ledger": false
     },
     {
+      "id": "e92e9a3477cc417b2be2",
+      "title": "Memory Frenzy Primes China Champion CXMT for Historic Debut",
+      "translation_label": "原文中文译读",
+      "translation": "内存芯片交易的热潮正在为长鑫存储即将在上海证券交易所的历史性首次公开募股设定极高的预期。在完成了一笔接近创纪录的首次公开募股之后，长鑫存储正处于创造历史的边缘。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut",
+      "source": "Bloomberg Technology",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-26T00:00:00+00:00",
+      "pick_score": 98,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "c37f18d18cfb10c6bcd8",
       "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
       "translation_label": "原文中文译读",
@@ -489,6 +489,44 @@
         "fetch_status": "live"
       },
       "in_event_ledger": true
+    },
+    {
+      "id": "8ecd5337cba72e0be123",
+      "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
+      "translation_label": "原文中文译读",
+      "translation": "根据一份声明，伊拉克将与叙利亚签署一项关于建设输油管道的协议。该协议旨在修建连接伊拉克石油生产基地与通过地中海通往全球出口市场的管道。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-25T23:34:54+00:00",
+      "pick_score": 69,
+      "event_type": "energy",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
     },
     {
       "id": "2bbf4311480e8218eb7e",
@@ -909,44 +947,6 @@
         "fetch_status": "live"
       },
       "in_event_ledger": false
-    },
-    {
-      "id": "1b23bf61b2a11bd6770e",
-      "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
-      "translation_label": "原文中文译读",
-      "translation": "SK集团会长崔泰源表示，人工智能开发商Anthropic PBC已向全球最大的存储芯片制造商之一SK海力士寻求供应，以制造其自己的半导体。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
-      "source": "Bloomberg Technology",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T00:44:09+00:00",
-      "pick_score": 65,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
     }
   ],
   "source_catalog": [
@@ -1273,8 +1273,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 13,
-      "latest_published_at": "2026-07-25T13:00:01+00:00",
+      "recent_items": 14,
+      "latest_published_at": "2026-07-26T00:34:20+00:00",
       "warning": null
     },
     {
@@ -1282,8 +1282,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 6,
-      "latest_published_at": "2026-07-25T14:49:55+00:00",
+      "recent_items": 5,
+      "latest_published_at": "2026-07-26T00:00:00+00:00",
       "warning": null
     },
     {
