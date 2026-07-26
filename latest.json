@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T21:10:25.110722+00:00",
+  "generated_at": "2026-07-26T22:10:20.907754+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,137 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "ed6d111e20c07c8a1d80",
+      "title": "Latest Oil Market News and Analysis for July 27",
+      "summary": "⁠⁠Oil dropped as traders assessed Middle East supply risks, with the US pausing strikes against Iran over the weekend, while the Houthis claimed attacks against targets in Saudi Arabia.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27",
+      "published_at": "2026-07-26T22:02:41+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5887a57c6623c443b497",
+      "title": "Kiwi Will Outpace Euro on Widening Rate Gap, Strategists Say",
+      "summary": "New Zealand’s dollar is set to rise to the strongest in more than a year against the euro due to expectations the local central bank will outpace its European peer in raising interest rates, according to strategists.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/kiwi-will-outpace-euro-on-widening-rate-gap-strategists-say",
+      "published_at": "2026-07-26T21:00:39+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7179e77146b2ccc982d8",
+      "title": "Kioxia Faces More Volatility as Leveraged ETFs Hit Japan Stocks",
+      "summary": "Kioxia Holdings Corp. faces more wild price swings with leveraged exchange-traded funds tracking the Japanese memory chipmaker’s shares set to be listed in the US.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/kioxia-faces-more-volatility-as-leveraged-etfs-hit-japan-stocks",
+      "published_at": "2026-07-26T21:00:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "30a5f9971e2a38e33144",
       "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
@@ -49,7 +180,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.994,
+      "recency_weight": 0.975,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -91,7 +222,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -132,7 +263,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.968,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -175,7 +306,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.964,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -217,7 +348,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -263,7 +394,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -305,7 +436,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -350,7 +481,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.938,
+      "recency_weight": 0.92,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -397,7 +528,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.926,
+      "recency_weight": 0.909,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -439,7 +570,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -484,7 +615,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.884,
+      "recency_weight": 0.867,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -496,54 +627,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8d2e893ab188804b9840",
-      "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
-      "summary": "The S&P 500 industrials sector has a forward price-to-earnings ratio above 30, well above its long-term average. Industrial stocks are benefitting from the AI data center buildout and related power grid investments. The sub-sectors of defense tech and space tech are also contributing to the rally. As the AI infrastructure buildout and global geopolitical developments spur massive spending, an old-guard sector of the economy is getting a level of attention from investors that rivals the action in tech. The industrials sector of the S&P 500 is trading at a price-to-earnings ratio above 30, a level investors more often associate with high fliers, and a P/E ratio that is well above industrials' long-term average, which is closer to 20. \"If you look at [Industrial Select Sector SPDR] XLI from State Street, its valuations are really high relative to the S&P 500,\" Cinthia Murphy, director of research at VettaFi, said on the most recent \"ETF Edge.\" \"It's as high as tech, so it really is a sector that has really had its moment in the sun and picked up a lot of attention,\" Murphy said. The race to construct AI data centers in hopes of gaining a durable business advantage in a rapidly-shifting digital infrastructure has gripped the corporate world and the tech sector. Alphabet , as part of its earnings report on Wednesday, forecast capex for this year of $195 billion to $205 billion. Prior guidance was for spending of $180 billion to $190 billion. McKinsey & Company estimates suggest that this investment won't be stopping anytime soon – with reports showing that global spending on data centers could reach nearly $8 trillion by 2030. The vast majority of this spending will be dedicated to data center infrastructure and IT equipment. Alphabet warned those spending numbers could go even higher in 2027. \"AI is a tech play, but nothing happens without the build out of the infrastructure,\" Murphy said. \"There's a whole backbone infrastructure that needs to be built, and that has really pushed up industrials.\" \"We have only just begun this buildout. We are a few hundred billion dollars into it. Trillions of dollars of infrastructure still need to be built,\" Jensen Huang, Nvidia CEO, said in a March blog post . \"This is becoming the largest infrastructure buildout in human history.\" The vast majority of projects in the next stages of a nationwide data center expansion are expected to take place in rural areas. In order to accommodate the staggering power demand associated with data centers, expanding rural power grids may prove essential. Peak production capacity for rural power grids in the U.S. remains comparatively limited, on average. Now, there exists a push to develop facilities that regularly consume up to twenty times their existing power capacity, intensifying corporate demand and the need for industrial support. This demand comes despite rising public animosity towards new data center construction, driven by local concerns surrounding strained power grids and rising electrical costs. Constructing this AI backbone across the U.S. requires new electrical substations, strengthening high-speed fiber internet capabilities, and developing new energy-saving battery technology. Mass amounts of power generation and backup equipment, construction machinery, and electrification software have all come into the mix as necessities for scaling. As a result, production firms within the machinery and electrical equipment industries, which make up 20.89% and 14.16% of XLI holdings, respectively, have surged. Caterpillar , the ETF's top holding, and GE Vernova , the third-largest holding in the industrials index, are both up over 50% this year. Caterpillar is up nearly 160% from where it was two years ago. GE Vernova continues to benefit from bookings related to the AI buildout, while its renewable energy business has been hit by the downturn in the wind power sector, leading to a selloff this week after earnings despite a $176 billion business backlog at the end of Q2. It's not just the heavyweights that have benefited, either. Emerson Electric , the 29th-largest holding in XLI, is trading at nearly 20% more than it was in July of 2024, despite experiencing slight losses over the past year. Hubbell , the 60th-largest holding, is up 30% in the two-year period dating back to July 2024. Inside XLI, it's not just the AI boom that is supporting stock valuations, and dozens of other industrials ETFs have been launched targeting multiple niches within the sector. \"There are over 60 industrials ETFs that fall into that sector category, and collectively they've seen about $23 billion in net inflows year-to-date,\" Murphy wrote in an email to CNBC. \"Industrials have not only performed really well relative to the market, but industrials ETFs have seen momentum in asset gathering (relative to recent years) as investors focus on the secular growth trends tied to the AI infrastructure buildout as well as to [the] aerospace and defense theme.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
-      "published_at": "2026-07-26T14:12:20+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.874,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -578,7 +661,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.873,
+      "recency_weight": 0.856,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -624,7 +707,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -670,7 +753,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -713,7 +796,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -759,7 +842,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.863,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -779,7 +862,7 @@
     {
       "event_id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The Next Dream Why Gen Z doesn't see marriage as part of their American Dream The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -805,7 +888,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.863,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -852,7 +935,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -895,7 +978,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -936,7 +1019,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.846,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -980,7 +1063,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.846,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1030,7 +1113,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.843,
+      "recency_weight": 0.827,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1076,7 +1159,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1117,7 +1200,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1163,7 +1246,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.831,
+      "recency_weight": 0.815,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1210,7 +1293,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.732,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1252,7 +1335,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.698,
+      "recency_weight": 0.685,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1293,7 +1376,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.69,
+      "recency_weight": 0.676,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1334,7 +1417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.673,
+      "recency_weight": 0.66,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1380,7 +1463,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.665,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1424,7 +1507,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.66,
+      "recency_weight": 0.647,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1464,7 +1547,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.611,
+      "recency_weight": 0.6,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1505,7 +1588,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.575,
+      "recency_weight": 0.564,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1524,17 +1607,18 @@
     {
       "event_id": "7820b155c95b4eb1edf3",
       "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-      "summary": "Being a beekeeper is harder than ever, but David Bradshaw is determined to protect his hives.",
+      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
       "published_at": "2026-07-25T14:48:15+00:00",
-      "event_type": "market",
+      "event_type": "corporate",
       "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
+        "corporate",
         "macro",
         "market"
       ],
@@ -1546,7 +1630,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.557,
+      "recency_weight": 0.547,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1556,7 +1640,8 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好"
+          "指数风险偏好",
+          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1587,7 +1672,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.553,
+      "recency_weight": 0.542,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1632,7 +1717,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.549,
+      "recency_weight": 0.539,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1674,7 +1759,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.543,
+      "recency_weight": 0.533,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1715,7 +1800,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.533,
+      "recency_weight": 0.523,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1760,7 +1845,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.528,
+      "recency_weight": 0.518,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1808,7 +1893,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.528,
+      "recency_weight": 0.518,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1850,7 +1935,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.497,
+      "recency_weight": 0.487,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1895,7 +1980,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.497,
+      "recency_weight": 0.487,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1937,7 +2022,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.466,
+      "recency_weight": 0.457,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1978,7 +2063,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.438,
+      "recency_weight": 0.43,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2020,7 +2105,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.403,
+      "recency_weight": 0.395,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2062,7 +2147,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.402,
+      "recency_weight": 0.394,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2103,7 +2188,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.397,
+      "recency_weight": 0.389,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2153,7 +2238,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.388,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2202,7 +2287,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.388,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2243,7 +2328,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.391,
+      "recency_weight": 0.383,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2284,7 +2369,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.387,
+      "recency_weight": 0.38,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2325,7 +2410,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.385,
+      "recency_weight": 0.378,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2366,7 +2451,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.384,
+      "recency_weight": 0.377,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2407,7 +2492,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.381,
+      "recency_weight": 0.374,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2420,6 +2505,52 @@
           "监管/交易结构"
         ],
         "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "74b985fc480bb67dfd19",
+      "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
+      "summary": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+      "published_at": "2026-07-24T18:48:10+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 12.88,
+      "recency_weight": 0.372,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -2446,7 +2577,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.346,
+      "recency_weight": 0.339,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2486,7 +2617,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.326,
+      "recency_weight": 0.32,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2885,8 +3016,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 9,
-      "latest_published_at": "2026-07-26T19:00:00+00:00",
+      "recent_items": 12,
+      "latest_published_at": "2026-07-26T22:02:41+00:00",
       "warning": null
     },
     {

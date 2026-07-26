@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T21:10:25.110722+00:00",
-  "generated_at_local": "2026-07-27 05:10:25 北京时间",
-  "next_update_at_local": "2026-07-27 06:10:00 北京时间",
+  "generated_at": "2026-07-26T22:10:20.907754+00:00",
+  "generated_at_local": "2026-07-27 06:10:20 北京时间",
+  "next_update_at_local": "2026-07-27 07:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,9 +34,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 57,
+  "total_items": 60,
   "total_official_items": 6,
-  "media_items": 51,
+  "media_items": 54,
   "items": [
     {
       "id": "1ab2aab1c60b75a2730c",
@@ -155,6 +155,44 @@
       "in_event_ledger": false
     },
     {
+      "id": "74b985fc480bb67dfd19",
+      "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
+      "translation_label": "原文中文译读",
+      "translation": "特朗普正在考虑对伊朗发动一场规模空前的猛烈打击。这位美国总统在接受Axios采访时表示，他正在考虑一项比以往任何时候都规模更大的军事行动。与此同时，据路透社报道，巴基斯坦正寻求重启陷入停滞的和平谈判。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：若冲突降温或运输恢复，原油的战争溢价会先回落，随后减轻通胀和利率压力。 可能受益：航空、运输、化工、消费和高估值成长股；燃料成本下降也有利于整体风险偏好。 可能承压：上游石油股、黄金和部分国防资产，尤其是此前涨幅主要来自战争溢价的标的。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。只有油价与波动率同步回落，才算风险真正缓和。",
+      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-24T18:48:10+00:00",
+      "pick_score": 97,
+      "event_type": "geopolitical",
+      "severity": "major",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "1d438178a5afb1deac04",
       "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount",
       "translation_label": "原文中文译读",
@@ -168,7 +206,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-26T19:00:00+00:00",
-      "pick_score": 97,
+      "pick_score": 96,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -206,7 +244,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-26T13:30:02+00:00",
-      "pick_score": 97,
+      "pick_score": 96,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -312,7 +350,7 @@
       "id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
       "translation_label": "原文中文译读",
-      "translation": "美国梦正经历着持续的变化，四代人对其有着六种不同的愿景。CNBC的一项调查显示，51%的美国成年人认为美国梦对大多数人来说目前遥不可及。尽管存在个人和社会的挑战，许多人仍保持乐观，认为追求机会的愿景依然充满活力，而年轻一代则在质疑这一梦想是否真的触手可及。为了迎接该国建国250周年，CNBC Make It邀请了政治、金融和情感领域的知名人士展开对话，探讨当今追求幸福和成功的意义，并推出了名为The Next Dream的系列报道。前华尔街交易员、知名金融教育品牌Your Rich BFF创始人Vivian Tu表示，她现在用做有意义的工作和回报父母来衡量成就。84岁的Gail Rudnick正在开启人生第二个大梦想，与30岁的孙女Kim Murstein共同担任内容创作者和播客联席主持人。62岁的Sylvia Kwan作为女性中心金融规划与财富管理平台Ellevest的CEO，一直在改写自己的人生剧本。专家指出，年轻一代正面临前所未有的重重壁垒，Z世代遭遇了新冠疫情对教育和社交的阻碍，步入职场后又面临动荡的劳动力市场、高不可攀的住房市场以及通胀压力。26岁的历史通讯作家和社交媒体创作者Kahlil Greene对美国未来的前景感到担忧，认为国家正处于下行轨迹，难以想象如何解决这些不可逾越的困难。相比之下，80岁的加州大学伯克利分校教授、美国前劳工部长Robert Reich则持有相反观点，他因美国的韧性而感到乐观，并强调避免愤世嫉俗、保持希望对于让国家变得更好至关重要。",
+      "translation": "美国梦正处于不断变化的状态中，四代人对此有着六种不同的愿景。CNBC Make It推出了名为The Next Dream的系列报道，邀请了政治、金融和人际关系领域的知名人士跨年龄段对话，探讨在当今美国实现幸福和成功的意义。金融教育品牌Your Rich BFF创始人、32岁的Vivian Tu如今通过做有意义的工作和回报父母来衡量成就。84岁的Gail Rudnick开启了内容创作者和播客联席主持人的新职业生涯。62岁的Sylvia Kwan作为女性专属财富管理平台Ellevest的CEO，实现了曾经认为不可能的目标，同时也认识到年轻人面临的重大挑战。专家指出，Z世代等年轻一代面临着前几代人未曾遇到的复合障碍，包括疫情对教育和社会成长的影响、动荡的就业市场、高不可攀的住房市场以及通胀压力。26岁的历史通讯作家Kahlil Greene对美国未来感到担忧，认为国家正处于下行轨迹。而80岁的加州大学伯克利分校教授、前美国劳工部长Robert Reich则持有相反观点，他因美国的韧性而感到乐观，并强调避免愤世嫉俗、保持希望的重要性。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
@@ -322,7 +360,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-26T13:30:02+00:00",
-      "pick_score": 88,
+      "pick_score": 87,
       "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
@@ -423,19 +461,19 @@
       "in_event_ledger": false
     },
     {
-      "id": "c6bb9808a3bf3b3dc2f5",
-      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "id": "ed6d111e20c07c8a1d80",
+      "title": "Latest Oil Market News and Analysis for July 27",
       "translation_label": "原文中文译读",
-      "translation": "股市正面临技术层面的“三重威胁”，但投资者也有可以避险的去处。国债收益率和油价飙升，加之美元确立了向上突破长期上升趋势的走势，导致标普500指数跌破了关键图表支撑位。",
+      "translation": "受交易员评估中东供应风险影响，油价下跌。美国在周末暂停了对伊朗的打击，同时胡塞武装宣称对沙特阿拉伯的目标发动了袭击。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：通胀或工资压力上升会推迟降息，通常先推高美债收益率和美元，再压低股票估值。 可能受益：美元、部分银行与保险资产，以及能够把成本顺利转嫁给客户的公司。 可能承压：美债、REITs、高估值成长股和利润率较薄的消费企业。 接下来观察：2年期和10年期美债收益率、美元、核心通胀与下次美联储会议定价。若收益率没有上升，影响应降级。",
-      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "publisher": "MarketWatch",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-07-26T19:15:00+00:00",
+      "published_at": "2026-07-26T22:02:41+00:00",
       "pick_score": 69,
       "event_type": "energy",
       "severity": "moderate",
@@ -461,26 +499,25 @@
       "in_event_ledger": false
     },
     {
-      "id": "8d2e893ab188804b9840",
-      "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
+      "id": "7179e77146b2ccc982d8",
+      "title": "Kioxia Faces More Volatility as Leveraged ETFs Hit Japan Stocks",
       "translation_label": "原文中文译读",
-      "translation": "在标普500指数的人工智能热潮中，工业股正变得和科技股一样富有。标普500指数工业板块的远期市盈率超过30倍，远高于其长期平均水平。工业股正受益于人工智能数据中心的建设以及相关的电网投资。国防科技和太空科技等子板块也在推动这一轮涨势。随着人工智能基础设施建设和全球地缘政治发展刺激巨额支出，经济领域的一个老牌板块正受到投资者与科技股不相上下的关注。标普500指数的工业板块交易市盈率超过30倍，这一水平通常让投资者联想到高成长股，且该市盈率远高于工业股接近20倍的长期平均水平。VettaFi研究总监辛西亚·墨菲在最近一期的“ETF Edge”节目中表示：“如果你看看道富的[工业精选行业SPDR基金]XLI，其估值相对于标普500指数而言非常高。”墨菲说：“它的估值和科技股一样高，所以这确实是一个迎来高光时刻并吸引大量关注的板块。”为了在瞬息万变的数字基础设施中获得持久的商业优势，建设人工智能数据中心的竞赛已经席卷了企业界和科技行业。Alphabet在周三发布的财报中，预测今年的资本支出将在1950亿美元至2050亿美元之间。此前指导方针的支出预期为1800亿美元至1900亿美元。麦肯锡公司的估算表明，这种投资不会很快停止——相关报告显示，到2030年，全球在数据中心上的支出可能达到近8万亿美元。绝大部分支出将专门用于数据中心基础设施和IT设备。Alphabet警告称，2027年的支出数字可能会更高。墨菲说：“人工智能是一场科技博弈，但如果没有基础设施的建设，什么都不会发生。”“我们需要构建一整套骨干基础设施，这确实推高了工业股。”英伟达首席执行官黄仁勋在3月份的一篇博客文章中表示：“我们才刚刚开始这项建设。我们已经投入了数千亿美元。仍有数万亿美元的基础设施需要建造。”“这将成为人类历史上最大规模的基础设施建设。”在全国数据中心扩张的下一阶段，绝大多数项目预计将在农村地区进行。为了适应与数据中心相关的高昂电力需求，扩建农村电网可能被证明至关重要。平均而言，美国农村电网的峰值生产能力相对有限。目前，市场上存在着开发经常消耗高达其现有电力容量二十倍的设施的推动力，这加剧了企业的需求和对工业支持的需求。尽管公众对新建数据中心的敌意不断上升，由于当地对电网紧张和电费上涨的担忧，这种需求依然存在。在美国各地构建这一人工智能骨干网需要新的变电站、加强高速光纤互联网功能以及开发新的节能电池技术。大量的发电和备用设备、建筑机械和电气化软件都成为了规模化扩张的必需品。因此，在机械和电气设备行业（分别占XLI持仓的20.89%和14.16%）内的制造企业大幅飙升。卡特彼勒作为该ETF的最大持仓，以及作为工业指数第三大持仓的GE Vernova，今年以来均上涨了超过50%。卡特彼勒较两年前的价格上涨了近160%。GE Vernova继续受益于与人工智能建设相关的订单，而其可再生能源业务则受到风电行业低迷的打击，导致其在公布财报尽管第二季度末有1760亿美元的业务积压订单，本周仍然遭到抛售。受益的不仅是权重股。作为XLI第29大持仓的艾默生电气，尽管过去一年出现轻微亏损，但其交易价格比较高2024年7月时仍上涨了近20%。作为第60大持仓的哈贝尔，自2024年7月开始的两年期内上涨了30%。在XLI内部，支撑股票估值的不只是人工智能热潮，针对该板块多个细分领域，还有几十只其他工业ETF相继推出。墨菲在给CNBC的一封电子邮件中写道：“有超过60只工业ETF属于该行业类别，它们今年迄今的总净流入额约为230亿美元。”“工业股不仅相对于市场表现极佳，而且由于投资者聚焦于与人工智能通胀相关的长期增长趋势，工业ETF在资金聚集方面也呈现出增长势头。”",
+      "translation": "随着跟踪这家日本存储芯片制造商股票的杠杆交易所交易基金即将在美国上市，Kioxia Holdings Corp.面临着更加剧烈的价格波动。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、公司基本面/股本供给、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
       "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/kioxia-faces-more-volatility-as-leveraged-etfs-hit-japan-stocks",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-07-26T14:12:20+00:00",
-      "pick_score": 68,
+      "published_at": "2026-07-26T21:00:00+00:00",
+      "pick_score": 69,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
         "利率/美元/估值折现",
         "指数风险偏好",
-        "公司基本面/股本供给",
         "AI硬件/数据中心产业链"
       ],
       "source_profile": {
@@ -492,8 +529,45 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "c6bb9808a3bf3b3dc2f5",
+      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "translation_label": "原文中文译读",
+      "translation": "股市正面临技术层面的“三重威胁”，但投资者也有可以避险的去处。国债收益率和油价飙升，加之美元确立了向上突破长期上升趋势的走势，导致标普500指数跌破了关键图表支撑位。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：通胀或工资压力上升会推迟降息，通常先推高美债收益率和美元，再压低股票估值。 可能受益：美元、部分银行与保险资产，以及能够把成本顺利转嫁给客户的公司。 可能承压：美债、REITs、高估值成长股和利润率较薄的消费企业。 接下来观察：2年期和10年期美债收益率、美元、核心通胀与下次美联储会议定价。若收益率没有上升，影响应降级。",
+      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "publisher": "MarketWatch",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-26T19:15:00+00:00",
+      "pick_score": 68,
+      "event_type": "energy",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -577,46 +651,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "cfeb4ab3d1549f9b050a",
-      "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending",
-      "translation_label": "原文中文译读",
-      "translation": "科技巨头财报遭遇反人工智能支出的市场抗议。多年来，美国科技巨头与投资者之间存在一种默契：只要营收在增长，公司就可以在人工智能上大肆挥霍，而股市也会给予回报。这种协议正在突然破裂。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释公司业绩、订单、融资或并购动作。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释公司业绩、订单、融资或并购动作。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、公司基本面/股本供给、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：消息首先影响报道中的公司的订单、收入、利润率或资金状况，不应直接外推为整个板块都上涨或下跌。 可能受益：能把合同、融资或客户增长转化为实际收入和现金流的公司及直接供应商。 可能承压：融资成本上升、利润率被稀释或无法兑现订单的公司，以及竞争中失去份额的同业。 接下来观察：下一份财报中的收入、利润率、订单和管理层指引，并观察股价是否放量且相对同业走强或走弱。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-26T13:00:00+00:00",
-      "pick_score": 68,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "公司基本面/股本供给",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "2e8584028f520dec8b44",
       "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
       "translation_label": "原文中文译读",
@@ -689,6 +723,46 @@
       "in_event_ledger": false
     },
     {
+      "id": "cfeb4ab3d1549f9b050a",
+      "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending",
+      "translation_label": "原文中文译读",
+      "translation": "科技巨头财报遭遇反人工智能支出的市场抗议。多年来，美国科技巨头与投资者之间存在一种默契：只要营收在增长，公司就可以在人工智能上大肆挥霍，而股市也会给予回报。这种协议正在突然破裂。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释公司业绩、订单、融资或并购动作。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释公司业绩、订单、融资或并购动作。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、公司基本面/股本供给、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：消息首先影响报道中的公司的订单、收入、利润率或资金状况，不应直接外推为整个板块都上涨或下跌。 可能受益：能把合同、融资或客户增长转化为实际收入和现金流的公司及直接供应商。 可能承压：融资成本上升、利润率被稀释或无法兑现订单的公司，以及竞争中失去份额的同业。 接下来观察：下一份财报中的收入、利润率、订单和管理层指引，并观察股价是否放量且相对同业走强或走弱。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-26T13:00:00+00:00",
+      "pick_score": 67,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "公司基本面/股本供给",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "cafaaaabf3201d806ce4",
       "title": "COHR SEC 4: FORM 4",
       "translation_label": "原文全文翻译",
@@ -738,7 +812,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T23:34:54+00:00",
-      "pick_score": 66,
+      "pick_score": 65,
       "event_type": "energy",
       "severity": "moderate",
       "impact_axes": [
@@ -870,80 +944,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "15a95a2c2cf50a000a67",
-      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-      "translation_label": "原文中文译读",
-      "translation": "英伟达在5000亿美元人工智能交易中锁定SK海力士的内存供应。英伟达正在积极确保高带宽内存的供应，这是其图形处理器和系统的关键组件。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T08:49:00+00:00",
-      "pick_score": 64,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "6513b3c65024447c8d6e",
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "translation_label": "原文中文译读",
-      "translation": "一位作者表示自己一定会提前领取Social Security福利，并质疑为什么很少有人讨论这个显而易见的问题。他指出，支持尽早领取福利的最强有力论据超越了传统的盈亏平衡分析。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：通胀或工资压力上升会推迟降息，通常先推高美债收益率和美元，再压低股票估值。 可能受益：美元、部分银行与保险资产，以及能够把成本顺利转嫁给客户的公司。 可能承压：美债、REITs、高估值成长股和利润率较薄的消费企业。 接下来观察：2年期和10年期美债收益率、美元、核心通胀与下次美联储会议定价。若收益率没有上升，影响应降级。",
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "publisher": "MarketWatch",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-26T20:00:00+00:00",
-      "pick_score": 63,
-      "event_type": "market",
-      "severity": "minor",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1275,8 +1275,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 9,
-      "latest_published_at": "2026-07-26T19:00:00+00:00",
+      "recent_items": 12,
+      "latest_published_at": "2026-07-26T22:02:41+00:00",
       "warning": null
     },
     {
