@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T09:10:01.747840+00:00",
-  "generated_at_local": "2026-07-26 17:10:01 北京时间",
-  "next_update_at_local": "2026-07-26 18:10:00 北京时间",
+  "generated_at": "2026-07-26T10:10:20.080732+00:00",
+  "generated_at_local": "2026-07-26 18:10:20 北京时间",
+  "next_update_at_local": "2026-07-26 19:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,8 +34,8 @@
     "official",
     "tier1"
   ],
-  "total_items": 67,
-  "total_official_items": 15,
+  "total_items": 68,
+  "total_official_items": 16,
   "media_items": 52,
   "items": [
     {
@@ -578,7 +578,7 @@
       "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T18:59:00+00:00",
-      "pick_score": 67,
+      "pick_score": 66,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -616,7 +616,7 @@
       "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T18:45:00+00:00",
-      "pick_score": 67,
+      "pick_score": 66,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -808,7 +808,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T11:00:00+00:00",
-      "pick_score": 66,
+      "pick_score": 65,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -1243,10 +1243,10 @@
       "name": "EIA Today in Energy",
       "tier": "official",
       "enabled": true,
-      "status": "warning",
-      "recent_items": 0,
-      "latest_published_at": null,
-      "warning": "Failed to fetch https://www.eia.gov/rss/todayinenergy.xml: The read operation timed out"
+      "status": "ok",
+      "recent_items": 1,
+      "latest_published_at": "2026-07-24T14:00:00+00:00",
+      "warning": null
     },
     {
       "name": "US Defense Releases",
