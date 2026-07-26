@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T20:10:23.571281+00:00",
+  "generated_at": "2026-07-26T21:10:25.110722+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,52 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "30a5f9971e2a38e33144",
+      "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
+      "summary": "It's a busy week filled with Big Tech earnings, a Fed meeting and inflation data.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "published_at": "2026-07-26T20:50:54+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.994,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "6513b3c65024447c8d6e",
       "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
@@ -45,7 +91,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -86,7 +132,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -129,7 +175,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.982,
+      "recency_weight": 0.964,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -171,7 +217,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -217,7 +263,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -259,7 +305,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.968,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -304,7 +350,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.956,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -351,7 +397,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.944,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -393,7 +439,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -438,7 +484,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.901,
+      "recency_weight": 0.884,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -485,7 +531,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.891,
+      "recency_weight": 0.874,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -532,7 +578,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.89,
+      "recency_weight": 0.873,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -578,7 +624,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -624,7 +670,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -667,7 +713,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -713,7 +759,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -733,7 +779,7 @@
     {
       "event_id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The Next Dream Why Gen Z doesn't see marriage as part of their American Dream The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -759,7 +805,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -806,7 +852,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -849,7 +895,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -890,7 +936,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.863,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -934,7 +980,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.863,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -984,7 +1030,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.859,
+      "recency_weight": 0.843,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1030,7 +1076,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1071,7 +1117,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1117,7 +1163,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.847,
+      "recency_weight": 0.831,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1164,7 +1210,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.747,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1206,7 +1252,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.712,
+      "recency_weight": 0.698,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1247,7 +1293,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.703,
+      "recency_weight": 0.69,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1288,7 +1334,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.686,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1334,7 +1380,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1378,7 +1424,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.673,
+      "recency_weight": 0.66,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1390,49 +1436,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "55c700b7dd26add046e4",
-      "title": "Here are 4 forces that drove a tough week for stocks",
-      "summary": "Investors navigated everything from escalating tensions in the Middle East to key tech earnings reports to healthcare developments.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
-      "published_at": "2026-07-25T19:56:55+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.627,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1461,7 +1464,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.623,
+      "recency_weight": 0.611,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1502,7 +1505,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.586,
+      "recency_weight": 0.575,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1543,7 +1546,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.568,
+      "recency_weight": 0.557,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1584,7 +1587,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.564,
+      "recency_weight": 0.553,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1629,7 +1632,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.56,
+      "recency_weight": 0.549,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1671,7 +1674,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.554,
+      "recency_weight": 0.543,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1712,7 +1715,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.543,
+      "recency_weight": 0.533,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1757,7 +1760,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.538,
+      "recency_weight": 0.528,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1805,7 +1808,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.538,
+      "recency_weight": 0.528,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1847,7 +1850,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.506,
+      "recency_weight": 0.497,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1892,7 +1895,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.506,
+      "recency_weight": 0.497,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1934,7 +1937,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.475,
+      "recency_weight": 0.466,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1975,7 +1978,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.446,
+      "recency_weight": 0.438,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2017,7 +2020,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2059,7 +2062,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.41,
+      "recency_weight": 0.402,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2100,7 +2103,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.404,
+      "recency_weight": 0.397,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2150,7 +2153,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2199,7 +2202,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2240,7 +2243,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.398,
+      "recency_weight": 0.391,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2281,7 +2284,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.395,
+      "recency_weight": 0.387,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2322,7 +2325,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.393,
+      "recency_weight": 0.385,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2363,7 +2366,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.392,
+      "recency_weight": 0.384,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2404,7 +2407,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.389,
+      "recency_weight": 0.381,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2443,7 +2446,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.352,
+      "recency_weight": 0.346,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2483,7 +2486,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.333,
+      "recency_weight": 0.326,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2496,374 +2499,6 @@
           "指数风险偏好"
         ],
         "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "de366bc24f2cb31b4df3",
-      "title": "DOW Awards a Nearly $7 Billion Oracle Agreement to Accelerate the Arsenal of Freedom",
-      "summary": "",
-      "source": "US Defense Releases",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.war.gov/News/Releases/Release/Article/4554042/dow-awards-a-nearly-7-billion-oracle-agreement-to-accelerate-the-arsenal-of-fre/",
-      "published_at": "2026-07-23T21:00:25+00:00",
-      "event_type": "defense",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "defense",
-        "geopolitical"
-      ],
-      "categories": [
-        "geopolitical",
-        "defense"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "defense",
-        "label": "U.S. Defense",
-        "authority": "U.S. Department of Defense",
-        "source_type": "国防部公告、合同和安全事件原文",
-        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
-        "impact_axes": [
-          "能源/避险/通胀预期",
-          "国防/安全事件"
-        ],
-        "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3ad204e0790e0e0cb579",
-      "title": "Secretary of War General Officer Announcement for July 23, 2026",
-      "summary": "",
-      "source": "US Defense Releases",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.war.gov/News/Releases/Release/Article/4554459/secretary-of-war-general-officer-announcement-for-july-23-2026/",
-      "published_at": "2026-07-23T21:00:00+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "defense",
-        "geopolitical",
-        "gold",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "geopolitical",
-        "defense"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.9,
-      "impact_score": 21.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "defense",
-        "label": "U.S. Defense",
-        "authority": "U.S. Department of Defense",
-        "source_type": "国防部公告、合同和安全事件原文",
-        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "国防/安全事件"
-        ],
-        "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "829cafea166388c494e5",
-      "title": "TSLA SEC 10-Q: 10-Q",
-      "summary": "Tesla, Inc. (TSLA) filed SEC Form 10-Q. Filing date: 2026-07-23. Report date: 2026-06-30. Description: 10-Q. Accession: 0001628280-26-049270.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm",
-      "published_at": "2026-07-23T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "10-q",
-        "corporate",
-        "earnings",
-        "financials",
-        "sec"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "10-q",
-        "earnings",
-        "financials"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 4.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c88a5a9d6f664eac3fc4",
-      "title": "AAOI SEC 4: current filing",
-      "summary": "APPLIED OPTOELECTRONICS, INC. (AAOI) filed SEC Form 4. Filing date: 2026-07-23. Report date: 2026-07-22. Accession: 0001683168-26-005740.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1158114/000168316826005740/xslF345X06/ownership.xml",
-      "published_at": "2026-07-23T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "4",
-        "ai",
-        "corporate",
-        "cpo",
-        "datacenter",
-        "growth",
-        "insider",
-        "networking",
-        "optical",
-        "sec",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "4",
-        "insider"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7d1069d7dd2ebe52f0ef",
-      "title": "AAOI SEC 4: current filing",
-      "summary": "APPLIED OPTOELECTRONICS, INC. (AAOI) filed SEC Form 4. Filing date: 2026-07-23. Report date: 2026-07-22. Accession: 0001683168-26-005739.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1158114/000168316826005739/xslF345X06/ownership.xml",
-      "published_at": "2026-07-23T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "4",
-        "ai",
-        "corporate",
-        "cpo",
-        "datacenter",
-        "growth",
-        "insider",
-        "networking",
-        "optical",
-        "sec",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "4",
-        "insider"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "60b56ebb4287540650d0",
-      "title": "AAOI SEC 4: current filing",
-      "summary": "APPLIED OPTOELECTRONICS, INC. (AAOI) filed SEC Form 4. Filing date: 2026-07-23. Report date: 2026-07-22. Accession: 0001683168-26-005738.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1158114/000168316826005738/xslF345X06/ownership.xml",
-      "published_at": "2026-07-23T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "4",
-        "ai",
-        "corporate",
-        "cpo",
-        "datacenter",
-        "growth",
-        "insider",
-        "networking",
-        "optical",
-        "sec",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "4",
-        "insider"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b623278f450698487729",
-      "title": "AAOI SEC 4: current filing",
-      "summary": "APPLIED OPTOELECTRONICS, INC. (AAOI) filed SEC Form 4. Filing date: 2026-07-23. Report date: 2026-07-22. Accession: 0001683168-26-005737.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1158114/000168316826005737/xslF345X06/ownership.xml",
-      "published_at": "2026-07-23T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "4",
-        "ai",
-        "corporate",
-        "cpo",
-        "datacenter",
-        "growth",
-        "insider",
-        "networking",
-        "optical",
-        "sec",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "4",
-        "insider"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4f62b4458e78d6a702a5",
-      "title": "CFTC Extends Public Comment Period on Proposed Rule on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities",
-      "summary": "",
-      "source": "CFTC General Press Releases",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.cftc.gov/PressRoom/PressReleases/9271-26",
-      "published_at": "2026-07-23T20:12:15+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "commodities",
-        "market",
-        "regulatory"
-      ],
-      "categories": [
-        "regulatory",
-        "commodities",
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.25,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "cftc",
-        "label": "CFTC",
-        "authority": "U.S. Commodity Futures Trading Commission",
-        "source_type": "衍生品、商品和市场结构监管公告",
-        "evidence_role": "衍生品、商品和市场结构监管公告：确认期货、掉期、预测市场和商品监管政策变化。",
-        "impact_axes": [
-          "指数风险偏好",
-          "监管/交易结构"
-        ],
-        "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
         "fetch_status": "live"
       }
     }
@@ -3232,7 +2867,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
+      "recent_items": 1,
       "latest_published_at": "2026-07-25T19:36:08+00:00",
       "warning": null
     },
@@ -3241,7 +2876,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
+      "recent_items": 2,
       "latest_published_at": "2026-07-24T19:30:31+00:00",
       "warning": null
     },
@@ -3278,7 +2913,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-07-26T17:11:36+00:00",
+      "latest_published_at": "2026-07-26T20:50:54+00:00",
       "warning": null
     },
     {
@@ -3286,7 +2921,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 7,
+      "recent_items": 2,
       "latest_published_at": "2026-07-24T21:00:00+00:00",
       "warning": null
     }
