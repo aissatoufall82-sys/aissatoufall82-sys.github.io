@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:10:20.907754+00:00",
+  "generated_at": "2026-07-26T23:10:16.958965+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,9 +21,151 @@
   "environment": null,
   "events": [
     {
+      "event_id": "3f2fa1059f7d4906a80b",
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T22:42:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "22439612885e2a0e07a1",
+      "title": "Inside The Six-Year Fight to Reopen a Hollywood Movie Palace",
+      "summary": "A 26-year-old actor rallied, protested and eventually cajoled a secretive family into a deal",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-26/inside-the-six-year-fight-to-reopen-a-hollywood-movie-palace",
+      "published_at": "2026-07-26T22:35:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "17e275ae21a11b2c67f4",
+      "title": "Oil Falls, US Futures Rise as US-Iran Halt Strikes: Markets Wrap",
+      "summary": "Oil dropped and US equity futures rose early Monday after the US refrained from striking Iran for a second straight night, easing concerns over disruptions to Middle East crude supplies following weeks of escalating conflict.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
+      "published_at": "2026-07-26T22:09:05+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.981,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
       "event_id": "ed6d111e20c07c8a1d80",
       "title": "Latest Oil Market News and Analysis for July 27",
-      "summary": "⁠⁠Oil dropped as traders assessed Middle East supply risks, with the US pausing strikes against Iran over the weekend, while the Houthis claimed attacks against targets in Saudi Arabia.",
+      "summary": "⁠⁠Oil tumbled at the week’s open after the US paused strikes against Iran over the weekend, easing energy supply risks in the Middle East even as Houthis claimed attacks against targets in Saudi Arabia.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -47,7 +189,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.998,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -89,7 +231,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -134,7 +276,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -180,7 +322,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.975,
+      "recency_weight": 0.956,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -222,7 +364,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -263,7 +405,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -306,7 +448,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.945,
+      "recency_weight": 0.927,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -348,7 +490,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -394,7 +536,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -436,7 +578,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.932,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -481,7 +623,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.92,
+      "recency_weight": 0.902,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -528,7 +670,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.909,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -570,7 +712,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -615,7 +757,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.867,
+      "recency_weight": 0.85,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -661,7 +803,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.856,
+      "recency_weight": 0.84,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -707,7 +849,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -753,7 +895,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -796,7 +938,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -842,7 +984,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.846,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -862,7 +1004,7 @@
     {
       "event_id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -888,7 +1030,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.846,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -935,7 +1077,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -978,7 +1120,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1019,7 +1161,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.83,
+      "recency_weight": 0.814,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1063,7 +1205,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.83,
+      "recency_weight": 0.814,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1113,7 +1255,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.827,
+      "recency_weight": 0.811,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1159,48 +1301,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.822,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a0daa862e3cdb8508b5d",
-      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
-      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
-      "published_at": "2026-07-26T12:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1246,7 +1347,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.815,
+      "recency_weight": 0.8,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1293,7 +1394,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.718,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1311,8 +1412,8 @@
       }
     },
     {
-      "event_id": "2faff1d2d113caa33a05",
-      "title": "Modi Punctured as Awakened India Students Force Retreat",
+      "event_id": "fd828088c9d6aeaa1e7b",
+      "title": "Awakened Indian Students Hand Modi One of His Biggest Setbacks",
       "summary": "For much of Narendra Modi’s 12 years ruling India, he’s looked nearly unbeatable at the polls. This weekend he swiftly yielded to a group that didn’t exist a few months ago, energizing opponents who have struggled to rattle one of the nation’s most powerful leaders ever.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
@@ -1335,7 +1436,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.685,
+      "recency_weight": 0.672,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1376,7 +1477,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.676,
+      "recency_weight": 0.664,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1417,7 +1518,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.66,
+      "recency_weight": 0.647,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1463,7 +1564,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1507,7 +1608,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.647,
+      "recency_weight": 0.635,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1547,7 +1648,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.6,
+      "recency_weight": 0.588,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1588,7 +1689,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.564,
+      "recency_weight": 0.553,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1607,7 +1708,7 @@
     {
       "event_id": "7820b155c95b4eb1edf3",
       "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
+      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 Health and Wellness I’m a surgeon and gut health expert—the No. 1 'magical' food I eat for a longer life For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1630,7 +1731,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.547,
+      "recency_weight": 0.536,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1672,7 +1773,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.542,
+      "recency_weight": 0.532,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1717,7 +1818,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.539,
+      "recency_weight": 0.529,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1759,7 +1860,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.533,
+      "recency_weight": 0.523,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1800,7 +1901,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.523,
+      "recency_weight": 0.513,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1845,7 +1946,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.518,
+      "recency_weight": 0.508,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1893,7 +1994,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.518,
+      "recency_weight": 0.508,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1905,47 +2006,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f5581b09d4a514020411",
-      "title": "Over 250,000 People Flee Wildfires Ravaging France and Spain",
-      "summary": "More than 250,000 people fled towns and villages in Spain and France as uncontrolled wildfires moved ever closer to Madrid and Bordeaux, metropolitan areas that are home to more than 8 million people combined.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain",
-      "published_at": "2026-07-25T08:49:50+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.487,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1980,7 +2040,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.487,
+      "recency_weight": 0.478,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2022,7 +2082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.457,
+      "recency_weight": 0.448,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2063,7 +2123,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.43,
+      "recency_weight": 0.421,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2105,7 +2165,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.395,
+      "recency_weight": 0.388,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2147,7 +2207,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.394,
+      "recency_weight": 0.387,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2188,7 +2248,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.389,
+      "recency_weight": 0.382,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2238,7 +2298,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.388,
+      "recency_weight": 0.381,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2287,7 +2347,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.388,
+      "recency_weight": 0.381,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2328,7 +2388,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.383,
+      "recency_weight": 0.376,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2369,7 +2429,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.38,
+      "recency_weight": 0.373,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2410,7 +2470,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.378,
+      "recency_weight": 0.371,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2451,7 +2511,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.377,
+      "recency_weight": 0.37,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2492,7 +2552,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.374,
+      "recency_weight": 0.367,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2537,7 +2597,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.372,
+      "recency_weight": 0.365,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2577,7 +2637,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2617,7 +2677,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.32,
+      "recency_weight": 0.314,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3017,7 +3077,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 12,
-      "latest_published_at": "2026-07-26T22:02:41+00:00",
+      "latest_published_at": "2026-07-26T22:09:05+00:00",
       "warning": null
     },
     {
@@ -3025,8 +3085,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
-      "latest_published_at": "2026-07-26T17:49:40+00:00",
+      "recent_items": 4,
+      "latest_published_at": "2026-07-26T22:35:01+00:00",
       "warning": null
     },
     {
@@ -3035,7 +3095,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-26T20:00:00+00:00",
+      "latest_published_at": "2026-07-26T22:42:00+00:00",
       "warning": null
     },
     {

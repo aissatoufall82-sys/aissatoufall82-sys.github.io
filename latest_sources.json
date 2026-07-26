@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T22:10:20.907754+00:00",
-  "generated_at_local": "2026-07-27 06:10:20 北京时间",
-  "next_update_at_local": "2026-07-27 07:10:00 北京时间",
+  "generated_at": "2026-07-26T23:10:16.958965+00:00",
+  "generated_at_local": "2026-07-27 07:10:16 北京时间",
+  "next_update_at_local": "2026-07-27 08:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,9 +34,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 60,
+  "total_items": 61,
   "total_official_items": 6,
-  "media_items": 54,
+  "media_items": 55,
   "items": [
     {
       "id": "1ab2aab1c60b75a2730c",
@@ -148,6 +148,46 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "3f2fa1059f7d4906a80b",
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "translation_label": "原文中文译读",
+      "translation": "随着美国和伊朗暂停交火，且华尔街正严阵以待美联储会议以及大型科技公司的关键财报，美国股指期货在周日出现反弹，而油价则大幅下挫。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期、公司基本面/股本供给的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "publisher": "MarketWatch",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-26T22:42:00+00:00",
+      "pick_score": 98,
+      "event_type": "macro",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期",
+        "公司基本面/股本供给"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -322,7 +362,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-26T00:00:00+00:00",
-      "pick_score": 95,
+      "pick_score": 94,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -350,7 +390,7 @@
       "id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
       "translation_label": "原文中文译读",
-      "translation": "美国梦正处于不断变化的状态中，四代人对此有着六种不同的愿景。CNBC Make It推出了名为The Next Dream的系列报道，邀请了政治、金融和人际关系领域的知名人士跨年龄段对话，探讨在当今美国实现幸福和成功的意义。金融教育品牌Your Rich BFF创始人、32岁的Vivian Tu如今通过做有意义的工作和回报父母来衡量成就。84岁的Gail Rudnick开启了内容创作者和播客联席主持人的新职业生涯。62岁的Sylvia Kwan作为女性专属财富管理平台Ellevest的CEO，实现了曾经认为不可能的目标，同时也认识到年轻人面临的重大挑战。专家指出，Z世代等年轻一代面临着前几代人未曾遇到的复合障碍，包括疫情对教育和社会成长的影响、动荡的就业市场、高不可攀的住房市场以及通胀压力。26岁的历史通讯作家Kahlil Greene对美国未来感到担忧，认为国家正处于下行轨迹。而80岁的加州大学伯克利分校教授、前美国劳工部长Robert Reich则持有相反观点，他因美国的韧性而感到乐观，并强调避免愤世嫉俗、保持希望的重要性。",
+      "translation": "美国梦历经四代人的变迁，演变出六种不同的愿景。CNBC Make It推出系列报道《下一个梦想》，在美利坚最初的梦想诞生250周年之际，邀请政治、金融和情感关系领域的知名人士跨年龄对话，探讨在当今美国实现幸福与成功的意义。调查显示，51%的美国成年人认为对多数人而言美国梦已经遥不可及。从前华尔街交易员转型为媒体人、金融教育品牌Your Rich BFF创始人Vivian Tu现在通过从事有意义的工作以及回报父母来衡量成就。84岁的Gail Rudnick正开启第二人生，与30岁的孙女Kim Murstein共同担任播客联合主持人。62岁的Ellevest首席执行官Sylvia Kwan则在不断改写人生剧本。然而专家指出，年轻一代正面临前所未有的重重阻碍，包括新冠疫情对教育和社交的影响、动荡的就业市场、高昂的房价以及通胀压力。26岁的历史通讯作家兼社交媒体创作者Kahlil Greene对美国未来感到担忧，认为国家正处于下行轨迹。相比之下，80岁的加州大学伯克利分校教授、前美国劳工部长Robert Reich则持有相反观点，他表示正是因为我们的韧性而感到乐观，并强调避免愤世嫉俗、保持希望的重要性。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
@@ -461,10 +501,48 @@
       "in_event_ledger": false
     },
     {
+      "id": "17e275ae21a11b2c67f4",
+      "title": "Oil Falls, US Futures Rise as US-Iran Halt Strikes: Markets Wrap",
+      "translation_label": "原文中文译读",
+      "translation": "周一早盘，由于美国连续第二晚未对伊朗发动打击，缓解了市场对数周来不断升级的冲突可能导致中东原油供应中断的担忧，油价随之下跌，而美国股票期货则呈现上涨态势。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-26T22:09:05+00:00",
+      "pick_score": 69,
+      "event_type": "energy",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "ed6d111e20c07c8a1d80",
       "title": "Latest Oil Market News and Analysis for July 27",
       "translation_label": "原文中文译读",
-      "translation": "受交易员评估中东供应风险影响，油价下跌。美国在周末暂停了对伊朗的打击，同时胡塞武装宣称对沙特阿拉伯的目标发动了袭击。",
+      "translation": "在本周开盘之初，由于美国在周末暂停了对伊朗的打击行动，中东能源供应风险有所缓解，尽管胡塞武装宣称对沙特阿拉伯的目标发动了袭击，油价依然出现大跌。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
@@ -575,82 +653,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "65665696868bfcc8fcd7",
-      "title": "How AI wealth could be distributed to all Americans",
-      "translation_label": "原文中文译读",
-      "translation": "《CNBC报道：AI、芯片或数据中心产业链的最新变化》：本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。已保留原文入口；下面的中文解读先说明文章主题和潜在影响，关键事实请以原站为准。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-26T14:06:53+00:00",
-      "pick_score": 68,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "549f36026f04ed8ec0cc",
-      "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks",
-      "translation_label": "原文中文译读",
-      "translation": "交易员即将迎来押注美国最大股票的新工具。投资者很快就会拥有一种新的方式，来押注从Nvidia Corp.到SpaceX等最热门的股票，而无需交易任何单一股票。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-26T14:00:00+00:00",
-      "pick_score": 68,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "2e8584028f520dec8b44",
       "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
       "translation_label": "原文中文译读",
@@ -716,6 +718,82 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "65665696868bfcc8fcd7",
+      "title": "How AI wealth could be distributed to all Americans",
+      "translation_label": "原文中文译读",
+      "translation": "《CNBC报道：AI、芯片或数据中心产业链的最新变化》：本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。已保留原文入口；下面的中文解读先说明文章主题和潜在影响，关键事实请以原站为准。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-26T14:06:53+00:00",
+      "pick_score": 67,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "549f36026f04ed8ec0cc",
+      "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks",
+      "translation_label": "原文中文译读",
+      "translation": "交易员即将迎来押注美国最大股票的新工具。投资者很快就会拥有一种新的方式，来押注从Nvidia Corp.到SpaceX等最热门的股票，而无需交易任何单一股票。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-26T14:00:00+00:00",
+      "pick_score": 67,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -850,82 +928,6 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T14:03:03+00:00",
-      "pick_score": 64,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "c37f18d18cfb10c6bcd8",
-      "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
-      "translation_label": "原文中文译读",
-      "translation": "分析指出，一个由人工智能怀疑论者组成的新兴强大联盟正在特朗普的盲区中形成。福音派人士、工会以及反对人工智能数据中心的活动人士是这股声势浩大群体的一部分，他们对技术变革的速度感到担忧。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T12:00:02+00:00",
-      "pick_score": 64,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "d61a6c0ca387b0b0b4ad",
-      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-      "translation_label": "原文中文译读",
-      "translation": "物流巨头正竞相跟上医疗保健行业的蓬勃发展，GLP-1药物凸显了对冷藏设施的需求。航运和物流公司正在开拓不断增长的医疗保健市场，因为冷链和温控设施变得愈发关键。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T12:00:02+00:00",
       "pick_score": 64,
       "event_type": "technology",
       "severity": "moderate",
@@ -1276,7 +1278,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 12,
-      "latest_published_at": "2026-07-26T22:02:41+00:00",
+      "latest_published_at": "2026-07-26T22:09:05+00:00",
       "warning": null
     },
     {
@@ -1284,8 +1286,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
-      "latest_published_at": "2026-07-26T17:49:40+00:00",
+      "recent_items": 4,
+      "latest_published_at": "2026-07-26T22:35:01+00:00",
       "warning": null
     },
     {
@@ -1294,7 +1296,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-26T20:00:00+00:00",
+      "latest_published_at": "2026-07-26T22:42:00+00:00",
       "warning": null
     },
     {
