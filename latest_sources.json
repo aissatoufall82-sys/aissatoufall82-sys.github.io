@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T01:10:05.541008+00:00",
-  "generated_at_local": "2026-07-26 09:10:05 北京时间",
-  "next_update_at_local": "2026-07-26 10:10:00 北京时间",
+  "generated_at": "2026-07-26T02:10:07.226797+00:00",
+  "generated_at_local": "2026-07-26 10:10:07 北京时间",
+  "next_update_at_local": "2026-07-26 11:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -280,7 +280,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-24T18:48:10+00:00",
-      "pick_score": 99,
+      "pick_score": 98,
       "event_type": "geopolitical",
       "severity": "major",
       "impact_axes": [
@@ -833,44 +833,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "542b3609bb0f8469b3f0",
-      "title": "Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly",
-      "translation_label": "原文中文译读",
-      "translation": "大型科技公司对人工智能投资的无底洞需求正在引发一波持续不断的债券发行浪潮，这对美国公司债市场产生了比表面看起来更大的影响。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：融资规模、收益率或财政政策变化会先影响发行人的借款成本和汇率，再通过美元与全球利率传到风险资产。 可能受益：美元和信用质量较高、融资需求较低的资产通常更抗压。 可能承压：高负债发行人、本币资产及依赖低融资成本的公司；收益率上升时长久期成长股也更敏感。 接下来观察：新债发行收益率、信用利差、本币汇率和美元指数。若融资顺利且利差没有扩大，压力应下调。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T11:00:00+00:00",
-      "pick_score": 67,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "4976074eef786b651766",
       "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
       "translation_label": "原文中文译读",
@@ -903,6 +865,44 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "542b3609bb0f8469b3f0",
+      "title": "Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly",
+      "translation_label": "原文中文译读",
+      "translation": "大型科技公司对人工智能投资的无底洞需求正在引发一波持续不断的债券发行浪潮，这对美国公司债市场产生了比表面看起来更大的影响。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：融资规模、收益率或财政政策变化会先影响发行人的借款成本和汇率，再通过美元与全球利率传到风险资产。 可能受益：美元和信用质量较高、融资需求较低的资产通常更抗压。 可能承压：高负债发行人、本币资产及依赖低融资成本的公司；收益率上升时长久期成长股也更敏感。 接下来观察：新债发行收益率、信用利差、本币汇率和美元指数。若融资顺利且利差没有扩大，压力应下调。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-25T11:00:00+00:00",
+      "pick_score": 66,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
