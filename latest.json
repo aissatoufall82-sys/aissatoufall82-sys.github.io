@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T05:10:14.187492+00:00",
+  "generated_at": "2026-07-26T06:10:13.409556+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,52 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "8f672d05cf0ce5575669",
+      "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
+      "summary": "Confectionery firms say chocolate sales have fallen this year as high costs continue to price out customers. Swiss chocolate giants Lindt, Barry Callebaut and Nestlé said with cocoa prices easing, they can look to win back customers. Strategies include social media-inspired product launches, increased influencer marketing spend, and innovating premium products. Cocoa prices are beginning to ease after a record-breaking rally, but don't expect cheaper candy just yet as the world's biggest chocolate makers turn to social media-inspired products and other strategies to win shoppers back. Cocoa prices reached record highs over the past two years, triggered by adverse weather conditions and poor cocoa harvests that pushed chocolate costs higher and dampened consumer sentiment. However, the price of cocoa now appears to be falling. Cocoa futures were last trading at $5327 per metric ton and are down 34% over the past year. The commodity surged to almost $12,000 per metric ton at the end of 2024. Cocoa prices typically hovered around $2,000 to $3,000 over the past two decades. Swiss Chocolate giants Barry Callebaut , Lindt , and Nestlé all pointed to soaring cocoa prices as a drag on earnings. Lindt said Monday that groupwide price increases of 11.8% led to chocolate sales volumes dropping 7.5% as fewer shoppers bought chocolate in the first half of the year. \"Record cocoa prices required unprecedented price increases across the industry, while geopolitical uncertainty, inflation and weak consumer sentiment weighed on demand,\" Group CEO Adalbert Lechner said in an analyst call. \"The crisis in the Middle East added another headwind with weaker tourism flows from Asia and the Middle East to Europe.\" The world's largest chocolate and cocoa supplier, Barry Callebaut, said that while global consumers are buying 4.4% less chocolate in the third quarter than the same time last year, overall sales volumes for the company grew 5.7% in the quarter, turning positive for the first time in over two years. Additionally, its global cocoa sales accelerated 18% due to a market correction earlier this year. Meanwhile, food and beverage firm Nestlé said higher cocoa and coffee prices hit its underlying trading operating profit in the first half of the year, dropping 2.8%. The firm's confectionery business makes up 9.7% of its total sales. Nestlé expects to see margins benefit from cocoa prices coming down. Cocoa prices' volatile run was largely due to poor cocoa harvests in West Africa, which were worsened by weather patterns related to El Niño and climate change, resulting in tight supply. El Niño is a weather phenomenon with warmer-than-average temperatures that occurs every two to seven years in the Pacific Ocean. Soaring cocoa prices in 2024 were largely due to a 'strong' El Niño that led to drier, hotter weather and erratic rainfall in West Africa, according to a December analysis by Dr Tanya Lander, a researcher at the Oxford Martin School Programme on the Future of Food. \"So, it is unsurprising that the El Niño weather was linked to poor cocoa harvests in both Côte d'Ivoire and Ghana (where 60-70% of global cocoa beans are produced),\" Lander wrote. Climate change and increasing temperatures are also playing a role, with 2024 being the hottest year on record. A recent heatwave across Europe could also dampen consumer enthusiasm for chocolate, UBS analysts said in an early July note on Lindt. Heatwaves and rising temperatures in some of Lindt's core European markets could impact chocolate demand, with European sales excluding Eastern Europe, declining in the four weeks ending June 14, the analysts said. However, Barry Callebaut said that while a strong El Niño has been confirmed for 2026 and 2027 and creates a downside risk on supply, a large surplus for 2025-2026 acts as a buffer, resulting in a very different situation from 2023-2024. The UBS analysts expect that Lindt has hedged at favourable cocoa bean prices for 2027, a move they estimate could reduce costs by as much as 500 million Swiss francs. Meanwhile, U.S. President Donald Trump's reciprocal tariffs have also had a brief but significant impact, causing price spikes and supply chain disruptions. More recently, the conflict in the Middle East also hit Lindt's travel retail business globally by reducing tourism flows. Premium chocolate, social media trends As cocoa prices are expected to recover, chocolatiers are looking to win back their core customer base by innovating their premium product formats, as well as keeping a closer eye on social media trends that young people are engaging with. Lindt released its Dubai-style chocolate bar in December 2024, a in a bid to capitalize on a viral social media trend . Global retailers from Walmart to Trader Joe's, Shake Shack , and Harrods are now selling Dubai chocolate too. Lindt CEO Lechner said the company plans to expand its \"social media presence\" to create a seamless journey between inspiration, discovery, and purchase.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
+      "published_at": "2026-07-26T05:00:01+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 13.8,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "ac04903676cf030b2725",
       "title": "Modi Punctured as Awakened India Students Force Swift Retreat",
@@ -45,7 +91,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -86,7 +132,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.938,
+      "recency_weight": 0.921,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -127,7 +173,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.915,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -173,7 +219,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -217,7 +263,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.898,
+      "recency_weight": 0.881,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -259,7 +305,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -300,7 +346,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -346,7 +392,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.846,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -388,7 +434,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.842,
+      "recency_weight": 0.826,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -430,7 +476,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.837,
+      "recency_weight": 0.821,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -470,7 +516,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.832,
+      "recency_weight": 0.816,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -515,7 +561,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -557,7 +603,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.821,
+      "recency_weight": 0.805,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -602,7 +648,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.818,
+      "recency_weight": 0.803,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -649,7 +695,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.815,
+      "recency_weight": 0.8,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -691,7 +737,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.815,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -732,7 +778,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.81,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -773,7 +819,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -814,7 +860,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.783,
+      "recency_weight": 0.768,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -860,7 +906,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.759,
+      "recency_weight": 0.744,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -880,7 +926,7 @@
     {
       "event_id": "7820b155c95b4eb1edf3",
       "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
+      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -903,7 +949,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.758,
+      "recency_weight": 0.744,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -945,7 +991,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.752,
+      "recency_weight": 0.738,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -990,7 +1036,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.747,
+      "recency_weight": 0.733,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1036,7 +1082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.74,
+      "recency_weight": 0.725,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1078,7 +1124,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.732,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1120,7 +1166,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.725,
+      "recency_weight": 0.711,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1166,7 +1212,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.718,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1215,7 +1261,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.718,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1258,7 +1304,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.718,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1299,7 +1345,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.714,
+      "recency_weight": 0.701,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1344,7 +1390,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.705,
+      "recency_weight": 0.691,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1386,7 +1432,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.68,
+      "recency_weight": 0.667,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1431,7 +1477,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.677,
+      "recency_weight": 0.664,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1473,7 +1519,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.676,
+      "recency_weight": 0.663,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1521,7 +1567,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.676,
+      "recency_weight": 0.663,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1567,7 +1613,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.656,
+      "recency_weight": 0.643,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1609,7 +1655,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1655,7 +1701,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.646,
+      "recency_weight": 0.634,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1675,28 +1721,19 @@
     {
       "event_id": "4976074eef786b651766",
       "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-      "summary": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency. The giant sand battery can cover almost one month of the town's heating demands in the summer and as much as one week in the winter. \"Hopefully a big portion of those storages could be sand battery-type of storages where we don't need rare earth materials,\" Tommi Eronen, CEO of Polar Night Energy, told CNBC. A small town in southern Finland has turned to the world's largest commercial sand battery to fix what many see as the most critical problem facing renewable energy : intermittency . Standing at 13 meters tall and 15 meters wide, the eye-catching facility uses 2,000 metric tons of crushed soapstone to store clean energy in the form of heat to provide 100 megawatt-hours of thermal energy. That's enough to provide the 5,000 residents of Pornainen with nearly one month of heat demand through the summer — and roughly one week of demand in the winter. Commissioned by Finnish district heating company Loviisan Lämpö and developed by Polar Night Energy, the giant sand battery launched last year as part of a push to introduce a flexible heat production technology and reduce carbon emissions generated by the local district heating network. Polar Night Energy said the project is estimated to have slashed greenhouse gas emissions from the heating network by almost 70% and reduced the use of wood chips by about 60%. An existing wood-chip power plant remains in operation as a backup and peak-load facility. Tommi Eronen, CEO of Polar Night Energy, said Pornainen had previously relied on burning oil and wood chips for its heating needs — but the town's sand battery was now able to provide combustion-free heating for the majority of the year. \"We're changing from a world where big power plants were doing the energy production to where solar and wind are producing the energy, then we need a massive amount of storage,\" Eronen told CNBC on a video call. \"Hopefully a big portion of those storages could be sand battery-type of storages where we don't need rare earth materials , like in many chemical batteries, such as lithium-ion batteries.\" The Pornainen project is about 10 times larger than an earlier version launched in the country in 2022, reinforcing the potential for sand batteries to play a more prominent role in cutting emissions both domestically and abroad. Battery storage is widely expected to play a pivotal role in the energy transition — and sand batteries in particular have shown promise for regional heat storage, but scaling up this technology faces significant hurdles. Some notable criticisms include their ability to efficiently convert heat back to electricity and their relatively low energy density compared to traditional batteries. Essentially, the sand battery technology operates as something akin to a giant thermos with heat-storing material. The first step is to get electricity off the grid when there is plenty of wind or solar power, before then heating up the sand to very high temperatures. The heavily insulated silo keeps that heat trapped for days or weeks before being discharged via heat exchangers to warm water for the local district heating network. \"Three steps — and the key to the whole thing is the sand enables you to have a delay between the time you use electricity, and you use the steam,\" Polar Night Energy's Chief Commercial Officer Annette Höglund-Dönnes told CNBC by video call. \"That delay is your business advantage because you can heat up the sand when the electricity is cheap, and you use the steam when normally it would be very expensive to produce steam off the grid, which is the daytime when everybody else is using it,\" she added. Höglund-Dönnes compared the process to charging a cell phone overnight given that this can be less expensive than during the day. Asked whether the project could be replicated internationally, Höglund-Dönnes said Polar Night Energy had been contacted by teams from \"every single continent,\" particularly by communities dependent on fossil fuels, such as coal and oil. Climate scientists have repeatedly warned that a substantial reduction in fossil fuel use will be necessary to curb global heating, with the burning of coal, oil, and gas identified as the chief driver of the climate crisis. Jan Rosenow, professor of energy and climate policy at the U.K.'s University of Oxford, agreed that electrothermal storage technologies, such as sand batteries, were likely to be replicated across the globe. \"You don't need rare earths, critical raw materials and the beauty is you can also charge up the battery when the electricity is cheap and discharge whenever you need the heat,\" Rosenow told CNBC. \"And you can store it for long periods, not just two hours or four hours like lithium-ion batteries, but potentially for days and maybe even weeks.",
+      "summary": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
       "published_at": "2026-07-25T05:29:38+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
+      "event_type": "market",
+      "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
-        "datacenter",
-        "energy",
-        "growth",
         "macro",
-        "market",
-        "memory",
-        "oil",
-        "semiconductor",
-        "storage",
-        "tech"
+        "market"
       ],
       "categories": [
         "market",
@@ -1705,8 +1742,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.634,
+      "impact_score": 1.84,
+      "recency_weight": 0.622,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1716,9 +1753,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1749,7 +1784,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.632,
+      "recency_weight": 0.62,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1790,7 +1825,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.622,
+      "recency_weight": 0.61,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1831,7 +1866,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.596,
+      "recency_weight": 0.585,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1872,7 +1907,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.586,
+      "recency_weight": 0.575,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1914,7 +1949,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.548,
+      "recency_weight": 0.538,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1956,7 +1991,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.547,
+      "recency_weight": 0.536,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1997,7 +2032,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.54,
+      "recency_weight": 0.53,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2047,7 +2082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.538,
+      "recency_weight": 0.528,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2096,7 +2131,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.538,
+      "recency_weight": 0.528,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2137,7 +2172,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.532,
+      "recency_weight": 0.522,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2182,7 +2217,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.529,
+      "recency_weight": 0.519,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2194,47 +2229,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9c178dabe06852dbd74b",
-      "title": "Strait of Hormuz traffic may not return to normal for 12 months or more, according to prediction markets",
-      "summary": "Kalshi traders give less than 50% odds that the key maritime passageway will fully reopen by July 2027.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/odds-that-the-straits-traffic-returns-to-normal-drop-on-kalshi.html",
-      "published_at": "2026-07-24T19:58:24+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.528,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2265,7 +2259,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.527,
+      "recency_weight": 0.517,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2306,7 +2300,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.525,
+      "recency_weight": 0.515,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2347,7 +2341,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.523,
+      "recency_weight": 0.513,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2393,7 +2387,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.52,
+      "recency_weight": 0.51,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2435,7 +2429,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.519,
+      "recency_weight": 0.509,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2480,7 +2474,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.516,
+      "recency_weight": 0.506,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2527,7 +2521,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.516,
+      "recency_weight": 0.506,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2573,7 +2567,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.507,
+      "recency_weight": 0.498,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2616,7 +2610,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.503,
+      "recency_weight": 0.493,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2662,7 +2656,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.502,
+      "recency_weight": 0.492,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2702,7 +2696,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.47,
+      "recency_weight": 0.461,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2742,7 +2736,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.444,
+      "recency_weight": 0.436,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2781,7 +2775,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2824,7 +2818,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2870,7 +2864,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2919,7 +2913,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2969,7 +2963,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3019,7 +3013,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3069,7 +3063,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.333,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3110,7 +3104,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.334,
+      "recency_weight": 0.328,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3155,7 +3149,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.315,
+      "recency_weight": 0.309,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3197,7 +3191,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.314,
+      "recency_weight": 0.308,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3238,7 +3232,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.31,
+      "recency_weight": 0.304,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3277,7 +3271,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3704,7 +3698,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-25T20:29:41+00:00",
+      "latest_published_at": "2026-07-26T05:00:01+00:00",
       "warning": null
     },
     {
