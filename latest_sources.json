@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T02:10:07.226797+00:00",
-  "generated_at_local": "2026-07-26 10:10:07 北京时间",
-  "next_update_at_local": "2026-07-26 11:10:00 北京时间",
+  "generated_at": "2026-07-26T03:10:06.749777+00:00",
+  "generated_at_local": "2026-07-26 11:10:06 北京时间",
+  "next_update_at_local": "2026-07-26 12:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,9 +34,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 75,
+  "total_items": 77,
   "total_official_items": 16,
-  "media_items": 59,
+  "media_items": 61,
   "items": [
     {
       "id": "fe7ccc2dd2afa331ac2c",
@@ -90,44 +90,6 @@
       "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T18:34:00+00:00",
-      "pick_score": 99,
-      "event_type": "geopolitical",
-      "severity": "major",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "5dc9d2706e588794ba97",
-      "title": "Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
-      "translation_label": "原文中文译读",
-      "translation": "受巴基斯坦在中國支持下正推動美伊舉行新一輪會談的報道影響，油價下跌。週五油價下跌約3%，但由於美伊戰爭持續升級，本週仍有望迎來10%的週漲幅。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：若冲突降温或运输恢复，原油的战争溢价会先回落，随后减轻通胀和利率压力。 可能受益：航空、运输、化工、消费和高估值成长股；燃料成本下降也有利于整体风险偏好。 可能承压：上游石油股、黄金和部分国防资产，尤其是此前涨幅主要来自战争溢价的标的。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。只有油价与波动率同步回落，才算风险真正缓和。",
-      "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-24T19:12:09+00:00",
       "pick_score": 99,
       "event_type": "geopolitical",
       "severity": "major",
@@ -267,6 +229,44 @@
       "in_event_ledger": true
     },
     {
+      "id": "5dc9d2706e588794ba97",
+      "title": "Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
+      "translation_label": "原文中文译读",
+      "translation": "受巴基斯坦在中國支持下正推動美伊舉行新一輪會談的報道影響，油價下跌。週五油價下跌約3%，但由於美伊戰爭持續升級，本週仍有望迎來10%的週漲幅。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：若冲突降温或运输恢复，原油的战争溢价会先回落，随后减轻通胀和利率压力。 可能受益：航空、运输、化工、消费和高估值成长股；燃料成本下降也有利于整体风险偏好。 可能承压：上游石油股、黄金和部分国防资产，尤其是此前涨幅主要来自战争溢价的标的。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。只有油价与波动率同步回落，才算风险真正缓和。",
+      "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-24T19:12:09+00:00",
+      "pick_score": 98,
+      "event_type": "geopolitical",
+      "severity": "major",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "74b985fc480bb67dfd19",
       "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
       "translation_label": "原文中文译读",
@@ -318,7 +318,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-26T00:00:00+00:00",
-      "pick_score": 98,
+      "pick_score": 97,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -356,7 +356,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T12:00:02+00:00",
-      "pick_score": 96,
+      "pick_score": 95,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -491,44 +491,6 @@
       "in_event_ledger": true
     },
     {
-      "id": "8ecd5337cba72e0be123",
-      "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
-      "translation_label": "原文中文译读",
-      "translation": "根据一份声明，伊拉克将与叙利亚签署一项关于建设输油管道的协议。该协议旨在修建连接伊拉克石油生产基地与通过地中海通往全球出口市场的管道。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T23:34:54+00:00",
-      "pick_score": 69,
-      "event_type": "energy",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "2bbf4311480e8218eb7e",
       "title": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
       "translation_label": "原文中文译读",
@@ -601,6 +563,44 @@
         "fetch_status": "live"
       },
       "in_event_ledger": true
+    },
+    {
+      "id": "8ecd5337cba72e0be123",
+      "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
+      "translation_label": "原文中文译读",
+      "translation": "根据一份声明，伊拉克将与叙利亚签署一项关于建设输油管道的协议。该协议旨在修建连接伊拉克石油生产基地与通过地中海通往全球出口市场的管道。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-25T23:34:54+00:00",
+      "pick_score": 68,
+      "event_type": "energy",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
     },
     {
       "id": "bf4ebe055246493806d1",
@@ -793,46 +793,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "d61a6c0ca387b0b0b4ad",
-      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-      "translation_label": "原文中文译读",
-      "translation": "物流巨头正竞相跟上医疗保健行业的繁荣，GLP-1药物凸显了对冷藏的迫切需求。随着冷链和温控设施变得愈发关键，航运和物流公司正深度切入不断增长的医疗保健市场。这些公司正投资数百万美元并加固数十个设施，以满足药品运输不断演变的需求。如GLP-1减肥药等药物的爆炸性增长，已将医疗保健确立为物流公司增长最快的细分市场之一。随着对GLP-1等特殊药物的需求不断上升，包括联合包裹和联邦快递在内的物流公司正在调整其战略，以便更好地运输和储存这些药物。大多数可注射的GLP-1药物，包括诺和诺德的Ozempic和Wegovy以及礼来的Mounjaro和Zepbound，在运输过程中都需要冷藏储存。2020年的新冠疫情将医疗物流推向了中心舞台，当时温控疫苗的运输迅速成为遏制病毒的关键部分。随着越来越多的资金注入新的药物创新，这些产品的运输也成为了焦点。物流公司目前正投资数百万美元并加固数十个温控设施以开拓市场。今年6月，联合包裹宣布对其温控设施进行4800万美元的新投资，因为他们看到了市场对关键治疗方法的需求不断增长。根据Growth Market Reports的数据，到2033年，对温度敏感的生物制剂的需求预计将以8.3%的复合年增长率增长，市场价值达到约391亿美元。与此同时，肥胖和糖尿病药物的人气一直在飙升。盖洛普7月的一项民意调查发现，2026年有11%的美国人为了减肥目的而服用GLP-1药物，高于2024年的仅3%。但如果它们的储存和运输温度不正确，将面临失去药效的风险。美国食品药品监督管理局曾警告称，运输过程中的储存不当会影响药品的质量，并建议患者不要使用那些到达时“温热或冷藏不足”的GLP-1药物。其他生物制剂，如某些疫苗、胰岛素和抗生素，也需要专门的运输来维持药效。对于物流公司而言，这意味着要确保在每一个环节都进行适当的储存和移动。医疗物流已被证明是联合包裹最大的机遇之一。在4月份与分析师的财报电话会议上，首席执行官卡罗尔·托米表示，该公司的全球医疗保健业务组合自2021年以来每年都在获得市场份额，并在今年第一季度创下了其有史以来首个30亿美元医疗保健营收季度。联合包裹医疗保健总裁约翰·博拉对CNBC表示，公司看到越来越多的医疗保健公司寻求合作伙伴来跟上业务量的增长。“我们看到的最大机会之一，是支持向更专业疗法以及更多在传统医疗保健环境之外提供的护理的转变，”博拉说。他表示，联合包裹在生物制剂、细胞和基因疗法领域正在经历“快速增长”，不过最大的挑战在于容错率很小——即使温度出现短暂的偏差也可能毁掉这些药物，博拉说道。“但这也是在医疗保健物流中创造如此重大机遇的原因，”他说。“随着治疗方法变得更加专业化，供应链变得更加复杂，医疗保健公司需要的合作伙伴不仅能够提供温控存储或运输，还要能在整个网络中提供端到端的可见性、控制力和可靠性。”联邦快递也在利用这一趋势，于本月早些时候专门成立了一个生命科学组织，以支持药品和其他医疗产品的流通。在6月份的财报电话会议上，联邦快递的首席客户官布里·卡雷尔向分析师透露，2026财年的医疗保健运输收入接近100亿美元。“我们正在构建专注于全球制药客户的端到端解决方案，而全球制药非常重要的一点在于，你必须认识到每次交付的背后都有一个患者或等待治疗的人，”联邦快递医疗保健总裁尼克·詹纳里说，“所以我们对此非常非常严肃。”特别是对于GLP-1而言，詹纳里表示递送这些药物的复杂性正在增加，形式从注射剂到口服药不等，并且直接面向消费者交付。但随之复杂性而来的是联邦快递的增长机遇，他表示联邦快递处于“理想的定位”。詹纳里说，联邦快递拥有专门的技术，包括允许客户通过预测能力查看产品移动的机器学习引擎，以及能够识别医疗保健产品并根据其独特需求进行不同处理的技术。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、公司基本面/股本供给、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T12:00:02+00:00",
-      "pick_score": 67,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "公司基本面/股本供给",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "4976074eef786b651766",
       "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
       "translation_label": "原文中文译读",
@@ -865,6 +825,46 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "d61a6c0ca387b0b0b4ad",
+      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+      "translation_label": "原文中文译读",
+      "translation": "物流巨头正竞相跟上医疗保健行业的繁荣，GLP-1药物凸显了对冷藏的迫切需求。随着冷链和温控设施变得愈发关键，航运和物流公司正深度切入不断增长的医疗保健市场。这些公司正投资数百万美元并加固数十个设施，以满足药品运输不断演变的需求。如GLP-1减肥药等药物的爆炸性增长，已将医疗保健确立为物流公司增长最快的细分市场之一。随着对GLP-1等特殊药物的需求不断上升，包括联合包裹和联邦快递在内的物流公司正在调整其战略，以便更好地运输和储存这些药物。大多数可注射的GLP-1药物，包括诺和诺德的Ozempic和Wegovy以及礼来的Mounjaro和Zepbound，在运输过程中都需要冷藏储存。2020年的新冠疫情将医疗物流推向了中心舞台，当时温控疫苗的运输迅速成为遏制病毒的关键部分。随着越来越多的资金注入新的药物创新，这些产品的运输也成为了焦点。物流公司目前正投资数百万美元并加固数十个温控设施以开拓市场。今年6月，联合包裹宣布对其温控设施进行4800万美元的新投资，因为他们看到了市场对关键治疗方法的需求不断增长。根据Growth Market Reports的数据，到2033年，对温度敏感的生物制剂的需求预计将以8.3%的复合年增长率增长，市场价值达到约391亿美元。与此同时，肥胖和糖尿病药物的人气一直在飙升。盖洛普7月的一项民意调查发现，2026年有11%的美国人为了减肥目的而服用GLP-1药物，高于2024年的仅3%。但如果它们的储存和运输温度不正确，将面临失去药效的风险。美国食品药品监督管理局曾警告称，运输过程中的储存不当会影响药品的质量，并建议患者不要使用那些到达时“温热或冷藏不足”的GLP-1药物。其他生物制剂，如某些疫苗、胰岛素和抗生素，也需要专门的运输来维持药效。对于物流公司而言，这意味着要确保在每一个环节都进行适当的储存和移动。医疗物流已被证明是联合包裹最大的机遇之一。在4月份与分析师的财报电话会议上，首席执行官卡罗尔·托米表示，该公司的全球医疗保健业务组合自2021年以来每年都在获得市场份额，并在今年第一季度创下了其有史以来首个30亿美元医疗保健营收季度。联合包裹医疗保健总裁约翰·博拉对CNBC表示，公司看到越来越多的医疗保健公司寻求合作伙伴来跟上业务量的增长。“我们看到的最大机会之一，是支持向更专业疗法以及更多在传统医疗保健环境之外提供的护理的转变，”博拉说。他表示，联合包裹在生物制剂、细胞和基因疗法领域正在经历“快速增长”，不过最大的挑战在于容错率很小——即使温度出现短暂的偏差也可能毁掉这些药物，博拉说道。“但这也是在医疗保健物流中创造如此重大机遇的原因，”他说。“随着治疗方法变得更加专业化，供应链变得更加复杂，医疗保健公司需要的合作伙伴不仅能够提供温控存储或运输，还要能在整个网络中提供端到端的可见性、控制力和可靠性。”联邦快递也在利用这一趋势，于本月早些时候专门成立了一个生命科学组织，以支持药品和其他医疗产品的流通。在6月份的财报电话会议上，联邦快递的首席客户官布里·卡雷尔向分析师透露，2026财年的医疗保健运输收入接近100亿美元。“我们正在构建专注于全球制药客户的端到端解决方案，而全球制药非常重要的一点在于，你必须认识到每次交付的背后都有一个患者或等待治疗的人，”联邦快递医疗保健总裁尼克·詹纳里说，“所以我们对此非常非常严肃。”特别是对于GLP-1而言，詹纳里表示递送这些药物的复杂性正在增加，形式从注射剂到口服药不等，并且直接面向消费者交付。但随之复杂性而来的是联邦快递的增长机遇，他表示联邦快递处于“理想的定位”。詹纳里说，联邦快递拥有专门的技术，包括允许客户通过预测能力查看产品移动的机器学习引擎，以及能够识别医疗保健产品并根据其独特需求进行不同处理的技术。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、公司基本面/股本供给、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-25T12:00:02+00:00",
+      "pick_score": 66,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "公司基本面/股本供给",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1273,8 +1273,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 14,
-      "latest_published_at": "2026-07-26T00:34:20+00:00",
+      "recent_items": 16,
+      "latest_published_at": "2026-07-26T02:30:00+00:00",
       "warning": null
     },
     {
