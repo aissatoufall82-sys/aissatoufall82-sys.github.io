@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T15:10:09.560168+00:00",
+  "generated_at": "2026-07-26T16:10:12.140790+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -45,7 +45,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -56,6 +56,193 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1ff58dc9474112f7ed2b",
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+      "summary": "Iran summons Ukraine's chargé d'affaires in Tehran to complain about Ukrainian strikes on Iranian ships in the Caspian Sea. Iran said the attack left one sailor dead and injured several others. Ukrainian President Volodymyr Zelenskyy said his country's forces struck targets in the Caspian Sea \" including vessels used in military cargo shipments involving Iran\". Iran summoned a Ukrainian diplomat in Tehran on Sunday to protest an attack on an Iranian commercial vessel in the Caspian Sea, as the war in the Middle East threatened to overlap with the Ukraine conflict. Iran said the attack left one sailor dead and injured several others. The country's foreign ministry complained to Ukraine's chargé d'affaires in Tehran early on Sunday and \"conveyed Iran's strong protest over the 'hostile and criminal act.'\" Iran's Islamic Republic News Agency reported . In a post on X highlighting Ukraine's attacks on distant Russian targets, Ukrainian President Volodymyr Zelenskyy said Saturday that his country's forces \"also achieved very strong results with long‑range strikes in the Caspian Sea – including vessels used in military cargo shipments involving Iran , as well as a warship.\" Russia has long used Iranian-designed Shahed drones in its war on Ukraine, a weapon that analysts sometimes refer to as \" the poor man's cruise missile .\" But the latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen following the rebel group's attacks on Red Sea shipping in recent days, represent a widening of the Middle East conflict. Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen on Saturday. The fighting in the Red Sea and Caspian Sea took place during a pause in U.S. strikes on Iran after 13 straight nights of attacks. U.S. President Donald Trump has halted attacks on Iran for now to allow more room for diplomacy, U.S. ambassador to the United Nations Mike Waltz told Fox News on Sunday. \"He's giving talks some space, he's giving it a little bit of room,\" Waltz said. The New York Times cited administration officials as saying that Trump has set aside, at least for now, plans to sharply escalate U.S. military assaults against Iran, amid concerns over falling stockpiles of Patriot anti-missile interceptors and other air defense munitions. The U.S. military said on Saturday that ​its naval blockade against Iran \"remains in full effect\" ​but did not explain why it halted its attacks. There were also no ⁠reports of attacks from Iran on neighboring countries. Israeli Prime Minister Benjamin Netanyahu on Sunday laid out what he believes it will take to end the war with Iran during an appearance on Fox News' \"Sunday Morning Futures.\" Netanyahu said the war will end either \"when this regime is either toppled or it's sufficiently weakened that it knows it has to end its nuclear program and has to change its course.\" The U.S. launched the first set of strikes on Iran with Israel, and Jerusalem's attacks on targets in Lebanon were previously a hurdle in U.S. peace talks with Tehran. U.S. Central Command said late Saturday its naval blockade against Iran remains in full effect. \"As of July 25, CENTCOM has redirected 12 commercial vessels trying to run the blockade, disabled 2 that didn't comply, and boarded 2 to ensure total compliance,\" it said in a post on X late Saturday. Meanwhile, Iran's Islamic Revolutionary Guard Corps Navy said it has \"established complete authority over the Strait of Hormuz.\" In a post early Sunday on the Telegram social media platform, it said it forced six ships to anchor following warnings over the last 24 hours. While formal high-level negotiations between the U.S. and Iran have stalled, Iranian Foreign Ministry spokesman Esmail Baghaei said technical talks with Oman on the Strait of Hormuz continued over the weekend. Oil prices dropped Friday on a report that Pakistan is looking for a way to restart talks between the U.S. and Iran. Brent crude futures , the international benchmark, fell nearly 4% to close at $96.78 a barrel. U.S. West Texas Intermediate crude futures lost 3% to settle at $89.31 per barrel. Three sources told Reuters that Pakistan's effort to renew U.S.-Iran talks was backed by China. — CNBC's Garrett Downs and Reuters contributed to this report.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+      "published_at": "2026-07-26T14:50:20+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.975,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "08785fd8882968a9c168",
+      "title": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
+      "summary": "Gen Xers are now at an age where the need to accumulate wealth in retirement plans is getting closer to overlapping with the in-retirement phase of needing to draw on stable investment income. Many Gen Xers remain underfunded, and a longer runway to retirement may be needed, but it opens up the risk of being caught in an ill-timed market crash. After the dotcom bubble burst, the value of Amazon shares took roughly a decade to recover. While baby boomers hog most of the attention in conversations about retirement , Gen Xers are marching toward the same destination, and in many cases, without key financial benefits of the former generation. Retiring by 55 in America is mostly a relic of the defined benefit pension plan-funded past. Now, most people in the 50-55 range are still looking at 10 to 15 working years ahead. That extends the years during which they are continuing to contribute to 401(k) plans and IRAs to grow their wealth, and time in the market is the greatest long-term advantage investors have. But the closer an individual gets to retirement, the more an ill-timed market crash can seriously set them back. Gen X is the age group — roughly defined as those born between 1965 and 1980 — heavily impacted by the shift from defined benefit to defined contribution pensions, as workplace pensions became less common. Only 14% of Gen X workers have a traditional pension, compared with 56% of boomers, according to research from Alliance's Retirement Income Institute. When broken down by generation, Gen Xers are the least financially prepared generation for retirement by nearly every measure. \"While baby boomers dominate the headlines, Generation X faces an even greater retirement crisis,\" the authors wrote. The situation can leave a Gen Xer to watch their retirement fund warily. A decade of strong returns has placed many investors, particularly those a few years out from retiring, heavily weighted in S&P 500 mutual funds and ETFs, riding the record stock market gains right up to the cusp of retirement. But history is littered with instances of crashes that, for the unlucky, happen at the worst possible moment. The Amazon dotcom bubble stock chart is a good example. Investors who bought at its 1999 dot-com peak had to wait a full decade before the stock reclaimed that old high, finally breaking through to new records in late 2009. The broader S&P 500 tells a similar slow-road-to-recovery story . After bottoming out in October 2002 following the dot-com bust, the index took nearly five years to climb back to a new high in 2007 — a high that didn't even hold, as the Great Recession erased it almost immediately. Measured from the bottom of that second crash, in March 2009, it took another four years before the S&P 500 finally cleared its old 2007 peak for good, in March 2013. Depending on how you count it, that's anywhere from four to thirteen years of being underwater, all depending on which crash and which trough you're measuring from. And for someone three to five years from retirement, that's not an academic timeline. Certified financial planner Ernie Cave, founder of Cave Wealth Management, says that what goes down will ultimately go up, but when matters to retirees. \"History shows that markets recover, but retirees don't get to choose whether that recovery takes one year or several. If you're forced to sell investments while they're depressed to generate income, those shares are gone forever and can no longer participate in the recovery,\" Cave said. This is why what financial advisors call the \"sequence-of-returns\" risk is so dangerous. How to gradually move away from S&P 500 For starers, investors who are already thinking about retirement should avoid being starstruck by the S&P 500's gains and how well it has done for them. \"One of the biggest mistakes I see is investors approaching retirement with nearly all of their assets in an S&P 500 fund simply because it has performed well over the last decade,\" Cave said. The S&P 500 is an excellent long-term investment, but it might not be the right place for money you'll need during the first several years of retirement, he added. \"The problem isn't owning an S&P 500 fund. The problem is asking the same fund to pay next year's bills and fund retirement 25 years from now,\" Cave said. He advocates steering retirees toward a diversified \"war chest.\" \"We typically want approximately two years of expected portfolio distributions protected in cash or very short-term investments , with roughly five years of anticipated withdrawals covered by cash, treasuries, CDs and high-quality bonds. The remaining long-term assets can stay invested for growth,\" Cave said. The purpose of a retirement war chest, according to Cave, isn't to shed equities or eliminate market declines. \"It's to reduce the chance that a retiree is forced to sell long-term investments during one,\" he said. Here's a look at other stories offering insight on ETFs for investors.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html",
+      "published_at": "2026-07-26T14:44:29+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.973,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8d2e893ab188804b9840",
+      "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
+      "summary": "The S&P 500 industrials sector has a forward price-to-earnings ratio above 30, well above its long-term average. Industrial stocks are benefitting from the AI data center buildout and related power grid investments. The sub-sectors of defense tech and space tech are also contributing to the rally. As the AI infrastructure buildout and global geopolitical developments spur massive spending, an old-guard sector of the economy is getting a level of attention from investors that rivals the action in tech. The industrials sector of the S&P 500 is trading at a price-to-earnings ratio above 30, a level investors more often associate with high fliers, and a P/E ratio that is well above industrials' long-term average, which is closer to 20. \"If you look at [Industrial Select Sector SPDR] XLI from State Street, its valuations are really high relative to the S&P 500,\" Cinthia Murphy, director of research at VettaFi, said on the most recent \"ETF Edge.\" \"It's as high as tech, so it really is a sector that has really had its moment in the sun and picked up a lot of attention,\" Murphy said. The race to construct AI data centers in hopes of gaining a durable business advantage in a rapidly-shifting digital infrastructure has gripped the corporate world and the tech sector. Alphabet , as part of its earnings report on Wednesday, forecast capex for this year of $195 billion to $205 billion. Prior guidance was for spending of $180 billion to $190 billion. McKinsey & Company estimates suggest that this investment won't be stopping anytime soon – with reports showing that global spending on data centers could reach nearly $8 trillion by 2030. The vast majority of this spending will be dedicated to data center infrastructure and IT equipment. Alphabet warned those spending numbers could go even higher in 2027. \"AI is a tech play, but nothing happens without the build out of the infrastructure,\" Murphy said. \"There's a whole backbone infrastructure that needs to be built, and that has really pushed up industrials.\" \"We have only just begun this buildout. We are a few hundred billion dollars into it. Trillions of dollars of infrastructure still need to be built,\" Jensen Huang, Nvidia CEO, said in a March blog post . \"This is becoming the largest infrastructure buildout in human history.\" The vast majority of projects in the next stages of a nationwide data center expansion are expected to take place in rural areas. In order to accommodate the staggering power demand associated with data centers, expanding rural power grids may prove essential. Peak production capacity for rural power grids in the U.S. remains comparatively limited, on average. Now, there exists a push to develop facilities that regularly consume up to twenty times their existing power capacity, intensifying corporate demand and the need for industrial support. This demand comes despite rising public animosity towards new data center construction, driven by local concerns surrounding strained power grids and rising electrical costs. Constructing this AI backbone across the U.S. requires new electrical substations, strengthening high-speed fiber internet capabilities, and developing new energy-saving battery technology. Mass amounts of power generation and backup equipment, construction machinery, and electrification software have all come into the mix as necessities for scaling. As a result, production firms within the machinery and electrical equipment industries, which make up 20.89% and 14.16% of XLI holdings, respectively, have surged. Caterpillar , the ETF's top holding, and GE Vernova , the third-largest holding in the industrials index, are both up over 50% this year. Caterpillar is up nearly 160% from where it was two years ago. GE Vernova continues to benefit from bookings related to the AI buildout, while its renewable energy business has been hit by the downturn in the wind power sector, leading to a selloff this week after earnings despite a $176 billion business backlog at the end of Q2. It's not just the heavyweights that have benefited, either. Emerson Electric , the 29th-largest holding in XLI, is trading at nearly 20% more than it was in July of 2024, despite experiencing slight losses over the past year. Hubbell , the 60th-largest holding, is up 30% in the two-year period dating back to July 2024. Inside XLI, it's not just the AI boom that is supporting stock valuations, and dozens of other industrials ETFs have been launched targeting multiple niches within the sector. \"There are over 60 industrials ETFs that fall into that sector category, and collectively they've seen about $23 billion in net inflows year-to-date,\" Murphy wrote in an email to CNBC. \"Industrials have not only performed really well relative to the market, but industrials ETFs have seen momentum in asset gathering (relative to recent years) as investors focus on the secular growth trends tied to the AI infrastructure buildout as well as to [the] aerospace and defense theme.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
+      "published_at": "2026-07-26T14:12:20+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.963,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "65665696868bfcc8fcd7",
+      "title": "How AI wealth could be distributed to all Americans",
+      "summary": "To learn more about the CNBC CFO Council, visit cnbccouncils.com/cfo Bernie Sanders' recent proposal that the public should own half of artificial intelligence is unlikely to become policy anytime soon, but new models are being proposed to both regulate AI and create mechanisms for sharing trillions of dollars in anticipated economic value. Ideas range from paying individuals for the value of their data in training AI systems, to new forms of unions to hold the AI industry accountable, as well as new forms of corporate taxation. Among the simplest ideas to give individuals a greater share of AI efficiencies which already has a global precedent: shorten everyone's work week. Bernie Sanders' recent proposal that the public should own half of artificial intelligence is unlikely to become policy anytime soon, but it reflects a broader debate that is gaining momentum among economists, technology researchers, and policymakers: How can Americans benefit if AI creates trillions of dollars in new economic value? There is no shortage of ideas, most untested. But the risks, and rising public opposition to AI, make the question an important one. AI wealth has accumulated quickly in the stock market, but many Americans are still limited in how much they benefit from that growth. Recent survey work indicates that a majority of U.S. workers now want to hold corporations more accountable via an AI sovereign wealth fund . There have been unconfirmed reports that ahead of a highly anticipated IPO, OpenAI has discussed offering the government a 5% equity stake . Meanwhile, Jeff Bezos recently told CNBC that the best policy idea to level the economic playing field is simply eliminating federal income taxes for the bottom-half of earners in the U.S. Recent survey data indicates that this question is embedded in a rapid change in public sentiment towards AI. An Emerson College poll released this week found that only 27% of Americans support data centers being built in or near their community, with 63% opposed. Public sentiment has soured substantially in less than a year. A similar poll conducted in December 2025 found that while 33% said that they would support such developments, only 42% voiced their opposition. Many Americans feel as though they have nothing to gain and everything to lose from AI. \"When I see the data center proposal, I don't see progress,\" said Will Hollingsworth, a Northeast Ohio resident, speaking at an April public comment session regarding a proposed 257-acre data center campus in Portage County. \"I see a gamble where the big tech companies get the gold while Portage County foots the bill.\" \"We're being asked to sacrifice the lifeblood of our city so that a trillion-dollar company can save a fraction of a cent on its margins,\" Hollingsworth said in comments that went viral. \"We're being asked to drain our reservoirs so [that] a chatbot can write a poem or so [that] our sheriff can generate a picture of himself standing next to Bigfoot.\" Among economists, tech industry researchers, and public policy experts, there are multiple proposals that address Hollingsworth's sentiment that the potential outcomes from AI development are dramatically skewed in favor of corporations. These include partial public ownership models in AI and other shared equity mechanisms. Computer scientist Jaron Lanier, who currently holds the Office of the Chief Technical Officer Prime Unifying Scientist at Microsoft Research, has argued for a model sometimes referred to as \"data dignity,\" where people receive compensation for the information and contributions that help create AI systems. \"I spent some time with Sen. Sanders when he visited the AI community at Stanford,\" Lanier said. \"Whether [his proposal] would be a good idea depends on the nature of the government that would be responsible for routing benefits to people,\" he said. If the government were to simply become \"just another AI company,\" he prefers what he calls a more \"distributed economic model.\" \"Good data and supervision,\" Lanier says, can result in enough real money having a significant impact on people's lives. \"But if the future is to be the normative Silicon Valley one, where people will be fictionally treated as becoming useless because their contributions have been anonymized and dismissed in favor of pretending AI did all the work, then it is better for some kind of support to come through a government structure with a participatory/democratic element,\" Lanier said. Paying people directly for AI training data The challenge is figuring out how such a system would work. AI models are trained on enormous amounts of information from millions or billions of sources. Determining which individual contributions created value, and how much they should be paid, might run into the same criticisms that dogged efforts to compensate people for search histories — while the sums are massive in the aggregate, the economic value of any single individual's data is low.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
+      "published_at": "2026-07-26T14:06:53+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.961,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -90,7 +277,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -136,7 +323,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -179,7 +366,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -191,6 +378,98 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1d717e6ca1e8141b2155",
+      "title": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
+      "summary": "Investors have been able to put realized capital gains into Qualified Opportunity Funds and defer taxation until the end of 2026. Early investors — those who got in by the end of 2019 or 2021 — were also eligible for a 15% or 10% step-up in basis, respectively, on those gains, which means a lower tax bill. The next round of designated Opportunity Zones will take effect in 2027, at which point the tax benefits will change. Some high-earning investors who deferred capital gains taxes through a special set of funds will soon have a tax bill coming due. Authorized by the Tax Cuts and Jobs Act of 2017, Opportunity Zones are economically distressed communities nominated by states and certified by the Treasury Department. To encourage investment in so-called Qualified Opportunity Funds — created to invest in those specified areas — Congress included several tax incentives related to capital gains. For starters, investors who remain in the fund for 10 years generally won't owe taxes on any gains earned on their investment. Additionally, investors who put realized capital gains from another investment in the fund have been able to defer paying taxes on that money. Investors who got in early enough also could reduce the amount of those deferred gains that would ultimately be taxed. Trump Accounts: Who is eligible, how $1,000 deposits work and how to open one Student loan borrowers on new RAP plan can lose key benefits if they pay late AI can make you 'boring' at work, professor says: How to avoid the pitfalls AARP to Congress: 'We strongly object to fast-tracking Social Security changes' CNBC's Financial Advisor 100: Best financial advisors, top firms ranked CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026 The end of this year marks the close of the deferral period — and the aggregate value of those deferred gains was $75 billion at the end of 2024, according to a new working paper from the Treasury Department's Office of Tax Analysis. \"Regardless of when from 2018 to present investors have deferred gains ... the deferral period will end on Dec. 31, 2026, making all the gains taxable as of that date,\" said Jason Watkins, a partner with accounting firm Novogradac & Co. and an expert in Opportunity Zones. Opportunity Zone investors skew wealthier There were about 12,800 Qualified Opportunity Funds in existence as of the end of 2024, with roughly 41,000 investors in them, according to the Treasury research. The funds can invest in a variety of projects such as new housing , a property upgrade, a startup business or any other qualifying local initiative. About 85% of the investors are individuals; the remainder are corporations, according to the research. The typical individual investor had adjusted gross income of $738,000 in 2024. Capital gains taxes apply to profits taken from appreciated investments , and the tax rate depends on how long the investor has owned the asset. For those held longer than one year, the gains are considered long-term and taxed at rates of 0%, 15% or 20%, depending on the taxpayer's income. Short-term gains — profits on investments held for a year or less — are taxed as ordinary income. Investors who got in on a Qualified Opportunity Fund by the end of 2019 using realized capital gains not only were able to defer taxes on those gains until the end of this year — assuming they haven't already cashed out or otherwise lost eligibility — but they also are able to get a 15% step-up in basis on the deferred gains. That means 85% of the deferred gains will be taxed instead of 100%. Investors who were in by the end of 2021 are eligible for a 10% basis step-up. Those who missed those deadlines get no extra benefit beyond deferring the taxation of their invested gains. \"Hopefully they've planned for it and realize they'll owe taxes on these gains,\" said Ryan Firth, a certified financial planner and certified public accountant based in Bellaire, Texas. \"And hopefully they've set aside money to be able to pay the taxes.\" Some funds also may have provided liquidity to investors to cover the taxes through debt-financing or other distributions, Watkins said. While the benefit of deferring gains is ending, the big payoff for investors hasn't happened yet — tax-free gains on their investment after a decade of holding on to it — so most are likely to remain invested after this year, he said. \"I expect few investors to cash out to cover taxes as achieving a 10-year hold unlocks the most valuable of the [incentives], which is a potential tax-free exit,\" Watkins said. Some of the tax benefits will change as of 2027. Rural investments get boosted tax incentives President Donald Trump 's \" big beautiful bill, \" enacted last summer, made Opportunity Zones permanent. The legislation calls for new zones to be designated every 10 years, with the next round of nominations currently underway and set to take effect Jan.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
+      "published_at": "2026-07-26T13:30:02+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.95,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "cc47cf6b6e16be160a49",
+      "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy Leadership Harvard expert: Ambitious people often make this career mistake The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.\" Take control of your money with CNBC Select CNBC Select is editorially independent and may earn a commission from affiliate partners on links.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/how-different-generations-are-rewriting-the-american-dream-today.html",
+      "published_at": "2026-07-26T13:30:02+00:00",
+      "event_type": "geopolitical",
+      "severity": "moderate",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.95,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -226,7 +505,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -269,7 +548,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -312,7 +591,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -354,7 +633,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -395,7 +674,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -439,7 +718,103 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "eb6a424aa63428f96096",
+      "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
+      "summary": "The U.K.'s new prime minister, Andy Burnham, says he had a \"good exchange\" with President Donald Trump after taking on his role, but added that he would defend the national interest \"before anything else\". Trump had criticized Burnham's predecessor, Keir Starmer. Burnham took over as prime minister last week after Starmer's government was forced into a series of policy U-turns, endured scandals over staffing appointments and suffered dramatic losses in local elections. The U.K.'s new prime minister, Andy Burnham , said he would be willing to call out U.S. President Donald Trump to defend the U.K.'s national interest, as he set the tone for the key trans-Atlantic relationship. Speaking to the BBC in an interview aired Sunday, Burnham said he had a phone conversation with Trump on Monday when he officially took on the role, describing it as \"a good exchange\" and that he found Trump \"warm\". \"We will continue to build the relationship as we go forward,\" Burnham added. Asked if Burnham would place his trust in Trump, Burnham said: \"it's a changing world isn't it, and you just obviously have to call things as they develop\". Trump has frequently criticized the U.K., among other European and NATO allies, for not pulling their weight in the U.S.-led war on Iran. But Trump has welcomed Burnham's plan to fast-track oil and gas exploration in already-licensed fields in the North Sea. Writing on Truth Social last week, Trump called North Sea oil \"invaluable,\" adding it will take the U.K. from a \" Poverty Stricken Disaster , to one of the Richest Countries anywhere in the World!\" Trump had criticized Burnham's predecessor, Keir Starmer, over the U.K.'s energy policy. In an interview with The Telegraph newspaper in April, Trump said: \"All Starmer wants is costly windmills that are driving your energy prices through the roof.\" Starmer announced last month that he would step down from his post. His two years in office were marked by a series of policy U-turns , scandals over staffing appointments and a dramatic loss in Britain's local elections which sparked calls for his resignation from within his own ranks. Asked by BBC journalist Laura Kuenssberg if he would call out Trump if it was the right thing to do, Burnham said, \"of course\", and added: \"You have to defend your own national interest before anything else. That's what you're required to do if you're to do this job properly.\" \"I can't at any point say that I won't take a different opinion from him, that I will need to voice a different idea that is right for Britain,\" Burnham said. Burnham declined to be drawn on a date for raising defense spending to 3% of GDP. John Healey, the U.K.'s new finance minister – known as the Chancellor of the Exchequer – under Burnham, is expected to see defense spending as a priority. Healey's appointment as Burnham's second-in-command came just weeks after he resigned as Starmer's defense minister, citing his view that the government was \"unwilling to commit the resources that the nation needs to defend the country.\" Burnham said: \"I appointed my new chancellor very aware of what he had said about the critical importance of defense spending and the position that he had taken about that. \"The first challenge facing us both is to ensure that the defense investment plan is fully funded and that's the thing that's right in front of us and we need to work that through as we go towards the budget later this year.\" Starmer had announced in June an extra £15 billion ($19.9 billion) in defense spending over the next four years as part of the U.K.'s Defence Investment Plan (DIP), which will lift annual spending to £79.1 billion by 2029, or 2.7% of GDP. The DIP is intended to bolster the U.K.'s military capability, its nuclear deterrent and industrial capacity, while making way for greater technical investment in areas like cybersecurity, drones and AI. But analysts warn that high levels of public debt and the highest borrowing costs among its G7 peers could constrain the new government's ability to dramatically boost spending.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+      "published_at": "2026-07-26T12:17:14+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.2,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.928,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9ffca512871bdcbd4906",
+      "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
+      "summary": "Democratic Congressional Campaign Committee Chair Suzan DelBene, D-Wash., told CNBC in an interview that 100 days out from the midterm election, Democrats are in position to take back the House. Democrats have hammered a cost-of-living message amid voter concerns about rising prices, and DelBene said they'll continue to make the case that President Donald Trump and Republicans aren't serious about affordability. Democrats are slightly favored to win a House majority, though the party is grappling with low favorability ratings, a fundraising disadvantage and simmering intraparty tensions. President Donald Trump 's approval ratings remain low, inflation has been elevated , and the Iran wa r is dragging on, sending gas prices back up over $4 per gallon with no immediate relief in sight. Some of this may be bad news for the country, but for Democrats , eager to win back majorities in the House and the Senate , the sequence of events leading up to the 2026 midterm election could create opportunities. And according to Democratic Congressional Campaign Committee Chair Suzan DelBene , D-Wash., the party is sitting pretty with 100 days to go until Election Day . \"We have great candidates. We have the momentum. We have the message,\" DelBene said in an interview with CNBC. \"And I think the thing that's been really critical too is that the American people are with us. They want folks who are going to stand up for the issues they're facing and support them. And Republicans don't care. They are a rubber stamp for Donald Trump.\" Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham Democrats have been laser-focused on cost-of-living concerns this election cycle, and DelBene said they'll continue to hammer Trump and Republicans on his handling of the economy to win back the House, which Republicans have narrowly controlled for the last two years. Democrats' chances of winning a Senate majority are slimmer. A recent Fox News poll found Democrats up seven percentage points over Republicans on a generic ballot, while a survey from Emerson College Polling gave them an 11-percentage-point edge. CNBC's All America Economic Survey , conducted earlier this month, found voters would slightly prefer Democrats to take win control of Congress this November. \"Absolutely the number one issue across the country is affordability. Families are struggling with housing , food, healthcare, childcare, energy costs, gas prices,\" DelBene said. \"It's hard when you're just trying to get by day-to-day to think about anything else.\" The National Republican Campaign Committee did not make its chair, Rep. Richard Hudson , R-N.C., available for an interview. Mike Marinella, an NRCC spokesperson, pushed back on Democratic midterm narratives. \"Republicans have a more favorable map, stronger candidates, a deep fundraising advantage, and a winning message that serves as a stark contrast to Democrats' radical turn to socialism and messy infighting,\" Marinella said. While Democrats do appear to have a slight advantage to win the House this year, it hasn't been all good news for the DCCC of late. The party's campaign arm has taken fire from within its ranks over its choice to get involved in contested primary elections in some parts of the country, where in some cases DCCC-backed candidates lost to more liberal challengers. Last week, Amish Shah, a doctor and former Arizona state representative, bested the DCCC-backed Marlene Galán-Wood in the Democratic primary in the state's 1st congressional district, one of the most competitive seats this year and a potential key to either party winning a majority. Some Democrats in response have called for the DCCC to stay out of primaries , or to change its internal processes for endorsing candidates. DelBene shrugged off the criticisms. \"We have folks who think we should, folks who think we shouldn't,\" DelBene said, of the debate around the DCCC's intraparty interventions. \"I think the key is the stakes are incredibly high this election, and our job is to make sure we win all across the country. And we're going to win in these districts across the country too.\" Democrats must also contend with their surging progressive wing, propelled by the Democratic Socialists of America. DSA-backed candidates have toppled incumbent Democrats in states like New York and California, and many have an anti-establishment ethos that could cause headaches for party leaders if they do win back a House majority. DelBene, however, said the ideological diversity of the party's candidates is a strength. \"I think if you look across the candidates that we have running in these swing districts across the country, they are all unique fits for their districts.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+      "published_at": "2026-07-26T12:00:01+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -480,7 +855,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -491,6 +866,54 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f0d122520e4fc13a8259",
+      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+      "summary": "Major indexes remain volatile as investors assess key earnings releases and geopolitical tensions in the Middle East. Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns. In this regard, recommendations of top Wall Street analysts can help shortlist stocks with robust growth opportunities. These experts conduct an in-depth analysis of all the macro and micro factors affecting a company, focusing on its long-term growth potential. Here are three stocks favored by some of Wall Street's top pros, according to TipRanks, a platform that ranks analysts based on their past performance. CrowdStrike Holdings is a cloud-native cybersecurity provider. The company recently announced an expanded partnership with Schwarz Digits to bring its Falcon platform to European enterprises. After hosting several European investor meetings with the CrowdStrike CFO, Stifel analyst Adam Borg reiterated a buy rating on CRWD stock and increased his price target to $230 from $220. The five-star analyst said that the meetings increased his confidence about CrowdStrike being an \"important, well-positioned cybersecurity platform vendor that is an AI beneficiary given its expansive portfolio, unique data set, and ability to both secure AI and use AI to improve security.\" Among the key takeaways, Borg noted that AI is driving a major shift in cybersecurity demand as it presents software vulnerabilities that can be exploited by less sophisticated hackers with capabilities that were once limited to government-backed hacking groups. This has led to companies making cybersecurity a top priority, driving customer interest in CrowdStrike's new AI Detection & Response solution and its broader security platform. Borg added that AI-driven demand is expanding CrowdStrike's pipeline and supporting confidence in the company's higher fiscal 2027 net new annual recurring revenue guidance issued last quarter. Overall, Borg believes that CrowdStrike has multiple growth drivers that can help maintain revenue growth in at least the high-teens and drive improved profitability in the years ahead. Borg ranks No. 651 among more than 12,300 analysts tracked by TipRanks. His ratings have been profitable 65% of the time, delivering an average return of 15%. See CrowdStrike Ownership Structure on TipRanks. Moving on to AST SpaceMobile , a company building a global cellular broadband network in space. Recently, Piper Sandler analyst Alexander Potter initiated coverage of space-related stocks. While the analyst assigned AST SpaceMobile a buy rating with a price target of $100 , he has a neutral stance on rocket builders SpaceX and Rocket Lab due to valuation concerns. \"We prefer ASTS , due to a more palatable valuation, and a clearer path to EBITDA upside,\" said Potter. The five-star analyst highlighted that AST SpaceMobile builds satellites that connect directly to smartphones, ensuring network connectivity for users everywhere and enabling applications like video calls, streaming, and gaming. Potter added that ASTS' technology helps Mobile Network Operators, or MNOs, expand coverage and offer add-on services to travelers and users in remote locations. Additionally, Potter noted that ASTS has collaborated with and received equity investments from some of the largest MNOs, including AT&T , Vodafone , Verizon and Rakuten. He explained that by working with these carriers instead of competing against them, ASTS gains access to more than 3 billion subscribers. Potter ranks No. 708 among more than 12,300 analysts tracked by TipRanks. His ratings have been profitable 48% of the time, delivering an average return of 17.2%. See AST SpaceMobile Technical Analysis on TipRanks. Finally, let's look at Broadcom , a provider of custom AI chips and networking solutions. Recently, Morgan Stanley analyst Joseph Moore reiterated a buy rating on Broadcom stock with a price target of $502 . The five-star analyst is surprised by the underperformance of AVGO stock so far this year compared to its peers, especially given continued momentum in AI-driven demand. Moore cited concerns that competitor MediaTek could gain market share from Broadcom in Google's tensor processing unit chip business and investor preference for faster-growing AI chip names as reasons for the underperformance. While Moore acknowledged that MediaTek's role in Google's TPU business is growing, he contends that it is unlikely to disrupt Broadcom's position significantly. He expects Broadcom to continue to be the major TPU supplier, with about 80% market share. Overall, Moore believes that concerns about a decline in AVGO's market share to 50% or its eventual replacement seem premature. \"AVGO should retain majority share, sustain strong AI growth, and remain a core compute winner, close behind NVDA,\" said Moore.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
+      "published_at": "2026-07-26T11:33:11+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.915,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -521,7 +944,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -532,6 +955,52 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8f672d05cf0ce5575669",
+      "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
+      "summary": "Confectionery firms say chocolate sales have fallen this year as high costs continue to price out customers. Swiss chocolate giants Lindt, Barry Callebaut and Nestlé said with cocoa prices easing, they can look to win back customers. Strategies include social media-inspired product launches, increased influencer marketing spend, and innovating premium products. Cocoa prices are beginning to ease after a record-breaking rally, but don't expect cheaper candy just yet as the world's biggest chocolate makers turn to social media-inspired products and other strategies to win shoppers back. Cocoa prices reached record highs over the past two years, triggered by adverse weather conditions and poor cocoa harvests that pushed chocolate costs higher and dampened consumer sentiment. However, the price of cocoa now appears to be falling. Cocoa futures were last trading at $5327 per metric ton and are down 34% over the past year. The commodity surged to almost $12,000 per metric ton at the end of 2024. Cocoa prices typically hovered around $2,000 to $3,000 over the past two decades. Swiss Chocolate giants Barry Callebaut , Lindt , and Nestlé all pointed to soaring cocoa prices as a drag on earnings. Lindt said Monday that groupwide price increases of 11.8% led to chocolate sales volumes dropping 7.5% as fewer shoppers bought chocolate in the first half of the year. \"Record cocoa prices required unprecedented price increases across the industry, while geopolitical uncertainty, inflation and weak consumer sentiment weighed on demand,\" Group CEO Adalbert Lechner said in an analyst call. \"The crisis in the Middle East added another headwind with weaker tourism flows from Asia and the Middle East to Europe.\" The world's largest chocolate and cocoa supplier, Barry Callebaut, said that while global consumers are buying 4.4% less chocolate in the third quarter than the same time last year, overall sales volumes for the company grew 5.7% in the quarter, turning positive for the first time in over two years. Additionally, its global cocoa sales accelerated 18% due to a market correction earlier this year. Meanwhile, food and beverage firm Nestlé said higher cocoa and coffee prices hit its underlying trading operating profit in the first half of the year, dropping 2.8%. The firm's confectionery business makes up 9.7% of its total sales. Nestlé expects to see margins benefit from cocoa prices coming down. Cocoa prices' volatile run was largely due to poor cocoa harvests in West Africa, which were worsened by weather patterns related to El Niño and climate change, resulting in tight supply. El Niño is a weather phenomenon with warmer-than-average temperatures that occurs every two to seven years in the Pacific Ocean. Soaring cocoa prices in 2024 were largely due to a 'strong' El Niño that led to drier, hotter weather and erratic rainfall in West Africa, according to a December analysis by Dr Tanya Lander, a researcher at the Oxford Martin School Programme on the Future of Food. \"So, it is unsurprising that the El Niño weather was linked to poor cocoa harvests in both Côte d'Ivoire and Ghana (where 60-70% of global cocoa beans are produced),\" Lander wrote. Climate change and increasing temperatures are also playing a role, with 2024 being the hottest year on record. A recent heatwave across Europe could also dampen consumer enthusiasm for chocolate, UBS analysts said in an early July note on Lindt. Heatwaves and rising temperatures in some of Lindt's core European markets could impact chocolate demand, with European sales excluding Eastern Europe, declining in the four weeks ending June 14, the analysts said. However, Barry Callebaut said that while a strong El Niño has been confirmed for 2026 and 2027 and creates a downside risk on supply, a large surplus for 2025-2026 acts as a buffer, resulting in a very different situation from 2023-2024. The UBS analysts expect that Lindt has hedged at favourable cocoa bean prices for 2027, a move they estimate could reduce costs by as much as 500 million Swiss francs. Meanwhile, U.S. President Donald Trump's reciprocal tariffs have also had a brief but significant impact, causing price spikes and supply chain disruptions. More recently, the conflict in the Middle East also hit Lindt's travel retail business globally by reducing tourism flows. Premium chocolate, social media trends As cocoa prices are expected to recover, chocolatiers are looking to win back their core customer base by innovating their premium product formats, as well as keeping a closer eye on social media trends that young people are engaging with. Lindt released its Dubai-style chocolate bar in December 2024, a in a bid to capitalize on a viral social media trend . Global retailers from Walmart to Trader Joe's, Shake Shack , and Harrods are now selling Dubai chocolate too. Lindt CEO Lechner said the company plans to expand its \"social media presence\" to create a seamless journey between inspiration, discovery, and purchase.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
+      "published_at": "2026-07-26T05:00:01+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 13.8,
+      "recency_weight": 0.806,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -562,7 +1031,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.784,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -603,7 +1072,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.774,
+      "recency_weight": 0.759,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -644,7 +1113,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.755,
+      "recency_weight": 0.741,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -690,7 +1159,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.747,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -734,7 +1203,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.741,
+      "recency_weight": 0.727,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -776,7 +1245,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.691,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -817,7 +1286,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.695,
+      "recency_weight": 0.681,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -828,6 +1297,49 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "55c700b7dd26add046e4",
+      "title": "Here are 4 forces that drove a tough week for stocks",
+      "summary": "Investors navigated everything from escalating tensions in the Middle East to key tech earnings reports to healthcare developments.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+      "published_at": "2026-07-25T19:56:55+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.678,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -856,7 +1368,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.686,
+      "recency_weight": 0.673,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -869,6 +1381,351 @@
           "国防/安全事件"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8a1e499ccae936a6979a",
+      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+      "summary": "Moviegoers are traveling long distances and competing for tickets to see “The Odyssey” in Imax 70 mm, director Christopher Nolan's desired format. Just 25 U.S. theaters and 41 worldwide are showing the Universal film in that format, helping drive premium ticket demand. Imax CEO Rich Gelfond said Imax 70 mm screenings will run for months, while some theaters have extended runs. For Mike Rohlfing to see \"The Odyssey\" in theaters this week, the 39-year-old marketer set off on a hero's journey of his own. Rohlfing, along with his wife and three kids, drove approximately 900 miles round trip by minivan from their home in St. Louis, Missouri, to Grand Rapids, Michigan. Their destination: One of the select movie theaters offering Imax 70-millimeter screenings for director Christopher Nolan 's adaptation of the epic poem. \"It's an incredible format,\" Rohlfing told CNBC. \"It was definitely worth it to me to travel such a long distance.\" Rohlfing isn't the only one going out of his way to experience the Universal film in this hard-to-find style. A-list actors like Zendaya and Anne Hathaway may line the cast list, but the breakout performance is coming from the large-scale, analog viewing experience beloved by Nolan and his fans. Exclusive data shared with CNBC shows how significantly the film revved up interest for higher-priced Imax 70 mm screenings. It's part of a class of higher-end screening types known as \"premium large formats,\" or PLFs. An adult Imax 70 mm ticket for opening weekend ran the typical attendee $27.77, according to EntTelligence. That's 81% more expensive than the average cost of admission across formats. \"Imax 70-millimeter film has become among the hottest tickets in the world,\" Imax CEO Richard Gelfond said Thursday on a conference call with analysts. \"Fans are flying across countries, if not continents, to experience 'The Odyssey' and Imax 70 millimeter.\" During opening weekend, Gelfond reported that an average screen equipped for 70 mm brought in a \"massive\" box-office haul of $153,000. Imax 70 mm screenings of \"The Odyssey\" will run for months, Gelfond said. But Imax can't quickly multiply screening counts to meet the surge of interest. That's because only a small share of total Imax theaters are big enough and equipped with the high-cost machinery necessary to project the gigantic rolls of 70 mm film. Imax lists 25 theaters across the U.S. and an additional 16 internationally with its 70 mm presentations of \"The Odyssey.\" \"We could have more of them and we're exploring ways to do that, but in a way, it's like a Rolls-Royce,\" Gelfond said of Imax 70 mm auditoriums. \"There are a finite number of locations that really can support the economics of it.\" Also, Nolan's film is the first feature film shot entirely with Imax 70 mm cameras. Other directors have used the format for smaller, often action-packed scenes, within more conventionally filmed features. Even with limited screens, Cinemark told CNBC that demand for its Imax 70 mm showings in states including Colorado and Texas is \"exceptionally strong.\" Regal said the almost-three-hour picture became the chain's top Imax 70 mm-displayed movie. The Imax 70 mm theater within the Indiana State Museum — the only film house running this format in the Hoosier State — added an additional one-week run in August due to \"historic\" demand. More than half of audience members on the first days of showings traveled at least 50 miles, according to Neale Johantgen, the Indiana theater's manager. His team welcomed visitors from more than 20 states and fielded requests from moviegoers attempting to score tickets from places as far-flung as Switzerland. \"Demand's never been higher,\" Johantgen said. \"It's awesome.\" Given the limited availability, securing an Imax 70 mm ticket has become a battle in itself. Theaters are running screenings around the clock, but even the showtimes in the early hours of the morning are booking out. Some theaters put Imax 70 mm tickets on sale a year in advance. Morgan Bernados couldn't get through the queue for her local theater in the San Francisco Bay Area when a batch of seats dropped a few months ago. After the 27-year-old nonprofit worker switched focus to an Imax 70 mm screen located roughly 90 minutes away, she was able to snag tickets for a Monday night showing. \"It felt like buying concert tickets,\" said Bernados, who compared the process to the frenzy around Taylor Swift 's Eras Tour . \"There definitely is a 'FOMO' element.\" Ashton Jones was only able to secure seats in a 3 a.m. showtime for the sole Imax 70 mm theater in his home state of Georgia. The 26-year-old information technology administrator consumed a Red Bull energy drink around the film's halfway mark to stay alert. After the closing credits rolled and Jones made the approximately hourlong drive home, it was nearly time to clock in for his workday. \"It was fun,\" Jones said. \"But I was hurting the next day.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
+      "published_at": "2026-07-25T16:26:11+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.633,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7820b155c95b4eb1edf3",
+      "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
+      "summary": "Being a beekeeper is harder than ever, but David Bradshaw is determined to protect his hives.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
+      "published_at": "2026-07-25T14:48:15+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.614,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8e61a420591ffd666712",
+      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+      "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+      "published_at": "2026-07-25T14:23:53+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.609,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5ee1caff55fe294d23aa",
+      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+      "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+      "published_at": "2026-07-25T14:03:03+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.605,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "71c64794e4e96b4a18c5",
+      "title": "Does crypto make your portfolio less risky? Only if you do it right, experts say",
+      "summary": "There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
+      "published_at": "2026-07-25T13:30:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.598,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2bbf4311480e8218eb7e",
+      "title": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
+      "summary": "Warren Buffett believes he and other very wealthy Americans are under-taxed but by giving his fortune to charity, he won't be paying billions in potential levies to the government.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
+      "published_at": "2026-07-25T12:28:33+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.587,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c37f18d18cfb10c6bcd8",
+      "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
+      "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
+      "published_at": "2026-07-25T12:00:02+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.581,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d61a6c0ca387b0b0b4ad",
+      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+      "summary": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+      "published_at": "2026-07-25T12:00:02+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "datacenter",
+        "growth",
+        "macro",
+        "market",
+        "memory",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.581,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -897,7 +1754,260 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.558,
+      "recency_weight": 0.547,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "15a95a2c2cf50a000a67",
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+      "summary": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "published_at": "2026-07-25T08:49:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.547,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4976074eef786b651766",
+      "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
+      "summary": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
+      "published_at": "2026-07-25T05:29:38+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.513,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "79a8722318a7795f3bee",
+      "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
+      "summary": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
+      "published_at": "2026-07-25T02:17:11+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.482,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6bdffbc8afd8632868ca",
+      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "summary": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+      "published_at": "2026-07-24T21:57:01+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.444,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "88efa6db435ce78ac909",
+      "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
+      "summary": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
+      "published_at": "2026-07-24T21:48:45+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.442,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d555d4f8e0d7211e3907",
+      "title": "Why bond investors are pushing up some of your interest rates",
+      "summary": "Many types of consumer loans such as mortgages peg their interest rate to the yield on 10-year Treasury bonds, which has been moving higher.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
+      "published_at": "2026-07-24T21:09:24+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.437,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -947,7 +2057,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.436,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -996,7 +2106,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.436,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1009,6 +2119,129 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "89b0895eecad66ae1ea5",
+      "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
+      "summary": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
+      "published_at": "2026-07-24T20:23:12+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.43,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6bada3a570811e425867",
+      "title": "CDC says massive cyclospora outbreak is now in nine states",
+      "summary": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+      "published_at": "2026-07-24T19:53:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.426,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "aa183f1073bf824b1263",
+      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+      "summary": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "published_at": "2026-07-24T19:39:50+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.424,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -1037,7 +2270,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.431,
+      "recency_weight": 0.423,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1078,7 +2311,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.428,
+      "recency_weight": 0.42,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1117,7 +2350,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.388,
+      "recency_weight": 0.381,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -1129,6 +2362,47 @@
           "能源/避险/通胀预期"
         ],
         "canonical_url": "https://www.eia.gov/rss/todayinenergy.xml",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "43dba5ae4d67ac7e8db4",
+      "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
+      "summary": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
+      "published_at": "2026-07-24T11:00:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.359,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -1155,7 +2429,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.274,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1198,7 +2472,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.274,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1244,7 +2518,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.274,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1293,7 +2567,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.274,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1343,7 +2617,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.274,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1393,7 +2667,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.274,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1443,7 +2717,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.274,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1484,7 +2758,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.275,
+      "recency_weight": 0.27,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1497,6 +2771,52 @@
           "监管/交易结构"
         ],
         "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9f573a90c6f55f9650b3",
+      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "published_at": "2026-07-23T17:10:06+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.255,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -1525,7 +2845,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.256,
+      "recency_weight": 0.251,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1950,10 +3270,10 @@
       "name": "CNBC Markets",
       "tier": "tier1",
       "enabled": true,
-      "status": "warning",
-      "recent_items": 0,
-      "latest_published_at": null,
-      "warning": "Failed to fetch https://www.cnbc.com/id/100003114/device/rss/rss.html: The read operation timed out"
+      "status": "ok",
+      "recent_items": 30,
+      "latest_published_at": "2026-07-26T14:50:20+00:00",
+      "warning": null
     },
     {
       "name": "SEC EDGAR Submissions",
@@ -1966,7 +3286,6 @@
     }
   ],
   "warnings": [
-    "CNBC Markets: Failed to fetch https://www.cnbc.com/id/100003114/device/rss/rss.html: The read operation timed out",
     "Source-only mode; market breadth skipped."
   ]
 }
