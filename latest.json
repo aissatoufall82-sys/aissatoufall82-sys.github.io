@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T17:10:28.070045+00:00",
+  "generated_at": "2026-07-26T18:10:01.399148+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,99 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "1d941a11c468cc53f2c3",
+      "title": "European SpaceX Rival in Talks to Raise $300 Million, FT Reports",
+      "summary": "The Exploration Company Gmbh, a potential European rival to Elon Musk’s SpaceX, is in talks to raise at least $300 million, in part from the European Union’s Scaleup Europe Fund, bumping the company’s valuation to more than $2 billion, the Financial Times reported.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/european-spacex-rival-in-talks-to-raise-300-million-ft-reports",
+      "published_at": "2026-07-26T17:49:40+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1ab2aab1c60b75a2730c",
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+      "summary": "Iran summons Ukraine's chargé d'affaires in Tehran to complain about Ukrainian strikes on Iranian ships in the Caspian Sea. Iran said the attack left one sailor dead and injured several others. Ukrainian President Volodymyr Zelenskyy said his country's forces struck targets in the Caspian Sea \" including vessels used in military cargo shipments involving Iran\". Iran summoned a Ukrainian diplomat in Tehran on Sunday to protest an attack on an Iranian commercial vessel in the Caspian Sea, as the war in the Middle East threatened to overlap with the Ukraine conflict. Iran said the attack left one sailor dead and injured several others. The country's foreign ministry complained to Ukraine's chargé d'affaires in Tehran early on Sunday and \"conveyed Iran's strong protest over the 'hostile and criminal act.'\" Iran's Islamic Republic News Agency reported . In a post on X highlighting Ukraine's attacks on distant Russian targets, Ukrainian President Volodymyr Zelenskyy said Saturday that his country's forces \"also achieved very strong results with long‑range strikes in the Caspian Sea – including vessels used in military cargo shipments involving Iran , as well as a warship.\" Russia has long used Iranian-designed Shahed drones in its war on Ukraine, a weapon that analysts sometimes refer to as \" the poor man's cruise missile .\" But the latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen following the rebel group's attacks on Red Sea shipping in recent days, represent a widening of the Middle East conflict. Iranian Foreign Minister Abbas Araghchi said he had spoken with his Russian counterpart and the European Union about a response in a post to X . \"In calls with EU High Rep Kallas and FM Lavrov, made clear that what the freeloader in Kyiv did CANNOT GO UNANSWERED,\" Araghchi said. Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen on Saturday. The fighting in the Red Sea and Caspian Sea took place during a pause in U.S. strikes on Iran after 13 straight nights of attacks. U.S. President Donald Trump has halted attacks on Iran for now to allow more room for diplomacy, U.S. ambassador to the United Nations Mike Waltz told Fox News on Sunday. \"He's giving talks some space, he's giving it a little bit of room,\" Waltz said. The New York Times cited administration officials as saying that Trump has set aside, at least for now, plans to sharply escalate U.S. military assaults against Iran, amid concerns over falling stockpiles of Patriot anti-missile interceptors and other air defense munitions. The U.S. military said on Saturday that ​its naval blockade against Iran \"remains in full effect\" ​but did not explain why it halted its attacks. There were also no ⁠reports of attacks from Iran on neighboring countries. Israeli Prime Minister Benjamin Netanyahu on Sunday laid out what he believes it will take to end the war with Iran during an appearance on Fox News' \"Sunday Morning Futures.\" Netanyahu said the war will end either \"when this regime is either toppled or it's sufficiently weakened that it knows it has to end its nuclear program and has to change its course.\" The U.S. launched the first set of strikes on Iran with Israel, and Jerusalem's attacks on targets in Lebanon were previously a hurdle in U.S. peace talks with Tehran. U.S. Central Command said late Saturday its naval blockade against Iran remains in full effect. \"As of July 25, CENTCOM has redirected 12 commercial vessels trying to run the blockade, disabled 2 that didn't comply, and boarded 2 to ensure total compliance,\" it said in a post on X late Saturday. Meanwhile, Iran's Islamic Revolutionary Guard Corps Navy said it has \"established complete authority over the Strait of Hormuz.\" In a post early Sunday on the Telegram social media platform, it said it forced six ships to anchor following warnings over the last 24 hours. While formal high-level negotiations between the U.S. and Iran have stalled, Iranian Foreign Ministry spokesman Esmail Baghaei said technical talks with Oman on the Strait of Hormuz continued over the weekend. Oil prices dropped Friday on a report that Pakistan is looking for a way to restart talks between the U.S. and Iran. Brent crude futures , the international benchmark, fell nearly 4% to close at $96.78 a barrel. U.S. West Texas Intermediate crude futures lost 3% to settle at $89.31 per barrel. Three sources told Reuters that Pakistan's effort to renew U.S.-Iran talks was backed by China. — CNBC's Garrett Downs and Reuters contributed to this report.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+      "published_at": "2026-07-26T17:11:36+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.981,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "9247aa5cd0041bf77dd1",
       "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
@@ -45,7 +138,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -56,53 +149,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "1ff58dc9474112f7ed2b",
-      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-      "summary": "Iran summons Ukraine's chargé d'affaires in Tehran to complain about Ukrainian strikes on Iranian ships in the Caspian Sea. Iran said the attack left one sailor dead and injured several others. Ukrainian President Volodymyr Zelenskyy said his country's forces struck targets in the Caspian Sea \" including vessels used in military cargo shipments involving Iran\". Iran summoned a Ukrainian diplomat in Tehran on Sunday to protest an attack on an Iranian commercial vessel in the Caspian Sea, as the war in the Middle East threatened to overlap with the Ukraine conflict. Iran said the attack left one sailor dead and injured several others. The country's foreign ministry complained to Ukraine's chargé d'affaires in Tehran early on Sunday and \"conveyed Iran's strong protest over the 'hostile and criminal act.'\" Iran's Islamic Republic News Agency reported . In a post on X highlighting Ukraine's attacks on distant Russian targets, Ukrainian President Volodymyr Zelenskyy said Saturday that his country's forces \"also achieved very strong results with long‑range strikes in the Caspian Sea – including vessels used in military cargo shipments involving Iran , as well as a warship.\" Russia has long used Iranian-designed Shahed drones in its war on Ukraine, a weapon that analysts sometimes refer to as \" the poor man's cruise missile .\" But the latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen following the rebel group's attacks on Red Sea shipping in recent days, represent a widening of the Middle East conflict. Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen on Saturday. The fighting in the Red Sea and Caspian Sea took place during a pause in U.S. strikes on Iran after 13 straight nights of attacks. U.S. President Donald Trump has halted attacks on Iran for now to allow more room for diplomacy, U.S. ambassador to the United Nations Mike Waltz told Fox News on Sunday. \"He's giving talks some space, he's giving it a little bit of room,\" Waltz said. The New York Times cited administration officials as saying that Trump has set aside, at least for now, plans to sharply escalate U.S. military assaults against Iran, amid concerns over falling stockpiles of Patriot anti-missile interceptors and other air defense munitions. The U.S. military said on Saturday that ​its naval blockade against Iran \"remains in full effect\" ​but did not explain why it halted its attacks. There were also no ⁠reports of attacks from Iran on neighboring countries. Israeli Prime Minister Benjamin Netanyahu on Sunday laid out what he believes it will take to end the war with Iran during an appearance on Fox News' \"Sunday Morning Futures.\" Netanyahu said the war will end either \"when this regime is either toppled or it's sufficiently weakened that it knows it has to end its nuclear program and has to change its course.\" The U.S. launched the first set of strikes on Iran with Israel, and Jerusalem's attacks on targets in Lebanon were previously a hurdle in U.S. peace talks with Tehran. U.S. Central Command said late Saturday its naval blockade against Iran remains in full effect. \"As of July 25, CENTCOM has redirected 12 commercial vessels trying to run the blockade, disabled 2 that didn't comply, and boarded 2 to ensure total compliance,\" it said in a post on X late Saturday. Meanwhile, Iran's Islamic Revolutionary Guard Corps Navy said it has \"established complete authority over the Strait of Hormuz.\" In a post early Sunday on the Telegram social media platform, it said it forced six ships to anchor following warnings over the last 24 hours. While formal high-level negotiations between the U.S. and Iran have stalled, Iranian Foreign Ministry spokesman Esmail Baghaei said technical talks with Oman on the Strait of Hormuz continued over the weekend. Oil prices dropped Friday on a report that Pakistan is looking for a way to restart talks between the U.S. and Iran. Brent crude futures , the international benchmark, fell nearly 4% to close at $96.78 a barrel. U.S. West Texas Intermediate crude futures lost 3% to settle at $89.31 per barrel. Three sources told Reuters that Pakistan's effort to renew U.S.-Iran talks was backed by China. — CNBC's Garrett Downs and Reuters contributed to this report.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-      "published_at": "2026-07-26T14:50:20+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.956,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -137,7 +183,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.954,
+      "recency_weight": 0.936,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -184,7 +230,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.944,
+      "recency_weight": 0.927,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -231,7 +277,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.943,
+      "recency_weight": 0.925,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -277,7 +323,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -323,7 +369,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -366,7 +412,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -412,7 +458,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.932,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -432,7 +478,7 @@
     {
       "event_id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' Leadership Harvard expert: Ambitious people often make this career mistake The Next Dream Why Gen Z doesn't see marriage as part of their American Dream The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.\" Take control of your money with CNBC Select CNBC Select is editorially independent and may earn a commission from affiliate partners on links.",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -458,7 +504,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.932,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -505,7 +551,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -548,7 +594,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -591,7 +637,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -633,7 +679,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.914,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -674,7 +720,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.914,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -718,7 +764,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.914,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -768,7 +814,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.91,
+      "recency_weight": 0.893,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -814,7 +860,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -855,7 +901,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -901,7 +947,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.897,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -944,7 +990,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -989,7 +1035,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1031,7 +1077,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.754,
+      "recency_weight": 0.74,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1072,7 +1118,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.745,
+      "recency_weight": 0.731,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1113,7 +1159,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.726,
+      "recency_weight": 0.713,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1159,7 +1205,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.718,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1203,7 +1249,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.713,
+      "recency_weight": 0.699,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1245,7 +1291,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1286,7 +1332,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.668,
+      "recency_weight": 0.656,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1328,7 +1374,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.665,
+      "recency_weight": 0.652,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1368,7 +1414,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.66,
+      "recency_weight": 0.648,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1409,7 +1455,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.621,
+      "recency_weight": 0.609,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1450,7 +1496,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.602,
+      "recency_weight": 0.59,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1491,7 +1537,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.597,
+      "recency_weight": 0.586,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1536,7 +1582,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.593,
+      "recency_weight": 0.582,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1578,7 +1624,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.587,
+      "recency_weight": 0.576,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1619,7 +1665,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.575,
+      "recency_weight": 0.565,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1664,7 +1710,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.57,
+      "recency_weight": 0.559,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1712,7 +1758,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.57,
+      "recency_weight": 0.559,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1754,7 +1800,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.536,
+      "recency_weight": 0.526,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1799,7 +1845,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.536,
+      "recency_weight": 0.526,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1841,7 +1887,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.503,
+      "recency_weight": 0.494,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1882,7 +1928,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.473,
+      "recency_weight": 0.464,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1924,7 +1970,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.435,
+      "recency_weight": 0.427,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1966,7 +2012,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.434,
+      "recency_weight": 0.426,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2007,7 +2053,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.428,
+      "recency_weight": 0.42,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2057,7 +2103,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2106,7 +2152,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2147,7 +2193,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.422,
+      "recency_weight": 0.414,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2188,7 +2234,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.418,
+      "recency_weight": 0.41,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2229,7 +2275,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.416,
+      "recency_weight": 0.408,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2270,7 +2316,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.415,
+      "recency_weight": 0.407,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2311,7 +2357,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.412,
+      "recency_weight": 0.404,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2350,7 +2396,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.373,
+      "recency_weight": 0.366,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2390,7 +2436,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.352,
+      "recency_weight": 0.346,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2429,7 +2475,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2472,7 +2518,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2518,7 +2564,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2567,7 +2613,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2617,7 +2663,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2667,7 +2713,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2717,7 +2763,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2758,7 +2804,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.265,
+      "recency_weight": 0.26,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3166,8 +3212,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 2,
-      "latest_published_at": "2026-07-26T14:00:02+00:00",
+      "recent_items": 3,
+      "latest_published_at": "2026-07-26T17:49:40+00:00",
       "warning": null
     },
     {
@@ -3185,7 +3231,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-07-26T14:50:20+00:00",
+      "latest_published_at": "2026-07-26T17:11:36+00:00",
       "warning": null
     },
     {
