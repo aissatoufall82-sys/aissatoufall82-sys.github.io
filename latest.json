@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T10:10:20.080732+00:00",
+  "generated_at": "2026-07-26T11:10:21.154190+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,94 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "05732a8e770299e06b0a",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T11:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "0fb169a2f8006ab183bf",
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+      "summary": "Iran summons Ukraine's chargé d'affaires in Tehran to complain about Ukrainian strikes on Iranian ships in the Caspian Sea. Iran said the attack left one sailor dead and injured several others. Ukrainian President Volodymyr Zelenskyy said his country's forces struck targets in the Caspian Sea \" including vessels used in military cargo shipments involving Iran\". Iran summoned a Ukrainian diplomat in Tehran on Sunday to protest an attack on an Iranian commercial vessel in the Caspian Sea, as the war in the Middle East threatened to overlap with the Ukraine conflict. Iran said the attack left one sailor dead and injured several others. The country's foreign ministry complained to Ukraine's chargé d'affaires in Tehran early on Sunday and \"conveyed Iran's strong protest over the 'hostile and criminal act',\" Iran's Islamic Republic News Agency reported . In a post on X highlighting Ukraine's attacks on distant Russian targets, Ukrainian President Volodymyr Zelenskyy said Saturday that his country's forces \"also achieved very strong results with long‑range strikes in the Caspian Sea – including vessels used in military cargo shipments involving Iran , as well as a warship.\" Russia has long used Iranian-designed Shahed drones in its war on Ukraine, a weapon that analysts sometimes refer to as \" the poor man's cruise missile \". But the latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen following the rebel group's attacks on Red Sea shipping in recent days, represent a widening of the Middle East conflict. Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen on Saturday. The fighting in the Red Sea and Caspian Sea took place during a pause in U.S. strikes on Iran after 13 straight nights of attacks. Asked about the pause, a senior official in President Donald Trump's administration told Reuters that Trump \"has always been clear that his preference is diplomacy, but he has shown Iran what will happen if they fail to come to the table in a serious way.\" The New York Times cited administration officials as saying that Trump has set aside, at least for now, plans to sharply escalate U.S. military assaults against Iran, amid concerns over falling stockpiles of Patriot anti-missile interceptors and other air defense munitions. U.S. Central Command said late Saturday its naval blockade against Iran remains in full effect. \"As of July 25, CENTCOM has redirected 12 commercial vessels trying to run the blockade, disabled 2 that didn't comply, and boarded 2 to ensure total compliance,\" it said in a post on X late Saturday. Meanwhile, Iran's Islamic Revolutionary Guard Corps Navy said it has \"established complete authority over the Strait of Hormuz.\" In a post early Sunday on the Telegram social media platform, it said it forced six ships to anchor following warnings over the last 24 hours. While formal high-level negotiations between the U.S. and Iran have stalled, Iranian Foreign Ministry spokesman Esmail Baghaei said technical talks with Oman on the Strait of Hormuz continued over the weekend. Oil prices dropped Friday on a report that Pakistan is looking for a way to restart talks between the U.S. and Iran. Brent crude futures , the international benchmark, fell nearly 4% to close at $96.78 a barrel. U.S. West Texas Intermediate crude futures lost 3% to settle at $89.31 per barrel. Three sources told Reuters that Pakistan's effort to renew U.S.-Iran talks was backed by China.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+      "published_at": "2026-07-26T10:14:39+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.982,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "8f672d05cf0ce5575669",
       "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
@@ -49,7 +137,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -91,7 +179,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.863,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -132,7 +220,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.852,
+      "recency_weight": 0.836,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -173,7 +261,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.831,
+      "recency_weight": 0.815,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -219,7 +307,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -263,7 +351,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.816,
+      "recency_weight": 0.8,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -275,47 +363,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2b7a8bd93a7aa362945a",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T22:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.799,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -346,7 +393,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.776,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -357,53 +404,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "fe7ccc2dd2afa331ac2c",
-      "title": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
-      "summary": "The Saudi strikes \"focused solely on legitimate military targets\" used by Houthis to attack shipping in the Red Sea, a Saudi military spokesperson said. Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen. The Iran-backed Houthis claimed to have attacked two Saudi oil tankers in the Red Sea earlier in the week. On Thursday, U.S. President Donald Trump said he would hold Iran responsible for further attacks by the Houthis. Saudi Arabia said on Saturday that its coalition forces struck Houthi militia in Yemen after the Iran-backed group claimed to have attacked two Saudi oil tankers in the Red Sea earlier in the week. The latest salvos appeared to indicate an escalation in fighting in a second front in the Iran war. The Saudi strikes \"focused solely on legitimate military targets that the terrorist Houthi militia uses to threaten commercial vessels in the Red Sea,\" Major General Turki Al-Malki, spokesperson for the Saudi-led Coalition to Restore Legitimacy in Yemen, said in a statement . On Thursday, U.S. President Donald Trump said he would hold Iran responsible for further attacks by the Houthis, after the militant group said it had struck the Saudi tankers. \"If they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves,\" he said in a Truth Social post . The Houthis declared a maritime embargo against Saudi Arabia on Monday, threatening to cut off the kingdom's oil exports through the Red Sea and the Bab el-Mandeb Strait. Al-Malki said the Houthis had carried out a \"reckless and cowardly act by targeting commercial vessels in the Red Sea.\" Reuters quoted Greek security sources as saying that air defense systems in Saudi Arabia intercepted two ballistic missiles from Yemen on Saturday targeting oil refineries in Yanbu, a day after U.S. forces launched fresh air strikes on Iran. Saudi Civil Defence said it issued several warnings for Yanbu, located on the Red Sea, and later said the danger had passed. There were no immediate official reports of damage. The defense system was operated by Greek military personnel, the sources were quoted as saying. U.S. forces had launched air strikes on Iran late on Thursday and early on Friday, the 13th consecutive night of attacks. The military reportedly attacked a merchant vessel that was trying to breach its blockade of Iran's ports, The Associated Press quoted U.S. Central Command spokesman Capt. Tim Hawkins as saying that American forces disabled the M/T Lavine in the Gulf of Oman after the ship attempted to run the blockade at least four times. Trump said he will soon make a decision on whether to launch a \"massive attack\" on Iran. At the same time, Pakistan is looking for ways to restart stalled peace talks between the U.S. and Iran, Reuters reported Friday morning, citing three Pakistani sources. Speaking to Axios on Thursday, the president said that the proposed strikes would be bigger than anything seen in the war so far, and that Iran has not \"received enough pain yet.\" — Reuters and The Associated Press contributed to this report.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
-      "published_at": "2026-07-25T20:29:41+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.768,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -434,7 +434,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.765,
+      "recency_weight": 0.75,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -476,7 +476,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.76,
+      "recency_weight": 0.746,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -516,7 +516,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.755,
+      "recency_weight": 0.741,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -561,7 +561,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.746,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -603,7 +603,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.745,
+      "recency_weight": 0.731,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -648,7 +648,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.743,
+      "recency_weight": 0.729,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -695,7 +695,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.74,
+      "recency_weight": 0.726,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -737,7 +737,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.74,
+      "recency_weight": 0.726,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -778,7 +778,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.736,
+      "recency_weight": 0.722,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -819,7 +819,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.732,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -860,7 +860,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.711,
+      "recency_weight": 0.697,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -906,7 +906,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.689,
+      "recency_weight": 0.676,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -949,7 +949,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.689,
+      "recency_weight": 0.676,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -991,7 +991,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.683,
+      "recency_weight": 0.67,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1036,7 +1036,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.679,
+      "recency_weight": 0.666,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1082,7 +1082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.672,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1124,7 +1124,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.665,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1166,7 +1166,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.659,
+      "recency_weight": 0.646,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1178,52 +1178,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c37f18d18cfb10c6bcd8",
-      "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
-      "summary": "President Donald Trump urged governors and local officials to embrace AI data centers while touting tech-company pledges not to raise electricity prices. Religious leaders, unions and local activists are increasingly warning that AI needs stronger government oversight and regulation. The backlash could create a midterm election vulnerability for Republicans if voters see AI as benefiting tech companies more than individuals. The emerging coalition of religious leaders , labor unions and local activists that worries about artificial intelligence and the broader economic upheaval it portends poses a political problem for anyone who gets on the wrong side of that issue . And President Donald Trump is the person most at risk. AI is positioned right in his blind political spot . The industry and its rapidly developing technology threaten to overwhelm Trump's often-uncanny ability to sense changes in the political winds and could damage his party's fortunes in the midterm election and the longer-term legacy he values. Trump seems aware of the danger, yet can't help himself from hurtling toward it. On Thursday, he touted commitments by data center developers and utilities not to raise electricity prices, nodding to fears across the country that a surge in data center construction will spike Americans' energy bills. The pledge is a no-brainer for the likes of OpenAI and Oracle , giving them political cover as the complex economics of making changes to aging U.S. grids plays out over years and decades. But Trump couldn't help but align himself with the companies, even at an event at the Environmental Protection Agency on the pledge that was designed to show he's looking out for the little guy. He exhorted the assembled governors and other local officials to sell their constituents on data centers. \"You can't fight it. You have to go with it,\" he said. Someone is going to get rich on data-center development, and it might as well be you, he told the audience. \"If you don't take all that money, somebody else is going to take it. You might as well do it yourself.\" Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham Here's the thing about getting rich. If Americans sniff a chance it could happen to them, they don't need to be told twice to get behind it. That's why crypto and prediction markets are ideas that can't be killed, no matter how unlikely it is that you, personally, will really get rich off them. When it comes to artificial intelligence, however, rank and file Americans just aren't buying the idea that Big Tech is handing them a golden lottery ticket. Trump can tout the stock market boom all he likes — the Nasdaq composite has had 20 record closes this year — but too few Americans have enough of a stake in the market for rising share prices of a select few tech companies and the indexes that contain them to overcome their worries about job instability and the continuing concentration of wealth. To wit, Elon Musk 's SpaceX looked like a great opportunity for those who were able to invest early. For those Regular Joes fortunate enough to have a few bucks in a brokerage account during its IPO last month, shares are down 30%. And now add to the class-and-wealth problems of AI a heavyweight political coalition that has sway with the voters Trump would most like to persuade. The president may be willing to write off Pope Leo XIV , who issued an influential encyclical in May warning that AI needed guardrails to protect our humanity. But Trump can't so easily swipe away the same language when it comes from the heart of the evangelical movement here in the U.S. Walter Kim , president of the National Association of Evangelicals, praised the pope's warnings on AI. \"There are positive benefits, but there are also extraordinary harms,\" Kim said on CNBC's \"Squawk Box\" on Wednesday. Kim worried that the prominence of AI in healthcare, education and warfare risks taking human beings out of the loop on our most important decisions. \"It is, as the Pope described in his recent encyclical, the construction of a Tower of Babel, the trust in a technology that reflects human hubris, that not only disconnects us from God but disconnects us from each other,\" Kim said. Kim's evangelical group doesn't endorse candidates and isn't threatening any kind of overt political campaign against Trump. But Kim's message is a warning sign that the ground is shifting, even among a voting bloc that has backed Trump since early in his first presidential run. Other groups whose favor Trump and fellow GOP politicians might want to win are being even more blunt. Republicans made a play for union support under Trump to mixed success. Increasingly, if they want to win union backing, that will require taking AI concerns more seriously.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
-      "published_at": "2026-07-25T12:00:02+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.653,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1261,7 +1215,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1273,6 +1227,52 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c37f18d18cfb10c6bcd8",
+      "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
+      "summary": "President Donald Trump urged governors and local officials to embrace AI data centers while touting tech-company pledges not to raise electricity prices. Religious leaders, unions and local activists are increasingly warning that AI needs stronger government oversight and regulation. The backlash could create a midterm election vulnerability for Republicans if voters see AI as benefiting tech companies more than individuals. The emerging coalition of religious leaders , labor unions and local activists that worries about artificial intelligence and the broader economic upheaval it portends poses a political problem for anyone who gets on the wrong side of that issue . And President Donald Trump is the person most at risk. AI is positioned right in his blind political spot . The industry and its rapidly developing technology threaten to overwhelm Trump's often-uncanny ability to sense changes in the political winds and could damage his party's fortunes in the midterm election and the longer-term legacy he values. Trump seems aware of the danger, yet can't help himself from hurtling toward it. On Thursday, he touted commitments by data center developers and utilities not to raise electricity prices, nodding to fears across the country that a surge in data center construction will spike Americans' energy bills. The pledge is a no-brainer for the likes of OpenAI and Oracle , giving them political cover as the complex economics of making changes to aging U.S. grids plays out over years and decades. But Trump couldn't help but align himself with the companies, even at an event at the Environmental Protection Agency on the pledge that was designed to show he's looking out for the little guy. He exhorted the assembled governors and other local officials to sell their constituents on data centers. \"You can't fight it. You have to go with it,\" he said. Someone is going to get rich on data-center development, and it might as well be you, he told the audience. \"If you don't take all that money, somebody else is going to take it. You might as well do it yourself.\" Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham Here's the thing about getting rich. If Americans sniff a chance it could happen to them, they don't need to be told twice to get behind it. That's why crypto and prediction markets are ideas that can't be killed, no matter how unlikely it is that you, personally, will really get rich off them. When it comes to artificial intelligence, however, rank and file Americans just aren't buying the idea that Big Tech is handing them a golden lottery ticket. Trump can tout the stock market boom all he likes — the Nasdaq composite has had 20 record closes this year — but too few Americans have enough of a stake in the market for rising share prices of a select few tech companies and the indexes that contain them to overcome their worries about job instability and the continuing concentration of wealth. To wit, Elon Musk 's SpaceX looked like a great opportunity for those who were able to invest early. For those Regular Joes fortunate enough to have a few bucks in a brokerage account during its IPO last month, shares are down 30%. And now add to the class-and-wealth problems of AI a heavyweight political coalition that has sway with the voters Trump would most like to persuade. The president may be willing to write off Pope Leo XIV , who issued an influential encyclical in May warning that AI needed guardrails to protect our humanity. But Trump can't so easily swipe away the same language when it comes from the heart of the evangelical movement here in the U.S. Walter Kim , president of the National Association of Evangelicals, praised the pope's warnings on AI. \"There are positive benefits, but there are also extraordinary harms,\" Kim said on CNBC's \"Squawk Box\" on Wednesday. Kim worried that the prominence of AI in healthcare, education and warfare risks taking human beings out of the loop on our most important decisions. \"It is, as the Pope described in his recent encyclical, the construction of a Tower of Babel, the trust in a technology that reflects human hubris, that not only disconnects us from God but disconnects us from each other,\" Kim said. Kim's evangelical group doesn't endorse candidates and isn't threatening any kind of overt political campaign against Trump. But Kim's message is a warning sign that the ground is shifting, even among a voting bloc that has backed Trump since early in his first presidential run. Other groups whose favor Trump and fellow GOP politicians might want to win are being even more blunt. Republicans made a play for union support under Trump to mixed success. Increasingly, if they want to win union backing, that will require taking AI concerns more seriously.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
+      "published_at": "2026-07-25T12:00:02+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.64,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1304,7 +1304,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.653,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1345,7 +1345,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.649,
+      "recency_weight": 0.636,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1356,52 +1356,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "542b3609bb0f8469b3f0",
-      "title": "Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly",
-      "summary": "Big Tech’s insatiable appetite for AI investment is unleashing a relentless wave of bond sales — and having a bigger impact on the US corporate bond market than might be obvious.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly",
-      "published_at": "2026-07-25T11:00:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.64,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1432,7 +1386,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.614,
+      "recency_weight": 0.602,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1480,7 +1434,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.614,
+      "recency_weight": 0.602,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1522,48 +1476,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.576,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a6e666b931a6c5ed09f7",
-      "title": "Indonesia Arrests Former Top Graft Prosecutor After Police Raids",
-      "summary": "Indonesia’s former top graft prosecutor was arrested on suspicion of money laundering, weeks after police raids uncovered $26 million worth of gold bars and cash at a house he owns.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/indonesia-arrests-former-top-graft-prosecutor-after-police-raids",
-      "published_at": "2026-07-25T05:21:13+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.574,
+      "recency_weight": 0.565,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1604,7 +1517,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.541,
+      "recency_weight": 0.531,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1646,7 +1559,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.498,
+      "recency_weight": 0.488,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1688,7 +1601,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.497,
+      "recency_weight": 0.487,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1729,7 +1642,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.49,
+      "recency_weight": 0.481,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1779,7 +1692,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.489,
+      "recency_weight": 0.48,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1828,7 +1741,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.489,
+      "recency_weight": 0.48,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1869,7 +1782,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.483,
+      "recency_weight": 0.474,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1914,7 +1827,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.481,
+      "recency_weight": 0.472,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1956,7 +1869,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.478,
+      "recency_weight": 0.469,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1997,7 +1910,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.476,
+      "recency_weight": 0.467,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2038,7 +1951,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.475,
+      "recency_weight": 0.466,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2084,7 +1997,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.472,
+      "recency_weight": 0.463,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2126,7 +2039,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.471,
+      "recency_weight": 0.462,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2171,7 +2084,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.469,
+      "recency_weight": 0.46,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2218,7 +2131,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.469,
+      "recency_weight": 0.46,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2264,7 +2177,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.461,
+      "recency_weight": 0.452,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2307,7 +2220,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.457,
+      "recency_weight": 0.448,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2353,7 +2266,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.456,
+      "recency_weight": 0.447,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2393,7 +2306,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2433,7 +2346,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.403,
+      "recency_weight": 0.396,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2472,7 +2385,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.308,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2515,7 +2428,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.308,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2561,7 +2474,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.308,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2610,7 +2523,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.308,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2660,7 +2573,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.308,
+      "recency_weight": 0.302,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2710,7 +2623,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.308,
+      "recency_weight": 0.302,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2760,7 +2673,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.308,
+      "recency_weight": 0.302,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2801,7 +2714,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.303,
+      "recency_weight": 0.297,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2846,7 +2759,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.286,
+      "recency_weight": 0.281,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2888,7 +2801,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.285,
+      "recency_weight": 0.28,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2929,7 +2842,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.281,
+      "recency_weight": 0.276,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2968,7 +2881,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3367,7 +3280,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 10,
+      "recent_items": 8,
       "latest_published_at": "2026-07-26T02:30:00+00:00",
       "warning": null
     },
@@ -3386,7 +3299,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-25T22:30:00+00:00",
+      "latest_published_at": "2026-07-26T11:00:00+00:00",
       "warning": null
     },
     {
@@ -3395,7 +3308,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-26T05:00:01+00:00",
+      "latest_published_at": "2026-07-26T10:14:39+00:00",
       "warning": null
     },
     {
