@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T08:10:14.590718+00:00",
-  "generated_at_local": "2026-07-26 16:10:14 北京时间",
-  "next_update_at_local": "2026-07-26 17:10:00 北京时间",
+  "generated_at": "2026-07-26T09:10:01.747840+00:00",
+  "generated_at_local": "2026-07-26 17:10:01 北京时间",
+  "next_update_at_local": "2026-07-26 18:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,9 +34,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 70,
-  "total_official_items": 16,
-  "media_items": 54,
+  "total_items": 67,
+  "total_official_items": 15,
+  "media_items": 52,
   "items": [
     {
       "id": "fe7ccc2dd2afa331ac2c",
@@ -280,7 +280,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-26T00:00:00+00:00",
-      "pick_score": 97,
+      "pick_score": 96,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -374,44 +374,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "c7a551f75ed53eaa53da",
-      "title": "Saudi Arabia-Bound Supertanker U-Turns Before Houthi Chokepoint",
-      "translation_label": "原文中文译读",
-      "translation": "一艘悬挂香港旗帜的超大型油轮在驶往沙特阿拉伯红海港口延布途中，在抵达曼德海峡咽喉要道前调头折返。此前，胡塞武装在该海域发动了一系列袭击，作为对与该王国相关船只实施封锁的一部分。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：通胀或工资压力上升会推迟降息，通常先推高美债收益率和美元，再压低股票估值。 可能受益：美元、部分银行与保险资产，以及能够把成本顺利转嫁给客户的公司。 可能承压：美债、REITs、高估值成长股和利润率较薄的消费企业。 接下来观察：2年期和10年期美债收益率、美元、核心通胀与下次美联储会议定价。若收益率没有上升，影响应降级。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/chinese-supertanker-u-turns-to-shun-red-sea-amid-houthi-blockade",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T08:53:45+00:00",
-      "pick_score": 85,
-      "event_type": "geopolitical",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -945,6 +907,44 @@
         "fetch_status": "live"
       },
       "in_event_ledger": false
+    },
+    {
+      "id": "b9807b9ec4c08be49df3",
+      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+      "translation_label": "原文中文译读",
+      "translation": "在企业对成本感到担忧的背景下，Anthropic推出了可与Fable 5相媲美且价格更低的新款AI模型。Anthropic表示，Claude Opus 5是其性能最佳且最具成本效益的产品。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-24T17:20:47+00:00",
+      "pick_score": 64,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
     }
   ],
   "source_catalog": [
@@ -1243,10 +1243,10 @@
       "name": "EIA Today in Energy",
       "tier": "official",
       "enabled": true,
-      "status": "ok",
-      "recent_items": 1,
-      "latest_published_at": "2026-07-24T14:00:00+00:00",
-      "warning": null
+      "status": "warning",
+      "recent_items": 0,
+      "latest_published_at": null,
+      "warning": "Failed to fetch https://www.eia.gov/rss/todayinenergy.xml: The read operation timed out"
     },
     {
       "name": "US Defense Releases",
@@ -1271,7 +1271,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 12,
+      "recent_items": 10,
       "latest_published_at": "2026-07-26T02:30:00+00:00",
       "warning": null
     },
