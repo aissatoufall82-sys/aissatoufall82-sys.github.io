@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:10:25.781827+00:00",
+  "generated_at": "2026-07-26T13:10:02.866089+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,313 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "b7efc203b1e68fa68c61",
+      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+      "summary": "“I own my home outright, have no children or other dependents.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T13:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "863035b624019afa5180",
+      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T13:00:00+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8d93894fef9902d2c714",
+      "title": "Brazil ETF Market Triples in Boom for New Latin America Funds",
+      "summary": "Exchange-traded funds are cropping up at a fast clip in local markets across Latin America as investors flock to a swath of new products tailored to domestic demand.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/brazil-etf-market-triples-in-boom-for-new-latin-america-funds",
+      "published_at": "2026-07-26T12:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "89b2febbb30610e99d63",
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T12:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2e8584028f520dec8b44",
+      "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
+      "summary": "Rising Treasury yields show how “enormously worried” the market is about inflation — and whether the Fed will back up its tough talk with action",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
+      "published_at": "2026-07-26T12:30:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "eb6a424aa63428f96096",
+      "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
+      "summary": "The U.K.'s new prime minister, Andy Burnham, says he had a \"good exchange\" with President Donald Trump after taking on his role, but added that he would defend the national interest \"before anything else\". Trump had criticized Burnham's predecessor, Keir Starmer. Burnham took over as prime minister last week after Starmer's government was forced into a series of policy U-turns, endured scandals over staffing appointments and suffered dramatic losses in local elections. The U.K.'s new prime minister, Andy Burnham , said he would be willing to call out U.S. President Donald Trump to defend the U.K.'s national interest, as he set the tone for the key trans-Atlantic relationship. Speaking to the BBC in an interview aired Sunday, Burnham said he had a phone conversation with Trump on Monday when he officially took on the role, describing it as \"a good exchange\" and that he found Trump \"warm\". \"We will continue to build the relationship as we go forward,\" Burnham added. Asked if Burnham would place his trust in Trump, Burnham said: \"it's a changing world isn't it, and you just obviously have to call things as they develop\". Trump has frequently criticized the U.K., among other European and NATO allies, for not pulling their weight in the U.S.-led war on Iran. But Trump has welcomed Burnham's plan to fast-track oil and gas exploration in already-licensed fields in the North Sea. Writing on Truth Social last week, Trump called North Sea oil \"invaluable,\" adding it will take the U.K. from a \" Poverty Stricken Disaster , to one of the Richest Countries anywhere in the World!\" Trump had criticized Burnham's predecessor, Keir Starmer, over the U.K.'s energy policy. In an interview with The Telegraph newspaper in April, Trump said: \"All Starmer wants is costly windmills that are driving your energy prices through the roof.\" Starmer announced last month that he would step down from his post. His two years in office were marked by a series of policy U-turns , scandals over staffing appointments and a dramatic loss in Britain's local elections which sparked calls for his resignation from within his own ranks. Asked by BBC journalist Laura Kuenssberg if he would call out Trump if it was the right thing to do, Burnham said, \"of course\", and added: \"You have to defend your own national interest before anything else. That's what you're required to do if you're to do this job properly.\" \"I can't at any point say that I won't take a different opinion from him, that I will need to voice a different idea that is right for Britain,\" Burnham said. Burnham declined to be drawn on a date for raising defense spending to 3% of GDP. John Healey, the U.K.'s new finance minister – known as the Chancellor of the Exchequer – under Burnham, is expected to see defense spending as a priority. Healey's appointment as Burnham's second-in-command came just weeks after he resigned as Starmer's defense minister, citing his view that the government was \"unwilling to commit the resources that the nation needs to defend the country.\" Burnham said: \"I appointed my new chancellor very aware of what he had said about the critical importance of defense spending and the position that he had taken about that. \"The first challenge facing us both is to ensure that the defense investment plan is fully funded and that's the thing that's right in front of us and we need to work that through as we go towards the budget later this year.\" Starmer had announced in June an extra £15 billion ($19.9 billion) in defense spending over the next four years as part of the U.K.'s Defence Investment Plan (DIP), which will lift annual spending to £79.1 billion by 2029, or 2.7% of GDP. The DIP is intended to bolster the U.K.'s military capability, its nuclear deterrent and industrial capacity, while making way for greater technical investment in areas like cybersecurity, drones and AI. But analysts warn that high levels of public debt and the highest borrowing costs among its G7 peers could constrain the new government's ability to dramatically boost spending.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+      "published_at": "2026-07-26T12:17:14+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.2,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9ffca512871bdcbd4906",
+      "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
+      "summary": "Democratic Congressional Campaign Committee Chair Suzan DelBene, D-Wash., told CNBC in an interview that 100 days out from the midterm election, Democrats are in position to take back the House. Democrats have hammered a cost-of-living message amid voter concerns about rising prices, and DelBene said they'll continue to make the case that President Donald Trump and Republicans aren't serious about affordability. Democrats are slightly favored to win a House majority, though the party is grappling with low favorability ratings, a fundraising disadvantage and simmering intraparty tensions. President Donald Trump 's approval ratings remain low, inflation has been elevated , and the Iran wa r is dragging on, sending gas prices back up over $4 per gallon with no immediate relief in sight. Some of this may be bad news for the country, but for Democrats , eager to win back majorities in the House and the Senate , the sequence of events leading up to the 2026 midterm election could create opportunities. And according to Democratic Congressional Campaign Committee Chair Suzan DelBene , D-Wash., the party is sitting pretty with 100 days to go until Election Day . \"We have great candidates. We have the momentum. We have the message,\" DelBene said in an interview with CNBC. \"And I think the thing that's been really critical too is that the American people are with us. They want folks who are going to stand up for the issues they're facing and support them. And Republicans don't care. They are a rubber stamp for Donald Trump.\" Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham Democrats have been laser-focused on cost-of-living concerns this election cycle, and DelBene said they'll continue to hammer Trump and Republicans on his handling of the economy to win back the House, which Republicans have narrowly controlled for the last two years. Democrats' chances of winning a Senate majority are slimmer. A recent Fox News poll found Democrats up seven percentage points over Republicans on a generic ballot, while a survey from Emerson College Polling gave them an 11-percentage-point edge. CNBC's All America Economic Survey , conducted earlier this month, found voters would slightly prefer Democrats to take win control of Congress this November. \"Absolutely the number one issue across the country is affordability. Families are struggling with housing , food, healthcare, childcare, energy costs, gas prices,\" DelBene said. \"It's hard when you're just trying to get by day-to-day to think about anything else.\" The National Republican Campaign Committee did not make its chair, Rep. Richard Hudson , R-N.C., available for an interview. Mike Marinella, an NRCC spokesperson, pushed back on Democratic midterm narratives. \"Republicans have a more favorable map, stronger candidates, a deep fundraising advantage, and a winning message that serves as a stark contrast to Democrats' radical turn to socialism and messy infighting,\" Marinella said. While Democrats do appear to have a slight advantage to win the House this year, it hasn't been all good news for the DCCC of late. The party's campaign arm has taken fire from within its ranks over its choice to get involved in contested primary elections in some parts of the country, where in some cases DCCC-backed candidates lost to more liberal challengers. Last week, Amish Shah, a doctor and former Arizona state representative, bested the DCCC-backed Marlene Galán-Wood in the Democratic primary in the state's 1st congressional district, one of the most competitive seats this year and a potential key to either party winning a majority. Some Democrats in response have called for the DCCC to stay out of primaries , or to change its internal processes for endorsing candidates. DelBene shrugged off the criticisms. \"We have folks who think we should, folks who think we shouldn't,\" DelBene said, of the debate around the DCCC's intraparty interventions. \"I think the key is the stakes are incredibly high this election, and our job is to make sure we win all across the country. And we're going to win in these districts across the country too.\" Democrats must also contend with their surging progressive wing, propelled by the Democratic Socialists of America. DSA-backed candidates have toppled incumbent Democrats in states like New York and California, and many have an anti-establishment ethos that could cause headaches for party leaders if they do win back a House majority. DelBene, however, said the ideological diversity of the party's candidates is a strength. \"I think if you look across the candidates that we have running in these swing districts across the country, they are all unique fits for their districts.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+      "published_at": "2026-07-26T12:00:01+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "a0daa862e3cdb8508b5d",
       "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
@@ -45,7 +352,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -91,7 +398,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.988,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -134,7 +441,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -180,7 +487,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.964,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -226,7 +533,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -268,7 +575,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.83,
+      "recency_weight": 0.814,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -309,7 +616,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.82,
+      "recency_weight": 0.805,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -350,7 +657,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.8,
+      "recency_weight": 0.785,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -396,7 +703,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -440,7 +747,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.785,
+      "recency_weight": 0.77,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -482,7 +789,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.747,
+      "recency_weight": 0.733,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -523,7 +830,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.736,
+      "recency_weight": 0.722,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -565,7 +872,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.732,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -605,7 +912,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.727,
+      "recency_weight": 0.713,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -650,7 +957,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.718,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -692,182 +999,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.717,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "daa6b05b921d7f1cbb9e",
-      "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
-      "summary": "South Korean stocks weren’t a big deal in emerging-markets funds. Artificial intelligence changed that.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T18:45:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.715,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8443e1a4bb585ea0c094",
-      "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
-      "summary": "The Iran war isn’t causing your energy bill to soar. Blame Wall Street for that.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T18:34:00+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.712,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9d569fab0176f2a86421",
-      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "summary": "“I own my home outright, have no children or other dependents.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T18:31:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.712,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "48c82d6ddddb55a4df5a",
-      "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
-      "summary": "About three-fourths of Americans lack the wealth needed to prosper in today’s economy, according to a new benchmark developed by the Aspen Institute.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
-      "published_at": "2026-07-25T18:15:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.708,
+      "recency_weight": 0.703,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -908,7 +1040,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.684,
+      "recency_weight": 0.671,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -954,7 +1086,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.663,
+      "recency_weight": 0.65,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -974,7 +1106,7 @@
     {
       "event_id": "7820b155c95b4eb1edf3",
       "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
+      "summary": "How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss. Labor is one of the farm's biggest expenses, with two full-time employees, including his daughter.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -997,7 +1129,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.663,
+      "recency_weight": 0.65,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1039,7 +1171,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.658,
+      "recency_weight": 0.645,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1084,7 +1216,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.653,
+      "recency_weight": 0.641,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1130,7 +1262,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.646,
+      "recency_weight": 0.634,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1142,47 +1274,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8a81c49d9ad47136bb4a",
-      "title": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market",
-      "summary": "When Donald Trump was elected to a second term as president, amateur and professional traders alike rushed to identify which stocks would benefit from his aggressive economic policies.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
-      "published_at": "2026-07-25T13:00:01+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.64,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1214,7 +1305,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.634,
+      "recency_weight": 0.622,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1234,7 +1325,7 @@
     {
       "event_id": "d61a6c0ca387b0b0b4ad",
       "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-      "summary": "Shipping and logistics companies are tapping into the growing healthcare market as cold chain and temperature-controlled facilities become more crucial. Those companies are investing millions of dollars and strengthening dozens of facilities to meet the evolving needs of shipping pharmaceuticals. The explosive growth of medications like GLP-1 weight loss drugs has positioned healthcare as one of the fastest-growing segments for logistics companies. As demand rises for specialized medications like GLP-1s, logistics companies including UPS and FedEx are adapting their strategies to be able to better ship and store those pharmaceuticals. Most injectable GLP-1 medications, including Novo Nordisk 's Ozempic and Wegovy and Eli Lilly 's Mounjaro and Zepbound, require refrigerated storage for shipment. The Covid pandemic put healthcare logistics at center stage in 2020, as the shipping of temperature-controlled vaccines quickly became a crucial part of keeping the virus at bay. And as more money has been poured into new pharmaceutical innovations, the transportation of those products have come under the spotlight. Logistics companies are now investing millions of dollars and strengthening dozens of temperature-controlled facilities to tap into the market. In June, UPS announced a new $48 million investment in temperature-controlled facilities as it sees a growing demand for critical treatments. According to Growth Market Reports , the demand for temperature-sensitive biologics is projected to grow at an 8.3% compound annual growth rate through 2033 and reach a market value of roughly $39.1 billion. Obesity and diabetes drugs, meanwhile, have been booming in popularity. A July Gallup poll found that 11% of Americans take GLP-1 medications for weight loss purposes in 2026, up from just 3% in 2024. But if they're not stored and shipped at the correct temperature, they risk losing their efficacy. The Food and Drug Administration has warned that improper storage during shipping can affect the medicine's quality and recommends patients do not use GLP-1 drugs that arrive \"warm or with insufficient refrigeration.\" Other biologics, like some vaccines, insulin and antibiotics, also require specialized shipment to maintain efficacy. For logistics companies, that means ensuring the proper storage and movement every step of the way. Healthcare logistics have proven to be one of UPS' biggest opportunities. On an earnings call with analysts in April, CEO Carol Tomé said the company's global healthcare portfolio has gained market share every year since 2021, generating its first ever $3 billion healthcare revenue quarter in the first quarter of this year. UPS President of Healthcare John Bolla told CNBC that the company is seeing more healthcare companies looking for partners to keep up with the volume. \"One of the biggest opportunities we see is supporting the shift toward more specialized therapies and more care delivered outside of traditional healthcare settings,\" Bolla said. He said UPS is experiencing \"rapid growth\" in biologics, cell and gene therapies, though the biggest challenge is that the margin for error is small — even a brief stray from the correct temperature can ruin the medicines, Bolla said. \"But that's also what's creating such a significant opportunity in healthcare logistics,\" he said. \"As treatments become more specialized and supply chains become more complex, healthcare companies need partners that can provide not just temperature-controlled storage or transportation, but end-to-end visibility, control and reliability across the entire network.\" FedEx is also tapping into the trend, launching a life sciences organization earlier this month specifically to support the movement of pharmaceuticals and other healthcare products. On an earnings call in June, FedEx's Chief Customer Officer Brie Carere told analysts that healthcare transportation revenue in fiscal year 2026 reached nearly $10 billion. \"We're building end-to-end solutions focused on global pharma customers, and what's so important with global pharma is that you have to recognize that there's a patient at the end of every delivery or someone that's waiting to be treated,\" said Nick Gennari, FedEx's president of healthcare. \"So we take this very, very seriously.\" With GLP-1s specifically, Gennari said there's an increasing complexity to delivering those medications, with forms ranging from injectables to oral pills and going direct-to-consumer. But with that complexity comes a growth opportunity for FedEx, which he said is \"ideally positioned.\" Gennari said FedEx has specialized technology, including its machine learning engine that allows customers to see product movement with predictive abilities, as well as its technology that identifies healthcare products and treats each differently depending on its unique needs.",
+      "summary": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1245,7 +1336,6 @@
       "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "corporate",
         "datacenter",
         "growth",
         "macro",
@@ -1263,7 +1353,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.628,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1274,7 +1364,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1284,7 +1373,7 @@
     {
       "event_id": "c37f18d18cfb10c6bcd8",
       "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
-      "summary": "President Donald Trump urged governors and local officials to embrace AI data centers while touting tech-company pledges not to raise electricity prices. Religious leaders, unions and local activists are increasingly warning that AI needs stronger government oversight and regulation. The backlash could create a midterm election vulnerability for Republicans if voters see AI as benefiting tech companies more than individuals. The emerging coalition of religious leaders , labor unions and local activists that worries about artificial intelligence and the broader economic upheaval it portends poses a political problem for anyone who gets on the wrong side of that issue . And President Donald Trump is the person most at risk. AI is positioned right in his blind political spot . The industry and its rapidly developing technology threaten to overwhelm Trump's often-uncanny ability to sense changes in the political winds and could damage his party's fortunes in the midterm election and the longer-term legacy he values. Trump seems aware of the danger, yet can't help himself from hurtling toward it. On Thursday, he touted commitments by data center developers and utilities not to raise electricity prices, nodding to fears across the country that a surge in data center construction will spike Americans' energy bills. The pledge is a no-brainer for the likes of OpenAI and Oracle , giving them political cover as the complex economics of making changes to aging U.S. grids plays out over years and decades. But Trump couldn't help but align himself with the companies, even at an event at the Environmental Protection Agency on the pledge that was designed to show he's looking out for the little guy. He exhorted the assembled governors and other local officials to sell their constituents on data centers. \"You can't fight it. You have to go with it,\" he said. Someone is going to get rich on data-center development, and it might as well be you, he told the audience. \"If you don't take all that money, somebody else is going to take it. You might as well do it yourself.\" Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham Here's the thing about getting rich. If Americans sniff a chance it could happen to them, they don't need to be told twice to get behind it. That's why crypto and prediction markets are ideas that can't be killed, no matter how unlikely it is that you, personally, will really get rich off them. When it comes to artificial intelligence, however, rank and file Americans just aren't buying the idea that Big Tech is handing them a golden lottery ticket. Trump can tout the stock market boom all he likes — the Nasdaq composite has had 20 record closes this year — but too few Americans have enough of a stake in the market for rising share prices of a select few tech companies and the indexes that contain them to overcome their worries about job instability and the continuing concentration of wealth. To wit, Elon Musk 's SpaceX looked like a great opportunity for those who were able to invest early. For those Regular Joes fortunate enough to have a few bucks in a brokerage account during its IPO last month, shares are down 30%. And now add to the class-and-wealth problems of AI a heavyweight political coalition that has sway with the voters Trump would most like to persuade. The president may be willing to write off Pope Leo XIV , who issued an influential encyclical in May warning that AI needed guardrails to protect our humanity. But Trump can't so easily swipe away the same language when it comes from the heart of the evangelical movement here in the U.S. Walter Kim , president of the National Association of Evangelicals, praised the pope's warnings on AI. \"There are positive benefits, but there are also extraordinary harms,\" Kim said on CNBC's \"Squawk Box\" on Wednesday. Kim worried that the prominence of AI in healthcare, education and warfare risks taking human beings out of the loop on our most important decisions. \"It is, as the Pope described in his recent encyclical, the construction of a Tower of Babel, the trust in a technology that reflects human hubris, that not only disconnects us from God but disconnects us from each other,\" Kim said. Kim's evangelical group doesn't endorse candidates and isn't threatening any kind of overt political campaign against Trump. But Kim's message is a warning sign that the ground is shifting, even among a voting bloc that has backed Trump since early in his first presidential run. Other groups whose favor Trump and fellow GOP politicians might want to win are being even more blunt. Republicans made a play for union support under Trump to mixed success. Increasingly, if they want to win union backing, that will require taking AI concerns more seriously.",
+      "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1292,7 +1381,7 @@
       "published_at": "2026-07-25T12:00:02+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.55,
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
@@ -1307,10 +1396,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.628,
+      "impact_score": 5.52,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1352,7 +1441,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.591,
+      "recency_weight": 0.579,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1397,7 +1486,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.591,
+      "recency_weight": 0.579,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1439,7 +1528,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.554,
+      "recency_weight": 0.543,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1480,7 +1569,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.521,
+      "recency_weight": 0.511,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1522,7 +1611,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.479,
+      "recency_weight": 0.47,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1564,7 +1653,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.478,
+      "recency_weight": 0.469,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1605,7 +1694,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.472,
+      "recency_weight": 0.463,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1655,7 +1744,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.47,
+      "recency_weight": 0.461,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1704,7 +1793,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.47,
+      "recency_weight": 0.461,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1745,7 +1834,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.465,
+      "recency_weight": 0.456,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1790,7 +1879,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.463,
+      "recency_weight": 0.454,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1832,7 +1921,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.46,
+      "recency_weight": 0.452,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1873,7 +1962,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.458,
+      "recency_weight": 0.45,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1914,7 +2003,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.457,
+      "recency_weight": 0.448,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1960,7 +2049,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.454,
+      "recency_weight": 0.446,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2002,7 +2091,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.453,
+      "recency_weight": 0.445,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2047,7 +2136,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.451,
+      "recency_weight": 0.442,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2094,7 +2183,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.451,
+      "recency_weight": 0.442,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2106,52 +2195,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5257507bfd1f931f8f16",
-      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
-      "summary": "Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "published_at": "2026-07-24T17:55:37+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.443,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2183,7 +2226,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.439,
+      "recency_weight": 0.431,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2195,52 +2238,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b9807b9ec4c08be49df3",
-      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
-      "summary": "Anthropic said Claude Opus 5 is its best performing and its most cost-effective offering.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
-      "published_at": "2026-07-24T17:20:47+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.438,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2269,7 +2266,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.411,
+      "recency_weight": 0.403,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2309,7 +2306,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.388,
+      "recency_weight": 0.381,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2348,7 +2345,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2391,7 +2388,7 @@
       "forward_significance": "regime",
       "confidence": 0.9,
       "impact_score": 21.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2437,7 +2434,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2486,7 +2483,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2536,7 +2533,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2586,7 +2583,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2636,7 +2633,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2677,7 +2674,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.292,
+      "recency_weight": 0.286,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2722,7 +2719,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.275,
+      "recency_weight": 0.27,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2764,7 +2761,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.271,
+      "recency_weight": 0.266,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2803,7 +2800,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.259,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3203,7 +3200,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 6,
-      "latest_published_at": "2026-07-26T02:30:00+00:00",
+      "latest_published_at": "2026-07-26T12:30:00+00:00",
       "warning": null
     },
     {
@@ -3221,7 +3218,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-26T12:00:00+00:00",
+      "latest_published_at": "2026-07-26T13:00:00+00:00",
       "warning": null
     },
     {
@@ -3230,7 +3227,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-26T11:33:11+00:00",
+      "latest_published_at": "2026-07-26T12:17:14+00:00",
       "warning": null
     },
     {
