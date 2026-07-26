@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T23:10:05.376165+00:00",
-  "generated_at_local": "2026-07-26 07:10:05 北京时间",
-  "next_update_at_local": "2026-07-26 08:10:00 北京时间",
+  "generated_at": "2026-07-26T00:10:06.566674+00:00",
+  "generated_at_local": "2026-07-26 08:10:06 北京时间",
+  "next_update_at_local": "2026-07-26 09:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "00:10",
@@ -34,9 +34,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 77,
+  "total_items": 75,
   "total_official_items": 16,
-  "media_items": 61,
+  "media_items": 59,
   "items": [
     {
       "id": "fe7ccc2dd2afa331ac2c",
@@ -394,44 +394,6 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T08:49:00+00:00",
-      "pick_score": 95,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "0f41c5fa19dc5534ede3",
-      "title": "Big Asia Stock Funds Turn to Laggards to Cut Risk From AI Swings",
-      "translation_label": "原文中文译读",
-      "translation": "亞洲大型股票基金轉向滯漲股以降低人工智能波動帶來的風險。亞洲投資者正在搶購從印尼銀行股到中國電子商務巨頭以及印度科技公司的股票，同時削減對日益波動的熱門人工智能交易的押注。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-asia-stock-funds-turn-to-laggards-to-cut-risk-from-ai-swings",
-      "source": "Bloomberg Technology",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-25T00:00:00+00:00",
       "pick_score": 94,
       "event_type": "technology",
       "severity": "moderate",
@@ -470,7 +432,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T08:53:45+00:00",
-      "pick_score": 87,
+      "pick_score": 86,
       "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
@@ -692,7 +654,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T14:49:55+00:00",
-      "pick_score": 68,
+      "pick_score": 67,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -925,6 +887,44 @@
       "publisher_type": "财经媒体",
       "published_at": "2026-07-25T06:30:12+00:00",
       "pick_score": 66,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "1b23bf61b2a11bd6770e",
+      "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
+      "translation_label": "原文中文译读",
+      "translation": "SK集团会长崔泰源表示，人工智能开发商Anthropic PBC已向全球最大的存储芯片制造商之一SK海力士寻求供应，以制造其自己的半导体。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
+      "source": "Bloomberg Technology",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-25T00:44:09+00:00",
+      "pick_score": 65,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -1282,7 +1282,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 8,
+      "recent_items": 6,
       "latest_published_at": "2026-07-25T14:49:55+00:00",
       "warning": null
     },
