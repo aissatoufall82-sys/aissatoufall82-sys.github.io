@@ -1,42 +1,26 @@
 {
-  "generated_at": "2026-07-27T05:10:08.953805+00:00",
-  "generated_at_local": "2026-07-27 13:10:08 北京时间",
-  "next_update_at_local": "2026-07-27 14:10:00 北京时间",
+  "generated_at": "2026-07-27T05:19:17.147307+00:00",
+  "generated_at_local": "2026-07-27 13:19:17 北京时间",
+  "next_update_at_local": "2026-07-27 16:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
-    "00:10",
     "01:10",
-    "02:10",
-    "03:10",
     "04:10",
-    "05:10",
-    "06:10",
     "07:10",
-    "08:10",
-    "09:10",
     "10:10",
-    "11:10",
-    "12:10",
     "13:10",
-    "14:10",
-    "15:10",
     "16:10",
-    "17:10",
-    "18:10",
     "19:10",
-    "20:10",
-    "21:10",
-    "22:10",
-    "23:10"
+    "22:10"
   ],
   "selection_mode": "精选信息",
   "feed_tiers": [
     "official",
     "tier1"
   ],
-  "total_items": 74,
+  "total_items": 75,
   "total_official_items": 6,
-  "media_items": 68,
+  "media_items": 69,
   "items": [
     {
       "id": "b8c548937b26356d7c4c",
@@ -148,6 +132,44 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "dc6297aa17383ea96f42",
+      "title": "Uber’s Africa EV Pilot Pioneer Says Iran Conflict Drives Demand",
+      "translation_label": "原文中文译读",
+      "translation": "Uber在非洲首个低成本电动汽车项目的合作伙伴表示，美国与伊朗之间的战争以及由此导致的燃油价格上涨，正在点燃市场对该品牌电动汽车的需求。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/uber-africa-ev-pilot-valternative-pioneer-durban-iran-conflict-drives-demand",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-07-27T05:00:00+00:00",
+      "pick_score": 99,
+      "event_type": "geopolitical",
+      "severity": "major",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -610,44 +632,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "30a5f9971e2a38e33144",
-      "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
-      "translation_label": "原文中文译读",
-      "translation": "以下是我们在接下来的股市中重点关注的三大事件。这是一个繁忙的一周，充满了大型科技公司财报、美联储会议以及通胀数据。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、公司基本面/股本供给的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：通胀或工资压力上升会推迟降息，通常先推高美债收益率和美元，再压低股票估值。 可能受益：美元、部分银行与保险资产，以及能够把成本顺利转嫁给客户的公司。 可能承压：美债、REITs、高估值成长股和利润率较薄的消费企业。 接下来观察：2年期和10年期美债收益率、美元、核心通胀与下次美联储会议定价。若收益率没有上升，影响应降级。",
-      "url": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-26T20:50:54+00:00",
-      "pick_score": 68,
-      "event_type": "macro",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "公司基本面/股本供给"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1287,8 +1271,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 17,
-      "latest_published_at": "2026-07-27T04:55:20+00:00",
+      "recent_items": 18,
+      "latest_published_at": "2026-07-27T05:00:00+00:00",
       "warning": null
     },
     {
