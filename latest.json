@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T00:10:14.805784+00:00",
+  "generated_at": "2026-07-27T01:10:23.031243+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,194 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "f4183912873a33d55e55",
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T00:57:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "fae2f5a6e2a42c068b0e",
+      "title": "Major Brands Sell China Tomatoes as Aussie-Grown, ABC Says",
+      "summary": "Several major food brands in Australia are selling tomato products grown in China as domestically produced, with forensic testing showing some are sourced from the Xinjiang region, according to an investigation by the Australian Broadcasting Corp.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/major-brands-sell-china-tomatoes-as-australian-grown-abc-says",
+      "published_at": "2026-07-27T00:46:23+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.992,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1062581aefb5cd7b3297",
+      "title": "Singapore tightens monetary policy as rising oil prices rekindle inflation risk",
+      "summary": "Singapore's monetary authority tightened monetary policy for a second straight time in the face of a renewed oil price surge. Singapore's near-total reliance on imported energy leaves it exposed to higher oil prices. Inflation ticked up in June, while second-quarter GDP figures showed that the economy remains resilient. Singapore on Monday tightened its monetary policy for a second consecutive time, moving preemptively against a renewed oil price surge even as inflation at home stays subdued. The Monetary Authority of Singapore said it will increase the rate of appreciation of the Singapore dollar's nominal effective exchange rate policy band \"very slightly,\" with the adjustment smaller than April's. The width of the band and the level at which it is centered were left unchanged. Unlike most central banks, the MAS conducts its monetary policy by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies within an undisclosed band, rather than setting interest rates. \"In an environment of continued heightened uncertainty, this calibrated adjustment to the policy stance builds on the tightening in April,\" the MAS said in its statement. Singapore's core inflation, which excludes accommodation and transportation costs, ticked up to 1.6% in June from 1.4% in May, near the bottom of the MAS's 1.5%–2.5% forecast range for this year, with headline inflation at 1.9%. While transportation fuel prices quickly rose since the onset of the U.S.-Iran conflict, softer services inflation, particularly healthcare, communication, and education, helped offset much of the upward pressure on prices, according to BMI, a FitchSolutions company. \"Imported-cost pressures typically pass through to broader consumer prices with a lag, so we still expect inflation to rise in the coming months,\" the intelligence group said. Singapore's near-total reliance on imported energy leaves it exposed to higher oil prices. Brent crude climbed back above $100 a barrel last week after Houthi militants attacked two Saudi tankers in the Red Sea, deepening a supply threat that had eased before the collapse of the Middle East ceasefire. The economy has so far shrugged off the turmoil as AI demand powers electronics exports. Singapore's gross domestic product expanded 5.7% in the second quarter from a year earlier, beating the 5.5% median estimate in a Reuters survey and well above the government's full-year projection of 2%–4%.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+      "published_at": "2026-07-27T00:34:22+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3ea76cba346b549f22f4",
+      "title": "Woodside’s $34 Billion Browse Named State Significant Project",
+      "summary": "Woodside Energy Group Ltd.’s A$48.7 billion ($34 billion) Browse gas field development has been declared a State Significant Project, allowing for expedited approvals from the Western Australia government.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/woodside-s-34-billion-browse-named-state-significant-project",
+      "published_at": "2026-07-27T00:31:49+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "d28a286a5a6f648211c5",
       "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
@@ -53,7 +241,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.996,
+      "recency_weight": 0.977,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -95,7 +283,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.995,
+      "recency_weight": 0.976,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -141,7 +329,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.994,
+      "recency_weight": 0.975,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -153,58 +341,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2af5fe9f73d1f8064c26",
-      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-      "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
-      "published_at": "2026-07-26T23:45:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.992,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -235,7 +371,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.99,
+      "recency_weight": 0.971,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -252,9 +388,9 @@
       }
     },
     {
-      "event_id": "7a83622b805761586828",
-      "title": "Nvidia in Talks on $250 Billion Backing for OpenAI Hub, WSJ Says",
-      "summary": "Nvidia Corp. is in discussions to provide a guarantee of about $250 billion to help OpenAI lease computing from a giant data center project, the Wall Street Journal reported, citing people familiar with the matter.",
+      "event_id": "b538d7cf65f754eaf88e",
+      "title": "Nvidia Mulls $250 Billion Backing for OpenAI Hub, WSJ Says",
+      "summary": "Nvidia Corp.’s in discussions to provide a guarantee of about $250 billion to help OpenAI lease computing from a giant data center project planned for southern Ohio, the Wall Street Journal reported, citing people familiar with the matter.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -281,7 +417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.988,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -323,7 +459,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -364,7 +500,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -410,7 +546,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -460,7 +596,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.973,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -506,7 +642,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.97,
+      "recency_weight": 0.951,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -526,7 +662,7 @@
     {
       "event_id": "9cf9b96e1eb7e802bc67",
       "title": "Oil Falls, Asian Stocks Rise as Iran Tensions Ease: Markets Wrap",
-      "summary": "Oil dropped and Asian stocks gained as the US and Iran refrained from retaliatory strikes, easing concerns over potential disruptions to Middle East energy supplies after a recent escalation in the conflict.",
+      "summary": "Oil dropped, stocks and bonds rose as the US and Iran refrained from retaliatory strikes, easing concerns over potential disruptions to Middle East energy supplies after a recent escalation in the conflict.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -550,7 +686,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.962,
+      "recency_weight": 0.943,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -594,7 +730,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.96,
+      "recency_weight": 0.942,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -636,7 +772,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -681,7 +817,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -727,7 +863,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.938,
+      "recency_weight": 0.92,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -769,7 +905,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -810,7 +946,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.914,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -853,7 +989,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.91,
+      "recency_weight": 0.892,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -895,7 +1031,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.906,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -941,7 +1077,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -983,7 +1119,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.897,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1028,7 +1164,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.885,
+      "recency_weight": 0.868,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1075,7 +1211,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.874,
+      "recency_weight": 0.858,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1117,7 +1253,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1162,7 +1298,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.834,
+      "recency_weight": 0.818,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1208,7 +1344,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.824,
+      "recency_weight": 0.808,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1254,7 +1390,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1300,7 +1436,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1343,7 +1479,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1389,7 +1525,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.814,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1409,7 +1545,7 @@
     {
       "event_id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation Leadership Harvard expert: Ambitious people often make this career mistake The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1435,7 +1571,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.814,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1482,7 +1618,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1525,7 +1661,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1566,7 +1702,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.799,
+      "recency_weight": 0.783,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1610,7 +1746,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.799,
+      "recency_weight": 0.783,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1660,7 +1796,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.795,
+      "recency_weight": 0.78,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1706,7 +1842,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1752,7 +1888,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.784,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1773,33 +1909,33 @@
     {
       "event_id": "8f672d05cf0ce5575669",
       "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
-      "summary": "Confectionery firms say chocolate sales have fallen this year as high costs continue to price out customers. Swiss chocolate giants Lindt, Barry Callebaut and Nestlé said with cocoa prices easing, they can look to win back customers. Strategies include social media-inspired product launches, increased influencer marketing spend, and innovating premium products. Cocoa prices are beginning to ease after a record-breaking rally, but don't expect cheaper candy just yet as the world's biggest chocolate makers turn to social media-inspired products and other strategies to win shoppers back. Cocoa prices reached record highs over the past two years, triggered by adverse weather conditions and poor cocoa harvests that pushed chocolate costs higher and dampened consumer sentiment. However, the price of cocoa now appears to be falling. Cocoa futures were last trading at $5327 per metric ton and are down 34% over the past year. The commodity surged to almost $12,000 per metric ton at the end of 2024. Cocoa prices typically hovered around $2,000 to $3,000 over the past two decades. Swiss Chocolate giants Barry Callebaut , Lindt , and Nestlé all pointed to soaring cocoa prices as a drag on earnings. Lindt said Monday that groupwide price increases of 11.8% led to chocolate sales volumes dropping 7.5% as fewer shoppers bought chocolate in the first half of the year. \"Record cocoa prices required unprecedented price increases across the industry, while geopolitical uncertainty, inflation and weak consumer sentiment weighed on demand,\" Group CEO Adalbert Lechner said in an analyst call. \"The crisis in the Middle East added another headwind with weaker tourism flows from Asia and the Middle East to Europe.\" The world's largest chocolate and cocoa supplier, Barry Callebaut, said that while global consumers are buying 4.4% less chocolate in the third quarter than the same time last year, overall sales volumes for the company grew 5.7% in the quarter, turning positive for the first time in over two years. Additionally, its global cocoa sales accelerated 18% due to a market correction earlier this year. Meanwhile, food and beverage firm Nestlé said higher cocoa and coffee prices hit its underlying trading operating profit in the first half of the year, dropping 2.8%. The firm's confectionery business makes up 9.7% of its total sales. Nestlé expects to see margins benefit from cocoa prices coming down. Cocoa prices' volatile run was largely due to poor cocoa harvests in West Africa, which were worsened by weather patterns related to El Niño and climate change, resulting in tight supply. El Niño is a weather phenomenon with warmer-than-average temperatures that occurs every two to seven years in the Pacific Ocean. Soaring cocoa prices in 2024 were largely due to a 'strong' El Niño that led to drier, hotter weather and erratic rainfall in West Africa, according to a December analysis by Dr Tanya Lander, a researcher at the Oxford Martin School Programme on the Future of Food. \"So, it is unsurprising that the El Niño weather was linked to poor cocoa harvests in both Côte d'Ivoire and Ghana (where 60-70% of global cocoa beans are produced),\" Lander wrote. Climate change and increasing temperatures are also playing a role, with 2024 being the hottest year on record. A recent heatwave across Europe could also dampen consumer enthusiasm for chocolate, UBS analysts said in an early July note on Lindt. Heatwaves and rising temperatures in some of Lindt's core European markets could impact chocolate demand, with European sales excluding Eastern Europe, declining in the four weeks ending June 14, the analysts said. However, Barry Callebaut said that while a strong El Niño has been confirmed for 2026 and 2027 and creates a downside risk on supply, a large surplus for 2025-2026 acts as a buffer, resulting in a very different situation from 2023-2024. The UBS analysts expect that Lindt has hedged at favourable cocoa bean prices for 2027, a move they estimate could reduce costs by as much as 500 million Swiss francs. Meanwhile, U.S. President Donald Trump's reciprocal tariffs have also had a brief but significant impact, causing price spikes and supply chain disruptions. More recently, the conflict in the Middle East also hit Lindt's travel retail business globally by reducing tourism flows. Premium chocolate, social media trends As cocoa prices are expected to recover, chocolatiers are looking to win back their core customer base by innovating their premium product formats, as well as keeping a closer eye on social media trends that young people are engaging with. Lindt released its Dubai-style chocolate bar in December 2024, a in a bid to capitalize on a viral social media trend . Global retailers from Walmart to Trader Joe's, Shake Shack , and Harrods are now selling Dubai chocolate too. Lindt CEO Lechner said the company plans to expand its \"social media presence\" to create a seamless journey between inspiration, discovery, and purchase.",
+      "summary": "Chocolate firms look to win shoppers back with premium products and social media trends after poor weather conditions, tariffs, and the Iran war hit sales.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
       "published_at": "2026-07-26T05:00:01+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.35,
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
       "affected_tags": [
         "broad_equity",
-        "corporate",
-        "dollar",
-        "growth",
+        "geopolitical",
+        "gold",
         "macro",
         "market",
-        "rates"
+        "oil",
+        "safe_haven"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "regime",
       "confidence": 0.864,
-      "impact_score": 13.8,
-      "recency_weight": 0.691,
+      "impact_score": 19.32,
+      "recency_weight": 0.678,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1810,7 +1946,7 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "公司基本面/股本供给"
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1841,7 +1977,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.659,
+      "recency_weight": 0.646,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1882,48 +2018,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.651,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "947b8a74d549d9689659",
-      "title": "Australian Prime Minister Albanese to Press Trump on New Tariffs",
-      "summary": "Australian Prime Minister Anthony Albanese said he will appeal directly to President Donald Trump over new tariffs announced by Washington, describing the levies as unjustified.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/australian-prime-minister-albanese-to-press-trump-on-new-tariffs",
-      "published_at": "2026-07-26T00:34:20+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.635,
+      "recency_weight": 0.638,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1962,7 +2057,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.577,
+      "recency_weight": 0.566,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2003,7 +2098,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.543,
+      "recency_weight": 0.532,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2044,7 +2139,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.526,
+      "recency_weight": 0.516,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2085,7 +2180,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.522,
+      "recency_weight": 0.512,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2130,7 +2225,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.518,
+      "recency_weight": 0.509,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2172,7 +2267,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.513,
+      "recency_weight": 0.503,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2213,7 +2308,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.503,
+      "recency_weight": 0.493,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2258,7 +2353,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2306,7 +2401,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.498,
+      "recency_weight": 0.489,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2352,7 +2447,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.469,
+      "recency_weight": 0.46,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2394,7 +2489,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.44,
+      "recency_weight": 0.431,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2435,7 +2530,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.413,
+      "recency_weight": 0.405,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2476,7 +2571,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.379,
+      "recency_weight": 0.372,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2517,7 +2612,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.374,
+      "recency_weight": 0.367,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2567,7 +2662,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.373,
+      "recency_weight": 0.366,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2616,7 +2711,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.373,
+      "recency_weight": 0.366,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2629,47 +2724,6 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "89b0895eecad66ae1ea5",
-      "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
-      "summary": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
-      "published_at": "2026-07-24T20:23:12+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.369,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -2698,7 +2752,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.365,
+      "recency_weight": 0.358,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2739,7 +2793,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.364,
+      "recency_weight": 0.357,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2780,7 +2834,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.363,
+      "recency_weight": 0.356,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2821,7 +2875,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.36,
+      "recency_weight": 0.353,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2860,7 +2914,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.326,
+      "recency_weight": 0.32,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2900,7 +2954,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.308,
+      "recency_weight": 0.302,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3299,8 +3353,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 15,
-      "latest_published_at": "2026-07-26T23:55:05+00:00",
+      "recent_items": 16,
+      "latest_published_at": "2026-07-27T00:46:23+00:00",
       "warning": null
     },
     {
@@ -3318,7 +3372,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-26T23:45:00+00:00",
+      "latest_published_at": "2026-07-27T00:57:00+00:00",
       "warning": null
     },
     {
@@ -3327,7 +3381,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-07-26T23:58:00+00:00",
+      "latest_published_at": "2026-07-27T00:34:22+00:00",
       "warning": null
     },
     {
