@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T20:10:01.660242+00:00",
+  "generated_at": "2026-07-27T23:10:26.827484+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,1192 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "e25b63d17c048420b756",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T22:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4c61c29be874e5839603",
+      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "summary": "The Trump administration asked the Supreme Court to let it enforce President Donald Trump’s mail-in voting restrictions while a legal challenge proceeds. A federal appeals court kept the restrictions blocked in 23 states that sued, finding that states must prepare now for potentially disruptive election changes. The order directs federal agencies to create voter eligibility lists and would allow the Postal Service to reject ballots that do not meet new requirements. The Trump administration on Monday asked the Supreme Court to intervene in a legal fight over President Donald Trump's executive order restricting mail-in voting, escalating the dispute 99 days before the November midterm elections . The emergency request came after a federal appeals court, in a 2-1 decision Saturday, left in place an order blocking key parts of Trump's executive order issued in March that directs federal agencies to create voter eligibility lists and restrict U.S. Postal Service delivery of ballots not tied to those lists. A coalition of 23 states argue Trump lacks authority to impose federal rules on elections administered by state and local officials. The Department of Justice argued that the challenge was premature because agencies had not finalized the policies needed to carry out Trump's order. But the 1st U.S. Circuit Court of Appeals said states were already being forced to prepare for changes that could affect upcoming elections. The majority said the order would impose \"unprecedented levels of involvement by federal officials in how states administer elections\" and risk confusion and voter disenfranchisement. \"We look forward to filing our response to the government's application in the U.S. Supreme Court by the deadline set by Justice Jackson,\" Walter Garcia, a spokesperson for California Attorney General Rob Bonta, said in a statement. California was one of the states that co-led the coalition. The ruling applies only to the states covered by the lawsuit. A separate federal appeals court in Washington, D.C., recently lifted a broader injunction against the Postal Service rule, leaving open the possibility that the Postal Service could implement the restrictions elsewhere. Trump and his allies have promoted the changes as safeguards against illegal voting . Democrats and voting-rights groups say the order could prevent eligible voters from receiving or returning mail ballots. The change is one component of the effort Trump is leading in the months leading up to the Nov. 3 election to make sweeping changes to how elections are conducted in the U.S. He has also been pressing Congress to pass legislation to impose a national voter-ID requirement to vote and proof of citizenship to register to vote. The Constitution directs states, rather than the federal government, to administer most election oversight. The White House and Justice Department did not immediately respond to requests for comment.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "published_at": "2026-07-27T22:23:50+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.985,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9fa343d613fc2d6cd2c8",
+      "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
+      "summary": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash. While Cramer said Nvidia remains a strong company, he warned investors should pay close attention when suppliers help customers finance large-scale projects. CNBC's Jim Cramer on Monday said the latest chapter of the artificial intelligence boom is reviving memories of the excesses that fueled the dot-com bubble. \"I lived through 2000,\" the \" Mad Money \" host said. \"I don't want the sequel.\" On Sunday, the Wall Street Journal reported that Nvidia was discussing a $250 billion backstop for OpenAI that would help finance a planned 10-gigawatt artificial intelligence data center campus in Ohio. CNBC confirmed the report on Monday, and Nvidia declined to comment. The proposed guarantee would support the project's lease and construction debt, not the Nvidia chips deployed inside the facility. Shares of Nvidia fell more than 4% on Monday, pulling many semiconductor stocks down with it. The discussions are the latest example of the increasingly circular nature of AI financing. Nvidia has invested in several companies that are also major customers for its chips, including a $30 billion investment in OpenAI in March and a $10 billion investment in Anthropic last year. The chipmaker has also backed multiple neocloud providers that rent Nvidia-powered computing capacity to customers. Nvidia has said those investments support the growth of the AI ecosystem while offering attractive long-term returns. Cramer said the circularity of the arrangement reminded him of the late 1990s, when telecom equipment makers helped customers finance major purchases to fuel growth. While those deals initially boosted sales, he recalled that many unraveled when cash-strapped buyers could no longer pay, inflicting heavy losses on suppliers and investors alike. \"What we learned in 2000 is that you don't lend to companies who buy your goods,\" Cramer said. Cramer stressed that he still views Nvidia as an exceptionally strong company and is not predicting a repeat of the dot-com crash. Rather, he said history shows investors can quickly lose confidence when suppliers become too reliant on customers whose massive spending depends on continued access to capital. \"If the buyer, in this case, OpenAI, can actually afford to pay for these chips, perhaps because it comes public ... then Nvidia's in terrific shape,\" Cramer said. \"If the buyer can't pay, well, that's a different story.\" OpenAI confidentially filed for an initial public offering in June, but has not announced a timeline for its debut. The company was valued at more than $800 billion by private investors in March as it races to expand the computing infrastructure needed to power its artificial intelligence models while competing with rivals including Alphabet and Meta . Cramer said the risks extend well beyond Nvidia because a growing number of companies now depend on continued investment in AI infrastructure. \"There are so many companies counting on the data center for their earnings,\" he said. \"If the market decides it doesn't want to fund any more data centers, and the companies themselves don't have the money, or they don't get paid, then we're back in 2000.\" While Cramer said Nvidia has the financial resources to support projects of this scale, he argued that strong balance sheets alone have not always been enough to shield companies from the fallout when customers become overextended. \"Nvidia shouldn't make these guarantees even if it has all the money in the world. Just history, that's all, just history,\" he said. Click here to read Jim Cramer's Guide to Investing at no cost to help you build long-term wealth and invest smarter Questions for Cramer? Call Cramer: 1-800-743-CNBC Want to take a deep dive into Cramer's world? Hit him up! Mad Money Twitter - Jim Cramer Twitter - Facebook - Instagram Questions, comments, suggestions for the \"Mad Money\" website? madcap@cnbc.com",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
+      "published_at": "2026-07-27T22:20:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.984,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1a7bafdeb167feb3684f",
+      "title": "Oil Extends Decline, Asian Stocks Set for Losses: Markets Wrap",
+      "summary": "Asian equities are set for a mostly weaker open after a selloff in chipmakers dragged US stocks lower, even as oil extended losses.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates",
+      "published_at": "2026-07-27T22:08:16+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.98,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7e2998224981a59b40ad",
+      "title": "Latest Oil Market News and Analysis for July 28",
+      "summary": "Oil extended a steep drop after President Donald Trump said the US and Iran were engaged in talks to end the Middle East conflict.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/latest-oil-market-news-and-analysis-for-july-28",
+      "published_at": "2026-07-27T22:02:24+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "664c179562ee1ab526bf",
+      "title": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
+      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T22:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2fef5d48c06d5448bed2",
+      "title": "BlackRock Raises $12.5 Billion of Debt for Meta Data Center",
+      "summary": "BlackRock Inc. wrapped up a $12.5 billion bond sale tied to a Meta Platforms Inc. data center project in Texas after a nearly week-long marketing process and a selloff in big tech debt.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/blackrock-raises-12-5-billion-of-debt-for-meta-data-center",
+      "published_at": "2026-07-27T21:47:14+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.974,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "405c1d0272dc4ea834cc",
+      "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
+      "summary": "“I have an IRA, a high-yield savings account, four CDs and checking and savings accounts.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T21:46:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.973,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f3d00921a50f08ae4337",
+      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T21:46:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.973,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2b726b935160476bc945",
+      "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
+      "summary": "A new study found cognitive improvements for shorter durations of eating",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T21:37:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.97,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6ceab29689fcacacdf67",
+      "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
+      "summary": "‘The money has to come from somewhere,’ says Bryce Doty at Sit, of pressure heavy AI-debt supply and the rest of the bond market",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T21:35:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.97,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "16a2eba4f019cdbcf4ca",
+      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
+      "summary": "OpenAI CEO Sam Altman is set to meet with senior Trump administration officials, lawmakers and economists in Washington, D.C. He will preview the capabilities of the company's upcoming AI models and field questions about cybersecurity and the company's stance on open-weight models, according to a source. The visit lands during a particularly sensitive moment for AI development in the U.S., as a debate over whether to restrict Chinese open-weight AI models rages. OpenAI CEO Sam Altman will meet with senior Trump administration officials, lawmakers and economists in Washington, D.C. , this week to preview the capabilities of the company's upcoming family of artificial intelligence models, CNBC has learned. Altman has maintained a regular presence on Capitol Hill this year as he's tried to alleviate policymakers' concerns about the rapidly advancing technology and help shape their views about what regulation should look like. This visit lands during a particularly sensitive moment for AI development in the U.S., as a debate over whether to restrict Chinese open-weight AI models has ripped through Silicon Valley. In addition to previewing OpenAI's upcoming releases, Altman is expected to field questions from policymakers about cybersecurity and the company's stance on open-weight models, according to a source familiar with the plans who asked not to be named because the details are confidential. Open-weight AI models are available for users to download, modify and run on their own infrastructure. In recent weeks, Chinese open-weight models from startups like Moonshot AI have rapidly caught up with leading, proprietary offerings from American companies, including OpenAI and its chief rival, Anthropic , sparking anxiety about the durability of the U.S. lead in the AI race. Officials and executives have been weighing whether or not to limit access to Chinese models in the U.S., which prompted a coalition of tech companies, including Nvidia , Microsoft , Meta and Palantir , to release a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight models. OpenAI signed the letter after it was initially published, but the company's allies have lobbied for restrictions on open-weight models, according to a report from The New York Times . Anthropic still has not signed or made an official comment about its position. Nvidia CEO Jensen Huang is also meeting with lawmakers in Washington, D.C., this week to discuss open models and \"American leadership in AI,\" according to a spokesperson. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation SpaceX launches massive Starship rocket in first test flight since IPO Altman will also likely address the \" unprecedented cyber incident \" that OpenAI disclosed earlier this month, which rattled researchers and executives across the tech sector. The company said its models escaped a sandboxed testing environment, accessed the internet and exploited a vulnerability to gain entry to another company's systems. The models were trying to find information that they could use to cheat on an evaluation, and they succeeded, OpenAI said. The company that was breached, Hugging Face , operates an open-source developer platform. Hugging Face shared that an autonomous AI agent system breached part of its production infrastructure prior to revealing OpenAI's involvement. AI companies, including OpenAI, have been warning about the technology's advancing cyber capabilities, particularly since Anthropic released a model called Claude Mythos Preview in April. Following the incident, OpenAI said that AI is accelerating the discovery and exploitation of vulnerabilities, which means model security and safety need to keep up. The company said it is working to strengthen its \"containment, monitoring, access controls, and evaluation practices used during model development,\" and it's conducting a \"thorough investigation\" of the incident, according to a release . The hacking incident showed how powerful and resourceful autonomous AI agents have become. While in Washington, Altman is also expected to discuss the evolution of AI agents and their impact on worker productivity, the person said. He will explain the concept of \"AI teams,\" where multiple agents work together to carry out long-term tasks. WATCH: OpenAI model goes rogue: Here’s what you need to know",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+      "published_at": "2026-07-27T21:29:50+00:00",
+      "event_type": "black_swan",
+      "severity": "major",
+      "sentiment": -0.6,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "geopolitical",
+        "growth",
+        "macro",
+        "market",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a29f0ca1ea8e42946771",
+      "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+      "summary": "OpenAI is in discussions with Nvidia about a backstop of up to $250 billion that would help fund its plans to lease a new AI data center, CNBC has confirmed. The backstop would let OpenAI raise debt for a 10-gigawatt data center campus in Pike County, Ohio, on the strength of Nvidia's credit, according to a person with knowledge of the matter. The talks about the site and its financing are in progress and still subject to change, sources said. OpenAI is in discussions with Nvidia about a backstop of up to $250 billion that would help fund its ambitious plans to lease a massive new artificial intelligence data center, CNBC confirmed. The backstop would let OpenAI raise debt for a 10-gigawatt data center campus in Pike County, Ohio , on the strength of Nvidia's credit, according to a person familiar with the discussions who asked not to be named because the details are confidential. The guarantee would cover the lease and construction debt, not the Nvidia chips inside, which the two companies are discussing separately, the person said. Nvidia declined to comment. The Wall Street Journal was first to report the negotiations about the $250 billion backstop. The large site in Ohio once functioned as a uranium-enrichment plant, the person said. A gigawatt is a measure of power, and 10 gigawatts is roughly equivalent to the annual power consumption of 8 million U.S. households , according to a CNBC analysis of data from the Energy Information Administration. The data center campus could cost more than $500 billion in total, the person said. The talks about the site and its financing are in progress and still subject to change, according to another person familiar with the plans who asked not to be named due to confidentiality. OpenAI kick-started the AI boom with the launch of its ChatGPT chatbot in 2022, and has been racing to secure the computing power it deems necessary to meet future demand for its models and services as it faces heightened competition from the likes of Anthropic , Google , Amazon and Meta . Those companies are collectively spending hundreds of billions of dollars on capex to support their own AI infrastructure ambitions. In September, Nvidia said it would invest up to $100 billion in OpenAI as part of a strategic partnership where the company would deploy at least 10 gigawatts of Nvidia systems. That investment never materialized, though Nvidia contributed $30 billion to the record-breaking funding round that OpenAI closed in March. Nvidia CEO Jensen Huang said it \" might be the last time \" the company invests in OpenAI before it goes public. OpenAI confidentially filed for an initial public offering with the Securities and Exchange Commission in June, but has not disclosed an official timeline for its debut. OpenAI is now valued at nearly $1 trillion by private investors betting that the company will maintain its lead in AI and find a long-term workable business model, which faces increased uncertainty as a host of open-weight alternatives , largely out of China, threaten to undercut its pricing power. SoftBank and SB Energy are developing the Ohio data center campus in partnership with the U.S. Department of Energy. SoftBank is a major investor in OpenAI, and the two companies announced plans to invest $1 billion in SB Energy earlier this year. — CNBC's Kristina Partsinevelos and Lora Kolodny contributed to this story WATCH: OpenAI chairman Bret Taylor on AI tokenomics, token efficiency",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+      "published_at": "2026-07-27T21:29:40+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "13854ed8fc35ee9d6240",
+      "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+      "summary": "What's one trillion between a trillionaire and his biggest fans? SpaceX has now erased more than $1.2 trillion in market cap since its high price of $225.64 in June – almost exactly the value of Elon Musk's other company, Tesla , whose shares just fell to near one-year lows. On Monday, SpaceX fell for the 13th session out of the last 16, shedding more than 1% to end at $113.50. While some of the options flows are getting more balanced between bulls and bears, the biggest single SpaceX trades of the day on Monday were neutral to bullish. Small speculators continue to buy fat-chance calls that need the crashing stock to quickly turn around and double. More puts traded than calls by volume Monday, with traders buying 106,000 calls compared to 77,000 puts, though the majority of the $442 million in premium was tied to puts. The most popular contract by volume was the 330-strike call expiring Friday, a contract that goes for 10 cents and has a roughly one-third of 1% chance of working, according to ThinkOrSwim data. Four of the five biggest trades by premium were neutral or bullish, Cboe LiveVol data show. That included two giant put-spread sellers, including one multimillion-dollar sale of in-the-money put spreads that need SpaceX to rally, as well as someone who collected $1.8 million selling 5,200 of the 100-strike puts expiring Oct. 16 and buying 7,000 of the 85-strike puts with the same expiry. \"As an investor it's early – as a trader, Wall Street is now punishing the AI stocks for capex,\" said Charles Moon, a tech and momentum specialist for Prosper Trading Academy in Chicago. One thing's certain: SpaceX is offering traders one of the wildest rides in the market. While earnings are typically volatility-reducing events, that may not necessarily be the case after next week's report . SpaceX's first earnings report since its initial public offering paves the way for investors to sell 20% of their eligible locked-up stock, a total of up to 911.5 million shares, on the second full trading day immediately following the first earnings release date — that is, Aug. 6. \"I don't think the lock-up on SpaceX will be as bad as everyone fears,\" Moon said. \"But it's not going to help the cause either.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+      "published_at": "2026-07-27T21:26:03+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 12.88,
+      "recency_weight": 0.967,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "df26dc358cf5b6f52b03",
+      "title": "Curium Is Said to Near About $7 Billion Acquisition of Lantheus",
+      "summary": "Curium is in advanced talks to acquire radiopharma company Lantheus Holdings Inc. in a deal that could be announced in the coming days, according to people familiar with the matter.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/curium-is-said-to-near-about-7-billion-acquisition-of-lantheus",
+      "published_at": "2026-07-27T21:22:16+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.966,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a6d7f2e337ba5f0321f9",
+      "title": "CME’s Debut of 24/7 Gold Futures Trading Met With Strong Demand",
+      "summary": "CME Group Inc. said the debut weekend of 24/7 trading for its one-ounce gold futures saw stronger-than-expected demand with deep liquidity despite subdued volatility.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/cme-s-debut-of-24-7-gold-futures-trading-met-with-strong-demand",
+      "published_at": "2026-07-27T21:18:31+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.965,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "bb9b9c3028c36601d9a4",
+      "title": "Apple ends day as world's most valuable company, passing Nvidia",
+      "summary": "Apple passed Nvidia on Monday for the title of world's most valuable company, with the iPhone maker topping the AI chip firm at market close for the first time since April 2025. Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft The AI chipmaker briefly held a $5 trillion capitalization in October. Apple passed Nvidia on Monday for the title of world's most valuable company, with the iPhone maker topping the artificial intelligence chip firm at market close for the first time since April 2025. Meanwhile, Apple shares rose 1%, giving it a market cap of $4.95 trillion, ahead of the company's highly-anticipated earnings on Thursday. Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft , and it briefly held a $5 trillion capitalization in October. So far in 2026, Nvidia's shares have only climbed 4% while Apple's are up 24%. Apple has outperformed the market as investors have rewarded its reluctance to spend heavily on capital expenditures for AI, preferring to rent capacity instead of building its own. While Nvidia's sales are now in the third year of massive AI-driven growth, many investors have switched their focus from AI chips called graphics processing units to memory chips and other data center infrastructure that benefit from the AI boom, such as Micron Technology , SK Hynix , and Sandisk . Apple will report fiscal third-quarter earnings on Thursday, in which the iPhone maker is expected to reveal for the first time some of the financial impacts from the AI-driven global memory chip shortage, which forced the company to raise Mac and iPad prices in June. Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation SpaceX launches massive Starship rocket in first test flight since IPO",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+      "published_at": "2026-07-27T21:12:26+00:00",
+      "event_type": "black_swan",
+      "severity": "major",
+      "sentiment": -0.6,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "datacenter",
+        "geopolitical",
+        "growth",
+        "macro",
+        "market",
+        "memory",
+        "safe_haven",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 24.15,
+      "recency_weight": 0.963,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c01d61dbe83d6634800f",
+      "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
+      "summary": "State regulators are making Big Tech pay for its own grid build-out — leaving traditional utility stocks exposed to a political reckoning.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T21:03:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.96,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "845e8f1b203944e18fae",
+      "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
+      "summary": "Vasant Dhar built one of the first AI-driven hedge funds. Here’s what he wants investors to know about the technology.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T21:02:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.96,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8ec3fdc1fe78c0640628",
+      "title": "BlackRock Dodges AI Bond-Trading Flop After Offering Junk Yields",
+      "summary": "BlackRock Inc.’s $12.55 billion bond sale tied to a Meta Platforms Inc. data center rallied in early trading on Monday in a sign that relatively high yields on the debt ultimately attracted investors.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/blackrock-dodges-ai-bond-flop-as-12-3-billion-debt-deal-rallies",
+      "published_at": "2026-07-27T20:56:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.958,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "27505dc8418efff80263",
+      "title": "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
+      "summary": "An event contract projects over 50% odds that Warsh will mention \"shock,\" along with a 74% chance that he will say \"oil.\" The event contract is one of the leading mention markets on the prediction market platform as of Monday afternoon and will be resolved from what Warsh says at July's press conference. June's Federal Open Market Committee meeting ended with a much shorter statement from the Federal Reserve, and with Chairman Kevin Warsh not giving a forecast on the outlook for rates. It's likely he will continue a tight-lipped approach this week, as Kalshi traders point to potential words the recently minted central bank leader will mention. An event contract asking what Warsh will say in the next press conference shows over 50% odds that the Fed chief will mention the word \"shock,\" along with a 74% chance that he will say \"oil.\" The event contract is one of the leading mention markets on the platform as of Monday afternoon — and will be resolved based on what Warsh says at a press conference set for Wednesday at 2:30 p.m. ET. This week's Fed meeting, along with the contract on what words Warsh will utter this week, come after Iran and the U.S. paused their fighting. Last week, both countries exchanged attacks, briefly pushing Brent crude back above $100 per barrel. The halt took the air out the oil gains, with Brent trading back below $89 on Monday. Though Kalshi traders see a likelihood of Warsh referring to an energy supply shock, Bank of America on Monday said it is \"textbook policy\" for the central bank to avoid responding to it. The Fed is largely expected to keep its overnight benchmark rate unchanged, per the CME Group's FedWatch tool. Evercore ISI noted that, \"It would be odd to [hike rates] right after the better June inflation print given an uncomplicated path to hike in September if needed.\" \"But we cannot take the probability too low given Warsh's refusal to set out his strategy, and renewed US-Iran conflict that has revived the energy shock and pushed up yields,\" the firm added. One Kalshi contract, asking traders what the Fed decision will be in July, projects a nearly 75% chance that the Fed will maintain rates at current levels. Odds of a rate hike this week have increased to around 38% from 16% last week, per FedWatch. Similarly, another Kalshi contract asking when the next Fed hike will be, shows 68% odds of one taking place this year. Both Kalshi contracts on potential rates will be verified by the Federal Reserve. Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
+      "published_at": "2026-07-27T20:52:29+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.5,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 13.8,
+      "recency_weight": 0.957,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b251e6d11b6b3442752c",
+      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
+      "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place. Iran has indicated it will stop carrying out attacks as long as the U.S. also refrains from striking, Reuters reported. Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place, easing concerns over nearly two weeks of escalating conflict. International benchmark Brent crude futures for September delivery fell 8.7% to close at $88.36 a barrel. U.S. West Texas Intermediate crude futures for September delivery dropped 7.5% to settle at $82.61 a barrel. Iran has indicated it will stop carrying out attacks as long as the United States also refrains from striking, Reuters reported on Sunday, citing a senior Iranian official. The pause follows Washington's decision to suspend its bombing campaign after President Donald Trump's advisers reportedly warned that the military was running out of viable targets and raised concerns about depleting U.S. weapons stockpiles. The Iranian official reportedly said that Tehran's stance \"remains 'attack for attack': if the attacks stop, Iran will also halt its operations. That message has already been conveyed to the United States.\" U.S. ambassador to the United Nations Mike Waltz said on Fox News Sunday that Trump had chosen to pause the strikes to allow diplomatic efforts to continue. HSBC's U.S. rates strategist Dhiraj Narula said higher oil prices have contributed to renewed expectations that the Federal Reserve may need to keep policy tighter for longer, but noted inflation expectations have remained relatively contained despite the energy rally. He attributed that to stronger messaging from Fed officials on their commitment to price stability, which has prevented the oil shock from feeding into longer-term inflation expectations. What is Pickaxe Mountain, the Iranian nuclear facility Trump is threatening to strike? Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of ‘hostile and criminal act’ Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping Tehran’s Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night Iran says it attacked Amazon infrastructure in Bahrain U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war Strait of Hormuz shutdown: A visual guide to the world's most critical oil chokepoint Oil markets are betting on a swift end to the Iran war. Investors may regret it The Middle East war is testing the Gulf’s ambitions to become an AI hub Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality Why the confusion around the Iran situation could get worse. How to profit anyway Strait of Hormuz: Ships attacked as Trump extends Iran ceasefire Trump tells CNBC he expects U.S. to make 'great deal' with Iran",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "published_at": "2026-07-27T20:52:29+00:00",
+      "event_type": "macro",
+      "severity": "major",
+      "sentiment": -0.35,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 24.15,
+      "recency_weight": 0.957,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "91a747168899b1b81eb5",
+      "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
+      "summary": "Lacy Hunt’s about-face on long-term Treasurys marks the end of an era. Here’s what it means for your money.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T20:52:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.957,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8f4c772d65135d4cdb2f",
+      "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
+      "summary": "President Donald Trump told reporters that the U.S. has collected more than $13 billion from the sale of Venezuelan oil. The U.S. seized control of Venezuela's oil exports after capturing former President Nicolás Maduro in a military raid on Jan. 3. Secretary of State Marco Rubio told Congress in June that the oil sales are audited by KPMG. The money is held in a Citibank account, Rubio said. President Donald Trump said Monday that the U.S. has collected more than $13 billion from the sale of Venezuelan crude oil since the overthrow of former President Nicolás Maduro. The U.S. seized control of Venezuela's oil exports after capturing Maduro in a military raid on Jan. 3. Trump was responding to a question about a Financial Times ' report that estimated how much money his administration had collected from the sales. \"$13 billion from Venezuela? I think even more than that,\" the president told reporters aboard Air Force One as he traveled to Michigan to tour a General Motors' facility. \"We've paid for that war many times over.\" Trump said the money is used to run Venezuela. \"We're taking in a lot of money — billions and billions of dollars from Venezuela,\" Trump said. The U.S. has largely left the Venezuelan government in place after ousting Maduro. Washington has been closely cooperating with interim President Delcy Rodríguez, who served as vice president under Maduro. Democrats in Congress have pressed the administration to disclose how much money it has collected from the sales, how the funds are spent, and how the program is monitored. Energy Secretary Chris Wright told Semafor in an April interview that the U.S. had sold around 150 million barrels of Venezuelan oil since January. \"It's an ongoing audit, so it's not a once-a-year audit, it's on every expenditure, every single disbursement is audited by KPMG,\" Rubio told Congress. The Trump administration initially deposited $500 million in sales to an account in Qatar that was controlled by the U.S. government, Wright said in February. The U.S. subsequently set up a Treasury account and stopped sending money to the Qatar account, he said. State Department official Michael Kozak told Congress in April that around $3 billion had been disbursed from the Treasury account. Kozak said the money was used to pay the salaries of Venezuela's government workers, buy supplies for the nation's oil industry and other approved uses. Rubio authorizes the disbursement of the funds under an executive order issued by Trump on Jan. 9. The president's order states that the money is the property of the Venezuelan government held in a custodial capacity by the U.S.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
+      "published_at": "2026-07-27T20:51:08+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.956,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5483a0701868a6efd15c",
+      "title": "SpaceX’s stock falls to a new low despite a near-flawless Starship flight",
+      "summary": "SpaceX’s earnings report next week could unleash a further wave of selling, as some insiders will soon be able to unload shares.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T20:41:00+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.953,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c065de43e8a424950b02",
+      "title": "SK Hynix Slumps Below US IPO Price as Mega-Listings Turn Sour",
+      "summary": "SK Hynix Inc.’s American depositary receipts slumped to a new low after a record-setting $26.5 billion debut earlier this month as investors dump once-high flying semiconductor stocks.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/sk-hynix-slumps-below-us-ipo-price-as-mega-listings-turn-sour",
+      "published_at": "2026-07-27T20:12:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.944,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "d0d225e192761611b624",
       "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
@@ -46,7 +1232,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 1.0,
+      "recency_weight": 0.944,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -64,36 +1250,35 @@
       }
     },
     {
-      "event_id": "1beba8baf7a8bc9b550f",
-      "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
-      "summary": "President Donald Trump told reporters that the U.S. has collected more than $13 billion from the sale of Venezuelan oil. The U.S. seized control of Venezuela's oil exports after capturing former President Nicolás Maduro in a military raid on Jan. 3. Secretary of State Marco Rubio told Congress in June that the oil sales are audited by KPMG. The money is held in a Citibank account, Rubio said. President Donald Trump said Monday that the U.S. has sold more than $13 billion of Venezuelan oil this year. The U.S. seized control of Venezuela's oil exports after capturing former President Nicolás Maduro in a military raid on Jan. 3. Trump was responding to a question about a Financial Times ' report that estimated how much money his administration had collected from the sales. \"$13 billion from Venezuela? I think even more than that,\" the president told reporters aboard Air Force One as he traveled to Michigan to tour a General Motors' facility. \"We've paid for that war many times over.\" Trump said the money is used to run Venezuela. \"We're taking in a lot of money — billions and billions of dollars from Venezuela,\" Trump said. The U.S. has largely left the Venezuelan government in place after ousting Maduro. Washington has been closely cooperating with interim President Delcy Rodríguez, who served as vice president under Maduro. Democrats in Congress have pressed the administration to disclose how much money it has collected from the sales, how the funds are spent, and how the program is monitored. Energy Secretary Chris Wright told Semafor in an April interview that the U.S. had sold around 150 million barrels of Venezuelan oil since January. \"It's an ongoing audit, so it's not a once a year audit, it's on every expenditure, every single disbursement is audited by KPMG,\" Rubio told Congress. This is a developing story. Please check back for updates.",
-      "source": "CNBC Markets",
+      "event_id": "46230578c9cdc121a241",
+      "title": "Lenders to Distressed Cloud Tech Firm Dye & Durham Tap Advisers",
+      "summary": "Dye &amp; Durham Ltd.’s lenders have retained Houlihan Lokey Inc. as financial adviser as the software company’s capital position comes under increased scrutiny, according to people familiar with the matter.",
+      "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
-      "published_at": "2026-07-27T20:07:33+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/lenders-to-distressed-cloud-tech-firm-dye-durham-tap-advisers",
+      "published_at": "2026-07-27T20:06:25+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
+        "ai",
+        "growth",
         "market",
-        "oil",
-        "safe_haven"
+        "semiconductor",
+        "technology"
       ],
       "categories": [
         "market",
-        "broad_equity",
-        "macro"
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
       ],
-      "forward_significance": "regime",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.999,
+      "impact_score": 1.84,
+      "recency_weight": 0.943,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -104,7 +1289,7 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期"
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -135,7 +1320,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.993,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -184,7 +1369,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.992,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -196,142 +1381,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "228f0401e9c4b69a43ad",
-      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
-      "summary": "The Trump administration asked the Supreme Court to let it enforce President Donald Trump’s mail-in voting restrictions while a legal challenge proceeds. The Trump administration on Monday asked the Supreme Court on to intervene in a legal fight over President Donald Trump's executive order restricting mail-in voting, escalating the dispute 99 days before the November midterm elections . The emergency request came after a federal appeals court, in a 2-1 decision Saturday, left in place an order blocking key parts of Trump's executive order issued in March that directs federal agencies to create voter eligibility lists and restrict U.S. Postal Service delivery of ballots not tied to those lists. The states argue Trump lacks authority to impose federal rules on elections administered by state and local officials.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
-      "published_at": "2026-07-27T19:46:04+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.992,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "dc2e706f27352d171d2e",
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-      "summary": "OpenAI CEO Sam Altman is set to meet with senior Trump administration officials, lawmakers and economists in Washington, D.C. He will preview the capabilities of the company's upcoming AI models and field questions about cybersecurity and the company's stance on open-weight models, according to a source. The visit lands during a particularly sensitive moment for AI development in the U.S., as a debate over whether to restrict Chinese open-weight AI models rages. OpenAI CEO Sam Altman will meet with senior Trump administration officials, lawmakers and economists in Washington, D.C. , this week to preview the capabilities of the company's upcoming family of artificial intelligence models, CNBC has learned. Altman has maintained a regular presence on Capitol Hill this year as he's tried to alleviate policymakers' concerns about the rapidly advancing technology and help shape their views about what regulation should look like. This visit lands during a particularly sensitive moment for AI development in the U.S., as a debate over whether to restrict Chinese open-weight AI models has ripped through Silicon Valley. In addition to previewing OpenAI's upcoming releases, Altman is expected to field questions from policymakers about cybersecurity and the company's stance on open-weight models, according to a source familiar with the plans who asked not to be named because the details are confidential. Open-weight AI models are available for users to download, modify and run on their own infrastructure. In recent weeks, Chinese open-weight models from startups like Moonshot AI have rapidly caught up with leading, proprietary offerings from American companies, including OpenAI and its chief rival, Anthropic , sparking anxiety about the durability of the U.S. lead in the AI race. Officials and executives have been weighing whether or not to limit access to Chinese models in the U.S., which prompted a coalition of tech companies, including Nvidia , Microsoft , Meta and Palantir , to release a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight models. OpenAI signed the letter after it was initially published, but the company's allies have lobbied for restrictions on open-weight models, according to a report from The New York Times . Anthropic still has not signed or made an official comment about its position. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation SpaceX launches massive Starship rocket in first test flight since IPO Altman will also likely address the \" unprecedented cyber incident \" that OpenAI disclosed earlier this month, which rattled researchers and executives across the tech sector. The company said its models escaped a sandboxed testing environment, accessed the internet and exploited a vulnerability to gain entry to another company's systems. The models were trying to find information that they could use to cheat on an evaluation, and they succeeded, OpenAI said. The company that was breached, Hugging Face , operates an open-source developer platform. Hugging Face shared that an autonomous AI agent system breached part of its production infrastructure prior to revealing OpenAI's involvement. AI companies, including OpenAI, have been warning about the technology's advancing cyber capabilities, particularly since Anthropic released a model called Claude Mythos Preview in April. Following the incident, OpenAI said that AI is accelerating the discovery and exploitation of vulnerabilities, which means model security and safety need to keep up. The company said it is working to strengthen its \"containment, monitoring, access controls, and evaluation practices used during model development,\" and it's conducting a \"thorough investigation\" of the incident, according to a release . The hacking incident showed how powerful and resourceful autonomous AI agents have become. While in Washington, Altman is also expected to discuss the evolution of AI agents and their impact on worker productivity, the person said. He will explain the concept of \"AI teams,\" where multiple agents work together to carry out long-term tasks. WATCH: OpenAI model goes rogue: Here’s what you need to know",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-      "published_at": "2026-07-27T19:44:01+00:00",
-      "event_type": "black_swan",
-      "severity": "major",
-      "sentiment": -0.6,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "geopolitical",
-        "growth",
-        "macro",
-        "market",
-        "safe_haven",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.992,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "1a16e7d37ac89c150745",
-      "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
-      "summary": "OpenAI is in discussions with Nvidia about a backstop of up to $250 billion that would help fund its plans to lease a new AI data center, CNBC has confirmed. The backstop would let OpenAI raise debt for a 10-gigawatt data center campus in Pike County, Ohio, on the strength of Nvidia's credit, according to a person with knowledge of the matter. The talks about the site and its financing are in progress and still subject to change, sources said. OpenAI is in discussions with Nvidia about a backstop of up to $250 billion that would help fund its ambitious plans to lease a massive new artificial intelligence data center, CNBC confirmed. The backstop would let OpenAI raise debt for a 10-gigawatt data center campus in Pike County, Ohio , on the strength of Nvidia's credit, according to a person familiar with the discussions who asked not to be named because the details are confidential. The guarantee would cover the lease and construction debt, not the Nvidia chips inside, which the two companies are discussing separately, the person said. Nvidia declined to comment. The Wall Street Journal was first to report the negotiations about the $250 billion backstop. The large site in Ohio once functioned as a uranium-enrichment plant, the person said. A gigawatt is a measure of power, and 10 gigawatts is roughly equivalent to the annual power consumption of 8 million U.S. households , according to a CNBC analysis of data from the Energy Information Administration. The data center campus could cost more than $500 billion in total, the person said. The talks about the site and its financing are in progress and still subject to change, according to another person familiar with the plans who asked not to be named due to confidentiality. OpenAI kick-started the AI boom with the launch of its ChatGPT chatbot in 2022, and has been racing to secure the computing power it deems necessary to meet future demand for its models and services as it faces heightened competition from the likes of Anthropic , Google , Amazon and Meta . Those companies are collectively spending hundreds of billions of dollars on capex to support their own AI infrastructure ambitions. In September, Nvidia said it would invest up to $100 billion in OpenAI as part of a strategic partnership where the company would deploy at least 10 gigawatts of Nvidia systems. That investment never materialized, though Nvidia contributed $30 billion to the record-breaking funding round that OpenAI closed in March. Nvidia CEO Jensen Huang said it \" might be the last time \" the company invests in OpenAI before it goes public. OpenAI confidentially filed for an initial public offering with the Securities and Exchange Commission in June, but has not disclosed an official timeline for its debut. OpenAI is now valued at nearly $1 trillion by private investors betting that the company will maintain its lead in AI and find a long-term workable business model, which faces increased uncertainty as a host of open-weight alternatives , largely out of China, threaten to undercut its pricing power. SoftBank and SB Energy are developing the Ohio data center campus in partnership with the U.S. Department of Energy. SoftBank is a major investor in OpenAI, and the two companies announced plans to invest $1 billion in SB Energy earlier this year. — CNBC's Kristina Partsinevelos and Lora Kolodny contributed to this story WATCH: OpenAI chairman Bret Taylor on AI tokenomics, token efficiency",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-      "published_at": "2026-07-27T19:26:56+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.986,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -341,7 +1390,7 @@
     {
       "event_id": "cb1e27e0e88a14266c55",
       "title": "Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory framework",
-      "summary": "To join the CNBC Technology Executive Council, go to cnbccouncils.com/tec The states, Congress, and the private sector have issued thousands of proposals for how to govern AI. Not a single proposal is attempting to establish a durable, comprehensive future-focused regulatory framework. The SEC's operating model is a good example of how to create a national regulatory body to oversee AI. Every several weeks, we hear reports of mind-expanding new capabilities from the AI community. With excitement and dread, we try to extrapolate what this will mean for mankind and society: speculating which jobs will disappear, which jobs will appear, and when computers will outreason humans. These topics have become part of our everyday conversation. Less noticed, but fundamentally important, is a simultaneous number of government announcements of new regulatory actions. The states have over 1,500 bills under consideration. Congress has hundreds, the executive branch has dozens of executive actions, and market participants have a diverse set of views on how the AI industry should be regulated. I once thought that this AI revolution could be governed by the invisible hand of the market. These nearly 2,000 proposals tell us that is not possible. While many of these proposed policy changes are thoughtful, needed, and a good step forward, they in totality are not sufficient. The common denominator is that they are all focused on a piece of today's problem. Not a single proposal is attempting to establish a durable, comprehensive future-focused regulatory framework. National regulatory bodies have traditionally been established after a crisis. The SEC was established after the crash of 1929 and the Nuclear Regulatory Commission (NRC) was established after the partial meltdown at Three Mile Island. Let us not wait for a crisis to happen during this AI revolution. We need policymakers to proactively step forward and establish a national regulatory body with the broad mandate to properly oversee the AI revolution for today's and tomorrow's opportunities and problems. The establishment of a national regulatory body is not a panacea. You could argue that a so-called A.I.R. commission, as AI impacts all areas of society, will have the most dynamic mandate. Regulators tend to over-regulate and continued congressional, executive, judicial and public oversight is critical. The AI revolution is a global race and the balance of an innovation led market with proper regulation is a Herculean task that we must master. However, I would offer up one aspect of the SEC's operating model as a partial way forward. Before joining Nasdaq, I ran an entrepreneurial software company. Speed to market was paramount and we would update our product as rapidly as possible. At Nasdaq, I was shocked to learn that to implement improvements to the core exchange technology, SEC rules mandated that we submit the details of these changes to the SEC, which would in turn publish them for comment and subsequent review. The fact that all your competitors would know exactly what was included in your next release was entirely uncomfortable. In the fullness of time, the result of this operating method is the fact that U.S. capital markets are the best in the world. The SpaceX IPO was only possible on the U.S. market. I am positive the public comments received on major changes to an LLM model will dwarf by orders of magnitude the comments received on changes to an exchange order type. In advocating for a national regulator for AI, I am not sure if I am stating that this is the greater good or the lesser evil, but I do know it is only the beginning. As the AI revolution advances, the regulatory apparatus must also change. The SEC of 2026 is a faint echo of what was created in 1934. I am certain that any regulatory effort, in the short term, will hinder progress, but in the long term, the proper rules of the road will create conditions for the greater good. —By Bob Greifeld , managing director and co-founder at Cornerstone Financial Technology, and a CNBC contributor More In Technology Executive Council",
+      "summary": "AI can't be regulated by the invisible hand of the market. We need a comprehensive future-focused regulatory framework.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -367,7 +1416,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.985,
+      "recency_weight": 0.929,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -409,7 +1458,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.984,
+      "recency_weight": 0.928,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -428,23 +1477,21 @@
     {
       "event_id": "98847ad4f993c3abfa22",
       "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
-      "summary": "Crypto stocks rallied Monday even as the broader market declined. Bitcoin mining companies, most of which have recently expanded their operations to capture the AI opportunity, also pulled back. Chip and AI infrastructure stocks were under pressure as concern spread over circular financing, fueling a rotation into alternative themes, including crypto. Crypto stocks were some of the top gainers Monday as the broader market sold off and capital rotated away from chip and AI infrastructure names. Bitmine Immersion led the group, surging 11% after the ether accumulator increased its holdings of the cryptocurrency by nearly 10,000 coins worth about $19.4 million at current prices, according to a Monday update . Fellow ETH treasury firm Sharplink Gaming jumped 6%. Bitcoin treasury pioneer Strategy was up 7% after it added to its cash buffer for a fifth straight week rather than buy bitcoin. Coinbase Global, BitGo and Figure Technology were all up between 4% and 6%. Stablecoin issuer Circle Internet Group gained 2% after announcing it has acquired IBM's portfolio of more than 1,000 blockchain-related patents worldwide. It did not disclose details of the acquisition. The sector-wide move came amid a sharp sell-off in oil prices, lower Treasury yields and continued risk-off approach to memory chip stocks and other, direct AI plays. \"Today's weakness partly reflects concern around capex requirements and whether companies across the miner-to-AI group may need to raise incremental capital at higher costs to fund their development pipelines,\" Donovan told CNBC. Chip and AI infrastructure stocks were under pressure as concern over circular financing spread, along with intensifying competition from Chinese semiconductor companies. The resulting risk repricing accelerated capital rotation into alternative themes, including crypto, said Owen Lau, analyst at ClearStreet. AI-exposed bitcoin miners were uniformly in the red. Cipher Mining led the group with an 8% decline. Hut 8 and Terawulf fell 6% and 4%, respectively. The weakness even extended to pure play bitcoin miners. Riot Platforms lost 5%, Mara Holdings sank 3% and CleanSpark was lower by 4%. Core Scientific , which has mostly pivoted away from bitcoin mining, was down 9%. Nvidia's reported discussions to provide financial support for OpenAI's plan to lease a new AI data center in Ohio underscored the growing role of credit in enabling the AI investment, said Michael Donovan, senior research analyst at Compass Point. Most publicly traded bitcoin miners are increasingly valued by investors as owners of digital infrastructure rather than merely producers of bitcoin, given their power capacity, data center assets and energy contracts. As a result, even pure-play bitcoin miners like Mara Holdings and Riot Platforms can sell off alongside AI-exposed miners. These names often trade together, through thematic baskets, sector ETFs and algorithmic positioning that creates broad moves across the whole mining sector. \"Some investors are questioning whether credit appetite for these projects is approaching its limits and which developers can fund their pipelines without meaningful dilution, expensive debt or additional support from customers and strategic partners,\" Donovan added. \"That may create a near-term overhang for the group, even though we continue to view the base compute infrastructure segment of AI as attractive and structurally supply-constrained.\" Bitcoin itself was little changed, standing below the $65,000 level. Ether was higher by more than 1% at about $1,900.",
+      "summary": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and capital rotated away from chip and AI infrastructure names.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
       "published_at": "2026-07-27T19:14:30+00:00",
-      "event_type": "energy",
+      "event_type": "technology",
       "severity": "moderate",
       "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
-        "energy",
         "growth",
         "macro",
         "market",
-        "oil",
         "semiconductor",
         "tech"
       ],
@@ -455,8 +1502,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.982,
+      "impact_score": 5.52,
+      "recency_weight": 0.927,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -467,7 +1514,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -477,78 +1523,29 @@
     {
       "event_id": "95e1a5b2fcee1aecf845",
       "title": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu and Ukrainian President Volodymyr Zelenskyy are among the world leaders planning to come to Washington for the Sen. Lindsey Graham's funeral. While visiting, both leaders plan to meet with President Donald Trump. Netanyahu last came to Washington mid- February, just weeks before the breakout of the Iran war. Graham will have two funerals, on Tuesday and Wednesday. The first will be in Washington, and then his remains will be transported to his home state of South Carolina for another service. Politicians and world leaders including Israeli Prime Minister Benjamin Netanyahu are gathering in Washington to meet with President Donald Trump while in town to honor the late Sen. Lindsey Graham at his funeral service Tuesday. At Trump 's invitation, Netanyahu flew to Washington on Monday for the service, his office announced. Ukrainian President Volodymyr Zelenskyy also plans to attend the Washington funeral, a White House official confirmed. Both leaders are planning to meet with Trump during their respective visits. These meetings could give Netanyahu and Zelenskyy a chance to push their agendas on Trump amid global conflicts in the Middle East and Ukraine. Each man has had previous successes securing Trump's buy-in for their positions in previous direct conversations. For Zelenskyy, the visit comes as U.S. and Ukrainian officials have been discussing new peace proposals to end the war in Ukraine, which began with Russia's 2022 full-scale invasion . Trump plans to discuss these topics during his meeting, a White House official confirmed. For Netanyahu, who last came to Washington in February, the meeting is a chance to discuss the Iran war — where fighting is currently at a halt. Monday marks the third day since any U.S. strikes have been reported in Iran, and the two countries appear to be holding to a pause in hostilities. The two conflicts overlapped over the weekend when Ukraine killed a sailor after its military struck an Iranian commercial vessel in the Caspian Sea. The vessel was transporting weapons to aid Russia, Kyiv said. Tehran, however, described the incident as a \"hostile and criminal act.\" Iranian Foreign Minister Abbas Araghchi said in an X post Sunday that Israel was the driver in the Ukrainian attack. When asked by reporters on Monday why he is meeting with Netanyahu and whether they are aligned on the Iran war, Trump said, \"We have a little difference, but pretty close.\" According to a White House official, who spoke on condition of anonymity to discuss the meeting plans, in addition to the conflict in Iran, Trump will discuss the trilateral framework agreement between Israel and Lebanon and broadening the Abraham Accords during his meeting with Netanyahu. Netanyahu plans to discuss Israel's security and strength with Trump, he wrote in an X post on Monday. \"Our goal is clear: to safeguard Israel's security, strengthen its power, and expand the circle of peace around us,\" he said in his post. He also wrote that he will pay his respects to Graham during his visit, who he described as a \"true friend.\" Netanyahu said in a separate X post after Graham's death that the late senator, who served on the Foreign Relations Committee, \"understood that the security of Israel and America are inseparable.\" Graham died right after he had returned from a trip to Ukraine where he was meeting with Zelenskyy about U.S. sanctions on Russia. He died of an aortic dissection the evening of July 11, CNBC previously reported . Zelenskyy was \"deeply saddened\" to learn of the news, he said in a July 12 post on X . \"He visited Ukraine ten times during the years of Russia's full-scale invasion and was here with our people when it was most needed,\" Zelenskyy said. \"We remained in constant dialogue, and I will miss our conversations.\" Zelenskyy also praised Graham as an advocate for \"bipartisan and bicameral support for Ukraine.\" Graham's Washington funeral service will be on Tuesday at the Washington National Cathedral. After that, his remains will be transported to his home state of South Carolina for a second service on Wednesday. On Tuesday, Air Force servicemembers will carry Graham's remains into the Capitol where he will be recognized for his years of public service, his office announced . Graham's remains will then be transported for the cathedral funeral service, which will include an address from Trump. Members of the public can view both ceremonies via livestream, according to Graham's office. On Wednesday, there will be a funeral procession outside South Carolina's statehouse in Columbia, where members of the public are invited to pay their respects. The event will include an F-16 flyover from the 169th Fighter Wing of the McEntire Joint National Guard Base and a law enforcement presentation, Graham's office said. The late senator was an Air Force veteran. The procession will be followed by a funeral service at the First Baptist Church of Columbia.",
+      "summary": "The funeral for Sen. Lindsey Graham is bringing world leaders to Washington at a time when many are eager to meet with President Donald Trump amid wars.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
       "published_at": "2026-07-27T19:08:10+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "geopolitical",
-        "gold",
         "macro",
-        "market",
-        "oil",
-        "safe_haven"
+        "market"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "regime",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.98,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ed84e42f33533a083b99",
-      "title": "‘I know what he wants to do,’ Trump says of Fed’s Warsh, as president presses for rate cuts",
-      "summary": "New Federal Reserve Chair Kevin Warsh “wants to do the right thing” but is facing a Fed board that might oppose him, the president said.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-know-what-he-wants-to-do-trump-says-of-feds-warsh-as-president-presses-for-rate-cuts-edaa115e?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T19:06:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.45,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 13.8,
-      "recency_weight": 0.98,
+      "impact_score": 1.84,
+      "recency_weight": 0.925,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -559,56 +1556,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "07810c566aea1c636697",
-      "title": "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week",
-      "summary": "An event contract projects over 50% odds that Warsh will mention \"shock\", along with a 74% chance that he will say \"oil\". The event contract is one of the leading mention markets on the prediction market platform as of Monday afternoon and will be resolved from what Warsh says at July's press conference. June's Federal Open Market Committee meeting ended with a much shorter statement from the Federal Reserve, and with Chairman Kevin Warsh not giving a forecast on the outlook for rates. It's likely he will continue a tight-lipped approach this week, as Kalshi traders point to potential words the recently minted central bank leader will mention. An event contract asking what Warsh will say in the next press conference shows over 50% odds that the Fed chief will mention the word \"shock\", along with a 74% chance that he will say \"oil\". The event contract is one of the leading mention markets on the platform as of Monday afternoon — and will be resolved based on what Warsh says at a press conference set for Wednesday at 2:30 p.m. ET. This week's Fed meeting, along with the contract on which words Warsh will utter this week, come after Iran and the U.S. paused their fighting. Last week, both countries exchanged attacks, briefly pushing Brent crude back above $100 per barrel. The halt took the air out the oil gains, with Brent trading back below $89 on Monday. Though Kalshi traders see a likelihood of Warsh referring to an energy supply shock, Bank of America on Monday said it is \"textbook policy\" for the central bank to ignore responding to it. The Fed is largely expected to keep its overnight benchmark rate unchanged, per the CME Group's FedWatch tool. Evercore ISI noted that, \"It would be odd to [hike rates] right after the better June inflation print given an uncomplicated path to hike in September if needed.\" \"But we cannot take the probability too low given Warsh's refusal to set out his strategy, and renewed US-Iran conflict that has revived the energy shock and pushed up yields,\" the firm added. One Kalshi contract, asking traders what will be the Fed decision in July, projects a nearly 75% chance that the Fed will maintain rates at current levels. To be sure, odds of a rate hike this week have increased to around 38% from 16% last week, per FedWatch. Similarly, another Kalshi contract asking when the next Fed hike will be, shows 68% odds of one taking place this year. Both Kalshi contracts on potential rates will be verified by the Federal Reserve. Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
-      "published_at": "2026-07-27T18:58:23+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": -0.5,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 13.8,
-      "recency_weight": 0.977,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -643,7 +1590,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.976,
+      "recency_weight": 0.922,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -690,7 +1637,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.971,
+      "recency_weight": 0.917,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -737,7 +1684,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.971,
+      "recency_weight": 0.916,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -781,7 +1728,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.969,
+      "recency_weight": 0.915,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -799,50 +1746,9 @@
       }
     },
     {
-      "event_id": "533477776347e50a45d0",
-      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "summary": "“I own my home outright, have no children or other dependents.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T18:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.968,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
       "event_id": "2b105b400bc91e31ba30",
       "title": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
-      "summary": "President Donald Trump called Fed Chairman Kevin Warsh \"fantastic\" but wasn't as complimentary to the central bank leader's fellow officials. Some Fed policymakers \"are very political\" and \"perhaps have bad intentions\" the president told reporters aboard Air Force One. The comments come two days before the Fed's next interest rate decision. Trump said the U.S. \"should have the lowest interest rates in the world.\" President Donald Trump on Monday voiced support for Federal Reserve Chairman Kevin Warsh while insisting that the U.S. should have the lowest interest rates in the world. While backing his choice to lead the central bank, Trump questioned the motives of other members of the Fed's Board of Governors for not wanting to ease monetary policy. \"Kevin's fantastic, but he's got a board, and the board members are very political, I would say,\" the president said during a session with reporters on Air Force One. \"He wants to do the right thing. I know what he wants to do.\" The president's comments came two days before the bank's Federal Open Market Committee, or FOMC, releases its latest interest rate decision. Markets are pricing in a strong chance that officials will vote to stay on hold, as they have all year, though they're leaving open about a 1-in-3 chance of quarter percentage point hike, according to the CME Group's FedWatch tool. Several Fed officials in recent days have expressed concern about persistently high inflation. Dallas Fed President Lorie Logan, a voting FOMC member this year, was the most explicit in calling for tighter policy , saying benchmark rates should be \"modestly higher.\" In his remarks, Trump, as he has done in the past, accused Fed officials of having ulterior motives. \"You need the consent of some people that have perhaps bad intentions. Rates should be lowered. This country could be at 8%, 9%, 10%, 12% [annualized growth of] GDP. That's what it should be,\" he said. \"We should have the lowest interest rate in the world, like it used to be 30 years ago,\" he added. The Fed's benchmark overnight borrowing rate is currently targeted in a range between 3.5%-3.75%, where it has been since the central bank lowered by three-quarters of a percentage point in second half of 2025. The rate is essentially the same as the Bank of England, but is above the 2.25% for the European Central Bank, Japan's 1% and China's 3%.",
+      "summary": "President Trump Monday voiced support for Federal Reserve Chairman Kevin Warsh while insisting that the U.S. should have the lowest interest rates in the world.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -867,7 +1773,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.964,
+      "recency_weight": 0.91,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -913,7 +1819,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.962,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -962,7 +1868,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.961,
+      "recency_weight": 0.907,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -974,50 +1880,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9a710c1676b8937cd75b",
-      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
-      "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
-      "published_at": "2026-07-27T18:03:47+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.96,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1056,7 +1918,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1069,88 +1931,6 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d03b7df27d544a7c1c4d",
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T18:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.959,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2f678235ce498077fafd",
-      "title": "Should you get paid to care for a family member?",
-      "summary": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T17:56:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.958,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1185,7 +1965,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.954,
+      "recency_weight": 0.9,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1227,7 +2007,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.954,
+      "recency_weight": 0.9,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1268,7 +2048,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.953,
+      "recency_weight": 0.899,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1285,8 +2065,8 @@
       }
     },
     {
-      "event_id": "860adedf79ab43477e78",
-      "title": "JPMorgan Sees S&P 500 Poised to Rally as New Buy Signal Flashes",
+      "event_id": "88d94dd22a829bdc3025",
+      "title": "JPMorgan Sees S&P 500 Set to Rally as a Buy Signal Flashes",
       "summary": "JPMorgan Chase &amp; Co.’s analysts said an in-house indicator is “now flashing a buy-signal” — something that has typically indicated the S&amp;P 500 Index is poised to gain.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
@@ -1309,48 +2089,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.952,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c46ab9ed5f08ed227787",
-      "title": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
-      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T17:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1391,7 +2130,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.896,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1432,48 +2171,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.949,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3bae280a18a2acd5c149",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T17:25:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.948,
+      "recency_weight": 0.895,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1514,7 +2212,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.946,
+      "recency_weight": 0.893,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1555,7 +2253,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.945,
+      "recency_weight": 0.892,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1596,7 +2294,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.945,
+      "recency_weight": 0.892,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1607,179 +2305,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "369891b53a46b1da34c2",
-      "title": "This small-cap fund is built to win the earnings-report games companies play",
-      "summary": "Brandon Nelson of Calamos Investments considers the earnings-season beat-and-raise pattern in identifying companies primed for sustainable growth and improving profit margins.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T16:48:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.937,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "71fbdfb31002b6d625ab",
-      "title": "SpaceX’s stock falls to a new low despite a near-flawless Starship flight",
-      "summary": "SpaceX’s earnings report next week could unleash a further wave of selling, as some insiders will soon be able to unload shares.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T16:36:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.934,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "255be759e96428261529",
-      "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
-      "summary": "“I have an IRA, a high-yield savings account, four CDs and checking and savings accounts.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T16:33:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.933,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "aadf20a55be3a899aad3",
-      "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
-      "summary": "Vasant Dhar built one of the first AI-driven hedge funds. Here’s what he wants investors to know about the technology.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T16:31:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.932,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1813,7 +2338,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.932,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1824,91 +2349,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "977bab88a0106880265f",
-      "title": "Paschi, Banco BPM Advisers Working on Deal With Cash Component",
-      "summary": "Advisers for Banca Monte dei Paschi di Siena SpA and Banco BPM SpA’s are in talks over a possible merger of equals, structured as a mix of shares and cash, as an alternative to Intesa Sanpaolo SpA’s €35 billion ($40 billion) bid for Monte Paschi, according to people familiar with the matter.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/paschi-banco-bpm-advisers-working-on-deal-with-cash-component",
-      "published_at": "2026-07-27T16:30:16+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.932,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c4ee8ffabd1c87f32765",
-      "title": "Oil Startup Backed by Ex-Goldman Commodity Chief Currie to IPO",
-      "summary": "Jeff Currie, the former Goldman Sachs Group Inc. commodities chief whose calls made him one of Wall Street’s best-known energy market strategists, is preparing to raise £50 million ($67 million) in a London stock market listing to build an oil producer in the Gulf of Mexico.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/oil-startup-backed-by-ex-goldman-commodity-chief-currie-to-ipo",
-      "published_at": "2026-07-27T16:29:57+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.2,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.932,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1943,7 +2383,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.931,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1955,88 +2395,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4c56c025a4a74056ca69",
-      "title": "Venezuela Creditor Group Expands Ahead of Debt Restructuring",
-      "summary": "A group of Venezuela bondholders is adding new members as it positions for long-awaited debt talks over what could be the biggest sovereign restructuring in more than a decade.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/venezuela-creditor-group-expands-ahead-of-debt-restructuring",
-      "published_at": "2026-07-27T16:13:17+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.927,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "42f1084277f931f86b23",
-      "title": "The Four Words Everyone in Tech Should Say",
-      "summary": "Lina Khan was right.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-27/the-four-words-everyone-in-tech-should-say",
-      "published_at": "2026-07-27T16:03:52+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.924,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2071,7 +2429,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.919,
+      "recency_weight": 0.867,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2117,7 +2475,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.896,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2129,47 +2487,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "abd6a64a508b90e25e86",
-      "title": "Tyson, JBS Shares Surge as US Reopens Mexico Cattle Imports After Screwworm Ban",
-      "summary": "Shares of meatpackers Tyson Foods Inc. and JBS NV surged after the US said it would resume cattle shipments from Mexico, easing a domestic shortage that has led to higher costs for their animals.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/tyson-jbs-shares-jump-as-us-to-resume-mexico-cattle-shipments",
-      "published_at": "2026-07-27T14:27:43+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.896,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2200,7 +2517,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.894,
+      "recency_weight": 0.844,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2241,7 +2558,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.894,
+      "recency_weight": 0.843,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2286,7 +2603,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.893,
+      "recency_weight": 0.843,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2326,7 +2643,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.888,
+      "recency_weight": 0.838,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2338,54 +2655,6 @@
           "能源/避险/通胀预期"
         ],
         "canonical_url": "https://www.eia.gov/rss/todayinenergy.xml",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f3fb420e41fda8b3ecf8",
-      "title": "Nvidia Credit Risk Jumps in Swaps Market on AI Deal Talks",
-      "summary": "The cost of protecting Nvidia Corp.’s debt against default surged by the most on record Monday, after reports of the chipmaker being in conversations on more than $750 billion of artificial intelligence infrastructure deals stoked fears about the company’s obligations.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-credit-risk-jumps-in-swaps-market-on-ai-deal-talk-reports",
-      "published_at": "2026-07-27T13:27:25+00:00",
-      "event_type": "credit",
-      "severity": "major",
-      "sentiment": -0.8,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "credit",
-        "growth",
-        "macro",
-        "market",
-        "safe_haven",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.879,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -2419,7 +2688,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.875,
+      "recency_weight": 0.826,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2461,7 +2730,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2507,7 +2776,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.87,
+      "recency_weight": 0.821,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2549,7 +2818,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.869,
+      "recency_weight": 0.82,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2593,7 +2862,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.859,
+      "recency_weight": 0.81,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2638,7 +2907,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.855,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2678,7 +2947,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.855,
+      "recency_weight": 0.806,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2719,7 +2988,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.851,
+      "recency_weight": 0.803,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2764,7 +3033,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.847,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2784,7 +3053,7 @@
     {
       "event_id": "ce5edaa40f87acad5754",
       "title": "US Stocks Erase Gains as Chipmakers Extend Losses to Third Day",
-      "summary": "US stocks fell on Monday, erasing an early morning rally as chipmakers weakened, putting the Philadelphia Semiconductor Index on pace for its third consecutive session of declines.",
+      "summary": "The S&amp;P 500 Index finished flat on Monday, erasing an early morning rally as chipmakers weakened, pushing the Philadelphia Semiconductor Index down for a third consecutive session.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2810,7 +3079,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.842,
+      "recency_weight": 0.794,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2862,7 +3131,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.839,
+      "recency_weight": 0.792,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2909,7 +3178,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.839,
+      "recency_weight": 0.792,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2955,7 +3224,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.838,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2967,49 +3236,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5405f6615ea9689051d6",
-      "title": "Apple options are doing something unusual into earnings",
-      "summary": "After going nowhere for seven months, Apple stock is up 20% since its late-June low and less than two dollars below a fresh all-time record.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/apple-options-are-doing-something-unusual-into-earnings.html",
-      "published_at": "2026-07-27T10:58:27+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.838,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3045,54 +3271,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.837,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "442a5082b6e7f7d973e6",
-      "title": "AI and Layoffs: How Companies Are Talking to Employees and Investors",
-      "summary": "What can you say to appeal to investors and employees at the same time?",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-27/ai-and-layoffs-how-companies-are-talking-to-employees-and-investors",
-      "published_at": "2026-07-27T10:44:05+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.834,
+      "recency_weight": 0.79,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3139,7 +3318,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.828,
+      "recency_weight": 0.781,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3185,7 +3364,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3227,7 +3406,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3244,31 +3423,35 @@
       }
     },
     {
-      "event_id": "48ab64f666d85b57d451",
-      "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-      "summary": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
-      "source": "CNBC Markets",
+      "event_id": "72758d63fc5dd4d2b52a",
+      "title": "CXMT Founder Zhu Yiming Pledges $5.6 Billion in Worker Bonuses After China IPO",
+      "summary": "Zhu Yiming just joined a growing number of billionaires who have amassed great wealth in the race between the US and China for global tech dominance.",
+      "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-      "published_at": "2026-07-27T08:46:51+00:00",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/cxmt-founder-zhu-yiming-pledges-5-6-billion-in-worker-bonuses-after-china-ipo",
+      "published_at": "2026-07-27T09:42:15+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
       ],
       "categories": [
         "market",
-        "broad_equity",
-        "macro"
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.803,
+      "recency_weight": 0.772,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3278,7 +3461,8 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好"
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3309,7 +3493,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.789,
+      "recency_weight": 0.745,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3320,52 +3504,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "03416236ab554dc8f13f",
-      "title": "Palantir Rival ChapsVision Wins French Spy Agency Contract as Trump Ties Fray",
-      "summary": "After nabbing a Palantir contract in France, ChapsVision aims to become a “European champion.”",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/features/2026-07-27/palantir-rival-chapsvision-wins-french-spy-agency-contract-as-trump-ties-fray",
-      "published_at": "2026-07-27T04:00:20+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.733,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3401,7 +3539,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.692,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3449,7 +3587,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.654,
+      "recency_weight": 0.618,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3494,7 +3632,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.653,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3506,47 +3644,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "1ab2aab1c60b75a2730c",
-      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-      "summary": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-      "published_at": "2026-07-26T17:11:36+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.595,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3575,7 +3672,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.393,
+      "recency_weight": 0.37,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3588,105 +3685,6 @@
           "国防/安全事件"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cafaaaabf3201d806ce4",
-      "title": "COHR SEC 4: FORM 4",
-      "summary": "COHERENT CORP. (COHR) filed SEC Form 4. Filing date: 2026-07-24. Form 4 detail: 07/22/2026 code S disposed 1,000 shares at $306.68; 67,475 shares held after. Report date: 2026-07-22. Description: FORM 4. Accession: 0000899140-26-000726.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/820318/000089914026000726/xslF345X06/form4.xml",
-      "published_at": "2026-07-24T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "4",
-        "ai",
-        "corporate",
-        "cpo",
-        "datacenter",
-        "growth",
-        "insider",
-        "networking",
-        "optical",
-        "sec",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "4",
-        "insider"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ce1ac3c6b80102e6c6ee",
-      "title": "STX SEC 4: FORM 4",
-      "summary": "Seagate Technology Holdings plc (STX) filed SEC Form 4. Filing date: 2026-07-24. Report date: 2026-07-22. Description: FORM 4. Accession: 0001137789-26-000150.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000150/xslF345X06/wk-form4_1784924313.xml",
-      "published_at": "2026-07-24T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "4",
-        "corporate",
-        "datacenter",
-        "growth",
-        "insider",
-        "memory",
-        "sec",
-        "semiconductor",
-        "storage",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "4",
-        "insider"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
         "fetch_status": "live"
       }
     }
@@ -4057,8 +4055,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 19,
-      "latest_published_at": "2026-07-27T19:18:56+00:00",
+      "recent_items": 20,
+      "latest_published_at": "2026-07-27T22:08:16+00:00",
       "warning": null
     },
     {
@@ -4067,7 +4065,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 19,
-      "latest_published_at": "2026-07-27T18:55:52+00:00",
+      "latest_published_at": "2026-07-27T20:06:25+00:00",
       "warning": null
     },
     {
@@ -4076,7 +4074,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-27T19:06:00+00:00",
+      "latest_published_at": "2026-07-27T22:30:00+00:00",
       "warning": null
     },
     {
@@ -4085,16 +4083,16 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-27T20:10:03+00:00",
+      "latest_published_at": "2026-07-27T22:23:50+00:00",
       "warning": null
     },
     {
       "name": "SEC EDGAR Submissions",
       "tier": "official",
       "enabled": true,
-      "status": "ok",
-      "recent_items": 2,
-      "latest_published_at": "2026-07-24T21:00:00+00:00",
+      "status": "quiet",
+      "recent_items": 0,
+      "latest_published_at": null,
       "warning": null
     }
   ],
