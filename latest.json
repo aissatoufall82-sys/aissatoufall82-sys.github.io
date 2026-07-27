@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T02:10:01.515070+00:00",
+  "generated_at": "2026-07-27T03:10:01.790578+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,17 +21,235 @@
   "environment": null,
   "events": [
     {
-      "event_id": "d3255852514ffa63b2f1",
-      "title": "China memory chipmaker CXMT skyrockets 470% in Shanghai debut",
-      "summary": "CXMT held a 7.67% share of the global DRAM market in 2025, according to its IPO prospectus. The Hefei-based company had raised 57.92 billion yuan ($8.6 billion) in its IPO. The company plans to use the IPO proceeds mainly for mass-producing memory wafers. The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share, making it Asia's biggest so far this year. CXMT shares surged to over 49 yuan apiece on open, giving the company a market cap of about 3.3 trillion yuan. Based on sales figures for the fourth quarter of 2025, CXMT held a 7.67% share of the global DRAM market in 2025, according to its IPO prospectus. DRAM chips are used in electronic devices ranging from smartphones to servers. Founded in 2016 by chairman Zhu Yiming, the company plans to use the IPO proceeds primarily for memory wafer mass production and R&D projects to boost its technological capabilities and core competitiveness, according to a Google translation of the information in the prospectus. CXMT's swung to an operating profit of 35.43 billion yuan in the first quarter from a loss of 2.83 billion yuan a year earlier, as it saw continued growth in global computing power demand and capacity allocation by major manufacturers. The listing comes at a time when CXMT has seen increased attention, following reports earlier this month that Apple has begun testing the Chinese chipmaker's DRAM for devices sold in China. The global DRAM market is dominated by Samsung Electronics, SK Hynix, and Micron Technology .",
+      "event_id": "3e8921cda00358af542a",
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+      "published_at": "2026-07-27T03:02:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5a7c070357dc9cb7a480",
+      "title": "Warjiyo’s Departure Raises Scrutiny on BI Policy, Analysts Say",
+      "summary": "Bank Indonesia Governor Perry Warjiyo’s resignation is expected to heighten uncertainty and volatility across the nation’s financial markets, with analysts citing concerns over policy direction and central bank independence.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/warjiyo-s-departure-raises-scrutiny-on-bi-policy-analysts-say",
+      "published_at": "2026-07-27T02:52:35+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.994,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b7b52dd4fca3a9ee18f7",
+      "title": "CATL Surges After Share Buyback Plan, Strong First-Half Profit",
+      "summary": "Contemporary Amperex Technology Co. Ltd. shares jumped in China after the world’s biggest electric-vehicle battery manufacturer unveiled a buyback plan following strong earnings for the first half.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/catl-surges-after-share-buyback-plan-strong-first-half-profit",
+      "published_at": "2026-07-27T02:35:40+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9c7c1fc6ab2f6ea0035c",
+      "title": "Trip.com Shares Jump in Hong Kong as Regulatory Overhang Clears",
+      "summary": "Trip.com Group Ltd. posted its biggest gain in nearly a year after the outcome of its antitrust investigation largely matched expectations, lifting a key overhang on the stock even as the company was hit with a hefty fine.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/trip-com-shares-jump-in-hong-kong-as-regulatory-overhang-clears",
+      "published_at": "2026-07-27T02:30:51+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "74b1e0e9ef19c91b5b57",
+      "title": "India Retail Investors Cash Out as Foreign Buying of Stocks Resumes",
+      "summary": "Selling by retail investors could limit potential upside in the Nifty benchmark.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-27/india-retail-investors-cash-out-as-foreign-buying-of-stocks-resumes",
+      "published_at": "2026-07-27T02:30:16+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "0501bba096d594a1efdf",
+      "title": "China memory chipmaker CXMT skyrockets 470% in blockbuster Shanghai debut",
+      "summary": "CXMT held a 7.67% share of the global DRAM market in 2025, according to its IPO prospectus. The Hefei-based company had raised 57.92 billion yuan ($8.6 billion) in its IPO. The company plans to use the IPO proceeds mainly for mass-producing memory wafers. The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share, making it Asia's biggest so far this year. CXMT shares surged to over 49 yuan apiece on open, giving the company a market cap of about 3.3 trillion yuan. Based on sales figures for the fourth quarter of 2025, CXMT held a 7.67% share of the global DRAM market in 2025, according to its IPO prospectus. DRAM chips are used in electronic devices ranging from smartphones to servers. The global DRAM market is dominated by Samsung Electronics, SK Hynix, and Micron Technology . \"I have no doubt the company is going to grow to be a global leader. It's maybe just a question of time that it can be not only a challenger, it can be a global champion in this particular sector,\" said Theodore Shou, CEO at Yiyi Capital on CNBC's \" Squawk Box Asia .\" The listing comes at a time when CXMT has seen increased attention, following reports earlier this month that Apple has begun testing the Chinese chipmaker's DRAM for devices sold in China. CXMT swung to an operating profit of 35.43 billion yuan in the first quarter from a loss of 2.83 billion yuan a year earlier, as it saw continued growth in global computing power demand and capacity allocation by major manufacturers. \"A 470% performance on day one isn't that rare. What's very prominent in this particular case is a company of this size performing so well,\" Shou said. In the past, such performance was primarily driven by smaller-cap companies, he said, adding that for CXMT, the relatively limited free float on day one, combined with the built-up market sentiment, were key factors driving the surge. Founded in 2016 by Chairman Zhu Yiming, the company plans to use the IPO proceeds primarily for memory wafer mass production and R&D projects to boost its technological capabilities and core competitiveness, according to a Google translation of the information in the prospectus.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
-      "published_at": "2026-07-27T02:04:07+00:00",
+      "published_at": "2026-07-27T02:22:32+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.0,
+      "sentiment": 0.55,
       "affected_tags": [
         "ai",
         "broad_equity",
@@ -50,10 +268,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "isolated",
+      "forward_significance": "trend_confirmation",
       "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.998,
+      "impact_score": 6.9,
+      "recency_weight": 0.985,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -103,7 +321,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.997,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -123,8 +341,55 @@
       }
     },
     {
-      "event_id": "4b945eef41a5bd043b85",
-      "title": "China’s Industrial Profit Growth Slows to Weakest Pace This Year",
+      "event_id": "81f80b2a31a6a8584e9d",
+      "title": "Instagram, Facebook Ran AI ‘Nudify’ Ads from China, Report Says",
+      "summary": "Meta Platforms Inc.’s Facebook and Instagram have served thousands of ads for AI “nudify” apps in breach of the company’s policies, delivered by one of its few advertising partners in China, according to the nonprofit Tech Transparency Project.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
+      "published_at": "2026-07-27T02:00:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5ada8f21f10b701f23b3",
+      "title": "China’s Industrial Profit Growth Slows to Weakest This Year",
       "summary": "China’s industry saw profit gains slow for a second month, adding to evidence of an uneven recovery for companies across parts of the world’s second-biggest economy.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
@@ -152,7 +417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.991,
+      "recency_weight": 0.972,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -198,7 +463,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.96,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -245,7 +510,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.978,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -257,58 +522,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f4183912873a33d55e55",
-      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-      "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T00:57:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.977,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -339,7 +552,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.974,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -380,7 +593,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.973,
+      "recency_weight": 0.955,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -432,7 +645,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.97,
+      "recency_weight": 0.951,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -475,7 +688,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.969,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -524,7 +737,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.959,
+      "recency_weight": 0.94,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -566,7 +779,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.958,
+      "recency_weight": 0.939,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -612,7 +825,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.956,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -654,7 +867,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.953,
+      "recency_weight": 0.935,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -700,7 +913,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -742,7 +955,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -783,7 +996,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -829,7 +1042,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -879,7 +1092,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.937,
+      "recency_weight": 0.919,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -925,7 +1138,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.933,
+      "recency_weight": 0.916,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -943,9 +1156,9 @@
       }
     },
     {
-      "event_id": "5460b4c40a142b771ffb",
-      "title": "Oil Declines, Bonds Rally as US-Iran Tensions Ease: Markets Wrap",
-      "summary": "Oil dropped and bonds climbed as the US and Iran refrained from retaliatory strikes, easing concerns over potential disruptions to Middle East energy supplies after a recent escalation in the conflict.",
+      "event_id": "2abbb858254133b5e0da",
+      "title": "Oil Drops, Bonds Rise as US-Iran Tensions Ease: Markets Wrap",
+      "summary": "Oil dropped and bonds climbed as the US and Iran refrained from further strikes, easing concerns over disruptions to Middle East energy supplies.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -969,7 +1182,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.926,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -989,7 +1202,7 @@
     {
       "event_id": "ed6d111e20c07c8a1d80",
       "title": "Latest Oil Market News and Analysis for July 27",
-      "summary": "⁠⁠Oil sank after the US paused strikes against Iran, easing Middle East tensions even as the Houthis claimed attacks against Saudi targets.",
+      "summary": "⁠⁠Oil sank after the US paused strikes against Iran, easing tensions even as the Houthis claimed attacks against Saudi targets.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1013,7 +1226,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.924,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1055,7 +1268,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1100,7 +1313,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1146,7 +1359,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.903,
+      "recency_weight": 0.885,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1188,7 +1401,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1229,7 +1442,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.88,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1272,7 +1485,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.875,
+      "recency_weight": 0.859,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1314,7 +1527,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1360,7 +1573,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.871,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1402,7 +1615,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.863,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1447,7 +1660,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.852,
+      "recency_weight": 0.835,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1494,7 +1707,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.841,
+      "recency_weight": 0.825,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1536,7 +1749,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.807,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1581,7 +1794,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.803,
+      "recency_weight": 0.787,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1627,7 +1840,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.793,
+      "recency_weight": 0.778,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1673,7 +1886,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1719,7 +1932,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1762,7 +1975,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1808,7 +2021,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.784,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1828,7 +2041,7 @@
     {
       "event_id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1854,7 +2067,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.784,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1901,7 +2114,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.776,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1944,7 +2157,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.776,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1985,7 +2198,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.769,
+      "recency_weight": 0.754,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2029,7 +2242,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.769,
+      "recency_weight": 0.754,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2079,7 +2292,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.765,
+      "recency_weight": 0.751,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2122,7 +2335,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.761,
+      "recency_weight": 0.747,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2163,7 +2376,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.755,
+      "recency_weight": 0.74,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2208,7 +2421,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.665,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2250,7 +2463,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.634,
+      "recency_weight": 0.622,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2289,7 +2502,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.555,
+      "recency_weight": 0.545,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2330,7 +2543,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.522,
+      "recency_weight": 0.512,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2371,7 +2584,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.506,
+      "recency_weight": 0.497,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2412,7 +2625,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.502,
+      "recency_weight": 0.493,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2457,7 +2670,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.499,
+      "recency_weight": 0.489,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2499,7 +2712,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.494,
+      "recency_weight": 0.484,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2540,7 +2753,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.484,
+      "recency_weight": 0.475,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2585,7 +2798,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.48,
+      "recency_weight": 0.47,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2633,7 +2846,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.48,
+      "recency_weight": 0.47,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2679,7 +2892,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.451,
+      "recency_weight": 0.442,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2721,7 +2934,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.398,
+      "recency_weight": 0.39,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2762,7 +2975,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.36,
+      "recency_weight": 0.353,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2812,7 +3025,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.359,
+      "recency_weight": 0.352,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2861,7 +3074,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.359,
+      "recency_weight": 0.352,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2902,7 +3115,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.352,
+      "recency_weight": 0.345,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2943,7 +3156,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.35,
+      "recency_weight": 0.343,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2984,7 +3197,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.349,
+      "recency_weight": 0.342,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3025,7 +3238,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.346,
+      "recency_weight": 0.34,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3064,7 +3277,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.314,
+      "recency_weight": 0.308,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3104,7 +3317,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.296,
+      "recency_weight": 0.291,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3503,8 +3716,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 16,
-      "latest_published_at": "2026-07-27T00:46:23+00:00",
+      "recent_items": 20,
+      "latest_published_at": "2026-07-27T02:52:35+00:00",
       "warning": null
     },
     {
@@ -3512,8 +3725,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 9,
-      "latest_published_at": "2026-07-27T01:41:54+00:00",
+      "recent_items": 10,
+      "latest_published_at": "2026-07-27T02:00:00+00:00",
       "warning": null
     },
     {
@@ -3522,7 +3735,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-27T00:57:00+00:00",
+      "latest_published_at": "2026-07-27T03:02:00+00:00",
       "warning": null
     },
     {
@@ -3531,7 +3744,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-07-27T02:04:07+00:00",
+      "latest_published_at": "2026-07-27T02:22:32+00:00",
       "warning": null
     },
     {
