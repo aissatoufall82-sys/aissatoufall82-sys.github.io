@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T01:10:23.031243+00:00",
+  "generated_at": "2026-07-27T02:10:01.515070+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,248 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "d3255852514ffa63b2f1",
+      "title": "China memory chipmaker CXMT skyrockets 470% in Shanghai debut",
+      "summary": "CXMT held a 7.67% share of the global DRAM market in 2025, according to its IPO prospectus. The Hefei-based company had raised 57.92 billion yuan ($8.6 billion) in its IPO. The company plans to use the IPO proceeds mainly for mass-producing memory wafers. The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share, making it Asia's biggest so far this year. CXMT shares surged to over 49 yuan apiece on open, giving the company a market cap of about 3.3 trillion yuan. Based on sales figures for the fourth quarter of 2025, CXMT held a 7.67% share of the global DRAM market in 2025, according to its IPO prospectus. DRAM chips are used in electronic devices ranging from smartphones to servers. Founded in 2016 by chairman Zhu Yiming, the company plans to use the IPO proceeds primarily for memory wafer mass production and R&D projects to boost its technological capabilities and core competitiveness, according to a Google translation of the information in the prospectus. CXMT's swung to an operating profit of 35.43 billion yuan in the first quarter from a loss of 2.83 billion yuan a year earlier, as it saw continued growth in global computing power demand and capacity allocation by major manufacturers. The listing comes at a time when CXMT has seen increased attention, following reports earlier this month that Apple has begun testing the Chinese chipmaker's DRAM for devices sold in China. The global DRAM market is dominated by Samsung Electronics, SK Hynix, and Micron Technology .",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+      "published_at": "2026-07-27T02:04:07+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "datacenter",
+        "growth",
+        "macro",
+        "market",
+        "memory",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "da33e541f9581aec8883",
+      "title": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
+      "summary": "China's industrial profits rose 15.1% in June from a year earlier, slowing for a second straight month. Industrial corporate earnings have rebounded this year, thanks to an AI-fueled boom in chip and equipment manufacturing. Economists expect stronger easing language without a significant stimulus package from the anticipated Politburo meeting this week. China's industrial profits rose 15.1% in June from a year earlier, according to data released Monday by the National Bureau of Statistics, slowing for a second straight month as easing energy prices took the edge off the price gains that had driven this year's rebound. The June figure extended a two-month deceleration, after May's 21.1% gain marked the first slowdown since November. For the first half of this year, profits climbed 18.7%, slowing from the 18.8% pace recorded in the January-May period . Industrial corporate earnings have staged a notable turnaround this year, swinging from barely positive growth in 2025 to double-digit gains, as an artificial intelligence-fueled boom in chip and equipment manufacturing coincided with the end of nearly three years of factory-gate deflation. The recovering profit has also been helped by a favorable comparison with last year. Earnings fell 3.6% in June last year and declined 2.8% in the first half of 2025. Factory-gate prices also rose 3.6% year on year in the second quarter, the first positive reading since late 2022. That reflation boost appears wobbly, as much of the price recovery was driven by surging global energy costs, while domestic demand lags, economists say. Producer prices dipped 0.3% month-on-month in June, the first decline since July 2025, according to LSEG data, as normalizing tanker flows through the Strait of Hormuz pulled oil, refined-fuel, and petrochemical prices lower. Investors will now turn to the Communist Party's Politburo meeting, traditionally held in late July, where top leaders will review first-half performance and set policy direction for the rest of the year. Economists anticipate stronger easing language after the second-quarter slowdown, though expectations for a large stimulus package remain low, as Beijing refrains from more forceful action given resilient exports and its focus on curbing excess factory capacity. \"The Politburo is likely to make policy support mildly more urgent, prioritizing faster fiscal rollout,\" said Robin Xing, chief China economist at Morgan Stanley, pegging their baseline as a \"gradual policy ramp-up rather than a one-off stimulus push.\" \"Growth should stay resilient thanks to exports, even as domestic demand lags,\" Xing said, citing the AI-driven investment cycle — in which China is a key hardware supplier — and a broader Asian industrial capex super-cycle that is now unfolding.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html",
+      "published_at": "2026-07-27T02:02:04+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4b945eef41a5bd043b85",
+      "title": "China’s Industrial Profit Growth Slows to Weakest Pace This Year",
+      "summary": "China’s industry saw profit gains slow for a second month, adding to evidence of an uneven recovery for companies across parts of the world’s second-biggest economy.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-industrial-profit-growth-slows-to-weakest-pace-this-year",
+      "published_at": "2026-07-27T01:41:54+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "corporate",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "62b8c73b072f7dfb954b",
+      "title": "SK Hynix Listing Emboldens Korea’s Drive to Repatriate Dollars",
+      "summary": "A strong rebound in the won driven in part by SK Hynix Inc.’s record US listing has given South Korean authorities fresh impetus to prod exporters to repatriate their overseas dollars.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/sk-hynix-listing-emboldens-korea-s-drive-to-repatriate-dollars",
+      "published_at": "2026-07-27T01:01:37+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9fba89e921c4d391c3fd",
+      "title": "China’s Moonshot to Release Breakthrough AI Model for Download",
+      "summary": "Moonshot AI is poised to make its Kimi K3 model available for public download, expanding its reach and influence in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download",
+      "published_at": "2026-07-27T01:00:35+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "f4183912873a33d55e55",
       "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
@@ -54,7 +296,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.996,
+      "recency_weight": 0.977,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -97,7 +339,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.992,
+      "recency_weight": 0.974,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "0d75d9c59f92f722c24f",
+      "title": "Blackstone Unit to Buy HSBC’s Australian Loan Book, AFR Says",
+      "summary": "Blackstone Inc.’s private credit division is set to buy HSBC Holdings Plc’s A$30 billion-plus ($21 billion) Australian loan book, the Australian Financial Review reports.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/blackstone-unit-to-buy-hsbc-s-australian-loan-book-afr-says",
+      "published_at": "2026-07-27T00:45:58+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -149,7 +432,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.989,
+      "recency_weight": 0.97,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -192,7 +475,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.988,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -241,7 +524,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.977,
+      "recency_weight": 0.959,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -283,7 +566,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.976,
+      "recency_weight": 0.958,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -329,7 +612,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.975,
+      "recency_weight": 0.956,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -371,7 +654,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.971,
+      "recency_weight": 0.953,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -417,7 +700,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.969,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -459,7 +742,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.968,
+      "recency_weight": 0.95,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -500,7 +783,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -517,9 +800,9 @@
       }
     },
     {
-      "event_id": "17f440aa78a1cde48b3b",
-      "title": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO",
-      "summary": "CXMT Corp. is set to begin trading in Shanghai on Monday after raising 66.6 billion yuan ($9.8 billion) in the second-largest initial public offering in China’s history, with potential for a first-day gain that would make it the largest company in the country.",
+      "event_id": "0ffd9941522f1f98db28",
+      "title": "China Chipmaker CXMT Jumps 472% in Debut After $9.8 Billion IPO",
+      "summary": "CXMT Corp.’s shares rose 472% when they began trading in Shanghai on Monday, making the memory chipmaker China’s largest listed firm onshore.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -546,7 +829,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -596,7 +879,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.955,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -642,7 +925,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.951,
+      "recency_weight": 0.933,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -660,9 +943,9 @@
       }
     },
     {
-      "event_id": "9cf9b96e1eb7e802bc67",
-      "title": "Oil Falls, Asian Stocks Rise as Iran Tensions Ease: Markets Wrap",
-      "summary": "Oil dropped, stocks and bonds rose as the US and Iran refrained from retaliatory strikes, easing concerns over potential disruptions to Middle East energy supplies after a recent escalation in the conflict.",
+      "event_id": "5460b4c40a142b771ffb",
+      "title": "Oil Declines, Bonds Rally as US-Iran Tensions Ease: Markets Wrap",
+      "summary": "Oil dropped and bonds climbed as the US and Iran refrained from retaliatory strikes, easing concerns over potential disruptions to Middle East energy supplies after a recent escalation in the conflict.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -686,7 +969,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.943,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -730,7 +1013,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.942,
+      "recency_weight": 0.924,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -772,7 +1055,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -817,7 +1100,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -863,7 +1146,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.92,
+      "recency_weight": 0.903,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -905,7 +1188,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -946,7 +1229,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.897,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -989,7 +1272,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.892,
+      "recency_weight": 0.875,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1031,7 +1314,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1048,9 +1331,9 @@
       }
     },
     {
-      "event_id": "1d438178a5afb1deac04",
-      "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount",
-      "summary": "Bond traders enter the week seeing a better than one-in-three chance that the Federal Reserve hikes interest rates on Wednesday after flaring Middle East tensions lifted oil prices, boosting inflation worries and yields.",
+      "event_id": "f01b33ba7e6e24e1920b",
+      "title": "Bond Traders on Edge as Middle East Conflict Clouds Fed Outlook",
+      "summary": "Bond traders head into the week pricing in roughly a one-in-three chance of a Federal Reserve interest rate hike on Wednesday, after flaring Middle East tensions fueled volatility in oil prices and Treasury yields, heightening inflation worries.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1077,7 +1360,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.888,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1119,7 +1402,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.879,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1164,7 +1447,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.868,
+      "recency_weight": 0.852,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1211,7 +1494,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.858,
+      "recency_weight": 0.841,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1253,7 +1536,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1298,7 +1581,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.818,
+      "recency_weight": 0.803,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1344,7 +1627,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.808,
+      "recency_weight": 0.793,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1390,7 +1673,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1436,7 +1719,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1479,7 +1762,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1525,7 +1808,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.799,
+      "recency_weight": 0.784,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1545,7 +1828,7 @@
     {
       "event_id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1571,7 +1854,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.799,
+      "recency_weight": 0.784,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1618,7 +1901,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1661,7 +1944,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.791,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1702,7 +1985,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.783,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1746,7 +2029,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.783,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1796,7 +2079,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.78,
+      "recency_weight": 0.765,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1817,22 +2100,19 @@
     {
       "event_id": "9ffca512871bdcbd4906",
       "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
-      "summary": "Democratic Congressional Campaign Committee Chair Suzan DelBene, D-Wash., told CNBC in an interview that 100 days out from the midterm election, Democrats are in position to take back the House. Democrats have hammered a cost-of-living message amid voter concerns about rising prices, and DelBene said they'll continue to make the case that President Donald Trump and Republicans aren't serious about affordability. Democrats are slightly favored to win a House majority, though the party is grappling with low favorability ratings, a fundraising disadvantage and simmering intraparty tensions. President Donald Trump 's approval ratings remain low, inflation has been elevated , and the Iran wa r is dragging on, sending gas prices back up over $4 per gallon with no immediate relief in sight. Some of this may be bad news for the country, but for Democrats , eager to win back majorities in the House and the Senate , the sequence of events leading up to the 2026 midterm election could create opportunities. And according to Democratic Congressional Campaign Committee Chair Suzan DelBene , D-Wash., the party is sitting pretty with 100 days to go until Election Day . \"We have great candidates. We have the momentum. We have the message,\" DelBene said in an interview with CNBC. \"And I think the thing that's been really critical too is that the American people are with us. They want folks who are going to stand up for the issues they're facing and support them. And Republicans don't care. They are a rubber stamp for Donald Trump.\" Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani Sen. Darline Graham running for full term to replace late brother Lindsey Graham Democrats have been laser-focused on cost-of-living concerns this election cycle, and DelBene said they'll continue to hammer Trump and Republicans on his handling of the economy to win back the House, which Republicans have narrowly controlled for the last two years. Democrats' chances of winning a Senate majority are slimmer. A recent Fox News poll found Democrats up seven percentage points over Republicans on a generic ballot, while a survey from Emerson College Polling gave them an 11-percentage-point edge. CNBC's All America Economic Survey , conducted earlier this month, found voters would slightly prefer Democrats to take win control of Congress this November. \"Absolutely the number one issue across the country is affordability. Families are struggling with housing , food, healthcare, childcare, energy costs, gas prices,\" DelBene said. \"It's hard when you're just trying to get by day-to-day to think about anything else.\" The National Republican Campaign Committee did not make its chair, Rep. Richard Hudson , R-N.C., available for an interview. Mike Marinella, an NRCC spokesperson, pushed back on Democratic midterm narratives. \"Republicans have a more favorable map, stronger candidates, a deep fundraising advantage, and a winning message that serves as a stark contrast to Democrats' radical turn to socialism and messy infighting,\" Marinella said. While Democrats do appear to have a slight advantage to win the House this year, it hasn't been all good news for the DCCC of late. The party's campaign arm has taken fire from within its ranks over its choice to get involved in contested primary elections in some parts of the country, where in some cases DCCC-backed candidates lost to more liberal challengers. Last week, Amish Shah, a doctor and former Arizona state representative, bested the DCCC-backed Marlene Galán-Wood in the Democratic primary in the state's 1st congressional district, one of the most competitive seats this year and a potential key to either party winning a majority. Some Democrats in response have called for the DCCC to stay out of primaries , or to change its internal processes for endorsing candidates. DelBene shrugged off the criticisms. \"We have folks who think we should, folks who think we shouldn't,\" DelBene said, of the debate around the DCCC's intraparty interventions. \"I think the key is the stakes are incredibly high this election, and our job is to make sure we win all across the country. And we're going to win in these districts across the country too.\" Democrats must also contend with their surging progressive wing, propelled by the Democratic Socialists of America. DSA-backed candidates have toppled incumbent Democrats in states like New York and California, and many have an anti-establishment ethos that could cause headaches for party leaders if they do win back a House majority. DelBene, however, said the ideological diversity of the party's candidates is a strength. \"I think if you look across the candidates that we have running in these swing districts across the country, they are all unique fits for their districts.",
+      "summary": "Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
       "published_at": "2026-07-26T12:00:01+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
+      "event_type": "market",
+      "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "dollar",
-        "growth",
         "macro",
-        "market",
-        "rates"
+        "market"
       ],
       "categories": [
         "market",
@@ -1841,8 +2121,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.776,
+      "impact_score": 1.84,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1861,34 +2141,29 @@
     {
       "event_id": "f0d122520e4fc13a8259",
       "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
-      "summary": "Major indexes remain volatile as investors assess key earnings releases and geopolitical tensions in the Middle East. Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns. In this regard, recommendations of top Wall Street analysts can help shortlist stocks with robust growth opportunities. These experts conduct an in-depth analysis of all the macro and micro factors affecting a company, focusing on its long-term growth potential. Here are three stocks favored by some of Wall Street's top pros, according to TipRanks, a platform that ranks analysts based on their past performance. CrowdStrike Holdings is a cloud-native cybersecurity provider. The company recently announced an expanded partnership with Schwarz Digits to bring its Falcon platform to European enterprises. After hosting several European investor meetings with the CrowdStrike CFO, Stifel analyst Adam Borg reiterated a buy rating on CRWD stock and increased his price target to $230 from $220. The five-star analyst said that the meetings increased his confidence about CrowdStrike being an \"important, well-positioned cybersecurity platform vendor that is an AI beneficiary given its expansive portfolio, unique data set, and ability to both secure AI and use AI to improve security.\" Among the key takeaways, Borg noted that AI is driving a major shift in cybersecurity demand as it presents software vulnerabilities that can be exploited by less sophisticated hackers with capabilities that were once limited to government-backed hacking groups. This has led to companies making cybersecurity a top priority, driving customer interest in CrowdStrike's new AI Detection & Response solution and its broader security platform. Borg added that AI-driven demand is expanding CrowdStrike's pipeline and supporting confidence in the company's higher fiscal 2027 net new annual recurring revenue guidance issued last quarter. Overall, Borg believes that CrowdStrike has multiple growth drivers that can help maintain revenue growth in at least the high-teens and drive improved profitability in the years ahead. Borg ranks No. 651 among more than 12,300 analysts tracked by TipRanks. His ratings have been profitable 65% of the time, delivering an average return of 15%. See CrowdStrike Ownership Structure on TipRanks. Moving on to AST SpaceMobile , a company building a global cellular broadband network in space. Recently, Piper Sandler analyst Alexander Potter initiated coverage of space-related stocks. While the analyst assigned AST SpaceMobile a buy rating with a price target of $100 , he has a neutral stance on rocket builders SpaceX and Rocket Lab due to valuation concerns. \"We prefer ASTS , due to a more palatable valuation, and a clearer path to EBITDA upside,\" said Potter. The five-star analyst highlighted that AST SpaceMobile builds satellites that connect directly to smartphones, ensuring network connectivity for users everywhere and enabling applications like video calls, streaming, and gaming. Potter added that ASTS' technology helps Mobile Network Operators, or MNOs, expand coverage and offer add-on services to travelers and users in remote locations. Additionally, Potter noted that ASTS has collaborated with and received equity investments from some of the largest MNOs, including AT&T , Vodafone , Verizon and Rakuten. He explained that by working with these carriers instead of competing against them, ASTS gains access to more than 3 billion subscribers. Potter ranks No. 708 among more than 12,300 analysts tracked by TipRanks. His ratings have been profitable 48% of the time, delivering an average return of 17.2%. See AST SpaceMobile Technical Analysis on TipRanks. Finally, let's look at Broadcom , a provider of custom AI chips and networking solutions. Recently, Morgan Stanley analyst Joseph Moore reiterated a buy rating on Broadcom stock with a price target of $502 . The five-star analyst is surprised by the underperformance of AVGO stock so far this year compared to its peers, especially given continued momentum in AI-driven demand. Moore cited concerns that competitor MediaTek could gain market share from Broadcom in Google's tensor processing unit chip business and investor preference for faster-growing AI chip names as reasons for the underperformance. While Moore acknowledged that MediaTek's role in Google's TPU business is growing, he contends that it is unlikely to disrupt Broadcom's position significantly. He expects Broadcom to continue to be the major TPU supplier, with about 80% market share. Overall, Moore believes that concerns about a decline in AVGO's market share to 50% or its eventual replacement seem premature. \"AVGO should retain majority share, sustain strong AI growth, and remain a core compute winner, close behind NVDA,\" said Moore.",
+      "summary": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
       "published_at": "2026-07-26T11:33:11+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
-        "corporate",
-        "growth",
         "macro",
-        "market",
-        "semiconductor",
-        "tech"
+        "market"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.769,
+      "impact_score": 1.84,
+      "recency_weight": 0.755,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1898,9 +2173,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1935,7 +2208,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.678,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1977,48 +2250,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.646,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8c899e39ec86d7aa3dcd",
-      "title": "Barrick Evacuates Chile Workers by Helicopter After Storm",
-      "summary": "Barrick Mining Corp. said it safely evacuated workers who had been stranded in their Barriales camp in northern Chile after severe storms blocked road access.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/barrick-evacuates-chile-workers-by-helicopter-after-storm",
-      "published_at": "2026-07-26T01:52:13+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.638,
+      "recency_weight": 0.634,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2057,7 +2289,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.566,
+      "recency_weight": 0.555,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2098,7 +2330,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.532,
+      "recency_weight": 0.522,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2139,7 +2371,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.516,
+      "recency_weight": 0.506,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2180,7 +2412,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.512,
+      "recency_weight": 0.502,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2225,7 +2457,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.509,
+      "recency_weight": 0.499,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2267,7 +2499,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.503,
+      "recency_weight": 0.494,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2308,7 +2540,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.493,
+      "recency_weight": 0.484,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2353,7 +2585,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.489,
+      "recency_weight": 0.48,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2401,7 +2633,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.489,
+      "recency_weight": 0.48,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2447,7 +2679,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.46,
+      "recency_weight": 0.451,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2459,47 +2691,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4976074eef786b651766",
-      "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-      "summary": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-      "published_at": "2026-07-25T05:29:38+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.431,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2530,48 +2721,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.405,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "88efa6db435ce78ac909",
-      "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
-      "summary": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
-      "published_at": "2026-07-24T21:48:45+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.372,
+      "recency_weight": 0.398,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2612,7 +2762,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.367,
+      "recency_weight": 0.36,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2662,7 +2812,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.366,
+      "recency_weight": 0.359,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2711,7 +2861,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.366,
+      "recency_weight": 0.359,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2752,7 +2902,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.358,
+      "recency_weight": 0.352,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2793,7 +2943,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.357,
+      "recency_weight": 0.35,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2834,7 +2984,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.356,
+      "recency_weight": 0.349,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2875,7 +3025,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.353,
+      "recency_weight": 0.346,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2914,7 +3064,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.314,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2954,7 +3104,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.302,
+      "recency_weight": 0.296,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3362,8 +3512,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 6,
-      "latest_published_at": "2026-07-26T23:51:03+00:00",
+      "recent_items": 9,
+      "latest_published_at": "2026-07-27T01:41:54+00:00",
       "warning": null
     },
     {
@@ -3381,7 +3531,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-07-27T00:34:22+00:00",
+      "latest_published_at": "2026-07-27T02:04:07+00:00",
       "warning": null
     },
     {
