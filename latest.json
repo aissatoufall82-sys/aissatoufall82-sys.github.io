@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:10:16.958965+00:00",
+  "generated_at": "2026-07-27T00:10:14.805784+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,14 +21,152 @@
   "environment": null,
   "events": [
     {
-      "event_id": "3f2fa1059f7d4906a80b",
+      "event_id": "d28a286a5a6f648211c5",
+      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
+      "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place. Iran has indicated it will stop carrying out attacks as long as the U.S. also refrains from striking, Reuters reported. Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place, easing concerns over nearly two weeks of escalating conflict. International benchmark Brent crude futures for September delivery fell 4.88% to around $92 a barrel. U.S. West Texas Intermediate crude futures for September delivery similarly dropped over 5% to $84.84 a barrel. Iran has indicated it will stop carrying out attacks as long as the United States also refrains from striking, Reuters reported on Sunday, citing a senior Iranian official. The pause follows Washington's decision to suspend its bombing campaign after President Donald Trump's advisers reportedly warned that the military was running out of viable targets and raised concerns about depleting U.S. weapons stockpiles. The Iranian official reportedly said that that Tehran's stance \"remains 'attack for attack': if the attacks stop, Iran will also halt its operations. That message has already been conveyed to the United States.\" U.S. ambassador to the United Nations Mike Waltz said on Fox News Sunday that Trump had chosen to pause the strikes to allow diplomatic efforts to continue. HSBC's U.S. rates strategist Dhiraj Narula said higher oil prices have contributed to renewed expectations that the Federal Reserve may need to keep policy tighter for longer, but noted inflation expectations have remained relatively contained despite the energy rally. He attributed that to stronger messaging from Fed officials on their commitment to price stability, which has prevented the oil shock from feeding into longer-term inflation expectations.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "published_at": "2026-07-26T23:58:00+00:00",
+      "event_type": "macro",
+      "severity": "major",
+      "sentiment": -0.35,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 24.15,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "42992ffac143434096ba",
+      "title": "China’s Pork Market Recovery Struggles to Overcome Tepid Demand",
+      "summary": "The Chinese government’s campaign to lift pork prices is finally gaining traction. But the rally is running into a familiar obstacle: consumers still aren’t buying enough.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/china-s-pork-market-recovery-struggles-to-overcome-tepid-demand",
+      "published_at": "2026-07-26T23:55:05+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.995,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ebbde66edc8eb23c6187",
+      "title": "Chinese Biotech Overtakes AI as Emerging-Market Growth Trade",
+      "summary": "As the artificial-intelligence rally sputters in emerging markets, investors searching for high-growth alternatives are turning to Chinese biotech.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/chinese-biotech-overtakes-ai-as-emerging-market-growth-trade",
+      "published_at": "2026-07-26T23:51:03+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.994,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2af5fe9f73d1f8064c26",
       "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
       "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
       "source": "MarketWatch Top Stories",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
-      "published_at": "2026-07-26T22:42:00+00:00",
+      "published_at": "2026-07-26T23:45:00+00:00",
       "event_type": "macro",
       "severity": "moderate",
       "sentiment": -0.55,
@@ -54,7 +192,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.991,
+      "recency_weight": 0.992,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -67,6 +205,273 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3cf8c0e8b4b7c87306e0",
+      "title": "Here's the tech stock to buy in a market losing patience with tech",
+      "summary": "It's not the spend, it's the return.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
+      "published_at": "2026-07-26T23:39:46+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.99,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7a83622b805761586828",
+      "title": "Nvidia in Talks on $250 Billion Backing for OpenAI Hub, WSJ Says",
+      "summary": "Nvidia Corp. is in discussions to provide a guarantee of about $250 billion to help OpenAI lease computing from a giant data center project, the Wall Street Journal reported, citing people familiar with the matter.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+      "published_at": "2026-07-26T23:31:04+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "98bc85d3396c1d77e261",
+      "title": "EQT Lifts Takeover Offer for Perpetual to $1.8 Billion",
+      "summary": "EQT AB sweetened its takeover bid for Australian investment management firm Perpetual Ltd. to around A$2.6 billion ($1.8 billion).",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/eqt-raises-takeover-offer-for-australia-wealth-manager-perpetual",
+      "published_at": "2026-07-26T23:30:23+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "51832c5839984f9dde63",
+      "title": "Marcos Needs State of the Nation to Revive Philippine Economy, Presidency",
+      "summary": "A year ago, Philippines President Ferdinand Marcos Jr.’s annual address to Congress shocked the nation with revelations of billions of dollars of graft involving flood-control schemes. The disclosure triggered an economic slump as projects slowed and consumers and businesses cut spending.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/marcos-needs-state-of-the-nation-to-revive-philippine-economy-presidency",
+      "published_at": "2026-07-26T23:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "17f440aa78a1cde48b3b",
+      "title": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO",
+      "summary": "CXMT Corp. is set to begin trading in Shanghai on Monday after raising 66.6 billion yuan ($9.8 billion) in the second-largest initial public offering in China’s history, with potential for a first-day gain that would make it the largest company in the country.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/china-memory-champion-cxmt-set-to-debut-after-9-8-billion-ipo",
+      "published_at": "2026-07-26T23:00:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "cca90354cf6d2694fa9a",
+      "title": "Gold Climbs as Pause in Mideast Fighting Curbs Inflation Risk",
+      "summary": "Gold rose, after a pause in fighting between the US and Iran over the weekend eased oil supply risks and inflationary concerns.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/gold-climbs-after-pause-in-mideast-fighting-cuts-inflation-fears",
+      "published_at": "2026-07-26T22:46:32+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.973,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -101,7 +506,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.989,
+      "recency_weight": 0.97,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -119,9 +524,9 @@
       }
     },
     {
-      "event_id": "17e275ae21a11b2c67f4",
-      "title": "Oil Falls, US Futures Rise as US-Iran Halt Strikes: Markets Wrap",
-      "summary": "Oil dropped and US equity futures rose early Monday after the US refrained from striking Iran for a second straight night, easing concerns over disruptions to Middle East crude supplies following weeks of escalating conflict.",
+      "event_id": "9cf9b96e1eb7e802bc67",
+      "title": "Oil Falls, Asian Stocks Rise as Iran Tensions Ease: Markets Wrap",
+      "summary": "Oil dropped and Asian stocks gained as the US and Iran refrained from retaliatory strikes, easing concerns over potential disruptions to Middle East energy supplies after a recent escalation in the conflict.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -145,7 +550,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.981,
+      "recency_weight": 0.962,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -165,7 +570,7 @@
     {
       "event_id": "ed6d111e20c07c8a1d80",
       "title": "Latest Oil Market News and Analysis for July 27",
-      "summary": "⁠⁠Oil tumbled at the week’s open after the US paused strikes against Iran over the weekend, easing energy supply risks in the Middle East even as Houthis claimed attacks against targets in Saudi Arabia.",
+      "summary": "⁠⁠Oil sank after the US paused strikes against Iran, easing Middle East tensions even as the Houthis claimed attacks against Saudi targets.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -189,7 +594,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.979,
+      "recency_weight": 0.96,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -231,7 +636,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -276,7 +681,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.959,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -322,7 +727,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.956,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -364,7 +769,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -405,7 +810,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.932,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -448,7 +853,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.927,
+      "recency_weight": 0.91,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -490,7 +895,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -536,7 +941,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.923,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -578,7 +983,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.914,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -623,7 +1028,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.902,
+      "recency_weight": 0.885,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -670,7 +1075,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.891,
+      "recency_weight": 0.874,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -712,7 +1117,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -757,7 +1162,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.85,
+      "recency_weight": 0.834,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -803,7 +1208,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.84,
+      "recency_weight": 0.824,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -849,7 +1254,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -895,7 +1300,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -938,7 +1343,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.838,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -984,7 +1389,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.83,
+      "recency_weight": 0.814,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1004,7 +1409,7 @@
     {
       "event_id": "cc47cf6b6e16be160a49",
       "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation Health and Wellness I've been a neuroscientist for 20 years: I do 6 things to keep my brain strong and healthy The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
+      "summary": "Get Ahead The most successful people are willing to do these 3 ‘extremely uncomfortable’ things, says expert The Next Dream 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey The Next Dream The American Dream is missing a key ingredient, says expert: Without it, 'life is pretty grim' How to Talk to People The No. 1 most underrated communication skill—it's a simple but 'powerful' technique that can save a conversation Leadership Harvard expert: Ambitious people often make this career mistake The American Dream, much like the country it inspires, is in a state of constant change. Ask 100 people what the ideal means to them, and you'll likely get just as many answers. Most might agree, for example, that the American Dream includes achieving financial stability or being happy, but what that looks like is more individual. Some are optimistic that, despite personal and even societal challenges, their vision of opportunity for themselves is alive and well. Others, particularly members of younger generations, are questioning whether such a dream is really within reach — and if not, how to build a new roadmap to personal fulfillment. Ultimately, however, some aspects of the American Dream have endured, with people trying to push past barriers to forge their own paths and define the terms of their success. To recognize the country's 250th year, CNBC Make It got notable voices in politics, finance and relationships across age ranges to sit down and spark conversation about what it means to achieve happiness and success in this country today. Welcome to The Next Dream , a CNBC Make It series exploring how the modern-day pursuits of success and happiness are reshaping our lives 250 years after America's first dream was born. The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, ‘life is pretty grim’ They’re living the new American Dream—and doing it on less than $100,000 a year Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway 'This bargain is eroding': Inside the youngest generations' view of the American Dream Some renters say homeownership isn’t part of their American Dream: Renting is ‘really freeing for me’ These families have been in business for 100 years—they say the American Dream isn't what it used to be 51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey Vivian Tu started her career seeking quantifiable wins. \"What can I do to be so conventionally successful to maybe spite a hater or spite someone who didn't believe in me?\" says the Wall Street trader-turned media personality behind her financial education brand Your Rich BFF. Now, the 32-year-old measures her achievements in being able to do meaningful work and repaying the effort her parents poured into her. Gail Rudnick, 84, says she's on her second round of living her biggest dreams, first raising a tight-knit family , and now kickstarting a new career as a content creator and podcast co-host with her granddaughter, Kim Murstein, 30. Sylvia Kwan, 62, says her American Dream has been rewriting the scripts of her life and going after goals she didn't think were possible, like becoming CEO of Ellevest, the women-centered financial planning and wealth management platform. She also recognizes the significant challenges that keep many people, especially young Americans, from achieving their dreams. Experts say today's youngest generations are up against barriers compounding at such a rate that previous generations never dealt with. Gen Zers, those currently aged 14 to 29, have seen their education and social growth stunted by the Covid-19 pandemic, and those who've graduated high school or college have entered a volatile workforce , only to find an out-of-reach housing market and inflationary pressures. As the youngest member of our cohort, 26-year-old history newsletter writer and social media creator Kahlil Greene, who in 2019 was elected Yale's first Black student body president, says he doesn't feel hopeful for the future of the U.S. and worries the country is on a \"downward trajectory.\" \"It does feel like there's insurmountable odds in terms of fixing things, and I just can't imagine how we'd do it, even though I'd like to try,\" he says. Robert Reich holds the opposite view. \"I'm optimistic because of our resilience,\" the 80-year-old University of California, Berkeley professor and former U.S. labor secretary told Greene. \"I'm old enough to have seen this country bounce back from all sorts of things [like] depressions and wars,\" he says. \"It seems to me that it's very important for us to avoid cynicism and to stay hopeful. Because if we don't, then we stop trying. If we don't keep hope in our hearts, we stop really fighting the good fight to make the country better.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1030,7 +1435,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.83,
+      "recency_weight": 0.814,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1077,7 +1482,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1120,7 +1525,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1161,7 +1566,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.814,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1205,7 +1610,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.814,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1255,7 +1660,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.811,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1301,7 +1706,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.806,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1347,7 +1752,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.8,
+      "recency_weight": 0.784,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1394,7 +1799,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.705,
+      "recency_weight": 0.691,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1436,7 +1841,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.672,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1477,7 +1882,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.664,
+      "recency_weight": 0.651,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1518,96 +1923,6 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.647,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e92e9a3477cc417b2be2",
-      "title": "Memory Frenzy Primes China Champion CXMT for Historic Debut",
-      "summary": "Investor excitement over the memory chip trade is setting outsize expectations for the Shanghai debut of CXMT Corp., which is on the brink of making history after a near-record initial public offering.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut",
-      "published_at": "2026-07-26T00:00:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.64,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8ecd5337cba72e0be123",
-      "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
-      "summary": "Iraq will sign an agreement with Syria on the construction of pipelines linking oil production sites to global export markets via the Mediterranean, according to a statement.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
-      "published_at": "2026-07-25T23:34:54+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
       "recency_weight": 0.635,
       "scored_for_probability": false,
       "source_profile": {
@@ -1618,8 +1933,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1648,7 +1962,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.588,
+      "recency_weight": 0.577,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1667,7 +1981,7 @@
     {
       "event_id": "8a1e499ccae936a6979a",
       "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
-      "summary": "Moviegoers are traveling long distances and competing for tickets to see “The Odyssey” in Imax 70 mm, director Christopher Nolan's desired format. Just 25 U.S. theaters and 41 worldwide are showing the Universal film in that format, helping drive premium ticket demand. Imax CEO Rich Gelfond said Imax 70 mm screenings will run for months, while some theaters have extended runs. For Mike Rohlfing to see \"The Odyssey\" in theaters this week, the 39-year-old marketer set off on a hero's journey of his own. Rohlfing, along with his wife and three kids, drove approximately 900 miles round trip by minivan from their home in St. Louis, Missouri, to Grand Rapids, Michigan. Their destination: One of the select movie theaters offering Imax 70-millimeter screenings for director Christopher Nolan 's adaptation of the epic poem. \"It's an incredible format,\" Rohlfing told CNBC. \"It was definitely worth it to me to travel such a long distance.\" Rohlfing isn't the only one going out of his way to experience the Universal film in this hard-to-find style. A-list actors like Zendaya and Anne Hathaway may line the cast list, but the breakout performance is coming from the large-scale, analog viewing experience beloved by Nolan and his fans. Exclusive data shared with CNBC shows how significantly the film revved up interest for higher-priced Imax 70 mm screenings. It's part of a class of higher-end screening types known as \"premium large formats,\" or PLFs. An adult Imax 70 mm ticket for opening weekend ran the typical attendee $27.77, according to EntTelligence. That's 81% more expensive than the average cost of admission across formats. \"Imax 70-millimeter film has become among the hottest tickets in the world,\" Imax CEO Richard Gelfond said Thursday on a conference call with analysts. \"Fans are flying across countries, if not continents, to experience 'The Odyssey' and Imax 70 millimeter.\" During opening weekend, Gelfond reported that an average screen equipped for 70 mm brought in a \"massive\" box-office haul of $153,000. Imax 70 mm screenings of \"The Odyssey\" will run for months, Gelfond said. But Imax can't quickly multiply screening counts to meet the surge of interest. That's because only a small share of total Imax theaters are big enough and equipped with the high-cost machinery necessary to project the gigantic rolls of 70 mm film. Imax lists 25 theaters across the U.S. and an additional 16 internationally with its 70 mm presentations of \"The Odyssey.\" \"We could have more of them and we're exploring ways to do that, but in a way, it's like a Rolls-Royce,\" Gelfond said of Imax 70 mm auditoriums. \"There are a finite number of locations that really can support the economics of it.\" Also, Nolan's film is the first feature film shot entirely with Imax 70 mm cameras. Other directors have used the format for smaller, often action-packed scenes, within more conventionally filmed features. Even with limited screens, Cinemark told CNBC that demand for its Imax 70 mm showings in states including Colorado and Texas is \"exceptionally strong.\" Regal said the almost-three-hour picture became the chain's top Imax 70 mm-displayed movie. The Imax 70 mm theater within the Indiana State Museum — the only film house running this format in the Hoosier State — added an additional one-week run in August due to \"historic\" demand. More than half of audience members on the first days of showings traveled at least 50 miles, according to Neale Johantgen, the Indiana theater's manager. His team welcomed visitors from more than 20 states and fielded requests from moviegoers attempting to score tickets from places as far-flung as Switzerland. \"Demand's never been higher,\" Johantgen said. \"It's awesome.\" Given the limited availability, securing an Imax 70 mm ticket has become a battle in itself. Theaters are running screenings around the clock, but even the showtimes in the early hours of the morning are booking out. Some theaters put Imax 70 mm tickets on sale a year in advance. Morgan Bernados couldn't get through the queue for her local theater in the San Francisco Bay Area when a batch of seats dropped a few months ago. After the 27-year-old nonprofit worker switched focus to an Imax 70 mm screen located roughly 90 minutes away, she was able to snag tickets for a Monday night showing. \"It felt like buying concert tickets,\" said Bernados, who compared the process to the frenzy around Taylor Swift 's Eras Tour . \"There definitely is a 'FOMO' element.\" Ashton Jones was only able to secure seats in a 3 a.m. showtime for the sole Imax 70 mm theater in his home state of Georgia. The 26-year-old information technology administrator consumed a Red Bull energy drink around the film's halfway mark to stay alert. After the closing credits rolled and Jones made the approximately hourlong drive home, it was nearly time to clock in for his workday. \"It was fun,\" Jones said. \"But I was hurting the next day.",
+      "summary": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1689,7 +2003,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.553,
+      "recency_weight": 0.543,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1708,18 +2022,17 @@
     {
       "event_id": "7820b155c95b4eb1edf3",
       "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-      "summary": "The Next Dream Why owners of 100-year-old family businesses say the American Dream has changed How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' How I Made It 42-year-old former urban planner's ice cream business brings in $2.8M a year How I Made It Couple launched a burrito spot in a Home Depot parking lot—their two restaurants brought in $2.3 million in sales in 2025 Health and Wellness I’m a surgeon and gut health expert—the No. 1 'magical' food I eat for a longer life For David Bradshaw, beekeeping has always been a family affair. Bradshaw, 70, is the second-generation owner of Bradshaw Honey Farms in Visalia, California. His father, Howard Bradshaw, founded the farm in the backyard of their home in 1958. As a young child, David Bradshaw remembers playing outside and \"learning not to get too close\" to the beehives, he says. Since then, he's been stung \"thousands of times,\" but that hasn't deterred him from sticking with the business. He's also gotten the next generation involved: Bradshaw's daughter works full-time on the farm, where she manages honey bottling operations, and his son helps out as needed. And, he says, \"in a way, I guess my bees are my kids\" too. Before he started Bradshaw Honey Farms, Howard Bradshaw worked as an aircraft mechanic and raised bees as a hobby. According to David, he left his job to focus on beekeeping full-time after witnessing a fatal workplace accident. \"I remember as a kid, he just came home crying — probably the first time I saw my dad cry,\" David Bradshaw recalls. \"He said, 'I quit. I'm not going back. Bees are much safer.'\" In 1970, the Bradshaw family, including David and his four siblings, moved to a five-acre property in Visalia, where Howard Bradshaw built his honey operation and began renting his bees to local farmers to pollinate their crops. Was David Bradshaw always interested in taking over the honey farm? \"Heck no,\" he says. As a \"teenage rebel kid,\" he wanted to become a car mechanic. But his father needed help with the bees, so he got an associate's degree in agricultural mechanics and started working on the farm instead. By the mid-80s, Bradshaw says that he and his father each owned 2,000 bee colonies. Howard Bradshaw was thrilled to have his son take on more responsibility at the farm. \"He said, 'All I need is a lunch pail, and you tell me what to do,'\" David Bradshaw recalls. \"He was happy as could be.\" The duo ran Bradshaw Honey Farms together until Howard passed away in 2019 at age 81. David Bradshaw still operates Bradshaw Honey Farms from that same property in Visalia, where he lives with his wife, but his bees travel all over the San Joaquin Valley to pollinate crops and make honey. He rents his bees out to farmers in a yearly rotation that starts with the almond bloom, dropping off his hives in almond orchards in mid-February. Next, he takes the bees to pollinate cherries and prunes, before moving on to oranges, lemons and grapefruit in late spring. From summer through early fall, Bradshaw takes his bees to the Sierras so that they can stock up on pollen and make some honey from native plants. Extracting honey is long, hard, hot work, according to Bradshaw. He and his employee collect the honey supers — specialized boxes that sit atop the hives and store surplus honey — from each colony. Using a forklift, they load the heavy supers into Bradshaw's truck and drive back to the Visalia property, where they spend \"days and days extracting honey.\" Bradshaw's daughter bottles the honey to sell. When his bees aren't busy pollinating crops, Bradshaw rents pastures from local farmers, particularly cattle ranchers, to host his hives while the bees rest and build up their food stores for winter. Many are willing to lend their land in exchange for a steady supply of free honey, Bradshaw says. \"If you're a beekeeper of any size, you have to rely on the generosity of farmers and ranchers to allow you to put bees on their land,\" he says. \"You need wide open spaces, and you need to be constantly moving them.\" The majority of Bradshaw Honey Farms' revenue comes from renting out the bees for pollination services, according to documents reviewed by CNBC Make It. Over the last decade, \"the bees just have not been making very much honey,\" he says, and as domestic honey production has declined, the market has flooded with cheaper imported honey products. Bradshaw still sells small batches of honey, though it's no longer a major source of revenue. He also sells custom beekeeping equipment and bee food supplements through the farm's online store, and extracts honey for other local beekeepers to make some extra income. Bradshaw Honey Farms brought in about $1.8 million in gross income last year, according to documents reviewed by CNBC Make It, but after expenses, the business ended the year at a loss.",
+      "summary": "Being a beekeeper is harder than ever, but David Bradshaw is determined to protect his hives.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
       "published_at": "2026-07-25T14:48:15+00:00",
-      "event_type": "corporate",
+      "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "corporate",
         "macro",
         "market"
       ],
@@ -1731,7 +2044,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.536,
+      "recency_weight": 0.526,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1741,8 +2054,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1773,7 +2085,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.532,
+      "recency_weight": 0.522,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1818,7 +2130,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.529,
+      "recency_weight": 0.518,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1860,7 +2172,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.523,
+      "recency_weight": 0.513,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1901,7 +2213,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.513,
+      "recency_weight": 0.503,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1946,7 +2258,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.508,
+      "recency_weight": 0.498,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1994,7 +2306,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.508,
+      "recency_weight": 0.498,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2040,7 +2352,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.478,
+      "recency_weight": 0.469,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2082,7 +2394,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.448,
+      "recency_weight": 0.44,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2123,7 +2435,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.421,
+      "recency_weight": 0.413,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2134,49 +2446,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6bdffbc8afd8632868ca",
-      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-      "summary": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
-      "published_at": "2026-07-24T21:57:01+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.388,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2207,7 +2476,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.387,
+      "recency_weight": 0.379,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2248,7 +2517,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.382,
+      "recency_weight": 0.374,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2298,7 +2567,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.381,
+      "recency_weight": 0.373,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2347,7 +2616,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.381,
+      "recency_weight": 0.373,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2388,7 +2657,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.376,
+      "recency_weight": 0.369,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2429,7 +2698,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.373,
+      "recency_weight": 0.365,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2470,7 +2739,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.371,
+      "recency_weight": 0.364,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2511,7 +2780,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.37,
+      "recency_weight": 0.363,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2552,7 +2821,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.367,
+      "recency_weight": 0.36,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -2565,52 +2834,6 @@
           "监管/交易结构"
         ],
         "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "74b985fc480bb67dfd19",
-      "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
-      "summary": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-      "published_at": "2026-07-24T18:48:10+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 12.88,
-      "recency_weight": 0.365,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -2637,7 +2860,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.333,
+      "recency_weight": 0.326,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2677,7 +2900,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.314,
+      "recency_weight": 0.308,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3076,8 +3299,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 12,
-      "latest_published_at": "2026-07-26T22:09:05+00:00",
+      "recent_items": 15,
+      "latest_published_at": "2026-07-26T23:55:05+00:00",
       "warning": null
     },
     {
@@ -3085,8 +3308,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 4,
-      "latest_published_at": "2026-07-26T22:35:01+00:00",
+      "recent_items": 6,
+      "latest_published_at": "2026-07-26T23:51:03+00:00",
       "warning": null
     },
     {
@@ -3095,7 +3318,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-26T22:42:00+00:00",
+      "latest_published_at": "2026-07-26T23:45:00+00:00",
       "warning": null
     },
     {
@@ -3104,7 +3327,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-07-26T20:50:54+00:00",
+      "latest_published_at": "2026-07-26T23:58:00+00:00",
       "warning": null
     },
     {
