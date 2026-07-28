@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:10:26.827484+00:00",
+  "generated_at": "2026-07-28T02:10:21.742813+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,659 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "95ae5af13635321e3253",
+      "title": "Innolight Prices $6.8 Billion Hong Kong Listing Below Maximum",
+      "summary": "Zhongji Innolight Co. raised HK$53.4 billion ($6.8 billion) after pricing its Hong Kong listing below the maximum offered in one of the city’s biggest first-time share sale in seven years.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/innolight-prices-6-8-billion-hong-kong-listing-below-maximum",
+      "published_at": "2026-07-28T02:01:34+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "078720bfe26a11f0bc88",
+      "title": "Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing",
+      "summary": "Silicon Valley leaders, including Anthropic PBC Chief Executive Officer Dario Amodei and Nvidia Corp. CEO Jensen Huang, are warning against a broad government crackdown on open-weight artificial intelligence systems as a response to a breakthrough Chinese AI model that’s challenged US leadership in the technology.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
+      "published_at": "2026-07-28T01:51:32+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.994,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "924fa3d8bdeb1f00b676",
+      "title": "Shares of SK Hynix plunge 10% in Seoul as semiconductor selloff deepens",
+      "summary": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street. SK Hynix plunged more than 10%, while Samsung Electronics fell over 8%. SK Hynix plunged more than 10%, while Samsung Electronics fell over 8%. Other AI-linked names also came under heavy selling, with Samsung SDI dropping over 7%, LG Innotek sliding nearly 14%, Seoul Semiconductor falling about 6% and LG Chem losing more than 4%. Japan's semiconductor sector also traded lower. Tokyo Electron dropped more than 9%, Advantest slid over 8%, while SoftBank Group , a major AI investment proxy through its stake in Arm , fell nearly 5%. Shares of Japan computer memory manufacturer Kioxia plunged more than 15%. Taiwan's TSMC was down over 2%. The selloff followed another weak session for U.S. semiconductor stocks on Monday . The VanEck Semiconductor ETF (SMH) lost more than 2%, adding to its Friday losses. AMD and Teradyne dropped 5% and 4%, respectively. Micron Technology shed about 2%. The weakness underscores how closely Asian technology shares and the U.S. AI trade have become intertwined. Samsung Electronics and SK Hynix are among the world's largest suppliers of high-bandwidth memory chips used in AI servers, making their shares particularly sensitive to shifts in expectations for spending by U.S. hyperscalers. Sharp swings in SK Hynix shares underscore the uncertainty surrounding the AI investment cycle, said Acadian Asset Management's senior vice president Owen Lamont, arguing that investors still have little visibility into how the technology will ultimately affect the economy. \"Right now we're facing an incredible uncertainty,\" he told CNBC. \"No one has any idea how this AI process is going to affect our economy, and so I think it's going to be rocky no matter what.\" Lamont also added that leveraged exchange-traded products could be adding to market swings, even if they are not solely responsible for SK Hynix's recent volatility. \"More generally, the entire ecosystem of levered ETFs in Korea, also in Hong Kong and in the United States, are possibly adding volatility and magnifying market fluctuations.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+      "published_at": "2026-07-28T01:48:30+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "datacenter",
+        "growth",
+        "macro",
+        "market",
+        "memory",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a6cc80d33bb6ed8fd34a",
+      "title": "Koei Tecmo Shares Fall as Earnings Miss, Long-Term Doubts Grow",
+      "summary": "Shares of Koei Tecmo Holdings Co. fell the most since March after the video-game publisher reported first-quarter operating profit that missed market expectations, underscoring weak software sales and fueling investor concerns about its long-term growth prospects.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/koei-tecmo-shares-fall-as-earnings-miss-long-term-doubts-grow",
+      "published_at": "2026-07-28T01:47:22+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": -0.4,
+      "affected_tags": [
+        "ai",
+        "corporate",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9ab48bdad7732d342447",
+      "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+      "summary": "Samsung and SK Hynix's AI-driven dominance is turning South Korea into an early barometer for U.S. tech. Analysts warn tighter U.S.-Korea market correlation reduces diversification and heightens risks if AI spending slows. Wall Street tech moves and South Korea's stock market are becoming increasingly intertwined as artificial intelligence spending binds together the fortunes of U.S. technology giants and Korean memory chipmakers. The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant. The growing relationship reflects the increasing dominance of Samsung Electronics and SK Hynix, which together account for more than half of the Kospi index. Both companies sit at the center of the AI hardware supply chain, providing the memory chips needed for data centres operated by U.S. technology giants. \"The correlation has increased because the KOSPI has become a semiconductor index,\" Rolf Bulk, analyst at Futurum Group, told CNBC via email. Samsung and SK Hynix increasingly depend on the same hyperscaler spending that drives earnings at U.S. semiconductor and technology companies. Data-center demand rose from around 40% of global DRAM demand last year to more than half this year, according to Bulk, who expects that share to increase further. DRAM, or dynamic random-access memory, is used in AI servers. That gives investors in Asia an early read on the strength of the global AI trade before Wall Street opens. \"Samsung and SK Hynix provide the first liquid market reaction to overnight developments affecting global AI demand,\" said Jung In Yun, founder of Fibonacci Asset Management. \"SK Hynix in particular has become an important barometer because of its exposure to high-bandwidth memory, which is one of the most critical components in the AI supply chain.\" Recent trading illustrates that dynamic. On July 13, the Kospi fell more than 8%, dragged by SK Hynix's 15% plunge and record fall . The Nasdaq 100 followed suit to end 1.88% lower that day. Shares of big technology names declined that day . Micron Technology closed 4% lower, Sandisk shed 12%, Intel pulled back 6%. Peter Kim, head of global investment strategy at KB Financial Group, said the Korean memory-chip rally began later than the Nasdaq's advance because U.S. investors initially focused more heavily on hyperscalers. The scale and volatility of the recent rally, however, have prompted global investors to treat Korea as a bellwether for broader AI trades. Samsung's earnings guidance can also provide one of the first concrete signals each quarter on the state of AI demand. The company typically reports earnings about two weeks before major U.S. semiconductor companies. Analysts cautioned, however, that Korean and U.S. technology shares are moving in tandem, rather than one consistently leading the other. \"The fortunes of U.S. tech stocks and Korean tech stocks are increasingly being driven by a common underlying factor, which is sentiment toward the AI hardware trade,\" said Phillip Wool, head of research at Rayliant Global Advisors. When AI-related news breaks while U.S. markets are closed, Samsung and SK Hynix can act as proxies for how investors may respond when Wall Street reopens. When developments occur during U.S. trading, the Nasdaq similarly offers a preview of the next Korean session. The closer relationship also carries risks. The rising correlation erodes the diversification benefits investors traditionally sought by holding U.S. and Korean equities, echoed the industry veterans. \"Korea no longer provides diversification against U.S. tech. With half the index tied to one cyclical theme, a slowdown in hyperscaler capex would hit the Korean market harder than most other markets,\" Bulk said. He added that Korean memory stocks are also inherently more volatile than many U.S. chipmakers, with swings amplified by leveraged exchange-traded fund flows. Wool similarly highlighted that as the AI theme increasingly becomes the dominant driver of both Korean and U.S. technology stocks, investors are losing one of the main reasons for holding both markets: geographic diversification. \"When all of these markets are essentially being driven by this one big risk factor, you find that you've lost the very benefit — the international diversification — that led you to seek exposure to geographically disparate markets like the US and Korea in the first place.\" That said, there could also be greater divergence over time. Micron , Samsung and SK Hynix currently benefit from the same rise in DRAM prices, but differences in capital expenditure, product mix and U.S. support for domestic chip production may eventually separate their performance, said Kim. China's expansion into memory chips is also another emerging risk, he added. While Chinese producers remain technologically behind their global rivals, their progress has frequently exceeded investor expectations.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+      "published_at": "2026-07-28T01:34:28+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.5,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "datacenter",
+        "growth",
+        "macro",
+        "market",
+        "memory",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8a12f618d2d4f157e58a",
+      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+      "published_at": "2026-07-28T01:19:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.984,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c5e50feef35edae701ae",
+      "title": "Japanese, Korean Stocks Tumble as Chip Selloff Intensifies",
+      "summary": "Japanese and South Korean stocks slid, led by semiconductor shares, as concerns over Nvidia Corp.’s blockbuster AI supply deal and intensifying competition from Chinese chipmakers weighed on investor sentiment.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/japanese-korean-stocks-tumble-as-chip-selloff-intensifies",
+      "published_at": "2026-07-28T00:49:29+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.974,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "0b7d7aa88882438d1435",
+      "title": "Chip Rout Deepens on Funding Worry, China Competition",
+      "summary": "A selloff in global semiconductor stocks deepened on Tuesday, as investor sentiment continued to worsen over the sustainability of the artificial intelligence boom.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue",
+      "published_at": "2026-07-28T00:43:29+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.973,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5db3bf03b1554dc7e990",
+      "title": "CXMT Listing Creates $192 Billion Windfall for Chinese Province",
+      "summary": "A Chinese province better known globally for its stunning mountain landscapes than its technology investments has this week joined the ranks of the biggest winners from the artificial intelligence boom.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/cxmt-listing-creates-192-billion-windfall-for-chinese-province",
+      "published_at": "2026-07-28T00:00:54+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d8b6c4c752da44edd5c9",
+      "title": "Australia’s ‘World-First’ Data Center Rules Face First Hurdle",
+      "summary": "Prime Minister Anthony Albanese’s proposed “world-first” environmental and energy controls for Australia’s A$150 billion ($105 billion) data center pipeline will face their first test Tuesday, when federal, state and territory energy ministers meet to discuss guardrails for the booming sector.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/australia-s-world-first-data-center-rules-face-first-hurdle",
+      "published_at": "2026-07-28T00:00:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3266ebb51172df670dc1",
+      "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+      "summary": "Anthropic CEO Dario Amodei published a blog clarifying that his company has \"never advocated for a ban on open-weights models.\" A coalition of tech companies, including Nvidia, Microsoft, Meta and Palantir, released a letter last week urging policymakers to avoid \"premature restrictions.\" Anthropic rival OpenAI later signed the letter, but Anthropic did not. Anthropic CEO Dario Amodei said on Monday that his company has \"never advocated for a ban on open-weights models,\" an attempt to beat back criticism emerging across the tech industry that the AI lab is trying to exert excessive control over the future of artificial intelligence. Amodei published his views in a blog post on Monday, after a coalition of tech companies, including Nvidia , Microsoft , Meta and Palantir , released a letter late last week urging policymakers to avoid \"premature restrictions\" on open-weight models, which users can download, modify and run on their own infrastructure. Chinese startups currently dominate the market, and some government officials have started to weigh whether those models should be banned or restricted in the U.S. Anthropic is best known for developing a family of proprietary models called Claude that it sells to businesses. Chief rival OpenAI also primarily builds closed models, but the company signed on in support of the open-weight letter after it was published, while Anthropic did not. \"To summarize my and Anthropic's position, we have not and are not advocating for a ban on open-weights models as a category,\" Amodei wrote. \"We should instead focus on keeping powerful chips out of authoritarian hands, stopping industrial-scale distillation, and requiring safety testing of all sufficiently capable models, open and closed.\" Distillation is an AI training method where a smaller, less capable model is built using outputs from a bigger model already on the market. Anthropic sent a letter to the U.S. Senate Committee on Banking, Housing, and Urban Affairs last month alleging that China's Alibaba , developer of the Qwen family of models, had carried out the \"the largest known distillation attack\" against it to date. In the Friday letter, the signatories said that concerns about unlawful distillation should be addressed through \"targeted legal and commercial frameworks,\" an idea that Amodei agreed with on Monday. Amodei said he also agrees with other portions of the letter, namely that open-weight models give customers greater control, expand access to the AI economy and strengthen competition in some use cases. But he said he disagrees with the idea that open-weight models favor cyber defenders over attackers, or that they make it easier for users to develop safeguards. Even so, Amodei made it clear that he does not support banning open-weight models. \"Protectionist bans would not address my most serious national security concerns,\" Amodei said. WATCH: Anthropic’s new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+      "published_at": "2026-07-27T23:43:50+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 12.88,
+      "recency_weight": 0.954,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "19d1e34bb4c36f7f38f0",
+      "title": "SK Hynix’s $570 Billion Selloff Shows Cracks in Memory-Chip Boom",
+      "summary": "A $570 billion rout in just a little over a month has flipped SK Hynix Inc. from one of the world’s hottest AI trades to one of the biggest portfolio question marks.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/sk-hynix-s-rebound-from-470-billion-rout-hinges-on-ai-spending",
+      "published_at": "2026-07-27T23:30:04+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.95,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4b225f4703be334d5d99",
+      "title": "Gold Holds Gain as Trump Sounds Optimism Over US-Iran Talks",
+      "summary": "Gold held a modest gain after President Donald Trump said the US and Iran were in talks to end the war that’s stoked inflationary concerns and raised the likelihood of higher interest rates.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/gold-holds-gain-as-trump-sounds-optimism-over-us-iran-talks",
+      "published_at": "2026-07-27T23:21:45+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.947,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2aaa0c5dce0b748d41a9",
+      "title": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
+      "summary": "Monday - Friday, 10:00 - 11:00 SIN/HK | 0400 - 05:00 CET Beijing is increasingly using its AI capabilities to build foreign influence. U.S. President Donald Trump said he will discuss AI with Chinese President Xi Jinping in September. New, open-source Chinese AI model releases still reflect U.S. constraints on computing power. Hi, this is Evelyn, writing to you from Beijing. Welcome to the latest edition of The China Connection — a snapshot of what I'm seeing and hearing from local businesses. As Chinese startups build new artificial intelligence models and more American startups use them, they're raising the stakes for U.S.-China relations. China's role in AI is transforming rapidly. President Xi Jinping's AI speech on July 17 and the coinciding release of Claude Fable 5 rival Kimi K3 were just a start. The flurry of U.S. government pushback on Chinese open-source models ignited calls against \" premature restrictions \" in an open letter Friday from Nvidia's Jensen Huang and more than 20 other tech companies. \"To me, the release of Kimi K3 has kicked off a hornet's debate in Washington about what to do about Chinese open-weight models,\" said Ryan Fedasiuk, fellow at the American Enterprise Institute. The debate will soon be tested at a high level. In remarks late last week about a U.S. data center policy , U.S. President Donald Trump said he plans to discuss AI with Xi during a visit to the U.S. in late September. China's foreign ministry responded by saying Beijing was ready to work with the U.S. on AI . Whether the two countries end up being more collaborative — or adversarial — on the technology will be \"very consequential,\" said Lex Zhao, a Chinese-born venture capitalist who oversees $150 million in assets as a Boston-based managing partner at One Way Ventures. \"The reality is that a lot of American startups use Chinese AI models,\" he said. \"A lot of companies we invest in build on top of these models.\" Zhao believes the U.S. and China each hold \"a lot of leverage\" over the other, limiting what actions they will take on AI. Such commercial interdependence is turning a technology challenge for Washington into a diplomatic one. This month, China not only hosted its World AI Conference in Shanghai but also the APEC Digital Weeks in Chengdu , where nearly two dozen senior tech officials gathered — including from the U.S. George Chen, partner and chair of digital practice at consultancy The Asia Group, attended both events. \"Now Beijing also views AI as a new kind of diplomacy to grab more allies and partners,\" he said, adding that the coming Trump-Xi summit in Washington, D.C., in September will be the first time the two leaders can address AI diplomacy matters. China's tech advances have come despite four years of U.S. restrictions on access to advanced semiconductors for training AI. Excitement over powerful new models is still constrained by computing power. Earlier this month, AI consultant Shu Weibing said he visited Z.ai 's offices, only to find a three-month waitlist for companies wanting to use the startup's most advanced GLM 5.2 coding tools released in mid-June. Z.ai did not respond to a request for comment. And just a few days after Moonshot launched Kimi K3, the startup said it was pausing new subscriptions due to computing power limits. China is pouring resources into domestic computing capabilities. Z.ai is ramping up a giant 1-gigawatt data center, a source familiar with the matter confirmed to CNBC. But the pace of Chinese AI releases, even as of late June, convinced slightly more Americans that China is more advanced than the U.S. on developing AI, according to a Pew Research survey. A separate Pew study in early July found that roughly half of Americans disagreed with both Democratic and Republican policies related to AI. U.S.-based Hugging Face even said it had to use Z.ai's GLM 5.2 to address a cyberattack from a rogue OpenAI model. \"The incident clearly underscores why open source is so necessary for American enterprise and it would be foolish to close it off,\" said Fedasiuk, noting \"I think it's possible to stake out a middle ground here.\" Amid U.S. companies' claims that Chinese developers stole AI capabilities, the most advanced U.S. open-source model to date, from startup Thinking Machines Lab, disclosed that it used DeepSeek and Kimi in the development process. Other countries are watching closely. APEC representatives gathered in Chengdu published a statement Thursday in support of open-source AI models \"that employ strong security assurance .\" It's not clear whether policy, even if discussed by the leaders of the world's two largest economies in two months' time, can secure an edge in the fast-moving AI race. The best practice among businesses is to use systems that give them the option to switch between different models, rather than just relying on one, said One Way's Zhao. As Chinese models improve and spread, it may become harder for companies in the U.S.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html",
+      "published_at": "2026-07-27T23:00:02+00:00",
+      "event_type": "black_swan",
+      "severity": "major",
+      "sentiment": -0.6,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "geopolitical",
+        "growth",
+        "macro",
+        "market",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 24.15,
+      "recency_weight": 0.941,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "e25b63d17c048420b756",
       "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
@@ -45,7 +698,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -86,7 +739,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.985,
+      "recency_weight": 0.93,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -132,7 +785,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.984,
+      "recency_weight": 0.929,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -151,9 +804,9 @@
       }
     },
     {
-      "event_id": "1a7bafdeb167feb3684f",
-      "title": "Oil Extends Decline, Asian Stocks Set for Losses: Markets Wrap",
-      "summary": "Asian equities are set for a mostly weaker open after a selloff in chipmakers dragged US stocks lower, even as oil extended losses.",
+      "event_id": "0a61f6a5c877e47b0f48",
+      "title": "Stocks Slump as AI Selloff Accelerates, Bonds Gain: Markets Wrap",
+      "summary": "A selloff in chipmakers deepened as mounting doubts over returns from billions of dollars of artificial-intelligence spending rippled through semiconductor stocks from Wall Street to Asia. Bonds extended gains as oil retreated.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -163,11 +816,15 @@
       "severity": "moderate",
       "sentiment": 0.0,
       "affected_tags": [
+        "ai",
         "broad_equity",
         "energy",
+        "growth",
         "macro",
         "market",
-        "oil"
+        "oil",
+        "semiconductor",
+        "tech"
       ],
       "categories": [
         "market",
@@ -177,7 +834,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.98,
+      "recency_weight": 0.925,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -188,7 +845,8 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期"
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -221,7 +879,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.978,
+      "recency_weight": 0.924,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -263,7 +921,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -308,7 +966,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.974,
+      "recency_weight": 0.919,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -350,7 +1008,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.973,
+      "recency_weight": 0.919,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -361,52 +1019,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f3d00921a50f08ae4337",
-      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
-      "published_at": "2026-07-27T21:46:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.973,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -437,7 +1049,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.97,
+      "recency_weight": 0.916,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -483,7 +1095,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.97,
+      "recency_weight": 0.915,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -532,7 +1144,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.968,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -579,7 +1191,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.968,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -630,7 +1242,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.967,
+      "recency_weight": 0.913,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -674,7 +1286,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.966,
+      "recency_weight": 0.912,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -715,7 +1327,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.965,
+      "recency_weight": 0.911,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -766,7 +1378,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.963,
+      "recency_weight": 0.909,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -814,7 +1426,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -860,7 +1472,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -874,6 +1486,56 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a7d40ae25ac583ade8bd",
+      "title": "MU SEC 4: PRIMARY DOCUMENT",
+      "summary": "MICRON TECHNOLOGY INC (MU) filed SEC Form 4. Filing date: 2026-07-27. Form 4 detail: 07/23/2026 code S disposed 879 shares at $1,000; 34,958 shares held after. Report date: 2026-07-23. Description: PRIMARY DOCUMENT. Accession: 0001652149-26-000005.",
+      "source": "SEC EDGAR Submissions",
+      "source_tier": "official",
+      "source_weight": 1.0,
+      "url": "https://www.sec.gov/Archives/edgar/data/723125/000165214926000005/xslF345X06/primarydocument.xml",
+      "published_at": "2026-07-27T21:00:00+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "4",
+        "ai",
+        "corporate",
+        "datacenter",
+        "growth",
+        "insider",
+        "memory",
+        "sec",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "corporate",
+        "sec",
+        "4",
+        "insider"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.9,
+      "impact_score": 2.0,
+      "recency_weight": 0.905,
+      "scored_for_probability": true,
+      "source_profile": {
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "impact_axes": [
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
         "fetch_status": "live"
       }
     },
@@ -906,7 +1568,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.958,
+      "recency_weight": 0.904,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -956,7 +1618,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.957,
+      "recency_weight": 0.903,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1010,7 +1672,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.957,
+      "recency_weight": 0.903,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1054,7 +1716,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.957,
+      "recency_weight": 0.903,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1073,34 +1735,31 @@
     {
       "event_id": "8f4c772d65135d4cdb2f",
       "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
-      "summary": "President Donald Trump told reporters that the U.S. has collected more than $13 billion from the sale of Venezuelan oil. The U.S. seized control of Venezuela's oil exports after capturing former President Nicolás Maduro in a military raid on Jan. 3. Secretary of State Marco Rubio told Congress in June that the oil sales are audited by KPMG. The money is held in a Citibank account, Rubio said. President Donald Trump said Monday that the U.S. has collected more than $13 billion from the sale of Venezuelan crude oil since the overthrow of former President Nicolás Maduro. The U.S. seized control of Venezuela's oil exports after capturing Maduro in a military raid on Jan. 3. Trump was responding to a question about a Financial Times ' report that estimated how much money his administration had collected from the sales. \"$13 billion from Venezuela? I think even more than that,\" the president told reporters aboard Air Force One as he traveled to Michigan to tour a General Motors' facility. \"We've paid for that war many times over.\" Trump said the money is used to run Venezuela. \"We're taking in a lot of money — billions and billions of dollars from Venezuela,\" Trump said. The U.S. has largely left the Venezuelan government in place after ousting Maduro. Washington has been closely cooperating with interim President Delcy Rodríguez, who served as vice president under Maduro. Democrats in Congress have pressed the administration to disclose how much money it has collected from the sales, how the funds are spent, and how the program is monitored. Energy Secretary Chris Wright told Semafor in an April interview that the U.S. had sold around 150 million barrels of Venezuelan oil since January. \"It's an ongoing audit, so it's not a once-a-year audit, it's on every expenditure, every single disbursement is audited by KPMG,\" Rubio told Congress. The Trump administration initially deposited $500 million in sales to an account in Qatar that was controlled by the U.S. government, Wright said in February. The U.S. subsequently set up a Treasury account and stopped sending money to the Qatar account, he said. State Department official Michael Kozak told Congress in April that around $3 billion had been disbursed from the Treasury account. Kozak said the money was used to pay the salaries of Venezuela's government workers, buy supplies for the nation's oil industry and other approved uses. Rubio authorizes the disbursement of the funds under an executive order issued by Trump on Jan. 9. The president's order states that the money is the property of the Venezuelan government held in a custodial capacity by the U.S.",
+      "summary": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
       "published_at": "2026-07-27T20:51:08+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
         "energy",
-        "geopolitical",
-        "gold",
         "macro",
         "market",
-        "oil",
-        "safe_haven"
+        "oil"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "regime",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.956,
+      "impact_score": 7.36,
+      "recency_weight": 0.903,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1143,7 +1802,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.953,
+      "recency_weight": 0.9,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1189,7 +1848,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.944,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1209,18 +1868,17 @@
     {
       "event_id": "d0d225e192761611b624",
       "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
-      "summary": "NBCUniversal and YouTube have reached a multiyear deal that will see Peacock ingested into the platform for YouTube Premium subscribers in the U.S. Slated for early 2027, all Peacock content — including sports like the NFL and NBA, Universal films and Bravo originals — will be included in YouTube subscriptions. The partnership comes weeks after Comcast announced NBCUniversal would split from its parent company. NBCUniversal's Peacock is officially landing on YouTube. All of the streaming service's content — including NBC Sports' portfolio of the NFL and NBA, Universal films like the Minions franchise, and original Peacock and Bravo content like the Real Housewives franchise and \"Love Island USA\" — will be included in YouTube Premium subscriptions in the U.S. starting early next year. Google 's YouTube Premium is the subscription version of the streaming platform that offers videos without ads and the ability to download most videos, depending on the subscription tier. The service offers a variety of plans beginning at $8.99 per month. Peacock Premium currently costs $10.99 per month. \"The first principle for us was, does this accelerate Peacock's long-term growth? And the answer to that is yes,\" said Matt Strauss, chairman of NBCUniversal media group, in an interview. \"Peacock will now be one of the largest domestic streamers. It's going to significantly expand our reach.\" Parent company Comcast 's stock closed up 2% on Monday. NBCUniversal's partnership with YouTube was formed after Comcast co-CEO Brian Roberts reached out to YouTube CEO Neal Mohan about nine months ago, according to a person familiar with the matter. Following a meeting between the executive teams that took place at Google offices, the two companies began to brainstorm partnerships such as this, the person added. The partnership comes at a fast-moving moment in the industry. Traditional media companies like NBCUniversal, Warner Bros. Discovery and Disney have been chasing business initiatives to boost revenue and profitability while tech platforms like YouTube and TikTok grab increasing share of viewership time. Media companies have also been shapeshifting as the business model changes due to consumers' departure from pay-TV bundles in favor of streaming. Paramount Skydance has agreed to acquire WBD; Fox Corp. reached a deal to acquire Roku ; and Comcast is preparing to spin off NBCUniversal in the next year. While streaming services have been announcing a growing slate of bundles to grab more subscribers, this partnership goes a step further and will see Peacock's content live inside YouTube — or be ingested into the platform so viewers don't have to leave YouTube to access the content. Peacock has already signed deals with other streaming and tech platforms including Apple and Amazon . During an earnings call with investors last week, Comcast co-CEO Mike Cavanagh said while other media companies have taken a so-called \"walled garden\" path with their content, NBCUniversal will continue to \"look for opportunities to partner, bundle and exhibit other people's [intellectual property]\" across its theme parks and media platforms. While NBCUniversal's announced spinout from Comcast has raised industry hopes for more mergers and acquisitions, Cavanagh and others have poured cold water on the notion, focusing on potential partnerships and bundles instead. YouTube has long been considered a dominant force in streaming, as it claims a large share of viewership time as showcased in Nielsen's monthly \"The Gauge\" report. So-called creator-made videos — a category that amasses millions of viewers on YouTube — are becoming more attractive to media companies like NBCUniversal as they chase reliable and dedicated audiences. The category even hit the stage at this year's annual Upfront advertising presentations. The new partnership will allow Peacock content to be discoverable alongside such creator content, clips and highlights. According to YouTube's subscription page , it has over 125 million global Premium members. NBCUniversal reported last week that Peacock counted 48 million paying subscribers as of June 30 and that the streaming platform hit profitability for the first time during the most recent quarter. During Comcast's earnings call with investors, Cavanagh — who will become CEO of the NBCUniversal business following the separation — said he expects Peacock to remain profitable on an annual basis in the future, with some fluctuation between quarters. Live sports nab the biggest audiences for both streaming and linear TV. YouTube has been increasingly getting into the mix acquiring live sports rights. Last year it aired its first ever live NFL game, and since then the NFL has continued to hold talks with non-traditional media companies like YouTube and Netflix. YouTube has become a platform for both sports leagues and media companies to host highlights and other game-related content in a bid to attract younger audiences.",
+      "summary": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
       "published_at": "2026-07-27T20:10:03+00:00",
-      "event_type": "corporate",
+      "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "corporate",
         "macro",
         "market"
       ],
@@ -1232,7 +1890,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.944,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1242,8 +1900,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1278,7 +1935,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.943,
+      "recency_weight": 0.89,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1298,7 +1955,7 @@
     {
       "event_id": "5fb17c35d480047fe9ab",
       "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
-      "summary": "Food safety experts say decades of consolidation across farming, processing and distribution have increased the potential for a single contamination event to spread nationwide. Taylor Farms' expansion through acquisitions and the dominance of distributors such as Sysco and US Foods illustrate how fewer companies now handle a larger share of the nation's fresh produce. Some, however, argue larger producers often have more robust food safety systems and traceability, even if recalls become broader when contamination occurs. The cyclospora outbreak that has sickened thousands in the U.S. is drawing renewed attention to a decades-long shift in how fresh food moves through the country. While investigators work to identify the original source of contamination, some food safety experts say the industry's centralized sourcing and distribution networks after a wave of consolidation can help turn what once may have been an isolated contamination event into a multistate outbreak. \"The general trends that have taken place in the food industry, the way in which food has been sourced and then distributed has played some role here,\" said Dr. David Relman, a professor of microbiology and immunology at Stanford University. The cyclospora parasite's long incubation period, the difficulty in tracking its path and what some experts have criticized as a bumpy federal response have all played a role in the widening outbreak. Some experts say the structure of the food system has also contributed. \"It's possible that as food sourcing and distribution becomes consolidated you get pooling and then redistribution of what might have been a very local contamination problem, so that it now becomes a widely distributed contamination problem,\" Relman said. Marion Nestle, professor emerita of nutrition, food studies and public health at New York University, said the shrinking of the industry has amplified the consequences when contamination occurs. \"Consolidation means that if something goes wrong, it goes wrong big time,\" Nestle said. Centralized processing can further expand the reach of an outbreak, she said. The current FDA investigation around cyclosporiasis has focused on shredded iceberg lettuce distributed through Taylor Farms' foodservice business, an ingredient that reached Taco Bell restaurants and other foodservice customers across multiple states. Relman referenced bagged lettuce as one example of how changes in distribution could spread a foodborne illness. \"Think of the difference between one head of lettuce and a bag of chopped lettuce that may have come from many, many heads,\" he said. \"These bags are now being produced in huge numbers and distributed in far-flung distribution networks.\" The industry's evolution toward fewer distributors has been driven in part by a push for efficiency. Nestle said those improvements for businesses come with trade-offs for food safety. \"Big is not necessarily better,\" she said. \"The bigger the supplier, the greater the opportunity for contamination.\" Over the past several decades, U.S. agriculture and food distribution have steadily consolidated as companies pursue greater efficiency and national scale, according to the USDA. For example, Taylor Farms, the salad producer under scrutiny for the recent cyclospora outbreak, has seen significant expansion through a series of acquisitions over the past decade — including Earthbound Farm in 2019 , Curation Foods in 2021 and most recently Equinox Growers in March . Meanwhile, restaurant supply has become increasingly concentrated too, with broadline distributors like Sysco , US Foods and Performance Food Group serving hundreds of thousands of restaurants and institutional kitchens nationwide. While federal regulators blocked Sysco's proposed $8.2 billion acquisition of US Foods in 2015 on antitrust grounds, both companies have continued growing through smaller acquisitions of regional distributors and fresh produce processors. Sysco, the nation's largest foodservice distributor, has spent the past decade expanding its fresh produce business by acquiring regional distributors including Paragon Foods in Pennsylvania, The Coastal Companies in the mid-Atlantic and Greco and Sons , a specialty food distributor with 10 distribution centers across the country. Those deals expanded Sysco's reach in fresh-cut produce and value-added processing, allowing a larger share of restaurants to source ingredients through the same distribution network. In 2016, US Foods acquired Freshway Foods , a fresh fruit and vegetable processor, repacker and distributor in the eastern half of the United States. Some experts on food distribution believe having a smaller number of companies in the industry compounds issues when they arise. But not everyone agrees that consolidation is the enemy.",
+      "summary": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1320,7 +1977,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.937,
+      "recency_weight": 0.885,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1369,7 +2026,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.937,
+      "recency_weight": 0.884,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1416,7 +2073,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.929,
+      "recency_weight": 0.877,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1458,7 +2115,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.928,
+      "recency_weight": 0.876,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1503,7 +2160,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.927,
+      "recency_weight": 0.875,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1545,7 +2202,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.925,
+      "recency_weight": 0.873,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1590,7 +2247,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.922,
+      "recency_weight": 0.87,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1637,7 +2294,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.917,
+      "recency_weight": 0.865,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1684,7 +2341,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.916,
+      "recency_weight": 0.865,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1696,50 +2353,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9582578da2a14e06f0ce",
-      "title": "Macquarie Sees Oil Glut Risk on US-Iran Deal Before Midterms",
-      "summary": "Oil markets could tilt back into oversupply before the end of the year as Washington faces mounting pressure to end the Iran conflict with fewer than 100 days until the midterm elections, analysts from Macquarie Ltd said.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/macquarie-sees-oil-surplus-risk-on-us-iran-deal-before-midterms",
-      "published_at": "2026-07-27T18:32:23+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.915,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1773,7 +2386,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.91,
+      "recency_weight": 0.859,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1819,7 +2432,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.908,
+      "recency_weight": 0.857,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1868,7 +2481,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.907,
+      "recency_weight": 0.856,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1918,7 +2531,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.906,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1965,7 +2578,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.9,
+      "recency_weight": 0.85,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2007,48 +2620,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.9,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "08bd081197b42cded1d0",
-      "title": "Comey asks judge to dismiss Trump 'seashells' case citing lack of 'true threat'",
-      "summary": "Ex-FBI Director James Comey is charged with threatening to kill President Donald Trump by posting an Instagram photo of seashells forming the message \"8647.\"",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/james-comey-trump-seashells-threat.html",
-      "published_at": "2026-07-27T17:39:33+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.899,
+      "recency_weight": 0.85,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2089,48 +2661,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.898,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f62d0ef50807bd09fdd5",
-      "title": "Carlyle’s Bansal Says Bonds Shed Role as Stocks’ Shock Absorber",
-      "summary": "Carlyle Group Inc.’s asset-backed finance chief said traditional fixed income is losing its reliability as a portfolio shock absorber because those investments are becoming increasingly correlated with stocks.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/carlyle-s-bansal-says-bonds-shed-role-as-stocks-shock-absorber",
-      "published_at": "2026-07-27T17:28:56+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.896,
+      "recency_weight": 0.848,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2171,7 +2702,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.895,
+      "recency_weight": 0.845,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2212,7 +2743,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.893,
+      "recency_weight": 0.843,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2253,7 +2784,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.892,
+      "recency_weight": 0.842,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2294,7 +2825,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.892,
+      "recency_weight": 0.842,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2305,142 +2836,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ec8e64a0bb46a24c3ded",
-      "title": "Muni Bonds Look Cheapest Since March After Rough Week of Returns",
-      "summary": "US state and local government debt hit its cheapest level since the spring, after inflation fears caused municipal bonds to see their worst week of returns since April 2025.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/muni-bonds-look-cheapest-since-march-after-rough-week-of-returns",
-      "published_at": "2026-07-27T16:30:20+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.88,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "880b9670996bef62f3c6",
-      "title": "TPG Is Said in Talks to Buy Netrality for Up to $3 Billion",
-      "summary": "TPG Inc. is in exclusive talks to acquire Macquarie Group Ltd.-backed Netrality Data Centers, according to people familiar with the matter.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/tpg-said-in-talks-to-buy-netrality-for-up-to-3-billion",
-      "published_at": "2026-07-27T16:26:49+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.879,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "701c54a40f33c098f26b",
-      "title": "LVMH Fashion Unit’s Return to Growth Held Back by Iran War",
-      "summary": "LVMH’s key fashion and leather goods unit, home to Louis Vuitton and Dior, barely eked out sales growth last quarter as the conflict in the Middle East deterred wealthy shoppers.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/lvmh-fashion-unit-s-return-to-growth-held-back-by-iran-war",
-      "published_at": "2026-07-27T15:45:31+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.867,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2475,7 +2870,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.846,
+      "recency_weight": 0.798,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2517,48 +2912,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.844,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2010f3672db3865084aa",
-      "title": "Chipmaker CXMT’s 466% market debut surge makes it the most valuable China-listed company",
-      "summary": "The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
-      "published_at": "2026-07-27T14:19:43+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.843,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2603,7 +2957,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.843,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2643,7 +2997,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.838,
+      "recency_weight": 0.791,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2688,7 +3042,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.826,
+      "recency_weight": 0.78,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2730,7 +3084,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2776,7 +3130,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.821,
+      "recency_weight": 0.775,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2788,91 +3142,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4e5d76c1a5447e02cbf0",
-      "title": "Why Trump's new tariff blitz is very different this time around",
-      "summary": "President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners, including the European Union, China and the U.K.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
-      "published_at": "2026-07-27T12:53:33+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.82,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "24850e9e46a6863da6bd",
-      "title": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers",
-      "summary": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its July meeting.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/fed-interest-rates-july.html",
-      "published_at": "2026-07-27T12:15:01+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.81,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2907,7 +3176,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.807,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2947,7 +3216,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.806,
+      "recency_weight": 0.761,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2960,47 +3229,6 @@
           "国防/安全事件"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2e4829bc43f6f7065cc3",
-      "title": "Crisis-Level Swings Become New Normal in 2026 Stock Market",
-      "summary": "Forget the VIX at 19. The stock market is swinging around in ways that are beyond what’s seen as normal in bull markets.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/crisis-level-swings-become-new-normal-in-2026-stock-market",
-      "published_at": "2026-07-27T11:45:46+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.803,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3033,7 +3261,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.799,
+      "recency_weight": 0.754,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3079,7 +3307,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.794,
+      "recency_weight": 0.75,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3131,7 +3359,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.792,
+      "recency_weight": 0.747,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3143,145 +3371,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3262eb09b87c4bb6b722",
-      "title": "Samsung Shows Smart Glasses Still Work Best Tied to a Phone",
-      "summary": "Today’s products perform best when connected to partner devices",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-27/samsung-shows-smart-glasses-still-work-best-tied-to-a-phone",
-      "published_at": "2026-07-27T11:02:01+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.792,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f89583149307f1d7bb74",
-      "title": "Startup Raises $470 Million to Make Reactors for Military Bases",
-      "summary": "California startup Antares Nuclear Inc. raised $470 million to advance plans to build small reactors aimed at supplying power to US military bases.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/startup-raises-470-million-to-build-tiny-reactors-for-military",
-      "published_at": "2026-07-27T11:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.791,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3bd70673bef77ed6eb54",
-      "title": "OpenAI Announces Irish Expansion to Meet Growing AI Demand",
-      "summary": "OpenAI is expanding its European headquarters in Dublin, creating 250 new jobs.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/openai-announces-european-expansion-to-meet-growing-ai-demand",
-      "published_at": "2026-07-27T10:54:02+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.79,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -3318,7 +3407,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.781,
+      "recency_weight": 0.737,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3364,7 +3453,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.776,
+      "recency_weight": 0.733,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3376,47 +3465,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "1eb5551611a2dd1b4dfd",
-      "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments",
-      "summary": "Ford is expanding its accessory and parts business in an effort to boost profits and better tap into the $53 billion U.S. automotive aftermarket industry.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html",
-      "published_at": "2026-07-27T10:00:01+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.776,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3451,7 +3499,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.772,
+      "recency_weight": 0.728,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3469,14 +3517,57 @@
       }
     },
     {
-      "event_id": "78efba57d033cdf857bf",
-      "title": "AT&T Cuts Through Europe’s Summer Lull With Five-Part Bond",
-      "summary": "AT&amp;T Inc. raised €4.7 billion equivalent ($5.3 billion) of bonds, shattering a traditionally subdued period for Europe’s primary market with a large corporate deal.",
+      "event_id": "31943f1271fa37296e82",
+      "title": "Laopu Gold Tumbles After Reporting Slower Revenue, Profit Growth",
+      "summary": "Laopu Gold Co. shares plunged after the Chinese jeweler flagged a slowdown in first-half revenue growth as demand weakened in line with falling bullion prices.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/at-t-kick-starts-sale-of-five-part-euro-sterling-bond-offering",
-      "published_at": "2026-07-27T07:51:23+00:00",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/laopu-gold-sees-first-half-profit-slowing-amid-dropping-prices",
+      "published_at": "2026-07-27T08:55:03+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.717,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7fa286ce940427af33c9",
+      "title": "India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor",
+      "summary": "In a rare occurrence, Modi's government was forced to concede demands of Gen Z protesters, underscoring their rising influence in the country's polity.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html",
+      "published_at": "2026-07-27T08:41:01+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -3493,7 +3584,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.745,
+      "recency_weight": 0.714,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3539,7 +3630,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.653,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3587,7 +3678,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.618,
+      "recency_weight": 0.583,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3632,7 +3723,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.616,
+      "recency_weight": 0.582,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3672,7 +3763,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.37,
+      "recency_weight": 0.35,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4056,7 +4147,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-27T22:08:16+00:00",
+      "latest_published_at": "2026-07-28T02:01:34+00:00",
       "warning": null
     },
     {
@@ -4065,7 +4156,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 19,
-      "latest_published_at": "2026-07-27T20:06:25+00:00",
+      "latest_published_at": "2026-07-28T01:51:32+00:00",
       "warning": null
     },
     {
@@ -4074,7 +4165,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-27T22:30:00+00:00",
+      "latest_published_at": "2026-07-28T01:19:00+00:00",
       "warning": null
     },
     {
@@ -4083,16 +4174,16 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-27T22:23:50+00:00",
+      "latest_published_at": "2026-07-28T01:48:30+00:00",
       "warning": null
     },
     {
       "name": "SEC EDGAR Submissions",
       "tier": "official",
       "enabled": true,
-      "status": "quiet",
-      "recent_items": 0,
-      "latest_published_at": null,
+      "status": "ok",
+      "recent_items": 1,
+      "latest_published_at": "2026-07-27T21:00:00+00:00",
       "warning": null
     }
   ],
