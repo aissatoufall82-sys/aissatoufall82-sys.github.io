@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T02:10:21.742813+00:00",
+  "generated_at": "2026-07-28T05:10:25.020891+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,544 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "570c410c6b5f599c7d5f",
+      "title": "Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes",
+      "summary": "Oil prices fell Tuesday after a pause in fighting between the U.S. and Iran held. The pause followed reports that diminished U.S. munitions stockpile is factoring into military decision making. Oil prices extended their losses Tuesday after a pause in fighting between the U.S. and Iran held, raising hopes for a de-escalation in the Middle East conflict that has upended energy supplies. International benchmark Brent crude futures for September delivery fell more than 1% to $87.24 a barrel. U.S. West Texas Intermediate crude futures for September delivery dropped 1.22% to $81.6 a barrel. While Tehran has rejected reports that it has agreed to a 10-day ceasefire with the U.S., there has been a temporary pause in hostilities . That follows reports of diminished U.S. munitions. President Donald Trump , who on Friday told Axios that he was considering a \"massive attack\" on Iran, later set those plans aside amid arms stockpile concerns, The New York Times reported. Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons, saying the military had \"plenty\" of ordnance. The Commonwealth Bank of Australia said on Tuesday that recent decline in oil prices reflects easing concerns over an immediate escalation between the U.S. and Iran, but cautioned that risks to global energy supplies remain elevated. While \"a pause in US Iran hostilities appears to have weakened expectations that the conflict will escalate to include significant attacks on civilian and energy infrastructure,\" the bank said in a note, warning that disagreements over the vital Strait of Hormuz shipping lane \"could see hostilities reignite.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+      "published_at": "2026-07-28T05:06:22+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.999,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "80ad48fcbe005aae40d7",
+      "title": "Nvidia Employee Detained by Taiwan in China Chip Smuggling Probe",
+      "summary": "Taiwanese prosecutors have detained an Nvidia Corp. employee and searched the company’s offices as part of a widening probe into the alleged smuggling of AI accelerators into China, according to people familiar with the matter.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe",
+      "published_at": "2026-07-28T04:48:29+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9fda62019312453085b5",
+      "title": "Korean Markets Hit by Turmoil as Chip Rout Forces Trading Halts",
+      "summary": "South Korean stocks suffered a series of trading suspension on Tuesday, as a selloff in chipmakers spread across sectors.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-markets-hit-by-turmoil-as-chip-rout-forces-trading-halts",
+      "published_at": "2026-07-28T04:40:59+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "aa9911f8329546cf48fa",
+      "title": "SK Hynix shares plunge 13% in Seoul as chip sell-off deepens",
+      "summary": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street. SK Hynix plunged more than 13%, while Samsung Electronics fell over 12%. Semiconductor shares tumbled Tuesday in Asia, extending a rout in chipmakers after another weak session on Wall Street. SK Hynix plunged more than 13%, while Samsung Electronics fell over 12%. Other AI-linked names also saw heavy selling, with Samsung SDI dropping over 10%, LG Innotek sliding nearly 18%, Seoul Semiconductor falling about 7% and LG Chem losing more than 6%. Japan's chip names also declined. Tokyo Electron dropped almost 11%, Advantest slid over 10%, while SoftBank Group , a major AI investment proxy through its stake in Arm , fell 6.3%. Shares of Japan's computer memory manufacturer Kioxia plunged more than 18%. Taiwan's TSMC was down 2.9%. Mainland China's tech-heavy ChiNext 300 index was down 4.7%, while the Hang Seng China Semiconductor Chips Index fell 5%. The sell-off followed another weak session for U.S. semiconductor stocks on Monday . The VanEck Semiconductor ETF (SMH) lost more than 2%, adding to its Friday losses. AMD and Teradyne dropped 5% and 4%, respectively. Micron Technology shed about 2%. The weakness underscores how closely Asian technology shares and the U.S. AI trade have become intertwined. Samsung Electronics and SK Hynix are among the world's largest suppliers of high-bandwidth memory chips used in AI servers, making their shares particularly sensitive to shifts in expectations for spending by U.S. hyperscalers. Sharp swings in SK Hynix shares underscore the uncertainty surrounding the AI investment cycle, said Acadian Asset Management's senior vice president Owen Lamont, arguing that investors still have little visibility into how the technology will ultimately affect the economy. \"Right now we're facing an incredible uncertainty,\" he told CNBC. \"No one has any idea how this AI process is going to affect our economy, and so I think it's going to be rocky no matter what.\" Lamont also added that leveraged exchange-traded products could be adding to market swings, even if they are not solely responsible for SK Hynix's recent volatility. \"More generally, the entire ecosystem of levered ETFs in Korea, also in Hong Kong and in the United States, are possibly adding volatility and magnifying market fluctuations.\" The sell-off also reflects a broader deterioration in sentiment toward semiconductor stocks after recent media reports highlighted China's ambitions in memory chips and lithography equipment, according to Sundeep Gantori, chief investment officer for equities at Standard Chartered. The long-term outlook remains intact, he said: \"The market opportunity remains sufficiently large for multiple players to benefit and coexist,\" with the AI investment cycle continuing to support leading technology companies. \"The other reason behind today's weakness in Korea is around some broker reports around memory price peak in 2027, which is not too different from our view,\" Gantori said. While Standard Chartered expects memory prices to peak next year, he added that \"what matters is risk-reward and at current valuations, risk-reward has improved.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+      "published_at": "2026-07-28T03:55:49+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "datacenter",
+        "growth",
+        "macro",
+        "market",
+        "memory",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.976,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9c18df3b3bb168032380",
+      "title": "Indonesian stocks stage massive turnaround, hitting bull market status after clocking a five-year low just last month",
+      "summary": "\"After months of heavy selling, Indonesian equities simply became too cheap to ignore,\" according to Kiwoom Sekuritas Indonesia. MSCI's decision to hold off downgrading Indonesia's market status to frontier-market status came as \"a big relief\" to investors, Capital Economics said. Attractive valuations, quick intervention by local financial regulators and a gradual return of foreign investors have helped Indonesian stocks reach bull-market status after hitting a five-year low in early June. Indonesia's Jakarta Stock Exchange Composite Index is down about 29% year-to-date, but has reached the bull-market threshold of a 10%-plus gain since that trough last month, according to LSEG data. S&P Global ratings reaffirming Indonesia's BBB sovereign rating with a stable outlook a couple of weeks ago helped boost sentiment. \"S&P's affirmation removed an important macro overhang,\" said Mohit Mirpuri, senior partner at SGMC Capital. \"Over the past month, we've seen the market transition from pricing in deterioration to pricing in stabilization.\" Indonesian shares have been on a roller coaster for much of 2026 after index provider MSCI called into question governance on many of the country's stocks and said it would consider downgrading the market to frontier status from emerging. Many of the companies have low free floats and significant concentration of ownership, for instance. MSCI ultimately decided to hold off downgrading Indonesia's market status, which was \"a big relief\" to investors and helped halt panic selling, according to Gareth Leather, senior economist at Capital Economics. Investors started pulling profits out of expensive AI and tech stocks and looked for safer, bargain-priced markets to put their cash into, he said. \"After months of heavy selling, Indonesian equities simply became too cheap to ignore,\" Liza Camelia, head of research at Kiwoom Sekuritas Indonesia, told CNBC. Investors were also relieved that fiscal risks may be less severe than previously feared, after government revenue surprised on the upside, with tax collections recovering strongly during the first half, Camelia noted. The Indonesian regulator's measures to have a higher minimum free float and tighter ownership disclosure requirements also helped \"to address the market's thin liquidity and associated transparency and concentration issues that drove some investors out,\" said Jeemin Bang, associate economist at Moody's Analytics.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/28/indonesian-stocks-enter-bull-market.html",
+      "published_at": "2026-07-28T03:55:40+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.976,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "348c2f48d94575eee240",
+      "title": "Tokyo Eyes Lifting Support for Overseas Oil Pipeline Investments",
+      "summary": "Tokyo is planning to expand its financial support to Japanese companies investing in pipeline projects overseas including the Middle East, as part of efforts to strengthen alternative oil and gas transportation routes in the Gulf region to bypass the Strait of Hormuz.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/tokyo-eyes-lifting-support-for-overseas-oil-pipeline-investments",
+      "published_at": "2026-07-28T03:38:14+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.971,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "bfd60de68c74970a036c",
+      "title": "India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor",
+      "summary": "The Indian government conceded all demands of student protesters led by the Cockroach Janta Party. On Saturday, India’s education minister tendered his resignation. The success of the student movement will galvanize other parts of civil society to protest against the Modi government: experts. Prime Minister Narendra Modi's government caved under the pressure of student protests across India — a rarity in the current administration — underscoring the rising influence of Gen Zs in the world's largest democracy. On Saturday, India's Education Minister Dharmendra Pradhan resigned , a key demand of the student protesters who were voicing concerns over examination test paper leaks. The government also agreed to the other demands of the Cockroach Janta Party, the youth movement at the helm of the protest, such as providing compensation to the families of students who died by suicide due to the exam paper leak in May. The protests that got amplified on social media, pushed 75-year-old Modi to make his first reel on Instagram as he looks to develop his presence on the platform in his bid to connect with the younger generation of voters. In his latest reel on Sunday, Modi promised a \" HIGH POWERED TASK FORCE \" led by Indian tech entrepreneur Nandan Nilekani to oversee examination reforms. The protests exposed a growing disconnect between the Modi government and younger Indians, a generation that will dominate the electorate for decades to come, experts said. \"It's very striking to see the rhetoric and the language from these protesters,\" Michael Kugelman, senior fellow for the South Asian region at the Atlantic Council, told \" Inside India \" on Monday. The protesters were \"witheringly critical\" and \"profane at times toward Modi and his government,\" he said, adding that it was surprising given the popularity of the Modi government. Experts highlighted that in 2027, there are several major state elections, including for Uttar Pradesh, India's most populous state with one of the largest youth voter bases. By 2029, in time for the next general election, Gen Zs will be the most \"influential demographic,\" and all political parties will emphasize addressing their priorities. \"Don't make me a hero because of Dharmendra Pradhan's resignation,\" Abhijeet Dipke, founder of the CJP said in a speech on Saturday, adding that the \"country has been ruined because of making one person a hero,\" in a veiled reference to the prime minister. For much of the last decade, economic aspirations have been the driving factor for Modi's electoral appeal, experts said, but added that many young people feel the promise has not materialized amid rising unemployment and lack of upward mobility. The CJP was launched on May 16 by political communications strategist and Boston University student Dipke, after Chief Justice of India Surya Kant referred to people attacking institutions as \"parasites\" and likened some unemployed youngsters and activists to \"cockroaches\" during a courtroom hearing. The CJI later said his oral observations were \"misquoted,\" but the CJP had already gone viral on social media, amassing more than 22 million followers in a short span. The CJP called for a protest on June 6, demanding the resignation of Pradhan, blaming him for the exam paper leaks that happened in May. But the demonstration gained momentum on July 20 after Delhi Police violently cracked down against students as they breached security barricades surrounding the protest site to march towards the parliament. The political impact of the student protest on the Modi government could potentially be significant, Arpit Chaturvedi, South Asia advisor at Teneo, told CNBC. The CJP movement suggests that the Modi government's \"political and developmental narrative may not resonate as strongly with the next generation of voters,\" and challenges the \"perception of the government's political invincibility,\" Chaturvedi said. As per local media reports, the CJP's successful protest has already inspired a copycat group, E20 Janta Party , seeking the resignation of India's Road Transport and Highways minister Nitin Gadkari over the mandate of mixing 20% ethanol with petrol. Indian farmers are also planning a protest to raise their concerns against the U.S.-India trade deal. The success of the CJP protest is going to have a \"galvanizing effect\" on other civil society campaigns, said Kugelman of the Atlantic Council. The last time the Modi government had to concede to the demands of protestors was in 2021, following demonstrations held by farmers that lasted for over a year.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html",
+      "published_at": "2026-07-28T03:27:43+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "bee0dfbdf456f3d1b798",
+      "title": "Asian Stocks Slide 10% From June Peak to Head for Correction",
+      "summary": "Asian stocks slumped, putting the regional benchmark on course for a technical correction, as a selloff in chipmakers deepened.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/asian-stocks-slide-10-from-june-peak-to-head-for-correction",
+      "published_at": "2026-07-28T03:27:10+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.967,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "bd6d908d59e0601096b7",
+      "title": "RBA’s Bullock Says Economy Cooling, Unsure Rates High Enough",
+      "summary": "Australia’s central bank chief said there are signs the economy is cooling as anticipated, though it’s still unclear if this year’s interest-rate hikes are enough to return inflation to target or whether additional tightening will be needed.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/rba-s-bullock-says-economy-cooling-unsure-if-rates-high-enough",
+      "published_at": "2026-07-28T03:05:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.5,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 13.8,
+      "recency_weight": 0.961,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f6faa6399e10deb00746",
+      "title": "USD/PHP: Philippines Intervened in Small Way to Defend Peso, BSP Governor Says",
+      "summary": "The Philippine central bank intervened in a small way to defend the peso last week, Governor Eli Remolona said, as the currency weakened to a record low.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/usd-php-philippines-intervened-in-small-way-to-defend-peso-bsp-governor-says",
+      "published_at": "2026-07-28T03:00:56+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7c55b917527eb23e2c4a",
+      "title": "India IPO Hopefuls Race to Beat August Deadline for Audited Results",
+      "summary": "Three offerings closed on Monday, while four more firms have announced IPO schedules.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-28/india-ipo-hopefuls-race-to-beat-august-deadline-for-audited-results",
+      "published_at": "2026-07-28T02:29:07+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.95,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8fc968e8f56edf10070c",
+      "title": "Origin Says About 900,000 Customers’ Data Accessed in Breach",
+      "summary": "About 900,000 current and former Origin Energy Ltd. customers had their data accessed in a security breach, the latest in a string of cyberattacks on major Australian companies and essential-service providers.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/origin-says-about-900-000-customers-data-accessed-in-breach",
+      "published_at": "2026-07-28T02:17:23+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.946,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "95ae5af13635321e3253",
       "title": "Innolight Prices $6.8 Billion Hong Kong Listing Below Maximum",
@@ -45,7 +583,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -91,56 +629,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.994,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "924fa3d8bdeb1f00b676",
-      "title": "Shares of SK Hynix plunge 10% in Seoul as semiconductor selloff deepens",
-      "summary": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street. SK Hynix plunged more than 10%, while Samsung Electronics fell over 8%. SK Hynix plunged more than 10%, while Samsung Electronics fell over 8%. Other AI-linked names also came under heavy selling, with Samsung SDI dropping over 7%, LG Innotek sliding nearly 14%, Seoul Semiconductor falling about 6% and LG Chem losing more than 4%. Japan's semiconductor sector also traded lower. Tokyo Electron dropped more than 9%, Advantest slid over 8%, while SoftBank Group , a major AI investment proxy through its stake in Arm , fell nearly 5%. Shares of Japan computer memory manufacturer Kioxia plunged more than 15%. Taiwan's TSMC was down over 2%. The selloff followed another weak session for U.S. semiconductor stocks on Monday . The VanEck Semiconductor ETF (SMH) lost more than 2%, adding to its Friday losses. AMD and Teradyne dropped 5% and 4%, respectively. Micron Technology shed about 2%. The weakness underscores how closely Asian technology shares and the U.S. AI trade have become intertwined. Samsung Electronics and SK Hynix are among the world's largest suppliers of high-bandwidth memory chips used in AI servers, making their shares particularly sensitive to shifts in expectations for spending by U.S. hyperscalers. Sharp swings in SK Hynix shares underscore the uncertainty surrounding the AI investment cycle, said Acadian Asset Management's senior vice president Owen Lamont, arguing that investors still have little visibility into how the technology will ultimately affect the economy. \"Right now we're facing an incredible uncertainty,\" he told CNBC. \"No one has any idea how this AI process is going to affect our economy, and so I think it's going to be rocky no matter what.\" Lamont also added that leveraged exchange-traded products could be adding to market swings, even if they are not solely responsible for SK Hynix's recent volatility. \"More generally, the entire ecosystem of levered ETFs in Korea, also in Hong Kong and in the United States, are possibly adding volatility and magnifying market fluctuations.\"",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-      "published_at": "2026-07-28T01:48:30+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "datacenter",
-        "growth",
-        "macro",
-        "market",
-        "memory",
-        "semiconductor",
-        "storage",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.993,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -187,7 +676,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.993,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -237,7 +726,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.989,
+      "recency_weight": 0.933,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -284,7 +773,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.984,
+      "recency_weight": 0.928,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -330,7 +819,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.974,
+      "recency_weight": 0.92,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -348,9 +837,9 @@
       }
     },
     {
-      "event_id": "0b7d7aa88882438d1435",
-      "title": "Chip Rout Deepens on Funding Worry, China Competition",
-      "summary": "A selloff in global semiconductor stocks deepened on Tuesday, as investor sentiment continued to worsen over the sustainability of the artificial intelligence boom.",
+      "event_id": "d44a842752f8a8dc0a8d",
+      "title": "Chip Rout Deepens on China Competition, Circular Funding Fears",
+      "summary": "A global selloff in semiconductor stocks deepened on Tuesday, as fresh signs of China’s progress in advanced chipmaking and mounting concerns over the artificial intelligence spending boom sparked another wave of selling across the sector.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -376,7 +865,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.973,
+      "recency_weight": 0.918,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -418,7 +907,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -464,7 +953,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -514,7 +1003,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.954,
+      "recency_weight": 0.901,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -561,7 +1050,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -579,35 +1068,34 @@
       }
     },
     {
-      "event_id": "4b225f4703be334d5d99",
-      "title": "Gold Holds Gain as Trump Sounds Optimism Over US-Iran Talks",
-      "summary": "Gold held a modest gain after President Donald Trump said the US and Iran were in talks to end the war that’s stoked inflationary concerns and raised the likelihood of higher interest rates.",
+      "event_id": "5dead51f246611747f2f",
+      "title": "Gold Declines as Traders Weigh Prospects for Interest-Rate Hike",
+      "summary": "Gold declined ahead of a potentially divisive decision on US interest rates later this week, while a fragile pause in Middle East hostilities soothed inflation fears.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-07-27/gold-holds-gain-as-trump-sounds-optimism-over-us-iran-talks",
       "published_at": "2026-07-27T23:21:45+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.5,
       "affected_tags": [
         "broad_equity",
-        "geopolitical",
-        "gold",
+        "dollar",
+        "growth",
         "macro",
         "market",
-        "oil",
-        "safe_haven"
+        "rates"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "regime",
+      "forward_significance": "trend_confirmation",
       "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.947,
+      "impact_score": 13.8,
+      "recency_weight": 0.894,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -617,8 +1105,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -655,7 +1142,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.941,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -698,7 +1185,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.932,
+      "recency_weight": 0.879,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -739,7 +1226,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.93,
+      "recency_weight": 0.878,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -785,7 +1272,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.929,
+      "recency_weight": 0.877,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -804,9 +1291,9 @@
       }
     },
     {
-      "event_id": "0a61f6a5c877e47b0f48",
-      "title": "Stocks Slump as AI Selloff Accelerates, Bonds Gain: Markets Wrap",
-      "summary": "A selloff in chipmakers deepened as mounting doubts over returns from billions of dollars of artificial-intelligence spending rippled through semiconductor stocks from Wall Street to Asia. Bonds extended gains as oil retreated.",
+      "event_id": "c932450dcb4d95a898fd",
+      "title": "Stocks Slump as Chip Selloff Worsens, Oil Drops: Markets Wrap",
+      "summary": "Stocks tumbled as mounting doubts over returns from billions of dollars of artificial-intelligence spending triggered another selloff in chipmakers from Wall Street to Asia. Bonds gained as oil retreated.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -834,7 +1321,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.925,
+      "recency_weight": 0.873,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -855,7 +1342,7 @@
     {
       "event_id": "7e2998224981a59b40ad",
       "title": "Latest Oil Market News and Analysis for July 28",
-      "summary": "Oil extended a steep drop after President Donald Trump said the US and Iran were engaged in talks to end the Middle East conflict.",
+      "summary": "Oil extended a steep decline after President Donald Trump said that the US and Iran were engaged in talks to try to end the Middle East conflict, with the two sides continuing to hold off on attacks.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -879,7 +1366,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.924,
+      "recency_weight": 0.872,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -921,7 +1408,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -966,7 +1453,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.919,
+      "recency_weight": 0.867,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1008,7 +1495,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.919,
+      "recency_weight": 0.867,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1049,7 +1536,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.916,
+      "recency_weight": 0.865,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1095,7 +1582,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.915,
+      "recency_weight": 0.864,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1144,7 +1631,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.914,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1191,7 +1678,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.914,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1242,7 +1729,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.913,
+      "recency_weight": 0.862,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1286,7 +1773,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.912,
+      "recency_weight": 0.861,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1327,7 +1814,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.911,
+      "recency_weight": 0.859,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1346,28 +1833,22 @@
     {
       "event_id": "bb9b9c3028c36601d9a4",
       "title": "Apple ends day as world's most valuable company, passing Nvidia",
-      "summary": "Apple passed Nvidia on Monday for the title of world's most valuable company, with the iPhone maker topping the AI chip firm at market close for the first time since April 2025. Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft The AI chipmaker briefly held a $5 trillion capitalization in October. Apple passed Nvidia on Monday for the title of world's most valuable company, with the iPhone maker topping the artificial intelligence chip firm at market close for the first time since April 2025. Meanwhile, Apple shares rose 1%, giving it a market cap of $4.95 trillion, ahead of the company's highly-anticipated earnings on Thursday. Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft , and it briefly held a $5 trillion capitalization in October. So far in 2026, Nvidia's shares have only climbed 4% while Apple's are up 24%. Apple has outperformed the market as investors have rewarded its reluctance to spend heavily on capital expenditures for AI, preferring to rent capacity instead of building its own. While Nvidia's sales are now in the third year of massive AI-driven growth, many investors have switched their focus from AI chips called graphics processing units to memory chips and other data center infrastructure that benefit from the AI boom, such as Micron Technology , SK Hynix , and Sandisk . Apple will report fiscal third-quarter earnings on Thursday, in which the iPhone maker is expected to reveal for the first time some of the financial impacts from the AI-driven global memory chip shortage, which forced the company to raise Mac and iPad prices in June. Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation SpaceX launches massive Starship rocket in first test flight since IPO",
+      "summary": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
       "published_at": "2026-07-27T21:12:26+00:00",
-      "event_type": "black_swan",
-      "severity": "major",
-      "sentiment": -0.6,
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
-        "corporate",
-        "datacenter",
-        "geopolitical",
         "growth",
         "macro",
         "market",
-        "memory",
-        "safe_haven",
         "semiconductor",
-        "storage",
         "tech"
       ],
       "categories": [
@@ -1375,10 +1856,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 24.15,
-      "recency_weight": 0.909,
+      "impact_score": 5.52,
+      "recency_weight": 0.858,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1389,8 +1870,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1426,7 +1905,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.906,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1472,7 +1951,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.906,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1523,7 +2002,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.905,
+      "recency_weight": 0.854,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1568,7 +2047,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.904,
+      "recency_weight": 0.853,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1588,7 +2067,7 @@
     {
       "event_id": "27505dc8418efff80263",
       "title": "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
-      "summary": "An event contract projects over 50% odds that Warsh will mention \"shock,\" along with a 74% chance that he will say \"oil.\" The event contract is one of the leading mention markets on the prediction market platform as of Monday afternoon and will be resolved from what Warsh says at July's press conference. June's Federal Open Market Committee meeting ended with a much shorter statement from the Federal Reserve, and with Chairman Kevin Warsh not giving a forecast on the outlook for rates. It's likely he will continue a tight-lipped approach this week, as Kalshi traders point to potential words the recently minted central bank leader will mention. An event contract asking what Warsh will say in the next press conference shows over 50% odds that the Fed chief will mention the word \"shock,\" along with a 74% chance that he will say \"oil.\" The event contract is one of the leading mention markets on the platform as of Monday afternoon — and will be resolved based on what Warsh says at a press conference set for Wednesday at 2:30 p.m. ET. This week's Fed meeting, along with the contract on what words Warsh will utter this week, come after Iran and the U.S. paused their fighting. Last week, both countries exchanged attacks, briefly pushing Brent crude back above $100 per barrel. The halt took the air out the oil gains, with Brent trading back below $89 on Monday. Though Kalshi traders see a likelihood of Warsh referring to an energy supply shock, Bank of America on Monday said it is \"textbook policy\" for the central bank to avoid responding to it. The Fed is largely expected to keep its overnight benchmark rate unchanged, per the CME Group's FedWatch tool. Evercore ISI noted that, \"It would be odd to [hike rates] right after the better June inflation print given an uncomplicated path to hike in September if needed.\" \"But we cannot take the probability too low given Warsh's refusal to set out his strategy, and renewed US-Iran conflict that has revived the energy shock and pushed up yields,\" the firm added. One Kalshi contract, asking traders what the Fed decision will be in July, projects a nearly 75% chance that the Fed will maintain rates at current levels. Odds of a rate hike this week have increased to around 38% from 16% last week, per FedWatch. Similarly, another Kalshi contract asking when the next Fed hike will be, shows 68% odds of one taking place this year. Both Kalshi contracts on potential rates will be verified by the Federal Reserve. Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.",
+      "summary": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conference.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1596,29 +2075,26 @@
       "published_at": "2026-07-27T20:52:29+00:00",
       "event_type": "macro",
       "severity": "moderate",
-      "sentiment": -0.5,
+      "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
         "dollar",
         "energy",
-        "geopolitical",
-        "gold",
         "growth",
         "macro",
         "market",
         "oil",
-        "rates",
-        "safe_haven"
+        "rates"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 13.8,
-      "recency_weight": 0.903,
+      "impact_score": 11.04,
+      "recency_weight": 0.852,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1638,41 +2114,31 @@
     {
       "event_id": "b251e6d11b6b3442752c",
       "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
-      "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place. Iran has indicated it will stop carrying out attacks as long as the U.S. also refrains from striking, Reuters reported. Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place, easing concerns over nearly two weeks of escalating conflict. International benchmark Brent crude futures for September delivery fell 8.7% to close at $88.36 a barrel. U.S. West Texas Intermediate crude futures for September delivery dropped 7.5% to settle at $82.61 a barrel. Iran has indicated it will stop carrying out attacks as long as the United States also refrains from striking, Reuters reported on Sunday, citing a senior Iranian official. The pause follows Washington's decision to suspend its bombing campaign after President Donald Trump's advisers reportedly warned that the military was running out of viable targets and raised concerns about depleting U.S. weapons stockpiles. The Iranian official reportedly said that Tehran's stance \"remains 'attack for attack': if the attacks stop, Iran will also halt its operations. That message has already been conveyed to the United States.\" U.S. ambassador to the United Nations Mike Waltz said on Fox News Sunday that Trump had chosen to pause the strikes to allow diplomatic efforts to continue. HSBC's U.S. rates strategist Dhiraj Narula said higher oil prices have contributed to renewed expectations that the Federal Reserve may need to keep policy tighter for longer, but noted inflation expectations have remained relatively contained despite the energy rally. He attributed that to stronger messaging from Fed officials on their commitment to price stability, which has prevented the oil shock from feeding into longer-term inflation expectations. What is Pickaxe Mountain, the Iranian nuclear facility Trump is threatening to strike? Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of ‘hostile and criminal act’ Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping Tehran’s Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night Iran says it attacked Amazon infrastructure in Bahrain U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war Strait of Hormuz shutdown: A visual guide to the world's most critical oil chokepoint Oil markets are betting on a swift end to the Iran war. Investors may regret it The Middle East war is testing the Gulf’s ambitions to become an AI hub Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality Why the confusion around the Iran situation could get worse. How to profit anyway Strait of Hormuz: Ships attacked as Trump extends Iran ceasefire Trump tells CNBC he expects U.S. to make 'great deal' with Iran",
+      "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
       "published_at": "2026-07-27T20:52:29+00:00",
-      "event_type": "macro",
-      "severity": "major",
-      "sentiment": -0.35,
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
-        "corporate",
-        "dollar",
         "energy",
-        "geopolitical",
-        "gold",
-        "growth",
         "macro",
         "market",
-        "oil",
-        "rates",
-        "safe_haven",
-        "semiconductor",
-        "tech"
+        "oil"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 24.15,
-      "recency_weight": 0.903,
+      "impact_score": 7.36,
+      "recency_weight": 0.852,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1683,9 +2149,7 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1716,7 +2180,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.903,
+      "recency_weight": 0.852,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1759,7 +2223,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.903,
+      "recency_weight": 0.852,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1802,7 +2266,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.9,
+      "recency_weight": 0.849,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1814,93 +2278,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c065de43e8a424950b02",
-      "title": "SK Hynix Slumps Below US IPO Price as Mega-Listings Turn Sour",
-      "summary": "SK Hynix Inc.’s American depositary receipts slumped to a new low after a record-setting $26.5 billion debut earlier this month as investors dump once-high flying semiconductor stocks.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/sk-hynix-slumps-below-us-ipo-price-as-mega-listings-turn-sour",
-      "published_at": "2026-07-27T20:12:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.891,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d0d225e192761611b624",
-      "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
-      "summary": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
-      "published_at": "2026-07-27T20:10:03+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.891,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1935,7 +2312,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.89,
+      "recency_weight": 0.84,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1977,7 +2354,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.885,
+      "recency_weight": 0.835,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2026,7 +2403,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.884,
+      "recency_weight": 0.834,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2073,7 +2450,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.877,
+      "recency_weight": 0.828,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2085,47 +2462,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d0d569034542326c808d",
-      "title": "Azimut Fund Manager Bets on Japanese Bonds as Yields Surge",
-      "summary": "Japanese government bonds offer investors one of the best opportunities in global fixed income despite being viewed as high risk, according to an Azimut Group fund manager.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/azimut-fund-manager-bets-on-japanese-bonds-as-yields-surge",
-      "published_at": "2026-07-27T19:18:56+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.876,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2160,7 +2496,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.875,
+      "recency_weight": 0.826,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2202,7 +2538,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.873,
+      "recency_weight": 0.824,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2247,7 +2583,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.87,
+      "recency_weight": 0.821,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2294,7 +2630,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.865,
+      "recency_weight": 0.817,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2341,7 +2677,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.865,
+      "recency_weight": 0.816,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2386,7 +2722,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.859,
+      "recency_weight": 0.81,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2432,7 +2768,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.857,
+      "recency_weight": 0.809,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2481,7 +2817,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.856,
+      "recency_weight": 0.808,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2531,7 +2867,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 24.15,
-      "recency_weight": 0.855,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2544,52 +2880,6 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5625ad98128ab884314b",
-      "title": "U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles",
-      "summary": "A temporary pause to the U.S.-Iran conflict appeared to hold on Monday, after negotiations over a lasting peace faced fresh hurdles over the weekend.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
-      "published_at": "2026-07-27T17:43:48+00:00",
-      "event_type": "geopolitical",
-      "severity": "moderate",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.85,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2620,7 +2910,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.85,
+      "recency_weight": 0.802,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2661,7 +2951,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.848,
+      "recency_weight": 0.8,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2702,7 +2992,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.845,
+      "recency_weight": 0.798,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2743,7 +3033,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.843,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2784,7 +3074,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.842,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2825,7 +3115,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.842,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2870,7 +3160,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.798,
+      "recency_weight": 0.753,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2912,7 +3202,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.796,
+      "recency_weight": 0.752,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2957,7 +3247,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.796,
+      "recency_weight": 0.751,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2997,7 +3287,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.791,
+      "recency_weight": 0.747,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3042,7 +3332,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.78,
+      "recency_weight": 0.736,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3084,7 +3374,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.776,
+      "recency_weight": 0.733,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3101,108 +3391,15 @@
       }
     },
     {
-      "event_id": "1087932a2d4f4bf6a864",
-      "title": "Treasuries Rise as Elevated Yields Attract Buyers Before Fed",
-      "summary": "US Treasuries rose as the US paused strikes on Iran and oil prices fell, with an auction of the shortest-dated notes attracting buyers ahead of this week’s Federal Reserve meeting.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/treasury-yields-follow-oil-lower-with-fed-and-supply-in-focus",
-      "published_at": "2026-07-27T12:56:47+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.775,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7ff31f24dc3178b7e311",
-      "title": "Arnault Joins X as LVMH CEO Fights Off Rumors of Family Disunity",
-      "summary": "Europe’s richest person has finally joined the social media fray.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/arnault-joins-x-as-lvmh-ceo-fights-off-rumors-of-family-disunity",
-      "published_at": "2026-07-27T12:00:43+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.761,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
       "event_id": "c5557e4b5a6f543e4079",
       "title": "Department of War and L3Harris Secure Landmark Deals to Expand Propulsion Production for PAC-3 MSE and THAAD",
-      "summary": "",
+      "summary": "DOW, in cooperation with L3Harris and Lockheed Martin, announced two landmark seven-year framework agreements to expand production capacity for key components of the Patriot Advanced Capability-3 Missile Segment Enhancement interceptor and the Terminal High Altitude Area Defense weapon system.",
       "source": "US Defense Releases",
       "source_tier": "official",
       "source_weight": 1.0,
       "url": "https://www.war.gov/News/Releases/Release/Article/4555837/department-of-war-and-l3harris-secure-landmark-deals-to-expand-propulsion-produ/",
       "published_at": "2026-07-27T12:00:16+00:00",
-      "event_type": "market",
+      "event_type": "defense",
       "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
@@ -3216,7 +3413,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3233,118 +3430,21 @@
       }
     },
     {
-      "event_id": "ae23df0fa287e570b763",
-      "title": "Truist Names Jefferies Veteran Mineard Co-Head of TMT",
-      "summary": "Craig Mineard is joining Truist Financial Corp.’s investment bank from Jefferies Financial Group Inc. to co-head the firm’s technology media and telecom group.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/truist-names-jefferies-veteran-mineard-co-head-of-tmt",
-      "published_at": "2026-07-27T11:31:05+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.754,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ce5edaa40f87acad5754",
-      "title": "US Stocks Erase Gains as Chipmakers Extend Losses to Third Day",
-      "summary": "The S&amp;P 500 Index finished flat on Monday, erasing an early morning rally as chipmakers weakened, pushing the Philadelphia Semiconductor Index down for a third consecutive session.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/us-stocks-catch-a-bid-as-oil-tumbles-with-iran-conflict-pause",
-      "published_at": "2026-07-27T11:12:22+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.75,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4bee9cb5cb9598354555",
-      "title": "China Vows Response to US Sanctions Threat Against AI Firms",
-      "summary": "China warned it would take “all necessary measures” if the US moves to sanction Chinese artificial intelligence companies over allegations they improperly used American models to train their own systems.",
+      "event_id": "f50cac2242e1465f4e91",
+      "title": "China Draws Lines on US Tariffs, AI Ahead of Xi-Trump Summit",
+      "summary": "China set a ceiling on new US tariffs and warned Washington against sanctioning Chinese artificial intelligence companies, drawing boundaries weeks before the next meeting between President Donald Trump and Chinese leader Xi Jinping.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms",
       "published_at": "2026-07-27T11:02:29+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
-        "broad_equity",
-        "geopolitical",
-        "gold",
         "growth",
         "market",
-        "oil",
-        "safe_haven",
         "semiconductor",
         "tech",
         "technology"
@@ -3358,8 +3458,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 12.88,
-      "recency_weight": 0.747,
+      "impact_score": 5.52,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3370,7 +3470,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -3407,7 +3506,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.737,
+      "recency_weight": 0.696,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3453,7 +3552,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.733,
+      "recency_weight": 0.691,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3499,7 +3598,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.728,
+      "recency_weight": 0.687,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3542,7 +3641,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.717,
+      "recency_weight": 0.677,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3554,47 +3653,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7fa286ce940427af33c9",
-      "title": "India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor",
-      "summary": "In a rare occurrence, Modi's government was forced to concede demands of Gen Z protesters, underscoring their rising influence in the country's polity.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html",
-      "published_at": "2026-07-27T08:41:01+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.714,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3630,7 +3688,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.616,
+      "recency_weight": 0.581,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3642,99 +3700,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "aac8351a0f8856e99c06",
-      "title": "S&P 500 Wobbles as AI Angst Offsets Oil Decline: Markets Wrap",
-      "summary": "A selloff in chipmakers sent stocks wavering, offsetting a decline in oil prices, as pressure keeps building for the biggest spenders on artificial intelligence to justify their investments.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
-      "published_at": "2026-07-26T22:09:05+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.583,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ed6d111e20c07c8a1d80",
-      "title": "Latest Oil Market News and Analysis for July 27",
-      "summary": "⁠⁠Oil sank by the most in over three months as the US paused daily strikes against Iran and tankers sailed to load at a recently disrupted Kazakh export terminal, easing supply pressures in a market squeezed on multiple fronts.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27",
-      "published_at": "2026-07-26T22:02:41+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.582,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3743,7 +3708,7 @@
     {
       "event_id": "27379bf515db8efe22be",
       "title": "DOW Identifies Army Casualty",
-      "summary": "",
+      "summary": "Army Staff Sgt. Angel S. Rampersad was killed in action supporting overseas operations in Jordan, the Department of War has confirmed.",
       "source": "US Defense Releases",
       "source_tier": "official",
       "source_weight": 1.0,
@@ -3763,7 +3728,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.35,
+      "recency_weight": 0.33,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4147,7 +4112,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-28T02:01:34+00:00",
+      "latest_published_at": "2026-07-28T04:40:59+00:00",
       "warning": null
     },
     {
@@ -4156,7 +4121,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 19,
-      "latest_published_at": "2026-07-28T01:51:32+00:00",
+      "latest_published_at": "2026-07-28T04:48:29+00:00",
       "warning": null
     },
     {
@@ -4174,7 +4139,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-28T01:48:30+00:00",
+      "latest_published_at": "2026-07-28T05:06:22+00:00",
       "warning": null
     },
     {
