@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:10:14.797742+00:00",
+  "generated_at": "2026-07-31T09:40:38.708555+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,505 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "d8945d89042d63e4ba57",
+      "title": "A portfolio manager says investors are looking overseas as Magnificent Seven worries grow. Here are the stocks and sectors he favors",
+      "summary": "Investors are becoming more open to international equities after years of U.S.-heavy portfolios, Janus Henderson Investors’ Julian McManus told CNBC. McManus said \"Magnificent Seven\" concentration has left portfolios vulnerable. The MSCI ACWI ex-US index has outpaced the S&P 500 year-to-date, rising more than 8% versus a 6.8% gain for the S&P 500, according to LSEG data. Investors are becoming more willing to increase their exposure to international equities, as concerns over the dominance of the \"Magnificent Seven\" technology giants encourage diversification away from U.S. stocks, Janus Henderson Investors' Julian McManus told CNBC. \"There's definitely a move to explore more outside the U.S.,\" the portfolio manager on Janus Henderson Investors' Global Alpha Equity Team said in an exclusive interview. The firm reported about $480 billion in assets under management as of March 31. The shift marks a stark contrast with two years ago, when U.S. financial advisers were more reluctant to consider overseas markets after a decade in which American stocks consistently outperformed international peers. The MSCI ACWI ex-US index has risen over 8% year-to-date, compared to the S&P 500's gains of 6.8%, data from LSEG showed. McManus said investors had become heavily concentrated in a handful of large-cap U.S. technology stocks, leaving portfolios vulnerable if leadership in those names faltered. \"The Mag Seven is nearly half of your index, and you're all in,\" McManus said. \"If that goes into reverse, you're going to have a problem.\" While he stopped short of describing the shift as a wholesale exodus from U.S. assets, McManus said the recent outperformance of international markets had prompted investors to reassess global allocations. \"I wouldn't say it's like a stampede. It's by no means a panic,\" he said. \"But at least people are more open to having that conversation.\" McManus added that politics had played only a limited role in investors' asset allocation decisions despite heightened geopolitical uncertainty. \"I think the political debate sort of comes and goes, but I think most advisers, most investors are fairly pragmatic and they'll go where they see the returns, and they tend to overlook the politics,\" he said. Companies and sectors McManus favors: Japan: Japanese banks and life insurers Defense: BAE Systems, Hyundai Rotem Canada: Canadian Natural Resources, Teck Resources Technology/AI: Semiconductor suppliers rather than AI application companies India: Positive long-term on India; watching Reliance Industries but currently underweight on valuation grounds Among his preferred markets, McManus highlighted European banks, Japanese financials, selected South Korean and Chinese companies, as well as defense and healthcare stocks. He said European banks had become significantly more profitable and still had room for further re-rating, while Japanese banks and insurers stood to benefit from rising interest rates after decades of ultra-low borrowing costs. McManus also sees value emerging in South Korea following the recent selloff. \"Korea has definitely been through the wringer just recently,\" he said. \"We do think that there's a lot of value in some of these Korean names.\" He singled out Samsung Electronics, saying investors were overlooking the long-term potential of its foundry business, which he believes is not yet reflected in the company's valuation. McManus was also constructive on Chinese equities, saying several of the country's \"national champions\" had been \"thrown out with the bathwater\" after years of weak sentiment. He highlighted Tencent and CATL as examples of companies whose valuations do not fully reflect their competitive positions. Despite enthusiasm around artificial intelligence, he said Janus Henderson remained disciplined on valuations and preferred investing in semiconductor suppliers rather than trying to identify eventual AI winners. \"We can't have AI without semis,\" McManus said, adding that the firm's approach remained focused on bottom-up stock selection rather than making large sector bets. Looking ahead, he argued that investors were underestimating the long-term returns from AI investment. \"If you look at Google's quarterly return on invested capital... those bottomed three quarters ago, and since then they've been ramping steeply, which shows that the returns are there for the Googles and the hyperscalers,\" he said. The push to diversify extends beyond equities. Ian Horne, investment director at Muzinich & Co., said heightened volatility around Federal Reserve decisions and economic data was encouraging investors to broaden their portfolios globally rather than make aggressive short-term bets. \"We're seeing more and more volatility in rates,\" Horne said. \"It probably means you want to be a bit more diversified globally.\" Why some investors still favor U.S. stocks Still, some wealth managers argue the investment case for the U.S. remains intact.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/31/janus-henderson-overseas-stocks.html",
+      "published_at": "2026-07-31T09:37:53+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.999,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9cece95179fd402cbd24",
+      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "published_at": "2026-07-31T09:35:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6113c64508ccace76bea",
+      "title": "Peter Frankopan on Trump’s Iran ‘War of Choice'",
+      "summary": "\"If you decide to fight a war of choice, it's very hard to win.\" 'The Silk Roads' author Peter Frankopan tells Mishal Husain why America is struggling to defeat Iran. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/peter-frankopan-on-trump-s-iran-war-of-choice-video",
+      "published_at": "2026-07-31T09:32:39+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8bc672c3faa95e1079f8",
+      "title": "Dollar Heads for Worst Week in Three Months as Fed Doubts Grow",
+      "summary": "The dollar headed for its worst week in three months on concerns the Federal Reserve won’t move forcefully enough to contain inflation.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/dollar-heads-for-worst-week-in-three-months-as-fed-doubts-grow",
+      "published_at": "2026-07-31T09:30:55+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "066523241c9c513d9e61",
+      "title": "China’s MiniMax and ByteDance Release Dueling AI Video Models",
+      "summary": "MiniMax Group Inc. and ByteDance Ltd. released updates to their dueling AI video generation models within hours of each other, underscoring the aggressive advances that have made China the leader over the US in the burgeoning arena.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/china-s-minimax-and-bytedance-release-dueling-ai-video-models",
+      "published_at": "2026-07-31T09:01:25+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8fd16bad2583adf83e3e",
+      "title": "Diane Keaton’s stunning $23 million dream home in L.A. finally finds a buyer",
+      "summary": "The Los Angeles home that Diane Keaton spent years carefully transforming has come under offer—nine months after the beloved “Annie Hall” star died.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/diane-keatons-stunning-23-million-dream-home-in-l-a-finally-finds-a-buyer-52f1373e?mod=mw_rss_topstories",
+      "published_at": "2026-07-31T08:59:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1950a965c4b3a1ac8cf8",
+      "title": "Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings",
+      "summary": "Apple reported guidance for the current quarter that disappointed investors as it grapples with a memory price surge and chip shortages. Amazon meanwhile reported a surge in revenue at its key cloud business even as it projected spending to rise this year. Amazon shares surged on Friday while Apple dropped as investors reacted starkly differently to their June quarter earnings reports. Both companies reported their June quarter earnings on Thursday with Amazon impressing the market while Apple disappointed. Apple's earnings, revenue and iPhone sales were all above market expectations, however the company issued weak guidance for the current quarter , citing \"supply constraints.\" Apple said revenue growth in the current quarter will be between 9% and 11%, missing analysts' expectations for 12% growth, according to LSEG. The company is grappling with a huge shortage of memory, a key component in its devices, as well as competition for chip manufacturing capacity. This has led Apple to raise prices on the Mac and iPad, and analysts expect an iPhone price rise to come this year. Amazon, meanwhile, said revenue at its cloud computing business jumped 37% year-on-year in the second quarter, marking the strongest expansion since 2021. Its Amazon Web Services business is closely watched by the market, as this is where the company books most of its sales related to AI. Investors monitor this unit as an indication of the demand Amazon is seeing for its AI products. Amazon shares surged even as the company forecast its capital expenditures to hit $220 billion this year , up from a prior forecast of $200 billion, as it continues to invest in AI infrastructure. Investors have been scrutinizing spending from Big Tech on AI as concerns grow that these companies are spending ahead of demand. But Amazon's own cloud growth appeared to justify the company's capex. AWS's strong growth \"is a clear indicator that its infrastructure investments are meeting market demand rather than outpacing it,\" Tracy Woo, principal analyst at Forrester, said in a note on Thursday. Amazon's stock has been a laggard in 2026 and is up around 4% year-to-date. Apple meanwhile, has risen 23% across the same period. The iPhone maker is partly seen as an alternative trade to the tech players who have been spending heavily, as Apple has not gone on a huge capex expansion journey. Investors appear to be picking their AI winners during this earnings season, with the stock price moves of tech giants diverging. On Thursday, Meta sank 8% while Microsoft rallied 15% as i nvestors took a different view on both companies' AI strategies. — CNBC's Kif Leswing contributed to this report.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+      "published_at": "2026-07-31T08:50:14+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.984,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b9556e9b0fda4dc0a68c",
+      "title": "Hong Kong’s Economy Slows More Than Forecast Despite AI Boom",
+      "summary": "Hong Kong’s economic growth slowed more than forecast last quarter, even as a global rush to invest in artificial intelligence turbocharges the city’s exports.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/hong-kong-s-economy-slows-more-than-forecast-despite-export-boom",
+      "published_at": "2026-07-31T08:39:26+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.981,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "db6193d16e4162d23cb2",
+      "title": "European Execs Show AI Optimism: Markets Snapshot",
+      "summary": "A big week of earnings results for some of the world's most influential companies has been underscored by the global AI infrastructure buildout, tightening supply chains and ongoing geopolitical uncertainty. The Opening Trade spoke to CEOs and corporate heavy weights to get clarity on their second-half outlook and whether they remain optimistic on returns from their AI investments. (Source: Bloomberg)",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/european-execs-show-ai-optimism-markets-snapshot-video",
+      "published_at": "2026-07-31T08:29:13+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "corporate",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.977,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b0436dacf66eaebd1f1c",
+      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+      "summary": "Oil prices fell on Friday as signs of a recovery in crude flows through the Strait of Hormuz eased supply concerns. CBA estimates traffic through the vital waterway has recovered to roughly 30%-35% of pre-war levels. Oil prices extended declines Friday as signs of a recovery in crude flows through the Strait of Hormuz eased supply concerns, after a resumption of hostilities between U.S. and Iran had sent them higher. West Texas Intermediate futures for September delivery dropped 1.6% to $82.27. Brent crude futures, the international benchmark, fell by 1.4%% to $87.78 a barrel. Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week briefly pushed Brent above $93 a barrel. The bank estimates traffic through the vital waterway has recovered to roughly 30%-35% of pre-war levels, adding that a rebound to around 50%-60% of normal flows could be enough to reassert oversupply conditions in the global oil market. Investors also weighed President Donald Trump's call to add tariffs on Iran to a bipartisan sanctions bill targeting Tehran and Russia. While sanctions against the two countries have widespread support in the Congress, Trump's well-established belief in tariffs as a one-size-fits-all tool for economic coercion is polarizing. The U.S. imported just $1.4 million in goods from Iran in 2025 , according to the Office of the U.S. Trade Representative. Works of art, collectors pieces and antiques were the largest category of those imports, making up 55% of the value, according to Trading Economics . \"I'd like to see tariffs on Iran. It would make it much stronger,\" Trump said of the bill, which would impose economic sanctions on Russia and those supporting its war against Ukraine. The legislation would also let Trump slap targeted tariffs on goods imported from the top five countries that buy Russian energy and help it evade sanctions.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+      "published_at": "2026-07-31T08:12:35+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.972,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "72170507563fe0e882ed",
+      "title": "Why Private Credit Got Entangled With Insurance",
+      "summary": "Insurers have quietly become a major driver of the private credit boom, with numerous private equity shops striking deals with insurance companies or buying them outright. But the entanglement with private credit is also changing the insurance industry itself, raising a number of questions about risk and regulation. Today we speak to Andrew Granato and Pranjal Drall, authors of a new paper, “Private Credit's State Backstop: How Private Equity Socializes Risk Through Insurers,\" examining the relationship between private credit and insurance. Granato (an assistant professor at the UT Austin Law School) and Drall (JD-PhD student in Financial Economics at Yale) talk to us about how PE got so interested in insurance in the first place, how both sides benefit from the relationship, and why taxpayers might ultimately be on the hook. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/why-private-credit-got-entangled-with-insurance-video",
+      "published_at": "2026-07-31T08:12:19+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.972,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "38b8bec5fe9ac05ce642",
       "title": "Why Private Credit Got Entangled With Insurance",
@@ -45,7 +544,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -86,7 +585,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.968,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -97,6 +596,53 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5a9461f3773a5118e02f",
+      "title": "Apple Leads Phone Revenues and Prices Up, Counterpoint Says",
+      "summary": "Apple Inc. led a 7% increase in global smartphone revenue over the June quarter, showing how rising prices are offsetting shrinking shipments, according to Counterpoint Research.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/apple-leads-phone-revenues-and-prices-up-counterpoint-says",
+      "published_at": "2026-07-31T08:00:00+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "corporate",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -127,7 +673,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.992,
+      "recency_weight": 0.963,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -173,7 +719,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.991,
+      "recency_weight": 0.963,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -194,7 +740,7 @@
     {
       "event_id": "344c88bb07fe85d6d636",
       "title": "Citadel’s Big Buy Halts Downward Spiral in Still-Frothy AI Trade",
-      "summary": "Billionaire Ken Griffin’s deal with embattled hedge fund Situational Awareness helped trigger a relief rally in global AI stocks, leaving traders debating if the worst is over or more blowouts are on the way.",
+      "summary": "Billionaire Ken Griffin’s deal with embattled hedge fund Situational Awareness helped trigger a relief rally in global AI stocks, leaving traders debating whether the worst is over or more market turbulence is on the way.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -220,7 +766,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.988,
+      "recency_weight": 0.96,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -267,7 +813,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.982,
+      "recency_weight": 0.954,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -310,7 +856,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.98,
+      "recency_weight": 0.952,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -356,7 +902,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.975,
+      "recency_weight": 0.947,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -409,7 +955,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.973,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -422,6 +968,52 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "525cac1eaf9ddda46d1e",
+      "title": "European Gas Prices Poised for Biggest Monthly Gain Since March",
+      "summary": "European natural gas prices are poised for their biggest monthly gain since March as the war in the Middle East continues to disrupt global energy supplies.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/european-gas-prices-poised-for-biggest-monthly-gain-since-march",
+      "published_at": "2026-07-31T06:38:51+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.943,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -461,7 +1053,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.971,
+      "recency_weight": 0.943,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -504,7 +1096,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.97,
+      "recency_weight": 0.942,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -553,7 +1145,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.969,
+      "recency_weight": 0.942,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -566,47 +1158,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8845afbd86aac3ed9174",
-      "title": "Horizons Middle East & Africa 7/31/2026",
-      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/horizons-middle-east-africa-7-31-2026-video",
-      "published_at": "2026-07-31T06:31:09+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.969,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -642,7 +1193,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.965,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -692,55 +1243,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.965,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "62d177c2330240c702c8",
-      "title": "Lopez Research's Maribel Lopez on US Tech Earnings",
-      "summary": "Maribel Lopez, Founder and Enterprise AI Lead at Lopez Research, says the strong earnings from Microsoft and Amazon indicate there is still significant runway for AI-driven growth. However, she notes that the biggest question mark remains Meta's ability to translate its AI investments into future revenue. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/lopez-research-s-maribel-lopez-on-us-tech-earnings-video",
-      "published_at": "2026-07-31T06:16:33+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.964,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -785,7 +1288,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.964,
+      "recency_weight": 0.936,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -832,7 +1335,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.963,
+      "recency_weight": 0.935,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -844,88 +1347,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a424059c848121aac110",
-      "title": "Parmeter: President Trump is Looking For Wins",
-      "summary": "President Trump says his US-led Board of Peace has reached a deal to disarm Hamas and other armed groups in Gaza and establish a new Palestinian government. Hamas has agreed to the deal. Ian Parmeter, former Australian ambassador to Lebanon & Research Scholar at the Australian National University's Center for Arab and Islamic studies spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on whether President Trump will claim this as a win in his bid to end wars. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/parmeter-president-trump-is-looking-for-wins-video",
-      "published_at": "2026-07-31T06:10:50+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.962,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7ca8dc79006690605e26",
-      "title": "Ishihara: All Eyes On Indication for Next BOJ Hike",
-      "summary": "The Bank of Japan has kept its rate policy unchanged and nudged its economic growth forecast higher. Officials stop short of confirming an intervention that drove the yen sharply higher. Hiromi Ishihara, Head of equity investment at Amundi Japan told Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa what investors are watching out for. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/ishihara-all-eyes-on-indication-for-next-boj-hike-video",
-      "published_at": "2026-07-31T06:10:19+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.962,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -961,7 +1382,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.961,
+      "recency_weight": 0.933,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -973,88 +1394,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6b5830376fb8a6d8211f",
-      "title": "Tokyo Court Says Shidax Tender Undervalued the Firm in Rare Case",
-      "summary": "The Tokyo District Court ruled that hospitality sector company Shidax Corp.’s tender offer in 2023 to go private undervalued its shares, in one of the still-rare cases in Japan of financial tussles between companies getting resolved by legal authorities.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/tokyo-court-says-shidax-tender-undervalued-the-firm-in-rare-case",
-      "published_at": "2026-07-31T06:00:07+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.959,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "31fc12fbf66859c2aca6",
-      "title": "FTSE Live: UK Stock Futures Rise, Pound Slips as Attention on Tech",
-      "summary": "",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/live-blog/2026-07-31/ftse-100-live-pound-dollar-natwest-boe-iran-us-oil-prices-hormuz-ai-stocks-what-s-moving-uk-markets-right-now-markets-today-ms8isc8x",
-      "published_at": "2026-07-31T05:46:39+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.955,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1090,7 +1429,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.954,
+      "recency_weight": 0.927,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1109,8 +1448,8 @@
       }
     },
     {
-      "event_id": "d2b54c6602d721f67811",
-      "title": "Saudi Ships Pivot from Red Sea Chokepoint for Rare Africa Trip",
+      "event_id": "6913c13e43d9bb0aae2b",
+      "title": "Saudi Ships Shun Red Sea Chokepoint for Rare Africa Journey",
       "summary": "Six Saudi oil tankers are sailing away from the Bab el-Mandeb chokepoint and appeared to be embarking on an unusual trip around Africa as threats from Houthi rebels upend shipping in the Red Sea.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
@@ -1135,7 +1474,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.954,
+      "recency_weight": 0.927,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1183,7 +1522,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.951,
+      "recency_weight": 0.924,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1229,7 +1568,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.95,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1276,7 +1615,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.945,
+      "recency_weight": 0.918,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1323,7 +1662,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.939,
+      "recency_weight": 0.912,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1369,7 +1708,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.933,
+      "recency_weight": 0.907,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1381,53 +1720,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9adc9de8e695a538beaa",
-      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
-      "summary": "Oil prices fell on Friday as signs of a recovery in crude flows through the Strait of Hormuz eased supply concerns. CBA estimates traffic through the vital waterway has recovered to roughly 30%-35% of pre-war levels. Oil prices extended declines Friday as signs of a recovery in crude flows through the Strait of Hormuz eased supply concerns, after a resumption of hostilities between U.S. and Iran had sent them higher. West Texas Intermediate futures for September delivery dropped 1.62% to $82.24. Brent crude futures, the international benchmark, fell by 0.98%% to $88.16 a barrel. Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week briefly pushed Brent above $93 a barrel. The bank estimates traffic through the vital waterway has recovered to roughly 30%-35% of pre-war levels, adding that a rebound to around 50%-60% of normal flows could be enough to reassert oversupply conditions in the global oil market. Investors also weighed President Donald Trump's call to add tariffs on Iran to a bipartisan sanctions bill targeting Tehran and Russia. While sanctions against the two countries have widespread support in the Congress, Trump's well-established belief in tariffs as a one-size-fits-all tool for economic coercion is polarizing. The U.S. imported just $1.4 million in goods from Iran in 2025 , according to the Office of the U.S. Trade Representative. Works of art, collectors pieces and antiques were the largest category of those imports, making up 55% of the value, according to Trading Economics . \"I'd like to see tariffs on Iran. It would make it much stronger,\" Trump said of the bill, which would impose economic sanctions on Russia and those supporting its war against Ukraine. The legislation would also let Trump slap targeted tariffs on goods imported from the top five countries that buy Russian energy and help it evade sanctions.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
-      "published_at": "2026-07-31T04:25:53+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.931,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1467,7 +1759,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.926,
+      "recency_weight": 0.899,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1518,7 +1810,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.92,
+      "recency_weight": 0.894,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1566,7 +1858,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.919,
+      "recency_weight": 0.893,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1579,47 +1871,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "845b418b8430b7b38dcf",
-      "title": "PBOC Seeks to Temper Yuan Rally With Stable Daily Fix",
-      "summary": "China’s central bank signaled a preference for slower gains in the yuan, setting the daily fixing at a broadly stable level that is much weaker than expected, after the currency climbed to a three-year high.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/pboc-s-weaker-daily-fixing-to-temper-yuan-gains-analysts-say",
-      "published_at": "2026-07-31T03:46:08+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.919,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1655,7 +1906,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.901,
+      "recency_weight": 0.876,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1697,7 +1948,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.897,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1743,53 +1994,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.896,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c9a8fe689ce33b67c728",
-      "title": "Australia’s Social Media Ban Sees Only Small Dip in Teen Users",
-      "summary": "Australia’s social media ban for under-16s led to only a marginal reduction in underage users in its first three months, underscoring the lack of enforcement of the world-first law by major platforms.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/australia-s-social-media-ban-sees-only-small-dip-in-teen-users",
-      "published_at": "2026-07-31T02:12:08+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.891,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1835,7 +2040,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.881,
+      "recency_weight": 0.856,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1846,53 +2051,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "da381ae5ab7fb4d75a66",
-      "title": "IDC's Ma on Apple, Consumer Electronics Market",
-      "summary": "Bryan Ma, Vice President of Devices Research at IDC, discusses Apple's latest earnings and the outlook for the broader consumer electronics market. He speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/idc-s-ma-on-apple-consumer-electronics-market-video",
-      "published_at": "2026-07-31T01:15:30+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.875,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1933,7 +2091,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.874,
+      "recency_weight": 0.849,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1945,6 +2103,54 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "91b2860d40a86dbcbb47",
+      "title": "We're raising our Apple price target, seeing plenty of good despite the memory crunch knocks",
+      "summary": "It was a good but not great quarter as Apple worked to mitigate the memory shortage, which impacted the reported quarter and guidance.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/30/were-raising-our-apple-price-target-seeing-plenty-of-good-despite-memory-crunch.html",
+      "published_at": "2026-07-31T00:59:35+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.846,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
@@ -1977,7 +2183,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.863,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1988,53 +2194,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "be8556f301cc5f16991a",
-      "title": "Amazon, Microsoft Results Show AI Spending Spree Remains Solid",
-      "summary": "Aggressive AI spending plans by Amazon.com Inc., Microsoft Corp. and Alphabet Inc. provided fresh evidence that demand for chips and related equipment will remain strong, offering relief to a sector that’s been battered in recent days.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/amazon-microsoft-results-show-ai-spending-spree-remains-solid",
-      "published_at": "2026-07-31T00:29:37+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.863,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2065,7 +2224,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.861,
+      "recency_weight": 0.836,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2084,7 +2243,7 @@
     {
       "event_id": "d9c3353789f74c5c351b",
       "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
-      "summary": "Apple CEO Tim Cook told analysts on an earnings call that he sees \"enormous opportunities\" in artificial intelligence. Cook said the iPhone maker plans to use AI as a selling point for iCloud subscriptions. \"We do believe there will be people that want to use it a lot, and so we will have some kind of upgrade possibilities on on iCloud+,\" Cook said. Apple CEO Tim Cook had a lot to talk about on his last earnings call as CEO, as his company's stock price trended lower on concerns about supply constraints. Regardless of the selloff, he told investors that Apple has \"enormous opportunities\" in artificial intelligence. Cook, who will be assuming the role of executive chairman on Sept. 1, said Apple's hybrid approach to AI, where some workloads can be run on iPhones and Macs is an advantage as his large tech peers rely on their massive clouds. It's an important signal to Wall Street about the company's ability to run AI apps as Apple gears up for the launch of an updated Siri this fall. \"The ability to run some percentage of requests on device is also very strategic and sort of a competitive weapon,\" Cook said. Apple has bucked its hyperscaler peers by spending significantly less on capital expenditures as it tries to be a player in AI. Most of the spending across the industry is going towards Nvidia -based data centers to run advanced AI models from companies like OpenAI and Anthropic. Alphabet , Amazon , Meta and Microsoft have each committed to shelling out well over $100 billion in capex this year. In the June quarter, Apple's capex amounted to $2.46 billion, lower than a StreetAccount estimate of $3.44 billion. Cook noted that operating expenses are going up. \"We have been growing our opex and spending more in AI in general,\" Cook said. Instead of spending heavily on data centers, Apple emphasizes that much of its AI suite — Apple Intelligence — can be run on the devices themselves, using the full power of Apple's chips and not radioing to the cloud. Apple says it can do more in AI, potentially saving money for businesses that are spending heavily on AI software. He gave the example of Disney , where \"creative teams are increasingly turning to Mac for on-device AI workflows that reduce overall cloud token costs and keep their IP secure,\" Cook said. Apple's hybrid strategy will be tested when Siri AI is finally released to the public. The highly anticipated launch of Apple's personal assistant will depend on the iPhone's processor to decipher queries and use the appropriate on-device AI model. However, there are tradeoffs in terms of what the local models can do. So for complicated AI tasks, Apple will use Google Cloud to serve those answers with infrastructure based on Nvidia's graphics processing units and Intel's central processors. Those tasks include things like image generation, Apple said in June, when it revealed the software. Apple signaled at the time that it would cap users on its cloud models and that they might be able to increase their limits through iCloud. That would offer Apple a new way to monetize AI. Cook said on Thursday that Apple didn't have a \"complete plan\" for charging users, but that it aims to use AI as a selling point for iCloud subscriptions. WATCH: Apple shares sliding on revenue guidance",
+      "summary": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2092,11 +2251,10 @@
       "published_at": "2026-07-31T00:23:53+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.55,
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
-        "corporate",
         "growth",
         "macro",
         "market",
@@ -2108,10 +2266,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.861,
+      "impact_score": 5.52,
+      "recency_weight": 0.836,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2122,7 +2280,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -2154,7 +2311,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.859,
+      "recency_weight": 0.834,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2195,7 +2352,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.858,
+      "recency_weight": 0.834,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2240,7 +2397,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.852,
+      "recency_weight": 0.827,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2251,58 +2408,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "57464d4e3daa49957cf6",
-      "title": "Stryker Narrows Earnings Outlook as Cyberattack Challenges Goals",
-      "summary": "Stryker Corp narrowed the range of its adjusted-earnings outlook for the full year as the medical device manufacturer said it must increase production as well as ship a backlog of equipment to meet its second-half growth targets after a cyberattack in March disrupted operations.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/stryker-narrows-earnings-outlook-as-cyberattack-challenges-goals",
-      "published_at": "2026-07-30T23:44:19+00:00",
-      "event_type": "black_swan",
-      "severity": "major",
-      "sentiment": -0.6,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "geopolitical",
-        "growth",
-        "market",
-        "safe_haven",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.85,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -2339,7 +2444,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.846,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2357,14 +2462,14 @@
       }
     },
     {
-      "event_id": "09c790e147f924b94ca9",
-      "title": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
-      "summary": "Amazon jumped about 10% to $258 in after-hours trading, putting shares at their highest level since early June.",
+      "event_id": "bc1d2635eb67fc937894",
+      "title": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
+      "summary": "Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
-      "published_at": "2026-07-30T23:27:04+00:00",
+      "url": "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html",
+      "published_at": "2026-07-30T22:53:05+00:00",
       "event_type": "technology",
       "severity": "moderate",
       "sentiment": 0.0,
@@ -2385,7 +2490,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.845,
+      "recency_weight": 0.812,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2403,36 +2508,31 @@
       }
     },
     {
-      "event_id": "4b0bdcc20ab918760343",
-      "title": "Anthropic AI Models Hacked Three Organizations During Tests",
-      "summary": "Anthropic PBC said its artificial intelligence models breached three organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenAI, disclosed a similar incident.",
-      "source": "Bloomberg Technology",
+      "event_id": "46812de1594bed26900d",
+      "title": "Yen Swings in Choppy Trading as Intervention Rally Sputters",
+      "summary": "The yen swung between gains and losses after its intervention-driven rally stalled on Friday as the Bank of Japan kept interest rates steady and Governor Kazuo Ueda offered little fresh support for the currency.",
+      "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
-      "published_at": "2026-07-30T23:00:26+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/yen-surges-after-japan-intervened-in-market-again-ahead-of-boj",
+      "published_at": "2026-07-30T22:52:16+00:00",
+      "event_type": "market",
+      "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
+        "broad_equity",
+        "macro",
+        "market"
       ],
       "categories": [
         "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
+        "broad_equity",
+        "macro"
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.838,
+      "impact_score": 1.84,
+      "recency_weight": 0.812,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2442,8 +2542,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2474,7 +2573,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.836,
+      "recency_weight": 0.812,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2516,7 +2615,91 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.835,
+      "recency_weight": 0.811,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c38bb41e855ec147ecf3",
+      "title": "Amazon got $600 million in Trump tariff refunds and will pass return along to some customers",
+      "summary": "The company previously hadn't disclosed whether it would recoup tariff costs after the Supreme Court ruled many of President Donald Trump's levies were illegal.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/30/amazon-trump-tariff-refunds.html",
+      "published_at": "2026-07-30T22:46:47+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.811,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b86e0c03b6751c1fb312",
+      "title": "IBM CEO says quantum computing will have a 'measurable impact' on earnings by 2028 or 2029",
+      "summary": "IBM CEO Arvind Krishna said the company's investments in quantum computing should begin to have \"a measurable impact\" on revenue and earnings by 2028 or 2029.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/30/ibm-ceo-quantum-computing-measurable-impact-earnings-2028-2029.html",
+      "published_at": "2026-07-30T22:46:32+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.811,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2558,7 +2741,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.832,
+      "recency_weight": 0.808,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2569,97 +2752,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3131d848a30eef9964aa",
-      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
-      "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-      "published_at": "2026-07-30T22:28:58+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.83,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8ee10ebca87f03783d03",
-      "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
-      "summary": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
-      "published_at": "2026-07-30T22:28:38+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.83,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2690,7 +2782,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.829,
+      "recency_weight": 0.805,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2709,7 +2801,7 @@
     {
       "event_id": "e1ebbbf46d896fb27533",
       "title": "Global Stocks Rise as Chip Rebound Gathers Speed: Markets Wrap",
-      "summary": "A rebound in global chipmakers carried into Friday, buoying stocks to end a month that saw a steep derating in this year’s most popular trade on a positive note.",
+      "summary": "A rebound in global chipmakers carried into Friday, buoying stocks to end a month that saw a steep derating in this year’s most popular trade on a positive note. Amazon.com Inc. jumped 12% after strong earnings.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2717,10 +2809,11 @@
       "published_at": "2026-07-30T22:15:33+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.0,
+      "sentiment": 0.55,
       "affected_tags": [
         "ai",
         "broad_equity",
+        "corporate",
         "growth",
         "macro",
         "market",
@@ -2732,10 +2825,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "isolated",
+      "forward_significance": "trend_confirmation",
       "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.826,
+      "impact_score": 6.9,
+      "recency_weight": 0.803,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2746,6 +2839,7 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
+          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -2781,7 +2875,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.825,
+      "recency_weight": 0.801,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2793,6 +2887,53 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2f919e211fee2b669307",
+      "title": "Latest Oil Market News and Analysis for July 31",
+      "summary": "Oil fell at the end of a volatile week, but remained on track for its biggest monthly gain since March as the US-Iran war escalated.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31",
+      "published_at": "2026-07-30T22:04:24+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.8,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2823,7 +2964,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2865,7 +3006,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.82,
+      "recency_weight": 0.797,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2911,7 +3052,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.82,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2953,7 +3094,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.818,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2998,53 +3139,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.818,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5ede5c6f6b5022c36ee0",
-      "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
-      "summary": "AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
-      "published_at": "2026-07-30T21:31:31+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.815,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3090,7 +3185,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.814,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3102,47 +3197,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4a57287ed2edca94b6e4",
-      "title": "Software stocks are fading — but these 4 could shine through the rest of the year",
-      "summary": "Evercore recommends Microsoft, ServiceNow, Salesforce and Samsara.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories",
-      "published_at": "2026-07-30T21:24:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.813,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3174,7 +3228,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.811,
+      "recency_weight": 0.788,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3216,7 +3270,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.806,
+      "recency_weight": 0.783,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3263,7 +3317,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.806,
+      "recency_weight": 0.783,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3280,71 +3334,21 @@
       }
     },
     {
-      "event_id": "7dcaf18bc00f31ef6e01",
-      "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-      "summary": "Trump said he'd \"like to see tariffs on Iran\" added to a bill that would impose economic sanctions on Russia and those supporting its war against Ukraine.",
+      "event_id": "6804e6f53214c0097a01",
+      "title": "'The Odyssey' extends stay in 70 mm Imax theaters as shows sell out weeks in advance",
+      "summary": "Universal and Imax have extended the availability of 70 mm screenings of Christopher Nolan's retelling of Homer's epic into mid-September.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
-      "published_at": "2026-07-30T20:38:18+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.801,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7477866496c5b4880d48",
-      "title": "Meta’s stock falls hard. Here’s why the company is in Wall Street’s doghouse.",
-      "summary": "Meta’s spending on AI is ramping, and investors want proof that the company can make serious money in areas other than advertising.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
-      "published_at": "2026-07-30T20:31:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
+      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "published_at": "2026-07-30T20:51:02+00:00",
+      "event_type": "market",
+      "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
-        "growth",
         "macro",
-        "market",
-        "semiconductor",
-        "tech"
+        "market"
       ],
       "categories": [
         "market",
@@ -3353,8 +3357,53 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.799,
+      "impact_score": 1.84,
+      "recency_weight": 0.781,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "233a72a5f82b7ffcec8b",
+      "title": "Apple Slides After Supply Shortages Hurt Sales Forecast",
+      "summary": "Apple Inc. tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
+      "published_at": "2026-07-30T20:40:42+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.779,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3365,6 +3414,53 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "18118fae4d9812e5901e",
+      "title": "Amazon Gains After Fifth Quarter of Cloud Sales Growth",
+      "summary": "Amazon.com Inc. shares jumped after the company reported cloud-computing revenue accelerated for a fifth straight quarter, easing investors’ concerns that it won’t produce a return on huge expenditures to meet the booming demand for artificial intelligence.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
+      "published_at": "2026-07-30T20:16:21+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "corporate",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.773,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "指数风险偏好",
+          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -3396,7 +3492,96 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.794,
+      "recency_weight": 0.772,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9823cbc8e49bccf00741",
+      "title": "Reddit Projects Strong Sales; No New AI Deals Announced",
+      "summary": "Reddit Inc. projected revenue in the current quarter revenue that beat Wall Street estimates, but shares fell after the social media company failed to announce any new data licensing agreements.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/reddit-projects-strong-third-quarter-sales-growth",
+      "published_at": "2026-07-30T20:10:55+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.771,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5c841a0db92adfdbbfdb",
+      "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
+      "summary": "FIFA has faced backlash from global soccer governing bodies over the proposal to allow private investment.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
+      "published_at": "2026-07-30T19:59:12+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.768,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3441,53 +3626,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.774,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ab1e18e8a9764ee5e0fd",
-      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-      "summary": "The company is facing pressure to cater to a more cost-sensitive customer base.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-      "published_at": "2026-07-30T17:27:49+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.753,
+      "recency_weight": 0.752,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3529,7 +3668,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.739,
+      "recency_weight": 0.718,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3542,55 +3681,6 @@
           "监管/交易结构"
         ],
         "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9c4e3b3c4271959efb69",
-      "title": "Samsung, SK Hynix Answer AI Doubters With Big Numbers, Deals",
-      "summary": "In a remarkable week, the titans of the near-$1 trillion global memory industry smashed profit records. It took days before investors stopped selling — a testament to the depth of anxiety in markets about an AI bubble.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-sk-hynix-answer-ai-doubters-with-big-numbers-and-deals",
-      "published_at": "2026-07-30T16:00:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.732,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3618,7 +3708,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.718,
+      "recency_weight": 0.698,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3658,7 +3748,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.718,
+      "recency_weight": 0.698,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3701,7 +3791,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.685,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -3746,7 +3836,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.685,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -3759,93 +3849,6 @@
           "指数风险偏好"
         ],
         "canonical_url": "https://apps.bea.gov/rss/rss.xml",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9d806449a40f30a46a32",
-      "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
-      "summary": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
-      "published_at": "2026-07-30T10:45:01+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.662,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5665a1d83670ea4da444",
-      "title": "From Hormuz to the Black Sea: Maritime battlefields are shaping ‘a new world order’",
-      "summary": "Attacks near the Strait of Hormuz, Red Sea and Black Sea are pushing shipowners to reroute cargo and rethink global trade risks.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
-      "published_at": "2026-07-30T08:52:10+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.638,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3878,7 +3881,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.625,
+      "recency_weight": 0.607,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3920,7 +3923,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.559,
+      "recency_weight": 0.543,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3965,7 +3968,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.494,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4005,7 +4008,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.494,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4053,7 +4056,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.494,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4102,7 +4105,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.494,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4145,7 +4148,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.48,
+      "recency_weight": 0.466,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -4184,7 +4187,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.463,
+      "recency_weight": 0.45,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4231,7 +4234,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.432,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -4271,7 +4274,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.431,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4321,7 +4324,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.311,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4371,7 +4374,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.311,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4418,7 +4421,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.311,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4802,7 +4805,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-31T08:00:05+00:00",
+      "latest_published_at": "2026-07-31T09:32:39+00:00",
       "warning": null
     },
     {
@@ -4811,7 +4814,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-31T06:50:42+00:00",
+      "latest_published_at": "2026-07-31T09:01:25+00:00",
       "warning": null
     },
     {
@@ -4820,7 +4823,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-31T00:31:00+00:00",
+      "latest_published_at": "2026-07-31T09:35:00+00:00",
       "warning": null
     },
     {
@@ -4829,7 +4832,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-31T07:41:35+00:00",
+      "latest_published_at": "2026-07-31T09:37:53+00:00",
       "warning": null
     },
     {
