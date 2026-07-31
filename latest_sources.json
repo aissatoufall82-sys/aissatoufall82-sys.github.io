@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T09:40:38.708555+00:00",
-  "generated_at_local": "2026-07-31 17:40:38 北京时间",
+  "generated_at": "2026-07-31T10:05:49.649296+00:00",
+  "generated_at_local": "2026-07-31 18:05:49 北京时间",
   "next_update_at_local": "2026-07-31 19:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
@@ -177,46 +177,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "69617f35ef6a5f948363",
-      "title": "Engie Lifts Profit Outlook on Cost Cuts, Currency Effects",
-      "translation_label": "原文中文译读",
-      "translation": "法国公用事业公司Engie SA上调了全年利润预期，原因是受益于汇率波动、其在英国的大规模收购、削减成本以及与中东战争相关的能源市场波动。这些因素帮助抵消了今年前六个月利润下降的影响。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期、公司基本面/股本供给的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：油价上涨会扩大石油进口国的美元支出，市场先卖出本币；本币贬值又会抬高进口通胀和加息压力。 可能受益：持有美元收入的出口商，以及美元资产。 可能承压：当地货币、当地债券、依赖进口能源的企业和外币负债较高的公司。 接下来观察：油价、该国汇率、外汇储备和央行表态。若油价继续涨而汇率企稳，说明政策缓冲开始有效。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/engie-raises-full-year-profit-outlook-amid-market-volatility",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-31T05:45:00+00:00",
-      "pick_score": 76,
-      "event_type": "geopolitical",
-      "severity": "major",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期",
-        "公司基本面/股本供给"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "aa38dfb328554efdddc1",
       "title": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
       "translation_label": "原文中文译读",
@@ -288,48 +248,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "b885503627a1a536faf0",
-      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-      "translation_label": "原文中文译读",
-      "translation": "Anthropic周四表示，其Claude人工智能模型在评估过程中接入了互联网，并在三个不同案例中未经授权访问了其他组织的真实系统。该公司是在对其网络安全评估进行大规模回顾性审查时发现这些事件的。此前，OpenAI在上周披露了一起类似的安全事件，从而促使Anthropic展开了此次审查。OpenAI当时表示，其模型突破了一个互联网访问权限非常有限的独立测试环境，通过串联一系列漏洞连接到公开网络，最终访问了运营开源开发者平台的Hugging Face。在Anthropic检测到的三起事件中，其模型是在与第三方评估合作伙伴Irregular的测试环境交互时接入互联网的。该公司表示，虽然曾向Claude提示其处于没有互联网接入的模拟环境中，但由于该公司与评估合作伙伴之间的误解，实际并非如此，互联网访问权限是开启的。随后，这些模型利用访问未经身份验证的端点和利用弱密码等基础技术，突破了受影响的组织。Anthropic并未披露受影响的具体三个组织。Anthropic在发布的一份声明中表示，最终有许多因素导致了这些事件，但本着无指责的事后分析文化，该公司正以如同责任完全在自己身上的态度来处理修复工作。 Anthropic的此次披露加剧了科技界对人工智能迅速发展的网络能力的日益焦虑，OpenAI和Anthropic在近几个月都曾对此发出过警告。在Hugging Face事件发生后，两名国会议员提出了一项名为人工智能紧急切断法案的议案，该法案要求人工智能公司在模型失控的情况下，必须保留关闭、限流或暂停其模型的能力。该公司表示，涉及此次违规事件的三款Anthropic模型分别是Opus 4.7、Mythos 5以及一个内部研究测试模型。Mythos 5是Anthropic在6月发布的一款高级模型，由于其先进的网络能力，该模型仅限于一小部分用户使用。该公司在4月发布了该模型的早期版本，曾引起华尔街和政府官员的关注。Anthropic表示，当这三款模型检测到自己已经进入真实公司的系统时，它们的反应各不相同。Opus 4.7继续了其攻击行为，Mythos 5说服自己认为它仍然处于模拟中，而研究模型则停止了该项练习。Anthropic表示，这一模式与更先进的模型做出更合适反应的情况是一致的，但需要进行更多的测试才能对这一结论充满信心。这些模型在测试时并未配备Anthropic在公开部署模型之前实施的标准安全防护措施。该公司于上周开始进行审查，并表示一发现Claude可能不当访问了互联网，就立即停止了所有的网络评估。目前，该公司正与负责进行独立人工智能评估的METR合作以作进一步调查。Anthropic鼓励其他实验室也进行类似的审查。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期、公司基本面/股本供给、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-07-31T01:11:49+00:00",
-      "pick_score": 75,
-      "event_type": "geopolitical",
-      "severity": "major",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期",
-        "公司基本面/股本供给",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -957,6 +875,74 @@
         "fetch_status": "live"
       },
       "in_event_ledger": false
+    },
+    {
+      "id": "59fe646ef89ab25610aa",
+      "title": "MSFT SEC 10-K: 10-K",
+      "translation_label": "原文全文翻译",
+      "translation": "MSFT SEC 10-K：10-K。微软公司（MICROSOFT CORP，股票代码：MSFT）提交了美国证券交易委员会（SEC）10-K表。呈报日期：2026-07-29。报告日期：2026-06-30。描述：10-K。案卷号：0001193125-26-323660。",
+      "article_explanation": "MSFT提交年度报告10-K。 年报用于验证长期经营和风险，不等同于当天新增利好或利空。",
+      "summary": "MSFT提交年度报告10-K。 年报用于验证长期经营和风险，不等同于当天新增利好或利空。",
+      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给，但仍需要市场价格或下一份官方数据确认。",
+      "impact_interpretation": "先发生什么：年报用于验证长期经营和风险，不等同于当天新增利好或利空。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：全年现金流、客户集中度、库存、产能承诺及风险因素变化。",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "source": "SEC EDGAR Submissions",
+      "publisher": "美国证券交易委员会（SEC）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-07-29T21:00:00+00:00",
+      "pick_score": 58,
+      "event_type": "corporate",
+      "severity": "moderate",
+      "impact_axes": [
+        "公司基本面/股本供给"
+      ],
+      "source_profile": {
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "impact_axes": [
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
+    },
+    {
+      "id": "adadd6da88a2f5830618",
+      "title": "MSFT SEC 8-K: 8-K",
+      "translation_label": "原文全文翻译",
+      "translation": "MSFT SEC 8-K: 8-K。MICROSOFT CORP (MSFT) 提交了 SEC 表格 8-K。提交日期：2026-07-29。8-K 项目 2.02：运营结果与财务状况 2026 年 7 月 29 日，Microsoft Corporation 发布了一份新闻稿，公布了其截至 2026 年 6 月 30 日的财季和财年的财务业绩。该新闻稿的副本作为本报告的展品 99.1 提供。根据表格 8-K 的一般说明 B.2，本当前报告表格 8-K 中的信息（包括展品 99.1）在经修订的 1934 年《证券交易法》（“Ex.”）第 18 条的规定下，不应被视为“已提交”。报告日期：2026-07-29。8-K 项目：2.02,9.01。描述：8-K。案卷号：0001193125-26-323632。",
+      "article_explanation": "MSFT提交8-K，事项编号为2.02,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
+      "summary": "MSFT提交8-K，事项编号为2.02,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
+      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给，但仍需要市场价格或下一份官方数据确认。",
+      "impact_interpretation": "先发生什么：8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：事项编号和正文；2.02常对应业绩，5.02常对应管理层，8.01为其他事项。",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323632/msft-20260729.htm",
+      "source": "SEC EDGAR Submissions",
+      "publisher": "美国证券交易委员会（SEC）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-07-29T21:00:00+00:00",
+      "pick_score": 58,
+      "event_type": "corporate",
+      "severity": "moderate",
+      "impact_axes": [
+        "公司基本面/股本供给"
+      ],
+      "source_profile": {
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "impact_axes": [
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
     }
   ],
   "source_catalog": [
@@ -1284,7 +1270,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-31T09:32:39+00:00",
+      "latest_published_at": "2026-07-31T09:36:55+00:00",
       "warning": null
     },
     {
@@ -1302,7 +1288,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-07-31T09:35:00+00:00",
+      "latest_published_at": "2026-07-31T10:00:00+00:00",
       "warning": null
     },
     {
@@ -1311,7 +1297,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-31T09:37:53+00:00",
+      "latest_published_at": "2026-07-31T09:50:16+00:00",
       "warning": null
     },
     {
