@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:27:10.598982+00:00",
+  "generated_at": "2026-07-31T10:44:35.043148+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -65,6 +65,156 @@
       }
     },
     {
+      "event_id": "1a81d17b801a24737554",
+      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+      "summary": "Iran's army said it launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain. It comes shortly after Egypt said that a drone hit two ships at its Mediterranean port of Damietta. The incident marks the first attack on Egyptian soil since the war between the U.S. and Iran started in late February. Iran's army said on Friday it had launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain, following the latest wave of U.S. strikes against the Islamic Republic. Tehran said that it targeted aircraft shelters, satellite communication systems and equipment storage facilities used by the U.S. military at Kuwait's Ahmad al-Jaber Air Base in a drone strike, per state media. Iran's army also claimed Thursday to have attacked U.S. facilities at Sheikh Isa Air Base in Bahrain, targeting power generators, navigation systems and support buildings. U.S. forces on Wednesday completed a \"heavy wave\" of strikes against Iran, hitting dozens of Islamic Revolutionary Guard Corps (IRGC) targets nationwide. The latest exchange reflects a resumption of hostilities between the U.S. and Iran, while drone strikes on energy infrastructure have proliferated across the Middle East. Egypt said Thursday that a drone hit two ships at its Mediterranean port of Damietta, triggering a fire. No one has yet claimed responsibility for the strike, which marks the first attack on Egyptian soil since the war between the U.S. and Iran started in late February. Hamish Kinnear, Middle East and North Africa analyst at risk intelligence company Verisk Maplecroft, said the drone attack is a sign of Egypt's vulnerability to a widening conflict and indicates that the choke point of the Suez Canal is also a potential target. \"The expanding geographical range of drone and missile attacks on shipping this year – which encompass the Caspian Sea, Black Sea, Mediterranean Sea, Red Sea, Persian Gulf, and the Indian Ocean – amount to a new era of maritime risk ,\" Kinnear said Thursday in a research note. \"The technological developments and targeting strategies pioneered in the cauldron of war in Ukraine and the Middle East are extending maritime risk well beyond established conflict hotspots,\" he added. Oil prices traded higher on Friday morning, reversing earlier losses, after Iran's Fars said the IRGC stopped two tankers from passing through the strategically vital Strait of Hormuz. The news agency, an IRGC-linked state media account, also said four other tankers had changed course. CNBC could not independently verify the report. International benchmark Brent crude futures with September delivery was last seen trading 0.6% higher at $89.53 per barrel, while U.S. West Texas Intermediate futures with September delivery rose 0.5% to $84.04. Speaking at the White House on Wednesday, U.S. President Donald Trump indicated that he'd like Congress to add tariffs on Iran to a sanctions bill against Russia and Tehran that has bipartisan support. Those duties would have little effect because the U.S. imports next to nothing from Iran, but tacking them onto the bill could hinder the chances of it becoming law. — CNBC's Kevin Breuninger contributed to this report.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
+      "published_at": "2026-07-31T10:32:14+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "datacenter",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "memory",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "storage",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "205951b425361289e6f0",
+      "title": "AI Use Complicating Relationships and Dividing Friends, Families",
+      "summary": "AI is dividing people not just over what the technology can do, but what kind of future they want to live in.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-31/ai-use-complicating-relationships-and-dividing-friends-families",
+      "published_at": "2026-07-31T10:30:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.995,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9ef7cd26cae40d3941e5",
+      "title": "Bloomberg News Now",
+      "summary": "Stocks Rebound with KOSPI Surging in S. Korea Chips Benchmark SOX Lifted Amazon Gains After 5th Quarter of Cloud Sales Growth Apple Slumps as Supply Shortages Hurt Sales Forecast Oil Giants Earnings Preview Treasury Yields Elevated After 1st Post-Fed Eco Data (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-news-now-video",
+      "published_at": "2026-07-31T10:25:28+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "dollar",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.994,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
       "event_id": "13cb13bb01affb444061",
       "title": "Credit Agricole CFO Says Italy is Strategic Market",
       "summary": "Crédit Agricole Deputy General Manager and CFO Clotilde L'Angevin Original told Bloomberg TV that Italy is a strategic market for the bank, representing 20% of its net income. Asked about a possible merger between Banco BPM, which counts Credit Agricole as its largest investor, and Banca Monte dei Paschi di Siena she said that Credit Agricole is “key to the setup, thanks to our 29.3% position.” “Nothing can be done without us and nothing can be done against us,” she added. (Source: Bloomberg)",
@@ -89,7 +239,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.996,
+      "recency_weight": 0.991,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -135,7 +285,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.996,
+      "recency_weight": 0.99,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -177,7 +327,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.995,
+      "recency_weight": 0.99,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -218,7 +368,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.994,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f33b4bfe9c2883226a29",
+      "title": "Bain-Backed Dhoot Said to Plan $325 Million India IPO in August",
+      "summary": "Bain Capital-controlled Dhoot Transmission Ltd. is preparing to launch its initial public offering next month after completing investor roadshows, according to people familiar with the matter.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/bain-backed-dhoot-said-to-plan-325-million-india-ipo-in-august",
+      "published_at": "2026-07-31T10:05:51+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.988,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -259,7 +450,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.991,
+      "recency_weight": 0.986,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -300,7 +491,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.991,
+      "recency_weight": 0.986,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -342,7 +533,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.988,
+      "recency_weight": 0.983,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -388,7 +579,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.988,
+      "recency_weight": 0.982,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -430,7 +621,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.981,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -477,7 +668,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.984,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -519,7 +710,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.984,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -560,7 +751,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.983,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -605,7 +796,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.983,
+      "recency_weight": 0.977,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -650,7 +841,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.982,
+      "recency_weight": 0.977,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -696,7 +887,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.973,
+      "recency_weight": 0.967,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -738,7 +929,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.972,
+      "recency_weight": 0.967,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -784,7 +975,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.969,
+      "recency_weight": 0.964,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -832,7 +1023,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.966,
+      "recency_weight": 0.961,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -880,7 +1071,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.963,
+      "recency_weight": 0.957,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -923,89 +1114,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.958,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "38b8bec5fe9ac05ce642",
-      "title": "Why Private Credit Got Entangled With Insurance",
-      "summary": "PE has completely reshaped life insurance.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/why-private-credit-got-entangled-with-insurance",
-      "published_at": "2026-07-31T08:00:05+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.954,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "59ab251cebdb9b66e512",
-      "title": "Odd Lots: How Private Equity Reshaped Life Insurance (Podcast)",
-      "summary": "Insurers have quietly become a major driver of the private credit boom, with numerous private equity shops striking deals with insurance companies or buying them outright. But the entanglement with private credit is also changing the insurance industry itself, raising a number of questions about risk and regulation. Today we speak to Andrew Granato and Pranjal Drall, authors of a new paper, “Private Credit’s State Backstop: How Private Equity Socializes Risk Through Insurers,” examining the rela",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/audio/2026-07-31/odd-lots-how-private-equity-reshaped-life-insurance-podcast",
-      "published_at": "2026-07-31T08:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.954,
+      "recency_weight": 0.952,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1051,7 +1160,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.954,
+      "recency_weight": 0.949,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1063,47 +1172,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "159c1a2d56c8222660ad",
-      "title": "Kospi Has Bottomed On Insane Week: 3-Minutes MLIV",
-      "summary": "Anna Edwards, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/kospi-has-bottomed-on-insane-week-3-minutes-mliv-video",
-      "published_at": "2026-07-31T07:43:44+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.949,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1139,7 +1207,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.948,
+      "recency_weight": 0.943,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1186,7 +1254,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.946,
+      "recency_weight": 0.94,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1233,7 +1301,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.94,
+      "recency_weight": 0.934,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1281,7 +1349,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.933,
+      "recency_weight": 0.928,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1292,60 +1360,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ab4a74c2df361bf2a8ac",
-      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
-      "summary": "Iran's army said it launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain. It comes shortly after Egypt said that a drone hit two ships at its Mediterranean port of Damietta. The incident marks the first attack on Egyptian soil since the war between the U.S. and Iran started in late February. Iran's army said on Friday it had launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain, following the latest wave of U.S. strikes against the Islamic Republic. Tehran said that it targeted aircraft shelters, satellite communication systems and equipment storage facilities used by the U.S. military at Kuwait's Ahmad al-Jaber Air Base in a drone strike, per state media. Iran's army also claimed Thursday to have attacked U.S. facilities at Sheikh Isa Air Base in Bahrain, targeting power generators, navigation systems and support buildings. U.S. forces on Wednesday completed a \"heavy wave\" of strikes against Iran, hitting dozens of Islamic Revolutionary Guard Corps (IRGC) targets nationwide. The latest exchange reflects a resumption of hostilities between the U.S. and Iran, while drone strikes on energy infrastructure have proliferated across the Middle East. Egypt said Thursday that a drone hit two ships at its Mediterranean port of Damietta, triggering a fire. No one has yet claimed responsibility for the strike, which marks the first attack on Egyptian soil since the war between the U.S. and Iran started in late February. Hamish Kinnear, Middle East and North Africa analyst at risk intelligence company Verisk Maplecroft, said the drone attack is a sign of Egypt's vulnerability to a widening conflict and indicates that the choke point of the Suez Canal is also a potential target. \"The expanding geographical range of drone and missile attacks on shipping this year – which encompass the Caspian Sea, Black Sea, Mediterranean Sea, Red Sea, Persian Gulf, and the Indian Ocean – amount to a new era of maritime risk ,\" Kinnear said Thursday in a research note. \"The technological developments and targeting strategies pioneered in the cauldron of war in Ukraine and the Middle East are extending maritime risk well beyond established conflict hotspots,\" he added. Oil prices traded lower on Friday morning, extending recent declines, as signs of a recovery in crude flows in the strategically vital Strait of Hormuz eased supply concerns. International benchmark Brent crude futures with September delivery traded nearly 2% lower at $87.30 per barrel, while U.S. West Texas Intermediate futures with September delivery stood 2.3% lower at $81.71. Speaking at the White House on Wednesday, U.S. President Donald Trump indicated that he'd like Congress to add tariffs on Iran to a sanctions bill against Russia and Tehran that has bipartisan support. Those duties would have little effect because the U.S. imports next to nothing from Iran, but tacking them onto the bill could hinder the chances of it becoming law. — CNBC's Kevin Breuninger contributed to this report.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
-      "published_at": "2026-07-31T06:44:06+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "datacenter",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "memory",
-        "oil",
-        "safe_haven",
-        "semiconductor",
-        "storage",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.931,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1381,7 +1395,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.929,
+      "recency_weight": 0.924,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1432,7 +1446,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.929,
+      "recency_weight": 0.924,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1483,7 +1497,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.928,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1531,7 +1545,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.924,
+      "recency_weight": 0.919,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1581,7 +1595,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.924,
+      "recency_weight": 0.919,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1626,7 +1640,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.922,
+      "recency_weight": 0.917,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1673,7 +1687,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.921,
+      "recency_weight": 0.916,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1720,7 +1734,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.919,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1732,6 +1746,47 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "cc6284e751dbdced9933",
+      "title": "Tokyo Court Says Shidax Undervalued the Firm in Rare Case",
+      "summary": "The Tokyo District Court ruled that hospitality sector company Shidax Corp.’s tender offer in 2023 to go private undervalued its shares, in one of the still-rare cases in Japan of financial tussles between companies getting resolved by legal authorities.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/tokyo-court-says-shidax-tender-undervalued-the-firm-in-rare-case",
+      "published_at": "2026-07-31T06:00:07+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.913,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1764,7 +1819,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.913,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1812,7 +1867,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.911,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1861,7 +1916,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.904,
+      "recency_weight": 0.899,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1908,7 +1963,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.899,
+      "recency_weight": 0.894,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1954,7 +2009,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.893,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2005,7 +2060,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.886,
+      "recency_weight": 0.881,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2056,7 +2111,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.88,
+      "recency_weight": 0.875,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2104,7 +2159,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.88,
+      "recency_weight": 0.875,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2152,7 +2207,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.877,
+      "recency_weight": 0.872,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2164,53 +2219,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "141d1566ce77cb4030c7",
-      "title": "Thailand’s True Internet Data Center Seeks $2 Billion Loan",
-      "summary": "Thailand’s True Internet Data Center Co. is seeking an about $2 billion-equivalent loan to build a new facility, according to people familiar with the matter, as the country looks to become a regional hub for artificial intelligence and cloud services.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/thailand-s-true-internet-data-center-seeks-2-billion-loan",
-      "published_at": "2026-07-31T02:46:25+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.863,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -2242,7 +2250,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.858,
+      "recency_weight": 0.853,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2253,53 +2261,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6aa26575f8f679880a37",
-      "title": "What We Know So Far About Hacking by Anthropic AI Models",
-      "summary": "Here's what we know so far about Anthropic's AI models breaching three organizations during cybersecurity tests which went awry. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/what-we-know-so-far-about-hacking-by-anthropic-ai-models-video",
-      "published_at": "2026-07-31T02:29:30+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.858,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2334,7 +2295,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.844,
+      "recency_weight": 0.839,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2380,7 +2341,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.837,
+      "recency_weight": 0.832,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2427,7 +2388,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.833,
+      "recency_weight": 0.829,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2470,7 +2431,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.826,
+      "recency_weight": 0.821,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2515,7 +2476,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.824,
+      "recency_weight": 0.819,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2557,7 +2518,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.821,
+      "recency_weight": 0.817,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2603,7 +2564,54 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.81,
+      "recency_weight": 0.805,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4b0bdcc20ab918760343",
+      "title": "Anthropic AI Models Hacked Three Organizations During Tests",
+      "summary": "Anthropic PBC said its artificial intelligence models breached three organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenAI, disclosed a similar incident.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
+      "published_at": "2026-07-30T23:00:26+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.798,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2649,7 +2657,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.8,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2691,7 +2699,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.8,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2732,7 +2740,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.8,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2774,7 +2782,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.799,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2816,7 +2824,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.799,
+      "recency_weight": 0.794,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2858,7 +2866,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.799,
+      "recency_weight": 0.794,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2900,7 +2908,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.796,
+      "recency_weight": 0.792,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2941,7 +2949,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.793,
+      "recency_weight": 0.788,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2982,7 +2990,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.791,
+      "recency_weight": 0.786,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3027,7 +3035,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.789,
+      "recency_weight": 0.785,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3074,7 +3082,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.788,
+      "recency_weight": 0.784,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3116,7 +3124,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.787,
+      "recency_weight": 0.783,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3161,7 +3169,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.784,
+      "recency_weight": 0.78,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3207,7 +3215,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.779,
+      "recency_weight": 0.775,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3250,7 +3258,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.777,
+      "recency_weight": 0.772,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3292,7 +3300,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.772,
+      "recency_weight": 0.768,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3339,7 +3347,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.772,
+      "recency_weight": 0.768,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3380,7 +3388,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.77,
+      "recency_weight": 0.765,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3425,7 +3433,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.767,
+      "recency_weight": 0.763,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3472,7 +3480,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.761,
+      "recency_weight": 0.757,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3514,7 +3522,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.76,
+      "recency_weight": 0.756,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3560,7 +3568,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.76,
+      "recency_weight": 0.756,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3603,7 +3611,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.757,
+      "recency_weight": 0.753,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3648,7 +3656,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.741,
+      "recency_weight": 0.737,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3690,7 +3698,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.708,
+      "recency_weight": 0.704,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -3730,7 +3738,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.688,
+      "recency_weight": 0.684,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3770,7 +3778,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.688,
+      "recency_weight": 0.684,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3813,7 +3821,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.655,
+      "recency_weight": 0.652,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -3858,7 +3866,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.655,
+      "recency_weight": 0.652,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -3903,7 +3911,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.598,
+      "recency_weight": 0.595,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3945,7 +3953,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.535,
+      "recency_weight": 0.532,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3990,7 +3998,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.486,
+      "recency_weight": 0.483,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4030,7 +4038,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.486,
+      "recency_weight": 0.483,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4078,7 +4086,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.486,
+      "recency_weight": 0.483,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4127,7 +4135,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.486,
+      "recency_weight": 0.483,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4170,7 +4178,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.459,
+      "recency_weight": 0.456,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -4209,7 +4217,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.443,
+      "recency_weight": 0.44,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4256,7 +4264,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.425,
+      "recency_weight": 0.423,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -4296,7 +4304,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.425,
+      "recency_weight": 0.423,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4346,7 +4354,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.306,
+      "recency_weight": 0.305,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4396,7 +4404,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.306,
+      "recency_weight": 0.305,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4443,7 +4451,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.306,
+      "recency_weight": 0.305,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4827,7 +4835,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-31T10:16:13+00:00",
+      "latest_published_at": "2026-07-31T10:25:28+00:00",
       "warning": null
     },
     {
@@ -4836,7 +4844,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-31T09:01:25+00:00",
+      "latest_published_at": "2026-07-31T10:30:01+00:00",
       "warning": null
     },
     {
@@ -4854,7 +4862,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-07-31T10:14:36+00:00",
+      "latest_published_at": "2026-07-31T10:32:14+00:00",
       "warning": null
     },
     {
