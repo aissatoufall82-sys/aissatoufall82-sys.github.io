@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T08:10:04.304081+00:00",
+  "generated_at": "2026-08-01T11:10:05.627257+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,398 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "fdcd0b62a491e07f8d5d",
+      "title": "Is the government lying to us about inflation?",
+      "summary": "The concern is understandable, since the consumer-price index affects everything from Social Security’s annual cost-of-living adjustment to the interest rate earned by investors in Treasury Inflation-Protected Securities.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/is-the-government-lying-to-us-about-inflation-a399e467?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T11:00:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a97abd386a5334a3f0ac",
+      "title": "OPEC+ may keep lifting its oil output quotas as the Iran war broadens. Why that won’t help lower prices.",
+      "summary": "The Organization of the Petroleum Exporting Countries and its allies may decide Sunday to lift their oil production quotas for a sixth straight month — but finding ways to export those extra barrels will be the real problem.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/opec-may-keep-lifting-its-oil-output-quotas-as-the-iran-war-broadens-why-that-wont-help-lower-prices-c80f53d3?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T11:00:00+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3b2f63f20de32ab03974",
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T11:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3f694613caea3e034071",
+      "title": "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind",
+      "summary": "Tech stocks struggled in July. Will the volatility around the AI trade continue in August?",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/the-equal-weighted-s-p-500-just-smoked-the-nasdaq-100-in-july-outperforming-amid-the-violent-chip-stock-unwind-bceb1437?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T11:00:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9e10f0e39270fedd40f0",
+      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
+      "summary": "One tanker was reportedly struck near Oman overnight while another said it saw a large explosion nearby. The Wall Street Journal cited unnamed U.S. officials as saying U.S. President Donald Trump plans to launch a fresh attack on Iran as soon as this weekend. An Iranian official warned a U.S. strike would lead to Iran tightening its control over critical maritime passages. A tanker near Oman reported being struck overnight, with another saying it saw an explosion nearby as Iran warned Washington that the U.S. military's blockade of the Strait of Hormuz would result in the closure of key shipping routes. Separately, Kuwait said its air defenses confronted hostile drone attacks by Iran. The latest conflict comes amid U.S. media reports that U.S. President Donald Trump is preparing for a fresh round of strikes against Iran as early as this weekend, as hopes of a negotiated end to the war that began on Feb. 28 recede and energy prices climb. The United Kingdom Maritime Trade Operations Centre (UKMTO) — an organization backed by the British Navy — said Saturday it received a report of a tanker being hit by an \"unknown projectile which has caused damage to the engine room.\" \"The tanker is not under command and the regional Coast Guard have been informed. There are no reported casualties or environmental impact,\" UKMTO said of the incident 11 nautical miles northeast of Oman. Another tanker in the waters off Oman reported \"seeing a large splash and explosion in close proximity to the vessel,\" UKMTO said. A temporary ceasefire following the signing of a memorandum of understanding between the U.S. and Iran on June 17 has effectively broken down. Neither side has given way on key sticking points, including Iran's nuclear program and control of shipping through the Strait of Hormuz, through which about a fifth of the world's oil supplies moved before the war broke out. Over the last week, the U.S. completed a \"heavy wave\" of strikes against Iran, hitting dozens of Islamic Revolutionary Guard Corps targets. In retaliation, Iran attacked U.S. military bases in Kuwait and Bahrain. Egypt said Thursday that a drone hit two ships at its Mediterranean port of Damietta, triggering a fire. No one claimed responsibility for the strike, which marks the first attack on Egyptian soil since the war began and another sign that the conflict is expanding . The Wall Street Journal cited unnamed U.S. officials as saying Friday that Trump has ordered the military to launch a fresh attack on Iran that could begin as soon as this weekend. But Trump could call off the planned strikes, officials told the Journal, if there is progress on the diplomatic front. \"We will be hitting them very hard,\" The Associated Press quoted Trump as saying Friday at a televised cabinet meeting at the Camp David presidential retreat. \"And you know at some point, they're going to say, 'We just can't take it anymore.'\" Axios quoted an unnamed U.S. official as saying that Trump is seriously considering attacking Iranian energy targets in the next few days, but hasn't given final orders to do so. An Iranian official warned that the U.S.'s actions would lead to Iran tightening its control over critical maritime passages. \"The continuation of the naval blockade and warmongering by the U.S. regime will not only lock the Strait of Hormuz tighter, but will also shut down other straits and chokepoints,\" Iran's WANA news agency quoted Mohammad Bagher Zolghadr, Secretary of Iran's Supreme National Security Council, as saying. \"The price for this will be paid by the global economy, the energy market, and American voters,\" Zolghadr reportedly said. The U.S. reimposed a naval blockade on Iranian ships on July 13, preventing its vessels from entering or leaving its ports. Recent strikes by Iran-backed Houthi fighters in Yemen and Friday's drone strike in Egypt have raised fears that the crucial Bab el-Mandeb strait at the southern end of the Red Sea could become a second choke point for Iran to target as the two sides tussle over the Strait of Hormuz. On Friday, West Texas Intermediate futures rose more than 1% to close at $84.67 per barrel. Brent crude , the international benchmark, also gained more than 1% to settle at $90.12. Prices fell more than 5% for the week after selling off Monday on hopes the conflict in the Middle East would de-escalate.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+      "published_at": "2026-08-01T10:56:11+00:00",
+      "event_type": "black_swan",
+      "severity": "major",
+      "sentiment": -0.6,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 28.98,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ade8dbc29d368a327e13",
+      "title": "Tanker Carrying Qatari LNG Struck While Transiting Hormuz",
+      "summary": "A liquefied natural gas tanker carrying a shipment from Qatar was struck by a projectile while transiting the Strait of Hormuz, according to security intelligence firms and ship tracking data, threatening to further disrupt deliveries of the super-chilled fuel through the key waterway.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/tanker-carrying-qatari-lng-struck-while-transiting-hormuz",
+      "published_at": "2026-08-01T10:25:23+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5d20db5c2e12f072a551",
+      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T10:16:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b6e715d725c6a640776d",
+      "title": "Indian Oil Buys Record Spot Market Crude on Mideast Supply Hit",
+      "summary": "Indian Oil Corp. bought a record share of its crude oil from the spot market in the April-June quarter after the US-Iran conflict upended supplies from the Middle East. The shift shows how geopolitical turmoil is forcing even the region’s biggest buyers to abandon long-established procurement strategies.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/indian-oil-buys-record-spot-market-crude-on-mideast-supply-hit",
+      "published_at": "2026-08-01T09:30:37+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.2,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.969,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "56ce20ab47bc19d3ade8",
+      "title": "Europe’s Endless Heat Waves Imperil Once Reliable Power Sources",
+      "summary": "A series of blistering heat waves has weakened some of Europe’s most historically reliable sources of electricity, forcing the continent to lean more heavily on imported fossil fuels and variable renewable energy.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/europe-s-endless-heat-waves-imperil-once-reliable-power-sources",
+      "published_at": "2026-08-01T09:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "3b2f6bd55634a78d9d60",
       "title": "How an Iron Ore Empire ‘Built on Trust’ Began to Sow Doubts",
@@ -45,7 +437,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -88,54 +480,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.977,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7f15058ff1989101f952",
-      "title": "Iran's overlapping power centers make ending the war more complicated",
-      "summary": "Renewed fighting in the Middle East has highlighted the difficulty of enforcing any ceasefire with Iran. Iran’s power structure includes the Supreme Leader, Revolutionary Guards, presidency and civilian government, commanders, Iran-aligned groups and competing factions. Experts say competing priorities inside Iran could affect whether attacks stop around the Strait of Hormuz, the Red Sea and other flashpoints. In the five months since the Iran war began on Feb. 28, each pause in fighting has underscored the complexities of ending it. The June 17 memorandum of understanding opened a 60-day negotiating period over the Strait of Hormuz, sanctions and Iran's nuclear and missile programs, but frayed within weeks as Iranian attacks on shipping prompted escalation. The U.S. resumed strikes for 13 consecutive nights until it paused on July 24, only for the fighting to resume on Tuesday, with strikes overnight on Wednesday and Thursday. Iran's army said on Friday it had launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain. Whenever negotiations resume, Iran's opaque power structure — spanning the Supreme Leader, the Revolutionary Guards, civilian government, commanders and other groups — will shape not only what is agreed, but whether any deal can be enforced. Any ceasefire would have to pass through layers of command, and the Islamic Revolutionary Guard Corps (IRGC) commanders and Tehran-aligned groups may interpret the terms differently. Attacks attributed this week to Iran-aligned Iraqi militias on Saudi oil facilities and to Yemen's Houthis on pipeline infrastructure show how groups sympathetic to Iran could widen the conflict. Why Iran's power structure complicates a ceasefire Attacks on commercial shipping could become an early test of Iran's wartime balance of power. The U.S. has always emphasized it wants to see the Strait of Hormuz reopened without tolls. While Tehran's civilian government is seeking economic relief and sanctions easing, elements within the security establishment may view continued pressure in the strait as an important source of leverage. Iran's civilian government hopes to unlock frozen funds to provide financial relief for the population of over 90 million Iranians crippled by decades of sanctions. The government has long been undermined by the IRGC, who are \"the dominant force on war and national security,\" Sanam Vakil, director, Middle East North Africa Program at Chatham House, told CNBC. They operate \"missiles, drones, intelligence networks and regional armed partnerships, and during active conflict its commanders can exercise considerable autonomy,\" she added. \"The civilian government still matters, and the president can shape diplomacy, economic policy and the work of the Supreme National Security Council, but he does not command the armed forces,\" Vakil continued. Who controls Iran's military decisions? President Masoud Pezeshkian leads Iran's civilian government but ultimate authority over national security rests with Supreme Leader Ayatollah Ali Khamenei, while the IRGC exercises significant operational autonomy. While the Supreme Leader has the final say over national security, \"he does not personally direct every tactical operation,\" Vakil said. The IRGC has become Iran's dominant military and security institution, overseeing missile forces, drones, regional operations and relationships with armed groups aligned with Tehran. It answers directly to the Supreme Leader rather than the civilian government. It exists alongside Iran's conventional military but is more powerful politically and oversees foreign operations and Iran's proxies, like Hezbollah. Crucially, these proxies export the ideology of the Islamic Republic through weapons, training and funding. The IRGC also oversees Iran's internal security through the Basij paramilitary force. This week marked the end of a temporary halt in hostilities, after the U.S. and Saudi Arabia struck Iran-backed militias in Iraq. Iran launched a surprise missile attack on U.S. forces in Jordan, all of which were intercepted according to the U.S. military. The strike underscored how quickly the conflict can expand even as diplomats attempt to restart negotiations. Earlier this week, diplomats sought to give peace talks \"some space.\" Iran's Foreign Ministry spokesperson, Esmail Baghaei, on Monday said Iran currently has \"no negotiations with the United States.\" Amos Hochstein, former senior advisor to President Joe Biden and managing partner at TWG Global, told CNBC: \"Iran has no intention of returning to the status quo before the war.\" \"A ceasefire is not a switch that can simply be flipped. Iran wants to translate battlefield realities into political gains before locking itself into a new status quo,\" Alex Vatanka, senior fellow at the Middle East Institute, told CNBC.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
-      "published_at": "2026-08-01T06:52:42+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.975,
+      "recency_weight": 0.922,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -180,7 +525,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.965,
+      "recency_weight": 0.911,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -221,7 +566,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.951,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -264,7 +609,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.945,
+      "recency_weight": 0.892,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -307,7 +652,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.945,
+      "recency_weight": 0.892,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -354,7 +699,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.942,
+      "recency_weight": 0.889,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -396,7 +741,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -437,48 +782,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.897,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "bab78e2920213a8a66c6",
-      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-      "published_at": "2026-08-01T00:45:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.867,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -519,7 +823,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.861,
+      "recency_weight": 0.813,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -560,7 +864,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.843,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -604,7 +908,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.842,
+      "recency_weight": 0.794,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -648,7 +952,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.838,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -697,7 +1001,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.828,
+      "recency_weight": 0.782,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -745,7 +1049,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.828,
+      "recency_weight": 0.782,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -787,7 +1091,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.828,
+      "recency_weight": 0.782,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -828,7 +1132,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.828,
+      "recency_weight": 0.781,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -869,7 +1173,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.825,
+      "recency_weight": 0.778,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -914,7 +1218,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.825,
+      "recency_weight": 0.778,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -957,7 +1261,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.823,
+      "recency_weight": 0.777,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -999,7 +1303,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.823,
+      "recency_weight": 0.777,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1040,7 +1344,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.821,
+      "recency_weight": 0.775,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1081,7 +1385,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.82,
+      "recency_weight": 0.774,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1125,7 +1429,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.82,
+      "recency_weight": 0.774,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1170,7 +1474,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.819,
+      "recency_weight": 0.773,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1216,7 +1520,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.819,
+      "recency_weight": 0.773,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1228,139 +1532,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f8fcfed1b9aedb61d4f9",
-      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-      "summary": "Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary Research CEO Ed Zitron gives his more skeptical take on the industry. In speaking about OpenAI and Anthropic Zitron argues \"everyone is buying into these stocks because they believe all of that CapEx is going towards diverse and spread out AI demand, when in fact, what it's actually doing is helping create infrastructure for two unprofitable, unsustainable companies.\" (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/zitron-everyone-has-been-sold-a-lie-on-ai-video",
-      "published_at": "2026-07-31T21:42:16+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.818,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ee48a0ac04c6b8797c13",
-      "title": "Branches of K-Shaped Economy Diverging Even Wider: Clarida",
-      "summary": "Former Federal Reserve Vice Chairman Richard Clarida, and now a global economic adviser for Pimco, talks to Tom Keene and Scarlet Fu on\"Bloomberg Money\". Clarida endorsed the view that the US has a so-called K-shaped economy, with the divergence between its two branches widening over the past six to seven years. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/branches-of-k-shaped-economy-diverging-wider-clarida-video",
-      "published_at": "2026-07-31T21:42:04+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.817,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "91ad3fd55162d2d8a549",
-      "title": "Luxury Real Estate Firm Serhant Expands into Texas Amid Booming Market",
-      "summary": "Ryan Serhant, CEO and Founder of luxury real estate firm Serhant, discusses the company's strategic expansion into Texas, highlighting the state's robust job growth and entrepreneurial environment. Texas leads the nation with over 3.5 million startups and small businesses, and more Fortune 500 headquarters than any other state, driving a strong luxury housing market with $25 billion in residential sales over $1 million in the past year. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/luxury-real-estate-firm-serhant-expands-into-texas-video",
-      "published_at": "2026-07-31T21:40:35+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.817,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1391,7 +1562,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.814,
+      "recency_weight": 0.768,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1436,53 +1607,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.81,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "abff1c10524a1da3fe97",
-      "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
-      "summary": "After a whipsaw end to the month, the stock market’s decline was highlighted by the worst month for chip stocks in 24 years.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
-      "published_at": "2026-07-31T21:10:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.809,
+      "recency_weight": 0.765,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1524,7 +1649,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.808,
+      "recency_weight": 0.763,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1563,7 +1688,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.807,
+      "recency_weight": 0.762,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -1608,7 +1733,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.807,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1654,7 +1779,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.807,
+      "recency_weight": 0.761,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1700,7 +1825,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.803,
+      "recency_weight": 0.758,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1747,7 +1872,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.803,
+      "recency_weight": 0.758,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1789,7 +1914,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.802,
+      "recency_weight": 0.757,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1800,98 +1925,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e4228e7881c999db3a88",
-      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
-      "summary": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
-      "published_at": "2026-07-31T20:23:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.797,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e6b82e02e7dfd04e3738",
-      "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
-      "summary": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
-      "published_at": "2026-07-31T20:20:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.796,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1927,7 +1960,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.796,
+      "recency_weight": 0.751,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1975,7 +2008,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.796,
+      "recency_weight": 0.751,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2018,7 +2051,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.792,
+      "recency_weight": 0.748,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2057,7 +2090,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.791,
+      "recency_weight": 0.747,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2106,7 +2139,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.79,
+      "recency_weight": 0.746,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2153,7 +2186,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.788,
+      "recency_weight": 0.744,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2200,7 +2233,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.787,
+      "recency_weight": 0.743,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2213,47 +2246,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "05b4324f999a1c1d2a83",
-      "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
-      "summary": "“I realize that probate can be lengthy, public and expensive.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
-      "published_at": "2026-07-31T19:16:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.78,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2289,7 +2281,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.779,
+      "recency_weight": 0.736,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2337,7 +2329,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.779,
+      "recency_weight": 0.735,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2385,7 +2377,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.775,
+      "recency_weight": 0.731,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2397,47 +2389,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "23e46ebf5250fb16bf75",
-      "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
-      "summary": "President Donald Trump said the U.S. hasn't agreed to grant Ukraine licenses to produce Patriot missile systems.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
-      "published_at": "2026-07-31T18:52:10+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.774,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2473,7 +2424,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.773,
+      "recency_weight": 0.73,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2518,7 +2469,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.773,
+      "recency_weight": 0.729,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2563,7 +2514,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.772,
+      "recency_weight": 0.729,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2611,7 +2562,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.772,
+      "recency_weight": 0.729,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2657,7 +2608,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.765,
+      "recency_weight": 0.722,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2702,7 +2653,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.765,
+      "recency_weight": 0.722,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2744,7 +2695,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.763,
+      "recency_weight": 0.72,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2789,7 +2740,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.746,
+      "recency_weight": 0.704,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2834,7 +2785,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.745,
+      "recency_weight": 0.703,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2879,7 +2830,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.744,
+      "recency_weight": 0.703,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2926,7 +2877,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.731,
+      "recency_weight": 0.69,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2968,7 +2919,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.729,
+      "recency_weight": 0.688,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3009,7 +2960,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.728,
+      "recency_weight": 0.687,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3050,7 +3001,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.726,
+      "recency_weight": 0.685,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3092,7 +3043,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.725,
+      "recency_weight": 0.684,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3137,7 +3088,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.713,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3178,7 +3129,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.709,
+      "recency_weight": 0.669,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -3196,7 +3147,7 @@
     },
     {
       "event_id": "d3c88e4c031bf2b0fd04",
-      "title": "Yen Gains on Intervention, Reports of Buying By Both US, Japan",
+      "title": "Yen Gains on Intervention, Reports of Buying by Both US, Japan",
       "summary": "US and Japanese authorities extended efforts to shore up the yen on Friday, with the currency strengthening more than 1% against both the dollar and the euro.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
@@ -3219,7 +3170,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.707,
+      "recency_weight": 0.667,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3262,7 +3213,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.705,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3305,7 +3256,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.705,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3345,7 +3296,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.705,
+      "recency_weight": 0.665,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3386,7 +3337,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.7,
+      "recency_weight": 0.661,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3427,7 +3378,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.699,
+      "recency_weight": 0.66,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3474,7 +3425,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.685,
+      "recency_weight": 0.646,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3515,7 +3466,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.681,
+      "recency_weight": 0.643,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3556,7 +3507,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.672,
+      "recency_weight": 0.634,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3601,7 +3552,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.668,
+      "recency_weight": 0.631,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3613,6 +3564,52 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1a81d17b801a24737554",
+      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+      "summary": "Iran's army said it launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
+      "published_at": "2026-07-31T10:32:14+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 12.88,
+      "recency_weight": 0.622,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3647,7 +3644,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.551,
+      "recency_weight": 0.52,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3693,7 +3690,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.52,
+      "recency_weight": 0.49,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3735,7 +3732,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.48,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3782,7 +3779,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.48,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3827,7 +3824,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.505,
+      "recency_weight": 0.477,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3873,7 +3870,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.502,
+      "recency_weight": 0.474,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3920,7 +3917,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.501,
+      "recency_weight": 0.473,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3962,7 +3959,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.466,
+      "recency_weight": 0.44,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -4002,7 +3999,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.453,
+      "recency_weight": 0.427,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -4042,7 +4039,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.453,
+      "recency_weight": 0.427,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -4085,7 +4082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.431,
+      "recency_weight": 0.407,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -4130,7 +4127,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.431,
+      "recency_weight": 0.407,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bea",
@@ -4171,7 +4168,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.405,
+      "recency_weight": 0.382,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4216,7 +4213,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4256,7 +4253,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4304,7 +4301,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.302,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4353,7 +4350,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.302,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4396,7 +4393,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.285,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -4435,7 +4432,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.292,
+      "recency_weight": 0.275,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4475,7 +4472,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4859,7 +4856,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-01T07:00:33+00:00",
+      "latest_published_at": "2026-08-01T10:25:23+00:00",
       "warning": null
     },
     {
@@ -4877,7 +4874,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-08-01T00:45:00+00:00",
+      "latest_published_at": "2026-08-01T11:00:00+00:00",
       "warning": null
     },
     {
@@ -4886,7 +4883,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-08-01T06:58:41+00:00",
+      "latest_published_at": "2026-08-01T10:56:11+00:00",
       "warning": null
     },
     {
