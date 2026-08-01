@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T17:10:02.212597+00:00",
+  "generated_at": "2026-08-01T20:10:01.108387+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,257 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "e122cad2439718bf9e4f",
+      "title": "AI Loan Market Sees Investor Demands Rise, Borrowers Offer Better Terms",
+      "summary": "Loan investors are pushing back for the first time in years, in a shift that will probably translate to higher borrowing costs for everyone from private equity firms to deeply indebted AI companies.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/loan-investors-are-pushing-back-as-fear-rises-credit-weekly",
+      "published_at": "2026-08-01T19:00:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3cd95ca74d557215987a",
+      "title": "Let’s elect candidates who will make the wealthy pay taxes",
+      "summary": "We can use some of those revenues to make Social Security contributions more equitable.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T18:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c840cc3946b33b5804ea",
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "summary": "“I will file a complaint with the Better Business Bureau.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T18:15:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.964,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "31643dc3b85d40372967",
+      "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
+      "summary": "Medicare Advantage plans could be the winners of a decision by the Trump administration to put an early end to a program that kept the cost of Medicare prescription drug plans lower.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T18:06:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.961,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b6e73de084ada0d5ed71",
+      "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
+      "summary": "Watch out for these 4 major financial pitfalls.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T17:32:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.951,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8593ede9cd2ca7d8f4ac",
+      "title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
+      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "published_at": "2026-08-01T17:15:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.945,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "2304b3ef163441a66bfa",
       "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
@@ -45,7 +296,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 1.0,
+      "recency_weight": 0.944,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -86,7 +337,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.991,
+      "recency_weight": 0.935,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -127,7 +378,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -168,7 +419,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.983,
+      "recency_weight": 0.928,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -209,7 +460,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.982,
+      "recency_weight": 0.927,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -250,171 +501,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.98,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "eff2316d7a8817cd9291",
-      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "published_at": "2026-08-01T16:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.978,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d57b60f4ff7e2f7e063d",
-      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-      "published_at": "2026-08-01T15:45:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.973,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "0100bae8ef732942f3fa",
-      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
-      "summary": "Experts say this could mean that more seniors will switch to Medicare Advantage plans",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-      "published_at": "2026-08-01T15:29:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.968,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9d197529cfb788a6136a",
-      "title": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
-      "summary": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-      "published_at": "2026-08-01T15:12:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.963,
+      "recency_weight": 0.925,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -455,7 +542,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -502,7 +589,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.954,
+      "recency_weight": 0.9,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -545,7 +632,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.952,
+      "recency_weight": 0.899,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -591,7 +678,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.946,
+      "recency_weight": 0.893,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -638,7 +725,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.945,
+      "recency_weight": 0.892,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -687,7 +774,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.944,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -700,47 +787,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2f72ec15ae67953ce0f4",
-      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-      "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-      "published_at": "2026-08-01T14:04:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.942,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -771,7 +817,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.942,
+      "recency_weight": 0.889,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -812,7 +858,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -853,7 +899,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.94,
+      "recency_weight": 0.887,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -898,7 +944,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.936,
+      "recency_weight": 0.884,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -943,7 +989,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.932,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -989,7 +1035,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.932,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1009,7 +1055,7 @@
     {
       "event_id": "cc92a5cf921d5dc6c519",
       "title": "Bipartisan Governors Launch Task Force to Tackle Immigration Reform",
-      "summary": "From Oklahoma City, the site of the annual meeting of the National Governor’s Association, Oklahoma Governor Kevin Stitt, Marylands Governor Wes Moore, Utah Governor Spencer Cox, and Delaware Governor Matt Meyer joined Bloomberg This Weekend host Christina Ruffini to announce the launching of a bi-partisan immigration task force to find solutions to one of America's most politically divisive issues. (Source: Bloomberg)",
+      "summary": "From Oklahoma City, the site of the annual meeting of the National Governor’s Association, Oklahoma Governor Kevin Stitt, Maryland Governor Wes Moore, Utah Governor Spencer Cox, and Delaware Governor Matt Meyer joined Bloomberg This Weekend host Christina Ruffini to announce the launching of a bi-partisan immigration task force to find solutions to one of America's most politically divisive issues. (Source: Bloomberg)",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1031,7 +1077,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.924,
+      "recency_weight": 0.872,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1079,7 +1125,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.923,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1121,7 +1167,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.915,
+      "recency_weight": 0.864,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1170,7 +1216,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.914,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1217,7 +1263,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.913,
+      "recency_weight": 0.862,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1262,7 +1308,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.911,
+      "recency_weight": 0.86,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1307,7 +1353,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.91,
+      "recency_weight": 0.859,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1349,7 +1395,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.909,
+      "recency_weight": 0.858,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1393,7 +1439,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.906,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1437,7 +1483,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.905,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1448,6 +1494,52 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7e699975a5e84d8f89c5",
+      "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+      "summary": "As incoming CEO Jason Bonfig prepares to take the reins at Best Buy, he spoke with CNBC exclusively about how he's focused on expanding the company's reach and enhancing the customer experience. Part of that strategy includes investing in small-format stores, which open the company up to areas that can't support full stores but could still benefit from Best Buy's presence. Bonfig also said he's focused on leveraging AI for customers and for the corporate side of the business. Best Buy is at a critical juncture as the consumer electronics retailer aims to revitalize its performance under incoming CEO Jason Bonfig , who spoke exclusively with CNBC about his strategy for the company. The company has been struggling with slumping sales over the past few years, which it has attributed to lower consumer confidence, less tech innovation and a slower housing market. In an effort to refresh its products, improve the customer experience and drive more sales, the retailer announced Bonfig will succeed current CEO Corie Barry this fall. As he prepares to take the helm, Bonfig has said he's focused on four key pillars : advancing Best Buy as a retail and technology company, improving its reach, enhancing the customer experience and focusing on being a human-powered company. Bonfig has also said he's looking into ways to capitalize on the artificial intelligence boom and Best Buy's spot in that next chapter. This week, Best Buy opened two new stores, one in Jonesboro, Arkansas, and one in Cape Cod , Massachusetts, which Bonfig told CNBC illustrates his strategy as he prioritizes returning the company to long-term and sustainable growth. \"What we're finding is that there are markets that we just can't be in with a traditional size Best Buy store, but they're markets that absolutely make sense for Best Buy from a reach perspective,\" Bonfig said. To lean into those markets, the company is opening new small-format stores, ranging from 12,000 to 15,000 square feet, compared to its medium-format stores, which range from 20,000 to 25,000 square feet. Some of its largest stores, including its flagship location in New York City, exceed 40,000 square feet. The new small stores tap into Bonfig's priority of expanding the company's reach, he said. \"We also know that when we put a store close to a customer, it doesn't just change the customers' behavior in the frequency of the visits of the store … it also changes their behavior digitally as well,\" Bonfig said. When Best Buy joins a new, smaller community, he said, the company has found more customers physically go to a store for the first time, but they also use the app and digital channels as well. The Jonesboro store marks Best Buy's return to the town after a tornado destroyed its previous location. \"It's a great example of a vibrant market, a place where customers are interested in our brand, but not a market that could support a 30,000- or 35,000-square-foot store,\" Bonfig said. \"An 18,000-square-foot store allows us to have the best of all of our different categories and meet the needs at that particular location.\" The second opening, in Cape Cod, is slightly larger than Best Buy's normal medium-format stores, coming in at 28,000 square feet, but Bonfig said it's another example of finding \"the right size store in the right location in the right node.\" He added that Best Buy Canada, which can often do things faster than its U.S. counterpart, has been after the small-format store for \"an extended period of time\" and has seen success with locations as small as 7,000 square feet. Still, Bonfig emphasized that the small stores are not a replacement for its more typical-format locations. \"It's actually an enhancement of what we're doing today,\" he said. \"But it actually allows us to reach more customers and more markets that we just were not in before.\" Over the past five years, Best Buy has seen its stock sink roughly 20% after hitting its peak in late 2021, trading at $138 per share. For the current fiscal year, Best Buy has said it expects comparable sales in the range of a decline of 1% to an increase of 1%. Though its most recent quarter outperformed Wall Street expectations, it came on the heels of years of declines, like the third fiscal quarter of 2026 , when Best Buy reported net income of $140 million, down from $273 million the year prior. The retailer was also hit by tariffs and is navigating the soaring price of memory chips , which have caused the costs of some consumer electronics to rise. Bonfig said he attributes Best Buy's recent stagnant performance to a general pull-forward behavior from consumers during Covid that created an unprecedented demand curve that led to a lull. Like home improvement companies, Best Buy saw outsized spending as shoppers were stuck at home and looking to upgrade. He said Best Buy saw that behavior reset the technology life cycle for a lot of consumers while also forcing vendors to pivot from innovation to production.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+      "published_at": "2026-08-01T12:00:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.854,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1487,7 +1579,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.905,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1500,52 +1592,6 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7e699975a5e84d8f89c5",
-      "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-      "summary": "As incoming CEO Jason Bonfig prepares to take the reins at Best Buy, he spoke with CNBC exclusively about how he's focused on expanding the company's reach and enhancing the customer experience. Part of that strategy includes investing in small-format stores, which open the company up to areas that can't support full stores but could still benefit from Best Buy's presence. Bonfig also said he's focused on leveraging AI for customers and for the corporate side of the business. Best Buy is at a critical juncture as the consumer electronics retailer aims to revitalize its performance under incoming CEO Jason Bonfig , who spoke exclusively with CNBC about his strategy for the company. The company has been struggling with slumping sales over the past few years, which it has attributed to lower consumer confidence, less tech innovation and a slower housing market. In an effort to refresh its products, improve the customer experience and drive more sales, the retailer announced Bonfig will succeed current CEO Corie Barry this fall. As he prepares to take the helm, Bonfig has said he's focused on four key pillars : advancing Best Buy as a retail and technology company, improving its reach, enhancing the customer experience and focusing on being a human-powered company. Bonfig has also said he's looking into ways to capitalize on the artificial intelligence boom and Best Buy's spot in that next chapter. This week, Best Buy opened two new stores, one in Jonesboro, Arkansas, and one in Cape Cod , Massachusetts, which Bonfig told CNBC illustrates his strategy as he prioritizes returning the company to long-term and sustainable growth. \"What we're finding is that there are markets that we just can't be in with a traditional size Best Buy store, but they're markets that absolutely make sense for Best Buy from a reach perspective,\" Bonfig said. To lean into those markets, the company is opening new small-format stores, ranging from 12,000 to 15,000 square feet, compared to its medium-format stores, which range from 20,000 to 25,000 square feet. Some of its largest stores, including its flagship location in New York City, exceed 40,000 square feet. The new small stores tap into Bonfig's priority of expanding the company's reach, he said. \"We also know that when we put a store close to a customer, it doesn't just change the customers' behavior in the frequency of the visits of the store … it also changes their behavior digitally as well,\" Bonfig said. When Best Buy joins a new, smaller community, he said, the company has found more customers physically go to a store for the first time, but they also use the app and digital channels as well. The Jonesboro store marks Best Buy's return to the town after a tornado destroyed its previous location. \"It's a great example of a vibrant market, a place where customers are interested in our brand, but not a market that could support a 30,000- or 35,000-square-foot store,\" Bonfig said. \"An 18,000-square-foot store allows us to have the best of all of our different categories and meet the needs at that particular location.\" The second opening, in Cape Cod, is slightly larger than Best Buy's normal medium-format stores, coming in at 28,000 square feet, but Bonfig said it's another example of finding \"the right size store in the right location in the right node.\" He added that Best Buy Canada, which can often do things faster than its U.S. counterpart, has been after the small-format store for \"an extended period of time\" and has seen success with locations as small as 7,000 square feet. Still, Bonfig emphasized that the small stores are not a replacement for its more typical-format locations. \"It's actually an enhancement of what we're doing today,\" he said. \"But it actually allows us to reach more customers and more markets that we just were not in before.\" Over the past five years, Best Buy has seen its stock sink roughly 20% after hitting its peak in late 2021, trading at $138 per share. For the current fiscal year, Best Buy has said it expects comparable sales in the range of a decline of 1% to an increase of 1%. Though its most recent quarter outperformed Wall Street expectations, it came on the heels of years of declines, like the third fiscal quarter of 2026 , when Best Buy reported net income of $140 million, down from $273 million the year prior. The retailer was also hit by tariffs and is navigating the soaring price of memory chips , which have caused the costs of some consumer electronics to rise. Bonfig said he attributes Best Buy's recent stagnant performance to a general pull-forward behavior from consumers during Covid that created an unprecedented demand curve that led to a lull. Like home improvement companies, Best Buy saw outsized spending as shoppers were stuck at home and looking to upgrade. He said Best Buy saw that behavior reset the technology life cycle for a lot of consumers while also forcing vendors to pivot from innovation to production.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
-      "published_at": "2026-08-01T12:00:01+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.905,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1583,7 +1629,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.905,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1630,7 +1676,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.904,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1674,7 +1720,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.903,
+      "recency_weight": 0.852,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1721,7 +1767,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.887,
+      "recency_weight": 0.837,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1763,7 +1809,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.878,
+      "recency_weight": 0.829,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1806,7 +1852,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.822,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1853,7 +1899,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.82,
+      "recency_weight": 0.774,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1865,50 +1911,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e316ad84c46aad575680",
-      "title": "Bessent Joins Japan to Help Reverse Months of Yen Losses",
-      "summary": "The US joined Japan in engineering one of the most notable rebounds in the yen since the currency began its years-long slide, a decline that’s stoked inflation in the Asian nation and rippled through global markets.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/bessent-and-the-fed-help-japan-reverse-months-of-yen-losses",
-      "published_at": "2026-08-01T06:19:28+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.812,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1944,7 +1946,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.792,
+      "recency_weight": 0.747,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1986,7 +1988,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.709,
+      "recency_weight": 0.669,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2032,7 +2034,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.697,
+      "recency_weight": 0.658,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2078,7 +2080,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.693,
+      "recency_weight": 0.654,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2120,7 +2122,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.692,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2165,7 +2167,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.689,
+      "recency_weight": 0.65,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2211,7 +2213,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.688,
+      "recency_weight": 0.65,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2257,7 +2259,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.681,
+      "recency_weight": 0.643,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2299,7 +2301,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.68,
+      "recency_weight": 0.642,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2338,7 +2340,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.679,
+      "recency_weight": 0.641,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2383,7 +2385,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.678,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2429,7 +2431,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.678,
+      "recency_weight": 0.64,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2475,7 +2477,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.676,
+      "recency_weight": 0.638,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2522,7 +2524,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.675,
+      "recency_weight": 0.637,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2564,7 +2566,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.674,
+      "recency_weight": 0.636,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2609,7 +2611,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.669,
+      "recency_weight": 0.632,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2651,7 +2653,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.669,
+      "recency_weight": 0.632,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2690,7 +2692,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.665,
+      "recency_weight": 0.628,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2735,243 +2737,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.664,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "51f8cee2787cdbb3cf98",
-      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
-      "summary": "Cybersecurity experts are faulting Anthropic PBC and OpenAI for sloppy safeguards after their models broke into outside organizations — breaches they warned represent looming threats to national security.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
-      "published_at": "2026-07-31T19:46:30+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.662,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4f118397f72314449a7f",
-      "title": "Big Tech Holds $2 Trillion of Spending Commitments for AI Boom",
-      "summary": "The four largest players in the data center race have committed nearly $2.4 trillion in spending over the coming years, pointing to massive ongoing investment in AI infrastructure.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
-      "published_at": "2026-07-31T19:13:19+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.655,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7d4461a5b89bb9b7e962",
-      "title": "Apple's Stumble, Amazon's Surge and Anthropic's Hacks | Bloomberg Tech 7/31/2026",
-      "summary": "Bloomberg’s Ed Ludlow breaks down Tim Cook's final Apple earnings call as CEO - a story of supply crunches, demand misreads and a tough outlook. Plus, Amazon's shares roar on AI progress, big spending and accelerating cloud growth. And, after OpenAI's breaches, Anthropic is now saying its own AI models breached three organizations during cybersecurity tests. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-tech-7-31-2026-video",
-      "published_at": "2026-07-31T19:11:09+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.655,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b249d7a1afa5e3806611",
-      "title": "Moonshot's Kimi Built With Nvidia Compute",
-      "summary": "Chinese AI startup Moonshot's Kimi models are powered in part by around 20,000 Nvidia Hopper chips supplied through a computing agreement with Alibaba, according to sources. Bloomberg's Peter Elstrom explains what the arrangement reveals about China's AI infrastructure and the role of US technology in training frontier models. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/moonshot-s-kimi-built-with-nvidia-compute-video",
-      "published_at": "2026-07-31T18:54:44+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.651,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3a1fcc34cda9b9a755a0",
-      "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
-      "summary": "Recent disclosures from Anthropic and OpenAI have shifted the AI conversation from model capabilities to real-world deployment and security. Lux Capital Partner Deena Shakir says the next wave of AI innovation will be built on trust, partnerships and vertical applications like health care and robotics, not just more powerful foundation models. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
-      "published_at": "2026-07-31T18:49:14+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.65,
+      "recency_weight": 0.627,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3016,7 +2782,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.65,
+      "recency_weight": 0.613,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3027,52 +2793,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3552c309f148aab8d6e3",
-      "title": "Griffin’s Knack for Sniffing Out Trouble Set to Reward Citadel",
-      "summary": "It’s practically an adage on Wall Street by now: You know you’re in trouble when Ken Griffin calls.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/griffin-s-knack-for-sniffing-out-trouble-set-to-reward-citadel",
-      "published_at": "2026-07-31T18:45:27+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.65,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3106,7 +2826,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.643,
+      "recency_weight": 0.607,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3147,7 +2867,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.642,
+      "recency_weight": 0.606,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3192,7 +2912,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.627,
+      "recency_weight": 0.592,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3237,7 +2957,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.626,
+      "recency_weight": 0.591,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3278,7 +2998,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.613,
+      "recency_weight": 0.579,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3319,7 +3039,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.612,
+      "recency_weight": 0.578,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3361,7 +3081,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.609,
+      "recency_weight": 0.575,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3406,7 +3126,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.6,
+      "recency_weight": 0.566,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3447,7 +3167,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.596,
+      "recency_weight": 0.563,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -3490,7 +3210,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.593,
+      "recency_weight": 0.559,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3533,7 +3253,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.593,
+      "recency_weight": 0.559,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3573,7 +3293,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.593,
+      "recency_weight": 0.559,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3620,7 +3340,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.576,
+      "recency_weight": 0.544,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3661,7 +3381,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.573,
+      "recency_weight": 0.541,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3706,53 +3426,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.562,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "05f4769bcd9488b9bd7f",
-      "title": "CVC Marathon on Hyperscalers’ Credit Risks",
-      "summary": "Bruce Richards, Managing Partner and Head of CVC Marathon discusses the current state of credit markets and the cost of capital. With $80 billion in assets under management and extensive Wall Street experience, Richards provided valuable perspectives on market dynamics and financing conditions. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-07-30/marathon-asset-management-on-hyperscalers-credit-risks-video",
-      "published_at": "2026-07-30T22:10:17+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.437,
+      "recency_weight": 0.53,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3794,7 +3468,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.403,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3841,7 +3515,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.427,
+      "recency_weight": 0.403,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3886,7 +3560,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.425,
+      "recency_weight": 0.401,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3932,7 +3606,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.422,
+      "recency_weight": 0.398,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3979,7 +3653,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.421,
+      "recency_weight": 0.398,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4021,7 +3695,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.392,
+      "recency_weight": 0.37,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -4061,7 +3735,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.381,
+      "recency_weight": 0.359,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -4101,7 +3775,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.381,
+      "recency_weight": 0.359,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -4144,7 +3818,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.363,
+      "recency_weight": 0.342,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -4189,7 +3863,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.363,
+      "recency_weight": 0.342,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bea",
@@ -4234,7 +3908,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4274,7 +3948,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.254,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4322,7 +3996,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.254,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4371,7 +4045,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.254,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4384,49 +4058,6 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e0f40bc55d75167f0048",
-      "title": "Federal Reserve issues FOMC statement",
-      "summary": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system. The Federal Open Market Committee approved the following statement for release by a 9 – 3 vote: The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate. The Committee is continuing its policy of maintaining ample reserves in the banking system. Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East. Productivity growth and capital investment are strong. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy. The Committee will deliver price stability. Voting against the monetary policy action were Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting. Implementation Note issued July 29, 2026 Board of Governors of the Federal Reserve System 20th Street and Constitution Avenue N.W., Washington, DC 20551",
-      "source": "Federal Reserve Press Releases",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-      "published_at": "2026-07-29T18:00:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "fed",
-        "growth",
-        "macro",
-        "rates"
-      ],
-      "categories": [
-        "macro",
-        "fed"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 12.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "federal-reserve",
-        "label": "Federal Reserve",
-        "authority": "Board of Governors of the Federal Reserve System",
-        "source_type": "货币政策与监管公告",
-        "evidence_role": "货币政策与监管公告：确认利率路径、资产负债表、监管和金融稳定相关事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
         "fetch_status": "live"
       }
     }
@@ -4743,7 +4374,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 5,
+      "recent_items": 4,
       "latest_published_at": "2026-07-31T14:00:00+00:00",
       "warning": null
     },
@@ -4798,7 +4429,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-01T16:17:44+00:00",
+      "latest_published_at": "2026-08-01T19:00:00+00:00",
       "warning": null
     },
     {
@@ -4806,7 +4437,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 20,
+      "recent_items": 13,
       "latest_published_at": "2026-08-01T12:00:00+00:00",
       "warning": null
     },
@@ -4816,7 +4447,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-08-01T17:09:00+00:00",
+      "latest_published_at": "2026-08-01T18:30:00+00:00",
       "warning": null
     },
     {
