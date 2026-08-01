@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T02:10:00.476869+00:00",
-  "generated_at_local": "2026-08-01 10:10:00 北京时间",
-  "next_update_at_local": "2026-08-01 13:10:00 北京时间",
+  "generated_at": "2026-08-01T05:10:01.086039+00:00",
+  "generated_at_local": "2026-08-01 13:10:01 北京时间",
+  "next_update_at_local": "2026-08-01 16:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "01:10",
@@ -152,7 +152,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-31T15:52:20+00:00",
-      "pick_score": 76,
+      "pick_score": 75,
       "event_type": "geopolitical",
       "severity": "major",
       "impact_axes": [
@@ -190,7 +190,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-31T10:32:14+00:00",
-      "pick_score": 75,
+      "pick_score": 74,
       "event_type": "geopolitical",
       "severity": "major",
       "impact_axes": [
@@ -228,7 +228,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-31T18:16:18+00:00",
-      "pick_score": 72,
+      "pick_score": 71,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -264,7 +264,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-31T21:49:40+00:00",
-      "pick_score": 69,
+      "pick_score": 68,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -302,7 +302,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-07-31T20:17:54+00:00",
-      "pick_score": 69,
+      "pick_score": 68,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -496,7 +496,7 @@
       "publisher": "美国证券交易委员会（SEC）",
       "publisher_type": "官方机构",
       "published_at": "2026-07-31T21:00:00+00:00",
-      "pick_score": 61,
+      "pick_score": 60,
       "event_type": "corporate",
       "severity": "moderate",
       "impact_axes": [
@@ -515,78 +515,6 @@
         "fetch_status": "live"
       },
       "in_event_ledger": true
-    },
-    {
-      "id": "2287e6a9e03dbd146f63",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "translation_label": "原文全文翻译",
-      "translation": "来源：联邦储备系统新闻稿 标题：美联储理事会就一项旨在使其规范银行“内部人士”（即可能对银行贷款决策产生影响的高管、董事会成员和主要股东）授信规则实现现代化的提案征求意见 正文： 美联储理事会就一项旨在使其规范银行“内部人士”（即可能对银行贷款决策产生影响的高管、董事会成员和主要股东）授信规则实现现代化的提案征求意见。美联储理事会就一项旨在使其规范银行“内部人士”（即可能对银行贷款决策产生影响的高管、董事会成员和主要股东）授信规则实现现代化的提案征求意见。",
-      "article_explanation": "这是一条Federal Reserve官方宏观数据/政策原文，核心是在更新货币政策、监管或金融稳定信息。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
-      "summary": "这是一条Federal Reserve官方宏观数据/政策原文，核心是在更新货币政策、监管或金融稳定信息。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-      "source": "Federal Reserve Press Releases",
-      "publisher": "美联储（Federal Reserve）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-07-31T14:00:00+00:00",
-      "pick_score": 59,
-      "event_type": "macro",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
-      ],
-      "source_profile": {
-        "key": "federal-reserve",
-        "label": "Federal Reserve",
-        "authority": "Board of Governors of the Federal Reserve System",
-        "source_type": "货币政策与监管公告",
-        "evidence_role": "货币政策与监管公告：确认利率路径、资产负债表、监管和金融稳定相关事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
-      "id": "574e8818f1295661ad71",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-      "translation_label": "原文全文翻译",
-      "translation": "联邦储备委员会就一项旨在实现相互银行组织规则现代化的提案征求意见。美联储理事会于周五就一项旨在实现相互银行组织规则现代化的提案征求意见。这些机构由储户而非股东所有，其中90%以上的机构总资产少于30亿美元。理事会于2011年从储蓄机构管理局接管了对相互银行的监管职责。管辖这些银行的规则最初确立于1993年。这些规则一直未予更新，随着时间推移被证明过于繁琐和复杂。负责监管事务的副主席米歇尔·W·鲍曼表示，今天的提案是我们致力于实现银行监管框架现代化工作中的又一个重要步骤，这是30年来首次更新相互银行法规。这一模式的持续成功有助于美国银行系统的机构多样性，这是我们金融系统最大的优势之一。该提案将允许相互银行继续发展，并更有效地服务全国各地社区，同时保持其独特的储户所有权结构。具体而言，该提案将实现框架现代化，并提高某些相互银行筹集资本的灵活性。更明确地说，它将澄清哪些工具计入监管资本，并减少程序负担，同时进行其他全面的更新。有关该提案的意见须在联邦公报发布后60天内提交。",
-      "article_explanation": "这是一条Federal Reserve官方宏观数据/政策原文，核心是在更新银行监管和金融稳定事项。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
-      "summary": "这是一条Federal Reserve官方宏观数据/政策原文，核心是在更新银行监管和金融稳定事项。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
-      "source": "Federal Reserve Press Releases",
-      "publisher": "美联储（Federal Reserve）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-07-31T14:00:00+00:00",
-      "pick_score": 59,
-      "event_type": "macro",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
-      ],
-      "source_profile": {
-        "key": "federal-reserve",
-        "label": "Federal Reserve",
-        "authority": "Board of Governors of the Federal Reserve System",
-        "source_type": "货币政策与监管公告",
-        "evidence_role": "货币政策与监管公告：确认利率路径、资产负债表、监管和金融稳定相关事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
     },
     {
       "id": "22a3f4556950746f80f3",
@@ -654,6 +582,78 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "2287e6a9e03dbd146f63",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "translation_label": "原文全文翻译",
+      "translation": "来源：联邦储备系统新闻稿 标题：美联储理事会就一项旨在使其规范银行“内部人士”（即可能对银行贷款决策产生影响的高管、董事会成员和主要股东）授信规则实现现代化的提案征求意见 正文： 美联储理事会就一项旨在使其规范银行“内部人士”（即可能对银行贷款决策产生影响的高管、董事会成员和主要股东）授信规则实现现代化的提案征求意见。美联储理事会就一项旨在使其规范银行“内部人士”（即可能对银行贷款决策产生影响的高管、董事会成员和主要股东）授信规则实现现代化的提案征求意见。",
+      "article_explanation": "这是一条Federal Reserve官方宏观数据/政策原文，核心是在更新货币政策、监管或金融稳定信息。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
+      "summary": "这是一条Federal Reserve官方宏观数据/政策原文，核心是在更新货币政策、监管或金融稳定信息。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+      "source": "Federal Reserve Press Releases",
+      "publisher": "美联储（Federal Reserve）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-07-31T14:00:00+00:00",
+      "pick_score": 58,
+      "event_type": "macro",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好"
+      ],
+      "source_profile": {
+        "key": "federal-reserve",
+        "label": "Federal Reserve",
+        "authority": "Board of Governors of the Federal Reserve System",
+        "source_type": "货币政策与监管公告",
+        "evidence_role": "货币政策与监管公告：确认利率路径、资产负债表、监管和金融稳定相关事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
+    },
+    {
+      "id": "574e8818f1295661ad71",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "translation_label": "原文全文翻译",
+      "translation": "联邦储备委员会就一项旨在实现相互银行组织规则现代化的提案征求意见。美联储理事会于周五就一项旨在实现相互银行组织规则现代化的提案征求意见。这些机构由储户而非股东所有，其中90%以上的机构总资产少于30亿美元。理事会于2011年从储蓄机构管理局接管了对相互银行的监管职责。管辖这些银行的规则最初确立于1993年。这些规则一直未予更新，随着时间推移被证明过于繁琐和复杂。负责监管事务的副主席米歇尔·W·鲍曼表示，今天的提案是我们致力于实现银行监管框架现代化工作中的又一个重要步骤，这是30年来首次更新相互银行法规。这一模式的持续成功有助于美国银行系统的机构多样性，这是我们金融系统最大的优势之一。该提案将允许相互银行继续发展，并更有效地服务全国各地社区，同时保持其独特的储户所有权结构。具体而言，该提案将实现框架现代化，并提高某些相互银行筹集资本的灵活性。更明确地说，它将澄清哪些工具计入监管资本，并减少程序负担，同时进行其他全面的更新。有关该提案的意见须在联邦公报发布后60天内提交。",
+      "article_explanation": "这是一条Federal Reserve官方宏观数据/政策原文，核心是在更新银行监管和金融稳定事项。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
+      "summary": "这是一条Federal Reserve官方宏观数据/政策原文，核心是在更新银行监管和金融稳定事项。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+      "source": "Federal Reserve Press Releases",
+      "publisher": "美联储（Federal Reserve）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-07-31T14:00:00+00:00",
+      "pick_score": 58,
+      "event_type": "macro",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好"
+      ],
+      "source_profile": {
+        "key": "federal-reserve",
+        "label": "Federal Reserve",
+        "authority": "Board of Governors of the Federal Reserve System",
+        "source_type": "货币政策与监管公告",
+        "evidence_role": "货币政策与监管公告：确认利率路径、资产负债表、监管和金融稳定相关事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
         "fetch_status": "live"
       },
       "in_event_ledger": false
@@ -727,42 +727,6 @@
       "in_event_ledger": true
     },
     {
-      "id": "5096658438e9d8d377cd",
-      "title": "Personal Income and Outlays, June 2026",
-      "translation_label": "原文全文翻译",
-      "translation": "个人收入与支出，2026年6月 根据美国经济分析局（BEA）今天发布的估计数据，2026年6月个人收入增加549亿美元（按月率计算为0.2%）。个人可支配收入（DPI）——即个人收入减去个人经常税收——增加483亿美元（0.2%），个人消费支出（PCE）增加652亿美元（0.3%）。6月个人支出（包括个人消费支出、个人利息支付和个人经常转移支付的总和）增加700亿美元。6月个人储蓄为6461亿美元，个人储蓄率（即个人储蓄占个人可支配收入的百分比）为2.7%。 全文",
-      "article_explanation": "这是一条BEA官方宏观数据/政策原文，核心是在更新PCE通胀和消费者支出。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
-      "summary": "这是一条BEA官方宏观数据/政策原文，核心是在更新PCE通胀和消费者支出。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
-      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-june-2026",
-      "source": "BEA News Releases",
-      "publisher": "美国经济分析局（BEA）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-07-30T12:30:00+00:00",
-      "pick_score": 57,
-      "event_type": "macro",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
-      ],
-      "source_profile": {
-        "key": "bea",
-        "label": "BEA",
-        "authority": "U.S. Bureau of Economic Analysis",
-        "source_type": "GDP、PCE、收入和国际投资数据",
-        "evidence_role": "GDP、PCE、收入和国际投资数据：确认增长、通胀和企业利润口径的官方数据。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "https://apps.bea.gov/rss/rss.xml",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "1b40d1b7a8c23fad6ebf",
       "title": "China's crude oil imports fell in the second quarter",
       "translation_label": "原文全文翻译",
@@ -799,6 +763,42 @@
       "in_event_ledger": true
     },
     {
+      "id": "5096658438e9d8d377cd",
+      "title": "Personal Income and Outlays, June 2026",
+      "translation_label": "原文全文翻译",
+      "translation": "个人收入与支出，2026年6月 根据美国经济分析局（BEA）今天发布的估计数据，2026年6月个人收入增加549亿美元（按月率计算为0.2%）。个人可支配收入（DPI）——即个人收入减去个人经常税收——增加483亿美元（0.2%），个人消费支出（PCE）增加652亿美元（0.3%）。6月个人支出（包括个人消费支出、个人利息支付和个人经常转移支付的总和）增加700亿美元。6月个人储蓄为6461亿美元，个人储蓄率（即个人储蓄占个人可支配收入的百分比）为2.7%。 全文",
+      "article_explanation": "这是一条BEA官方宏观数据/政策原文，核心是在更新PCE通胀和消费者支出。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
+      "summary": "这是一条BEA官方宏观数据/政策原文，核心是在更新PCE通胀和消费者支出。它的价值是确认官方口径、发布时间和可核验数字；当前不直接给出个股方向，需要结合预期差、利率和美元走势继续验证。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-june-2026",
+      "source": "BEA News Releases",
+      "publisher": "美国经济分析局（BEA）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-07-30T12:30:00+00:00",
+      "pick_score": 56,
+      "event_type": "macro",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好"
+      ],
+      "source_profile": {
+        "key": "bea",
+        "label": "BEA",
+        "authority": "U.S. Bureau of Economic Analysis",
+        "source_type": "GDP、PCE、收入和国际投资数据",
+        "evidence_role": "GDP、PCE、收入和国际投资数据：确认增长、通胀和企业利润口径的官方数据。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "https://apps.bea.gov/rss/rss.xml",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "e0f40bc55d75167f0048",
       "title": "Federal Reserve issues FOMC statement",
       "translation_label": "原文全文翻译",
@@ -812,7 +812,7 @@
       "publisher": "美联储（Federal Reserve）",
       "publisher_type": "官方机构",
       "published_at": "2026-07-29T18:00:00+00:00",
-      "pick_score": 56,
+      "pick_score": 55,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -1232,7 +1232,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-01T01:13:39+00:00",
+      "latest_published_at": "2026-08-01T02:30:00+00:00",
       "warning": null
     },
     {
@@ -1241,7 +1241,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-07-31T22:23:27+00:00",
+      "latest_published_at": "2026-08-01T05:02:41+00:00",
       "warning": null
     },
     {
