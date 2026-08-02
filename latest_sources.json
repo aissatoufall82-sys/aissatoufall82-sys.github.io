@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T20:10:03.830126+00:00",
-  "generated_at_local": "2026-08-03 04:10:03 北京时间",
-  "next_update_at_local": "2026-08-03 07:10:00 北京时间",
+  "generated_at": "2026-08-02T23:10:24.394381+00:00",
+  "generated_at_local": "2026-08-03 07:10:24 北京时间",
+  "next_update_at_local": "2026-08-03 10:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "01:10",
@@ -19,8 +19,8 @@
     "tier1"
   ],
   "total_items": 74,
-  "total_official_items": 10,
-  "media_items": 64,
+  "total_official_items": 8,
+  "media_items": 66,
   "items": [
     {
       "id": "2cd40ae11e30a4db49b5",
@@ -139,6 +139,44 @@
       "in_event_ledger": false
     },
     {
+      "id": "78f8f46c17c701ab73b2",
+      "title": "Latest Oil Market News and Analysis for Aug. 3",
+      "translation_label": "原文中文译读",
+      "translation": "8月3日最新石油市场新闻与分析。在美国总统Donald Trump取消对伊斯兰共和国原定军事打击计划、并宣布周一将与伊朗开启新一轮谈判后，油价随之下跌。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：若冲突降温或运输恢复，原油的战争溢价会先回落，随后减轻通胀和利率压力。 可能受益：航空、运输、化工、消费和高估值成长股；燃料成本下降也有利于整体风险偏好。 可能承压：上游石油股、黄金和部分国防资产，尤其是此前涨幅主要来自战争溢价的标的。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。只有油价与波动率同步回落，才算风险真正缓和。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/latest-oil-market-news-and-analysis-for-aug-3",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-02T22:02:28+00:00",
+      "pick_score": 74,
+      "event_type": "geopolitical",
+      "severity": "major",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "b8e3d5b31da51fdfbcde",
       "title": "Why flights are so expensive and will likely stay that way",
       "translation_label": "原文中文译读",
@@ -152,7 +190,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T12:00:01+00:00",
-      "pick_score": 74,
+      "pick_score": 73,
       "event_type": "geopolitical",
       "severity": "major",
       "impact_axes": [
@@ -192,44 +230,6 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T10:18:35+00:00",
-      "pick_score": 73,
-      "event_type": "geopolitical",
-      "severity": "major",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "5e43365c414b6725cbb7",
-      "title": "Trump Says US to Hold Off Iran Attack If Deal Agreed",
-      "translation_label": "原文中文译读",
-      "translation": "特朗普表示若达成协议美国将暂缓对伊朗发动打击。美国总统唐纳德·特朗普表示，在伊朗伊斯兰共和国及其他中东国家告知他各方正致力于达成一项协议后，美国将暂缓对伊朗实施新的打击。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：若冲突降温或运输恢复，原油的战争溢价会先回落，随后减轻通胀和利率压力。 可能受益：航空、运输、化工、消费和高估值成长股；燃料成本下降也有利于整体风险偏好。 可能承压：上游石油股、黄金和部分国防资产，尤其是此前涨幅主要来自战争溢价的标的。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。只有油价与波动率同步回落，才算风险真正缓和。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-02T02:19:38+00:00",
       "pick_score": 73,
       "event_type": "geopolitical",
       "severity": "major",
@@ -342,7 +342,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T12:01:00+00:00",
-      "pick_score": 61,
+      "pick_score": 60,
       "event_type": "energy",
       "severity": "moderate",
       "impact_axes": [
@@ -401,76 +401,6 @@
         "fetch_status": "live"
       },
       "in_event_ledger": true
-    },
-    {
-      "id": "22a3f4556950746f80f3",
-      "title": "AAPL SEC 8-K: 8-K",
-      "translation_label": "原文全文翻译",
-      "translation": "AAPL SEC 8-K: 8-K。Apple Inc. (AAPL) 提交了 SEC Form 8-K。呈报日期：2026-07-30。8-K 项目 2.02：运营结果与财务状况。2026年7月30日，Apple Inc.（以下简称“苹果”）发布了一份关于苹果截至2026年6月27日的第三财季财务业绩的新闻稿。苹果新闻稿的副本作为附件 99.1 附于本报告后。本现行报告中所包含的信息不得被视为根据经修订的《1934年证券交易法》（以下简称“交易法”）第 18 条之目的而“提交”，亦不得以引用方式纳入《1933年证券法》项下的任何呈报中。报告日期：2026-07-30。8-K 项目：2.02, 9.01。描述：8-K。案卷号：0000320193-26-000018。",
-      "article_explanation": "AAPL提交8-K，事项编号为2.02,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
-      "summary": "AAPL提交8-K，事项编号为2.02,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
-      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给，但仍需要市场价格或下一份官方数据确认。",
-      "impact_interpretation": "先发生什么：8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：事项编号和正文；2.02常对应业绩，5.02常对应管理层，8.01为其他事项。",
-      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
-      "source": "SEC EDGAR Submissions",
-      "publisher": "美国证券交易委员会（SEC）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-07-30T21:00:00+00:00",
-      "pick_score": 56,
-      "event_type": "corporate",
-      "severity": "moderate",
-      "impact_axes": [
-        "公司基本面/股本供给"
-      ],
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
-      "id": "53133c84548205af71b9",
-      "title": "LITE SEC 8-K: 8-K",
-      "translation_label": "原文全文翻译",
-      "translation": "LITE SEC 8-K：8-K。Lumentum Holdings Inc. (LITE) 提交了 SEC 表格 8-K。提交日期：2026-07-30。8-K 项目 5.02：董事或某些高级管理人员的离职；董事的选举；某些高级管理人员的任命；某些高级管理人员的薪酬安排。2026年7月27日，Lumentum Holdings Inc.（以下简称“公司”）全球可靠性与质量执行副总裁 Vincent Retort 向公司通报了他计划从公司退休的决定，将于2026年10月生效。Retort 先生已同意在退休后为公司提供为期两年的咨询服务（以下简称“咨询期”）。作为回报。报告日期：2026-07-27。8-K 项目：5.02。描述：8-K。归档编号：0001628280-26-051078。",
-      "article_explanation": "LITE提交8-K，事项编号为5.02.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
-      "summary": "LITE提交8-K，事项编号为5.02.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
-      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给、AI硬件/数据中心产业链，但仍需要市场价格或下一份官方数据确认。",
-      "impact_interpretation": "先发生什么：8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：事项编号和正文；2.02常对应业绩，5.02常对应管理层，8.01为其他事项。",
-      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026051078/lite-20260727.htm",
-      "source": "SEC EDGAR Submissions",
-      "publisher": "美国证券交易委员会（SEC）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-07-30T21:00:00+00:00",
-      "pick_score": 56,
-      "event_type": "corporate",
-      "severity": "moderate",
-      "impact_axes": [
-        "公司基本面/股本供给",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
     },
     {
       "id": "2287e6a9e03dbd146f63",
@@ -594,7 +524,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T16:20:06+00:00",
-      "pick_score": 54,
+      "pick_score": 53,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -622,7 +552,7 @@
       "id": "4b56194cc50a283347f8",
       "title": "Why people are dropping out of the workforce and not looking for new jobs: 'The market wore me down'",
       "translation_label": "原文中文译读",
-      "translation": "在经历了长达数月的求职无果后，40岁的北卡罗来纳州居民丹·科达最终选择放弃寻找技术项目或项目管理工作，彻底停止了求职。自2025年12月被裁以来，他花费了300多小时提交数十份申请、经历多轮面试，但最终被市场消磨殆尽。根据求职机构Challenger, Gray & Christmas的数据，今年1月的公开裁员人数达到了2009年大衰退以来的最高水平，海量失业工人涌入市场使得竞争异常惨烈。经济学家指出，像科达这样暂时或彻底放弃寻找工作的求职者反映了一个令人担忧的趋势：自千禧年以来，受人口老龄化和年轻劳动力减少的影响，劳动参与率一直呈下降趋势。圣路易斯联储的数据显示，今年6月，25岁至54岁核心年龄段的劳动参与率经历了除新冠疫情外自1976年6月以来单月最大降幅，5月至6月期间约有72万人生产或停止寻找工作。海军联邦信用联盟首席经济学家海瑟·朗指出，离职人群涵盖男女，且多数年龄在25岁至34岁之间。同时，长期失业率依然处于高位，美国劳工统计局数据显示，6月有超过190万美国人（约占失业人口的四分之一）失业超过六个月仍在寻找工作。持续处于低招聘、低解雇的低迷市场使求职更加困难，并将更多人推离劳动力市场。虽然初始数据可能在未来几个月被向下修正，但劳动参与率的下降凸显出美国劳动力经济失衡且缺乏解决方案。经济学家表示，促使人们退出劳动力市场的因素包括退休潮、移民减少、年轻母亲及残疾人在远程或灵活工作岗位上面临更激烈竞争等。此外，心理健康压力也是重要原因。Resume Genius今年4月对1000名美国活跃求职者的调查显示，约有一半的求职者表示由于拒绝、缺乏回应、财务压力和动力减退，求职过程对其心理健康产生了负面影响，而雇主对简历空白期的质疑也增加了求职难度。",
+      "translation": "为什么人们会退出劳动力市场并不再寻找新工作：市场让我筋疲力尽。专家指出，沉迷于暗自投简历的求职焦虑会伤害求职并加剧焦虑：原因何在以及如何避免。国际学生的美国就业壁垒增加：美国梦正在崩塌。34岁女性在创业的同时参加幸存者真人秀节目：这真正是一次重置。领导力：哈佛专家指出雄心勃勃的人经常犯这个职业错误。他们正在过着新的美国梦，且开销不到每年10万美元。经过六个月的浏览招聘信息和投递简历，Dan Coda的求职之路走到了终点。他没有找到想要的科技项目或项目管理工作，而是彻底停止了寻找工作。来自北卡罗来纳州达勒姆的40岁居民Coda表示，大约从2025年12月上一份工作被裁开始，他花在求职上的时间超过300小时，投递了数十份申请，收到了大约15个潜在职位的回复，并经历了多轮面试却毫无结果。Coda说，到了6月，他对寻找工作的劳累感到厌倦了。这位40岁的男子告诉CNBC Make It，市场把他折磨得筋疲力尽，他不断撞墙，却毫无进展。根据全球转职公司Challenger, Gray & Christmas的数据，今年1月公布的裁员人数达到了2009年大衰退以来未曾见过的水平。Coda说候选人池已经彻底泛滥，大规模裁员将成千上万像他这样受影响的工人一下子推入了就业市场。他表示在这种竞争下根本没有胜算。像Coda这样灰心丧气的求职者暂时放弃了寻找工作，经济学家称这一趋势令人担忧：自千禧年以来，在人口老龄化和较少年轻人进入劳动力市场的推动下，劳动力参与率一直呈下降趋势。据圣路易斯联储数据，除去新冠疫情时期，6月份是25岁至54岁核心年龄段劳动力参与率自1976年6月以来单月降幅最大的月份。海军联邦信用联盟专门研究中产阶级经济学的首席经济学家Heather Long表示，5月至6月期间，大约有72万人生产或停止寻找工作，离开劳动力市场的人男女皆有，且多数年龄在25岁至34岁之间。与此同时，长期失业率仍处于高位。美国劳工统计局数据显示，6月份有超过190万美国人失业但仍在寻找工作超过六个月，约占失业总人数的四分之一。持续的低招聘、低裁员的就业市场可能会使寻找工作变得更具挑战性，并将更多人彻底推离劳动力市场。Long表示，关于多少人正在退出劳动力市场的官方数据可能会在未来几个月向下修正，她指出单月激增表明最初的数据采集存在一定偏差。尽管如此，劳动参与率的下降仍然加剧了美国劳动力经济失衡且短期内难见解决办法的局面。将人们推出劳动力市场的因素不仅影响工人支付日常必需品的能力，还会阻碍职业发展并影响长期退休储蓄。心理健康压力正在将一些人推出求职行列：我没有精力。经济学家表示，多重叠加因素可能正在拉低劳动力参与率，例如退休人员的大批离开以及进入美国的移民减少。Long表示，一些在职父母，尤其是带幼儿的母亲，以及残疾人在面对如今更加难找的远程或灵活工作机会的激烈竞争时，可能会屡屡受挫。心理健康也可能发挥了作用。Coda说他在6月与妻子交谈后停止了求职，因为妻子注意到这种疲惫的过程让他的情绪变差了。罗格斯大学赫尔德里奇劳动力发展中心主任Carl Van Horn 6月接受CNBC采访时表示，除了家人或密友离世外，失业是人们面临的最具毁灭性的事情之一。根据Resume Genius 4月份对1000名美国活跃求职者的调查，大约一半的求职者表示，由于拒绝、缺乏回应、经济压力和动力减弱，求职对他们的心理健康产生了负面影响。与此同时，雇主也倾向于质疑简历空白期，这可能会使候选人求职时间越长越难找到工作。Coda说，在求职期间虽然令人沮丧，但由于他的家庭一直在积极储蓄，他的心理健康受到的温和回应的影响较小。他和仍在人力资源部门全职工作的妻子一直在努力工作",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
@@ -632,7 +562,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T14:30:01+00:00",
-      "pick_score": 54,
+      "pick_score": 53,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -668,7 +598,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T14:00:00+00:00",
-      "pick_score": 54,
+      "pick_score": 53,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -763,42 +693,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "4965837af12042b63c83",
-      "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-      "translation_label": "原文中文译读",
-      "translation": "印度的一次考试泄题事件暴露出了一场更深层次的Z世代就业危机。虽然关键考试试卷的泄露是近期印度学生抗议活动的导火索，但不断上升的失业率才是真正激怒该国Z世代的根源所在。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
-      "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-02T05:18:21+00:00",
-      "pick_score": 53,
-      "event_type": "macro",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "1b40d1b7a8c23fad6ebf",
       "title": "China's crude oil imports fell in the second quarter",
       "translation_label": "原文全文翻译",
@@ -835,6 +729,118 @@
       "in_event_ledger": true
     },
     {
+      "id": "4965837af12042b63c83",
+      "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
+      "translation_label": "原文中文译读",
+      "translation": "印度的一次考试泄题事件暴露出了一场更深层次的Z世代就业危机。虽然关键考试试卷的泄露是近期印度学生抗议活动的导火索，但不断上升的失业率才是真正激怒该国Z世代的根源所在。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
+      "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-02T05:18:21+00:00",
+      "pick_score": 52,
+      "event_type": "macro",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "f95e42304fa644487a8a",
+      "title": "Oil Slumps, US Futures Rise on Iran Talks Optimism: Markets Wrap",
+      "translation_label": "原文中文译读",
+      "translation": "油价暴跌、美股期货因伊核谈判乐观情绪而上涨：市场综述。在美国总统Donald Trump表示美伊将开启新一轮谈判、从而提振外界对双方可能达成协议以重新开放霍尔木兹海峡的乐观情绪后，原油价格下跌，美国股票期货上涨，美元走软。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-02T22:09:16+00:00",
+      "pick_score": 52,
+      "event_type": "energy",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "9053f991a7015209b0e1",
+      "title": "AI Is Turning Retail Traders Into DIY Hedge Funds",
+      "translation_label": "原文中文译读",
+      "translation": "人工智能正将散户交易员变成DIY对冲基金。全新强大工具的推出正在激励一代日内交易员，他们试图破解华尔街的秘密代码并打造自动化赚钱机器。彭博社的Zijia Song对此进行了阐述。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds",
+      "source": "Bloomberg Technology",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-02T21:00:06+00:00",
+      "pick_score": 51,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "7b20f3b9292cd8df2d33",
       "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
       "translation_label": "原文中文译读",
@@ -848,7 +854,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T18:23:03+00:00",
-      "pick_score": 51,
+      "pick_score": 50,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -886,7 +892,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T16:53:14+00:00",
-      "pick_score": 51,
+      "pick_score": 50,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -1238,7 +1244,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-02T18:58:48+00:00",
+      "latest_published_at": "2026-08-02T22:55:34+00:00",
       "warning": null
     },
     {
@@ -1246,8 +1252,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 5,
-      "latest_published_at": "2026-08-02T16:53:14+00:00",
+      "recent_items": 7,
+      "latest_published_at": "2026-08-02T21:00:06+00:00",
       "warning": null
     },
     {
@@ -1265,7 +1271,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-02T20:09:45+00:00",
+      "latest_published_at": "2026-08-02T22:17:47+00:00",
       "warning": null
     },
     {
@@ -1273,7 +1279,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
+      "recent_items": 1,
       "latest_published_at": "2026-07-31T21:00:00+00:00",
       "warning": null
     }

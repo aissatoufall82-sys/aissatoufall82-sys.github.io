@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:10:03.830126+00:00",
+  "generated_at": "2026-08-02T23:10:24.394381+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,14 +21,14 @@
   "environment": null,
   "events": [
     {
-      "event_id": "f1fdd41eef026f910d49",
-      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
-      "summary": "UK pharmaceutical company AstraZeneca is considering a deal to merge with its U.S. competitor Bristol Myers Squibb, according to a report by the Financial Times. The megadeal would be one of the largest in history, creating a combined company valued at $400 billion. U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. competitor Bristol Myers Squibb , in a deal that would value the joint company at roughly $400 billion, the Financial Times reported on Sunday. It's still unclear whether the deal will come together, but the companies have been discussing a merger over the last few months, sources told the FT. The merger would be one of the largest in history. AstraZeneca and Bristol Myers Squibb did not immediately respond to a CNBC request for comment. Read the complete Financial Times story here. This is a developing story. Please check back for updates.",
-      "source": "CNBC Markets",
+      "event_id": "445e1de2bb0284f13bfb",
+      "title": "Japan's Finance Chief Speaks on Joint Yen Action With US",
+      "summary": "",
+      "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
-      "published_at": "2026-08-02T20:09:45+00:00",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-08-02/japan-s-katayama-speaks-on-joint-yen-action",
+      "published_at": "2026-08-02T22:55:34+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -45,7 +45,443 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 1.0,
+      "recency_weight": 0.995,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7e1cc89c8b3e3fe32495",
+      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "summary": "UK pharmaceutical company AstraZeneca is considering a deal to merge with its U.S. competitor Bristol Myers Squibb, according to a report by the Financial Times. The megadeal would be one of the largest in history, creating a combined company valued at $400 billion. U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. competitor Bristol Myers Squibb , in a deal that would value the joint company at roughly $400 billion, the Financial Times reported on Sunday. It's still unclear whether the deal will come together, but the companies have been discussing a merger over the last few months, sources told the FT. The merger would be one of the largest in history. AstraZeneca and Bristol Myers Squibb did not immediately respond to a CNBC request for comment. Last year, AstraZeneca unveiled plans for a direct U.S. listing , ⁠aiming to capitalize on stronger valuations in the U.S. market ‌while remaining listed in London. The company's ‌share price has more than quadrupled during Pascal Soriot's 14-year tenure as CEO, soaring above the wider FTSE 100 ⁠index and main British rival GSK . AstraZeneca's second-quarter results, posted last ⁠week, showed strong demand for cancer and ⁠rare disease drugs continues to drive growth. Cancer treatments accounted for about $25 billion in ​2025 sales, nearly half of ‌the total, followed by cardiovascular, renal and metabolism treatments worth about $12 billion. The report of the potential deal comes about 12 years after AstraZeneca fended off a takeover ​bid from larger U.S. rival ‌ Pfizer . Read the complete Financial Times story here. — Reuters contributed to this report. WATCH: AstraZeneca CFO: Very confident we will hit $80 billion revenue target",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+      "published_at": "2026-08-02T22:17:47+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f95e42304fa644487a8a",
+      "title": "Oil Slumps, US Futures Rise on Iran Talks Optimism: Markets Wrap",
+      "summary": "Oil dropped, US equity futures rose and the dollar slipped after President Donald Trump said fresh US-Iran talks would begin Monday, boosting optimism the two sides could reach a deal to reopen the Strait of Hormuz.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
+      "published_at": "2026-08-02T22:09:16+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.981,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "78f8f46c17c701ab73b2",
+      "title": "Latest Oil Market News and Analysis for Aug. 3",
+      "summary": "Oil fell after US President Donald Trump said new talks with Iran would begin on Monday after he called off a planned attack on the Islamic Republic.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/latest-oil-market-news-and-analysis-for-aug-3",
+      "published_at": "2026-08-02T22:02:28+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 12.88,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d0cbe866c0b028414f2e",
+      "title": "Trump Says Yen Intervention Is Signal of Japan Friendship",
+      "summary": "President Donald Trump said the US joined a currency-market intervention that lifted the yen last week as a sign of friendship with Japan, saying that he expects Washington to reap a financial benefit from helping the ally.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-yen-intervention-is-signal-of-friendship-with-japan",
+      "published_at": "2026-08-02T22:01:33+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5c1ddf8b442b823d94e1",
+      "title": "Trump Says US Intervention in Yen Was ‘A Signal of Friendship’",
+      "summary": "“It was a signal of friendship,” President Donald Trump says after being asked why the US intervened to support the Japanese yen.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-intervention-in-yen-was-a-signal-of-friendship",
+      "published_at": "2026-08-02T21:53:50+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.976,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "0038dbceb5583737638f",
+      "title": "Rates, Housing Slump Threaten Australia’s Upbeat Profit Outlook",
+      "summary": "Australia’s resilient earnings outlook may hit a snag in the August results season as the country’s biggest companies reveal how they’re navigating a fragile economy.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/rates-housing-slump-threaten-australia-s-upbeat-profit-outlook",
+      "published_at": "2026-08-02T21:38:04+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.971,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9053f991a7015209b0e1",
+      "title": "AI Is Turning Retail Traders Into DIY Hedge Funds",
+      "summary": "The rollout of powerful new tools is inspiring a generation of day traders who are trying to crack Wall Street’s secret code and create automated money machines. Bloomberg's Zijia Song explains. (Source: Bloomberg)",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds",
+      "published_at": "2026-08-02T21:00:06+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2991fc31687355f996c3",
+      "title": "Netflix Looks to Add ‘Hot Ones’ to Its Growing Stable of YouTube Hits",
+      "summary": "Netflix has run into a small hurdle in its pursuit of top YouTube creators",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-02/netflix-looks-to-add-hot-ones-to-its-growing-stable-of-youtube-hits",
+      "published_at": "2026-08-02T21:00:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "0cb57cdf9b615ffe7b46",
+      "title": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
+      "summary": "In his Sunday column, Jim Cramer explains why Amazon is his favorite hyperscaler after second-quarter earnings season.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
+      "published_at": "2026-08-02T20:27:44+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.949,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a02e92d98376b08d2226",
+      "title": "AstraZeneca Is Said to Have Explored Bristol Myers Merger",
+      "summary": "AstraZeneca Plc has explored an acquisition of Bristol Myers Squibb Co., a megadeal that would create one of the world’s largest drugmakers, according to people familiar with the matter.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
+      "published_at": "2026-08-02T20:13:51+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -89,7 +525,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.982,
+      "recency_weight": 0.927,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -130,7 +566,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.977,
+      "recency_weight": 0.922,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -175,7 +611,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.966,
+      "recency_weight": 0.912,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -217,7 +653,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -262,7 +698,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.939,
+      "recency_weight": 0.886,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -310,7 +746,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.939,
+      "recency_weight": 0.886,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -359,7 +795,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.929,
+      "recency_weight": 0.877,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -401,7 +837,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.928,
+      "recency_weight": 0.876,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -442,7 +878,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -483,7 +919,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -525,50 +961,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.921,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b1ecbd1a0bdd30d5f689",
-      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
-      "summary": "Four more Club holdings report earnings. Plus, it's a loaded week of jobs data.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/02/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "published_at": "2026-08-02T15:36:01+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.916,
+      "recency_weight": 0.869,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -610,7 +1003,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.914,
+      "recency_weight": 0.862,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -651,7 +1044,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.912,
+      "recency_weight": 0.861,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -692,7 +1085,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.911,
+      "recency_weight": 0.86,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -738,7 +1131,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.906,
+      "recency_weight": 0.855,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -784,7 +1177,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.898,
+      "recency_weight": 0.847,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -804,7 +1197,7 @@
     {
       "event_id": "4b56194cc50a283347f8",
       "title": "Why people are dropping out of the workforce and not looking for new jobs: 'The market wore me down'",
-      "summary": "Work 'Doomjobbing’ can hurt your job search and worsen anxiety, experts say: Why it happens and how to avoid it Work Barriers to U.S. jobs grow for international students: The 'American dream ... is collapsing' The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year Work 34-year-old competed on 'Survivor' while building her business: It 'truly was a reset' How I Made It This father-daughter duo brought in $428,000 last year making 3D-printed fidget toys: 'It's not just for kids' After six months of scouring job listings and sending off resumes, Dan Coda's job search came to an end. He didn't find the technical program or project management job he wanted; he just stopped looking altogether. Starting around December 2025, when he was laid off from his previous role, Coda says he spent more than 300 hours job hunting, submitting dozens of applications, hearing back about 15 potential roles and going through multiple rounds of interviews to no avail. By June, Coda says he was done with the grueling effort of looking for work. \"The market wore me down,\" the 40-year-old from Durham, North Carolina, tells CNBC Make It. \"I was hitting wall after wall after wall and not getting anywhere.\" This year, the number of announced layoffs in January reached a level not seen since 2009, during the Great Recession, according to data from global outplacement firm Challenger, Gray & Christmas. \"The candidate pool is absolutely flooded,\" Coda says, citing mass layoffs pushing thousands of affected workers like himself into the job market at once. With that kind of competition, he says, \"What chance do you stand?\" Discouraged job seekers like Coda, who have given up on finding work, at least for now, are part of a trend economists say is worrying: The labor force participation rate has been on a downward trajectory since the turn of the millennium, fueled by an aging population and fewer young people entering the workforce. June saw the biggest one-month drop in prime age labor force participation of workers ages 25 to 54, excluding the Covid-19 pandemic, since June 1976. Roughly 720,000 people stopped working or looking for work between May and June, according to the St. Louis Fed. Those leaving the workforce are both men and women, and the majority are ages 25 to 34, says Heather Long, chief economist at Navy Federal Credit Union who specializes in the economics of the middle class. Meanwhile, elevated levels of long-term unemployment persist. In June, more than 1.9 million Americans, or roughly 1 in 4 unemployed people, were jobless but still looking for work for longer than six months , according to U.S. Bureau of Labor Statistics data. A continuous low-hire, low-fire job market could make it more challenging to find work and push more people out of the workforce altogether. Official numbers on how many people are dropping out of the workforce are likely to be revised downward in the coming months, Long says, noting that the one-month spike indicates \"something wasn't quite right\" in the initial data pull. But falling labor force participation nonetheless adds to a picture of an American labor economy seemingly out of balance with few solutions in sight. And the factors pushing people out of the labor force have implications beyond workers paying for everyday essentials, including stunting career trajectories and impacting long-term retirement savings. Mental health stressors are pushing some people out of the job search: 'I didn't have energy' Economists say several compounding factors are likely driving down the labor force participation rate, like an exodus of retiring workers and lower immigration into the U.S. Some working parents, especially moms of young kids , and people with disabilities may be striking out as they face more competition for remote or flexible work opportunities that are harder to come by today, Long says. Mental wellbeing could also play a part. Coda says he stopped his job search in June after a conversation with his wife, who'd noticed how the tiresome process soured his mood. \"Other than the death of a family member or a close friend, [unemployment] is one of the most devastating things that people face,\" Carl Van Horn, director of the Heldrich Center for Workforce Development at Rutgers University, told CNBC in June. About half of job seekers say the search negatively impacts their mental health due to rejection, lack of responses, financial pressure and waning motivation, according to an April Resume Genius survey of 1,000 active U.S. job seekers. Meanwhile, employers also tend to question resume gaps , which can make it harder for candidates to find work the longer they're searching. Coda says his mental health during his job search, while dispiriting, was less affected by the tepid responses because his family had been saving aggressively. He and his wife, who still works full-time in HR, had been working toward an early retirement.",
+      "summary": "Work 'Doomjobbing’ can hurt your job search and worsen anxiety, experts say: Why it happens and how to avoid it Work Barriers to U.S. jobs grow for international students: The 'American dream ... is collapsing' Work 34-year-old competed on 'Survivor' while building her business: It 'truly was a reset' Leadership Harvard expert: Ambitious people often make this career mistake The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year After six months of scouring job listings and sending off resumes, Dan Coda's job search came to an end. He didn't find the technical program or project management job he wanted; he just stopped looking altogether. Starting around December 2025, when he was laid off from his previous role, Coda says he spent more than 300 hours job hunting, submitting dozens of applications, hearing back about 15 potential roles and going through multiple rounds of interviews to no avail. By June, Coda says he was done with the grueling effort of looking for work. \"The market wore me down,\" the 40-year-old from Durham, North Carolina, tells CNBC Make It. \"I was hitting wall after wall after wall and not getting anywhere.\" This year, the number of announced layoffs in January reached a level not seen since 2009, during the Great Recession, according to data from global outplacement firm Challenger, Gray & Christmas. \"The candidate pool is absolutely flooded,\" Coda says, citing mass layoffs pushing thousands of affected workers like himself into the job market at once. With that kind of competition, he says, \"What chance do you stand?\" Discouraged job seekers like Coda, who have given up on finding work, at least for now, are part of a trend economists say is worrying: The labor force participation rate has been on a downward trajectory since the turn of the millennium, fueled by an aging population and fewer young people entering the workforce. June saw the biggest one-month drop in prime age labor force participation of workers ages 25 to 54, excluding the Covid-19 pandemic, since June 1976. Roughly 720,000 people stopped working or looking for work between May and June, according to the St. Louis Fed. Those leaving the workforce are both men and women, and the majority are ages 25 to 34, says Heather Long, chief economist at Navy Federal Credit Union who specializes in the economics of the middle class. Meanwhile, elevated levels of long-term unemployment persist. In June, more than 1.9 million Americans, or roughly 1 in 4 unemployed people, were jobless but still looking for work for longer than six months , according to U.S. Bureau of Labor Statistics data. A continuous low-hire, low-fire job market could make it more challenging to find work and push more people out of the workforce altogether. Official numbers on how many people are dropping out of the workforce are likely to be revised downward in the coming months, Long says, noting that the one-month spike indicates \"something wasn't quite right\" in the initial data pull. But falling labor force participation nonetheless adds to a picture of an American labor economy seemingly out of balance with few solutions in sight. And the factors pushing people out of the labor force have implications beyond workers paying for everyday essentials, including stunting career trajectories and impacting long-term retirement savings. Mental health stressors are pushing some people out of the job search: 'I didn't have energy' Economists say several compounding factors are likely driving down the labor force participation rate, like an exodus of retiring workers and lower immigration into the U.S. Some working parents, especially moms of young kids , and people with disabilities may be striking out as they face more competition for remote or flexible work opportunities that are harder to come by today, Long says. Mental wellbeing could also play a part. Coda says he stopped his job search in June after a conversation with his wife, who'd noticed how the tiresome process soured his mood. \"Other than the death of a family member or a close friend, [unemployment] is one of the most devastating things that people face,\" Carl Van Horn, director of the Heldrich Center for Workforce Development at Rutgers University, told CNBC in June. About half of job seekers say the search negatively impacts their mental health due to rejection, lack of responses, financial pressure and waning motivation, according to an April Resume Genius survey of 1,000 active U.S. job seekers. Meanwhile, employers also tend to question resume gaps , which can make it harder for candidates to find work the longer they're searching. Coda says his mental health during his job search, while dispiriting, was less affected by the tepid responses because his family had been saving aggressively. He and his wife, who still works full-time in HR, had been working toward an early retirement.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -829,7 +1222,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.897,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -870,7 +1263,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.889,
+      "recency_weight": 0.839,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -915,7 +1308,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -961,7 +1354,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1006,7 +1399,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.888,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1047,7 +1440,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1089,7 +1482,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1131,7 +1524,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.886,
+      "recency_weight": 0.836,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1176,7 +1569,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.88,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1221,7 +1614,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.88,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1262,7 +1655,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.88,
+      "recency_weight": 0.83,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1303,7 +1696,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.875,
+      "recency_weight": 0.826,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1350,7 +1743,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1397,7 +1790,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1439,7 +1832,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1484,7 +1877,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1502,57 +1895,9 @@
       }
     },
     {
-      "event_id": "80dbba566b35644c86d6",
-      "title": "SpaceX IPO Faces First Reality Check",
-      "summary": "Bloomberg Space Reporter Loren Grush says investors will use SpaceX's first public earnings report to gauge progress on Starship, Starlink, AI infrastructure and the company's long-term growth strategy following its blockbuster IPO. She says Starship's latest test marks meaningful progress, but major technical hurdles remain before the rocket can support rapid reuse and ambitious missions to the Moon and Mars. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-02/spacex-ipo-faces-first-reality-check-video",
-      "published_at": "2026-08-02T12:53:41+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.869,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4496ef250c277f21df63",
-      "title": "Yen Traders Brace for More Intervention With US at Japan’s Side",
-      "summary": "The yen edged higher in thin trading with markets on high alert for more joint intervention by Japan and the US on Monday after coordinated operations in Tokyo and New York last week triggered a dramatic rebound in the currency.",
+      "event_id": "2196a2e549fba8cd5fff",
+      "title": "Yen Traders Brace for More Intervention as Trump Backs Japan",
+      "summary": "The yen edged higher with markets on high alert for more joint intervention by Japan and the US on Monday after coordinated operations in Tokyo and New York last week triggered a dramatic rebound in the currency.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1574,130 +1919,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.868,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "739a09dd58b666105cee",
-      "title": "Ugly Month in Emerging Markets May Be a Taste of What’s Ahead",
-      "summary": "Investors’ hopes of a stellar year in emerging markets are being tested by a bruising July that may offer a taste of the headwinds ahead.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/ugly-month-in-emerging-markets-may-be-a-taste-of-what-s-ahead",
-      "published_at": "2026-08-02T12:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.863,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8374c548d43cab31fdc9",
-      "title": "Trump Pauses Iran Strikes as Talks Resume",
-      "summary": "Bloomberg's Jeff Mason and Dan Williams say President Donald Trump is pausing planned military action against Iran to allow negotiations over the Strait of Hormuz and Iran's nuclear program to continue, while warning the pause depends on reaching a deal quickly. They say Israel remains cautious, Gulf states are increasingly pursuing their own security strategies, and any agreement on shipping through Hormuz could reshape the regional balance of power even as broader conflicts in Gaza and Lebanon continue. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-02/trump-pauses-iran-strikes-as-talks-resume-video",
-      "published_at": "2026-08-02T12:20:11+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.86,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "89fa6640ae92568b834f",
-      "title": "This Surgical Robot Could Transform the Operating Room",
-      "summary": "After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot Ottava. Can it challenge the dominance of competitors who entered the race years earlier, or is the market already spoken for? (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-02/this-surgical-robot-could-transform-the-operating-room-video",
-      "published_at": "2026-08-02T12:04:12+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.856,
+      "recency_weight": 0.819,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1741,7 +1963,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.855,
+      "recency_weight": 0.807,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1789,7 +2011,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1836,7 +2058,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1881,7 +2103,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1923,7 +2145,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1935,47 +2157,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "27a2bfb825b62cce7e99",
-      "title": "Banks Offload Risk from Leveraged ETFs With Exotic ‘Crash Puts’",
-      "summary": "Leveraged ETFs that offer the tantalizing prospect of doubling or tripling the daily returns of an individual stock are famously risky for investors who buy them.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/banks-offload-risk-from-leveraged-etfs-with-exotic-crash-puts",
-      "published_at": "2026-08-02T11:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.838,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2010,7 +2191,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.827,
+      "recency_weight": 0.781,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2022,47 +2203,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4df12d6f395d98fb3c90",
-      "title": "Bomb Kills Three, Injures 21 at Restaurant on Moscow’s Kudrinskaya Square",
-      "summary": "Three people were killed and 21 injured after a bomb was detonated in an upscale restaurant in central Moscow on Saturday night, according to Russia’s National Anti-Terrorism Committee.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/bomb-kills-three-injures-21-at-restaurant-on-moscow-s-kudrinskaya-square",
-      "published_at": "2026-08-02T07:22:43+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.782,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2096,51 +2236,6 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.751,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5e43365c414b6725cbb7",
-      "title": "Trump Says US to Hold Off Iran Attack If Deal Agreed",
-      "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they’re working toward a deal.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal",
-      "published_at": "2026-08-02T02:19:38+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 12.88,
       "recency_weight": 0.709,
       "scored_for_probability": false,
       "source_profile": {
@@ -2151,8 +2246,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2183,7 +2277,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.699,
+      "recency_weight": 0.66,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2224,7 +2318,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.567,
+      "recency_weight": 0.535,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2265,7 +2359,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.563,
+      "recency_weight": 0.531,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2306,7 +2400,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.561,
+      "recency_weight": 0.53,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2347,7 +2441,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.554,
+      "recency_weight": 0.523,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2388,7 +2482,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.543,
+      "recency_weight": 0.513,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2429,7 +2523,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.538,
+      "recency_weight": 0.508,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2474,7 +2568,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.538,
+      "recency_weight": 0.508,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2516,7 +2610,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.412,
+      "recency_weight": 0.388,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2561,7 +2655,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.409,
+      "recency_weight": 0.386,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2601,7 +2695,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.404,
+      "recency_weight": 0.381,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2646,7 +2740,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.403,
+      "recency_weight": 0.381,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2690,7 +2784,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.398,
+      "recency_weight": 0.376,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2730,7 +2824,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.373,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2774,7 +2868,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.386,
+      "recency_weight": 0.365,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2818,7 +2912,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.372,
+      "recency_weight": 0.351,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2859,7 +2953,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.365,
+      "recency_weight": 0.344,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2900,7 +2994,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.354,
+      "recency_weight": 0.335,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -2943,7 +3037,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.352,
+      "recency_weight": 0.333,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -2986,7 +3080,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.352,
+      "recency_weight": 0.333,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3026,7 +3120,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.352,
+      "recency_weight": 0.333,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3073,7 +3167,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.342,
+      "recency_weight": 0.323,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3114,7 +3208,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.341,
+      "recency_weight": 0.322,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3127,94 +3221,6 @@
           "指数风险偏好"
         ],
         "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "22a3f4556950746f80f3",
-      "title": "AAPL SEC 8-K: 8-K",
-      "summary": "Apple Inc. (AAPL) filed SEC Form 8-K. Filing date: 2026-07-30. 8-K Item 2.02: Results of Operations and Financial Condition. On July 30, 2026, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its third fiscal quarter ended June 27, 2026. A copy of Apple’s press release is attached hereto as Exhibit 99.1. The information contained in this Current Report shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as. Report date: 2026-07-30. 8-K items: 2.02,9.01. Description: 8-K. Accession: 0000320193-26-000018.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
-      "published_at": "2026-07-30T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "8-k",
-        "corporate",
-        "sec"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "8-k"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 4.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "53133c84548205af71b9",
-      "title": "LITE SEC 8-K: 8-K",
-      "summary": "Lumentum Holdings Inc. (LITE) filed SEC Form 8-K. Filing date: 2026-07-30. 8-K Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On July 27, 2026, Vincent Retort, Executive Vice President, Global Reliability & Quality of Lumentum Holdings Inc. (the “Company”), informed the Company of his planned retirement from the Company, effective in October 2026. Mr. Retort has agreed to provide consulting services to the Company for a two-year term following his retirement (the “Consulting Term”). In exchange. Report date: 2026-07-27. 8-K items: 5.02. Description: 8-K. Accession: 0001628280-26-051078.",
-      "source": "SEC EDGAR Submissions",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026051078/lite-20260727.htm",
-      "published_at": "2026-07-30T21:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "8-k",
-        "ai",
-        "corporate",
-        "cpo",
-        "datacenter",
-        "growth",
-        "networking",
-        "optical",
-        "sec",
-        "tech"
-      ],
-      "categories": [
-        "corporate",
-        "sec",
-        "8-k"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 4.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
         "fetch_status": "live"
       }
     }
@@ -3586,7 +3592,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-02T18:58:48+00:00",
+      "latest_published_at": "2026-08-02T22:55:34+00:00",
       "warning": null
     },
     {
@@ -3594,8 +3600,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 5,
-      "latest_published_at": "2026-08-02T16:53:14+00:00",
+      "recent_items": 7,
+      "latest_published_at": "2026-08-02T21:00:06+00:00",
       "warning": null
     },
     {
@@ -3613,7 +3619,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-02T20:09:45+00:00",
+      "latest_published_at": "2026-08-02T22:17:47+00:00",
       "warning": null
     },
     {
@@ -3621,7 +3627,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
+      "recent_items": 1,
       "latest_published_at": "2026-07-31T21:00:00+00:00",
       "warning": null
     }
