@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T02:10:28.470584+00:00",
-  "generated_at_local": "2026-08-02 10:10:28 北京时间",
-  "next_update_at_local": "2026-08-02 13:10:00 北京时间",
+  "generated_at": "2026-08-02T05:10:10.934851+00:00",
+  "generated_at_local": "2026-08-02 13:10:10 北京时间",
+  "next_update_at_local": "2026-08-02 16:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "01:10",
@@ -18,9 +18,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 78,
+  "total_items": 77,
   "total_official_items": 15,
-  "media_items": 63,
+  "media_items": 62,
   "items": [
     {
       "id": "31dc39ca37010fb34c80",
@@ -257,6 +257,44 @@
       "in_event_ledger": false
     },
     {
+      "id": "7a422e0afd01f379ef7e",
+      "title": "Trump Says US to Cancel Iran Attack Subject to a Rapid Deal",
+      "translation_label": "原文中文译读",
+      "translation": "总统唐纳德·特朗普表示，在伊朗和其他中东国家告知他正致力于达成协议后，美国将暂缓对伊朗实施新的打击。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：若冲突降温或运输恢复，原油的战争溢价会先回落，随后减轻通胀和利率压力。 可能受益：航空、运输、化工、消费和高估值成长股；燃料成本下降也有利于整体风险偏好。 可能承压：上游石油股、黄金和部分国防资产，尤其是此前涨幅主要来自战争溢价的标的。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。只有油价与波动率同步回落，才算风险真正缓和。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-02T02:19:38+00:00",
+      "pick_score": 74,
+      "event_type": "geopolitical",
+      "severity": "major",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "7f15058ff1989101f952",
       "title": "Iran's overlapping power centers make ending the war more complicated",
       "translation_label": "原文中文译读",
@@ -270,7 +308,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-01T06:52:42+00:00",
-      "pick_score": 73,
+      "pick_score": 72,
       "event_type": "geopolitical",
       "severity": "major",
       "impact_axes": [
@@ -382,7 +420,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-01T12:00:01+00:00",
-      "pick_score": 68,
+      "pick_score": 67,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -716,7 +754,7 @@
       "publisher": "美联储（Federal Reserve）",
       "publisher_type": "官方机构",
       "published_at": "2026-07-31T14:00:00+00:00",
-      "pick_score": 57,
+      "pick_score": 56,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -752,7 +790,7 @@
       "publisher": "美联储（Federal Reserve）",
       "publisher_type": "官方机构",
       "published_at": "2026-07-31T14:00:00+00:00",
-      "pick_score": 57,
+      "pick_score": 56,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -880,42 +918,6 @@
           "指数风险偏好",
           "能源/避险/通胀预期",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "fa7c91c523541c9aaaeb",
-      "title": "Buying a condo with a mortgage may soon get more complicated. Here's why",
-      "translation_label": "原文中文译读",
-      "translation": "购买公寓并申请抵押贷款可能很快会变得更加复杂，原因如下。虽然贷款机构在许多抵押贷款申请中已经会对公寓业主协会进行审查，但他们很快将被要求对许多交易进行更全面的评估。房利美和房地美在3月宣布了这些变动，以便更好地识别存在财务或结构问题的公寓楼，并降低业主面临的风险。一些专家表示，他们担心这会导致抵押贷款审批延迟，如果在贷款机构发现不符合房利美和房地美承销标准的情况，还可能遭到拒绝。有意购买公寓的潜在购房者很快就会发现，抵押贷款机构对公寓楼的关注度与对买家本身的关注度一样高。房利美和房地美（这两家在二级市场上购买符合条件抵押贷款的政府赞助企业）将于8月3日生效的新公寓贷款政策意味着，某些购买交易可能会面临贷款机构更严格的审查。虽然贷款机构在许多情况下已经会对公寓业主协会进行审查，但新政策要求在某些交易中对协会的财务状况、准备金筹资和建筑维护情况进行更仔细的检查。房利美在3月18日致贷款机构的一封信中表示，这些变动旨在更好地识别存在财务或结构问题的大楼，并降低业主面临意外特别摊款或更高协会会费的风险。然而，一些行业团体和贷款专家表示，这一变化可能会导致抵押贷款审批延迟，并在某些情况下，如果公寓楼未能达到新标准，则会导致抵押贷款被拒。佛罗里达州劳德代尔堡AD Mortgage首席执行官马克·斯柳萨尔丘克表示，这会使申请流程花费更长的时间，并导致大量申请被取消资格。该抵押贷款批发商向负责监管房利美和房地美的联邦住房金融局发送了一封日期为7月16日的信函，敦促该机构修改或推迟这些变动。斯柳萨尔丘克表示，买家应该预计购买公寓将会困难得多。联邦住房金融局未回复寻求置评的电子邮件。公寓贷款规则为何变得更加严格：房利美和房地美向贷款机构购买房屋贷款，并将其打包成抵押贷款支持证券出售给投资者。如果贷款机构想要将抵押贷款出售给房利美或房地美（大多数机构都这样做，因为这释放了资本以开展更多贷款业务），则无论贷款对象是公寓还是其他类型的住宅，都必须满足特定的承销标准。购买公寓通常比购买单户住宅便宜。根据全国房地产经纪人协会的数据，6月份公寓或合作公寓的中位价为38,0000美元，较去年同期上涨1.6%。相比之下，单户住宅的中位价为446,400美元。根据人口普查局的美国住房调查，截至2023年，全美共有约860万套公寓单元。自2021年6月24日佛罗里达州瑟夫赛德12层尚普兰塔南公寓大楼发生部分坍塌并导致98人死亡以来，立法者和政策制定者一直在收紧影响公寓购买和融资的标准。隶属于商务部的政府机构国家标准与技术研究院于6月22日发布了一份报告，得出结论认为这座拥有40年历史的建筑在建造时就存在设计和施工缺陷，数十年的老化也是导致倒塌的原因之一。坍塌事件发生后的公开报道显示，由于对项目的成本和范围存在争议，公寓业主协会曾推迟了重大维修工作。这场灾难促使佛罗里达州州议会颁布了公寓改革法案，包括对老旧建筑进行专项检查，以及要求解决已发现的结构问题并为未来的维修提供充足的准备金。在全国范围内，房利美和房地美在瑟夫赛德倒塌事件发生后的几个月里收紧了公寓承销标准，使得存在严重长期未修善、关键维修或某些特别摊款的项目不符合其购买或担保抵押贷款的条件。这些最初作为临时措施实施的变动在2023年基本成为永久性规定。有限审查正在被取消，今年3月，房利美和房地美公布了进一步的变动。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
-      "url": "https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-01T13:30:01+00:00",
-      "pick_score": 53,
-      "event_type": "macro",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1248,7 +1250,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-02T00:13:35+00:00",
+      "latest_published_at": "2026-08-02T02:19:38+00:00",
       "warning": null
     },
     {
@@ -1256,7 +1258,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
+      "recent_items": 2,
       "latest_published_at": "2026-08-01T15:17:35+00:00",
       "warning": null
     },
