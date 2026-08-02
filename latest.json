@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:10:27.436589+00:00",
+  "generated_at": "2026-08-02T17:10:26.555584+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,697 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "7738c1e82cde4f991129",
+      "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
+      "summary": "“I realize that probate can be lengthy, public and expensive.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "published_at": "2026-08-02T17:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "989649c003afcef119df",
+      "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+      "summary": "Between Polymarket and Kalshi alone, there can be over 100,000 active markets. That's too much for one prediction market trader to juggle on her own. From using AI bots to purchasing an antenna, traders rely on tools and peculiar methods to compete against others. It's enough motivation for some to trade on the platforms full-time. It's been less than a year since 26-year-old Logan Sudeith became a full-time trader on prediction markets and in one month alone he managed to collect $250,000. That doesn't happen from simply checking the odds of an event contract on the platform, he said. A clever trade requires tools. \"For the Super Bowl I bought an antenna, so that I could watch the commercials,\" he said, noting online streaming services could face lags. Sudeith was able to quickly trade on what companies would show ads during the largest televised U.S. sporting event, or what would be said during those commercials. \"I wanted to have the lowest latency access to those.\" Between Polymarket and Kalshi alone, there can be more than 100,000 active markets. That's too much for traders like Sudeith to juggle on their own. And that's why they don't. CNBC spoke to several active traders on prediction market exchanges about how they gain an edge. From using AI bots to purchasing an antenna, traders rely on tools and peculiar methods to compete against others, and it's enough motivation for some to trade on the platforms full-time. And while hedge funds and large institutional trading desks are known for using complicated tools that help them win in the market, these traders are often just one person doing the work from their homes. Not every trader has the capacity to make custom workflows. That's why some platforms are offering more advanced technology to speculators, so that they don't have to build it all on their own. But whether those new, accessible products can deliver the same results to what individuals have made for themselves is unclear. One common theme among traders is reading the news. Kenneth Deneau, 32, calls it a \"minimum requirement\" to know what's happening in the world but admits that it can get overwhelming. He turned to AI to scan relevant information, including the newsletters he's subscribed to and Discord servers, to find insight for potential trades. \"I think that has been probably one of the most transformative aspects of allowing me to do this now, being able to build out those tools,\" he said about Anthropic-owned language model Claude. The surge in trading volume on Kalshi and Polymarket last fall drove Deneau to become a full-time prediction market trader. He left behind nearly a decade of work in institutional investing but carried over one key skill to his next gig: deep research under a time crunch. Earlier this year, when an event contract asked the date for when President Donald Trump would fire former Attorney General Pam Bondi, Deneau relied on Pacer, a database providing court records, to figure it out before it became viral. \"If you found those filings, which I did, you could use that as a baseline to help you determine when [Bondi] actually left the office,\" Deneau said. \"As far as I know, I was probably one of the first ones to take advantage of that.\" Prediction market platforms have an Application Programming Interface, or API, that makes their live and closed markets accessible. It's a playground full of analysis for Atlanta-based data engineer Steve Farmer. From his wife's \"big closet\", Farmer spent countless hours building an AI bot that would trade on Kalshi all day. \"As a trader, I wouldn't do very well myself because you know, impulses and greed and all that will just drive me nuts,\" he said. \"A bot doesn't have all that.\" His bot has about a 70% win rate in trading on economic-related event contracts on Kalshi, though he admitted it's likely not a long-term investment strategy, noting it's not replacing his retirement fund. What it is, however, is \"enough to pay for my AI bills,\" he said. Michael Boss placed his first trades on Kalshi during the 2024 presidential election, and decided he wanted to start speculating more often on the platform in summer 2025. But he didn't start trading full-time until February this year, waiting until he had the necessary software. The software Boss uses is placing many trades all the time across various markets. He wouldn't reveal exactly what he uses to train his software, showcasing just how much he wants to protect any edge he has over other traders. \"On something like Kalshi, a lot of different things need to go well,\" he said. \"There's a ton of markets on Kalshi, so it's kind of a big problem to tackle in that way.\" Prediction market exchanges know their most active traders have elaborate software and tools. Some platforms are looking to make trading easier for highly-engaged speculators.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
+      "published_at": "2026-08-02T16:54:18+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.995,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "600390f9898928faa108",
+      "title": "Governors Push State Solutions on Costs",
+      "summary": "Governors from Oklahoma, Maryland and Delaware say states remain the nation's laboratories of democracy, sharing policy ideas on housing, education, child care and energy while arguing that affordability is the top concern for voters across party lines. They say states cannot control inflation or global energy prices but can lower costs through housing supply, consumer protections, child care investments and policies that encourage economic growth while managing the impact of AI and data centers. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/governors-push-state-solutions-on-costs",
+      "published_at": "2026-08-02T16:20:06+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.984,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c726f186ddc0fa49a485",
+      "title": "Office Dress Codes Face Shorts Debate",
+      "summary": "Bloomberg's Chris Rovzar says workplace dress codes are evolving as warmer weather, changing office culture and designer collections prompt more employees to consider wearing shorts to work. He says a Bloomberg survey finds opinion remains divided, with supporters arguing shorts can be professional in the right setting while critics maintain traditional business attire still sets the standard. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/office-dress-codes-face-shorts-debate-video",
+      "published_at": "2026-08-02T16:18:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d054563462c2bf70ea90",
+      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "published_at": "2026-08-02T16:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b5e0e07913e2f0dcdd45",
+      "title": "Trump Pushes Major Dulles Makeover",
+      "summary": "Bloomberg CityLab's Kriston Capps says a proposed $20 billion overhaul of Washington Dulles International Airport would replace aging concourses, eliminate the airport's signature mobile lounges and create a more modern hub centered on United Airlines' long-term growth strategy. He says the project would largely be funded through passenger fees, while raising broader questions about cost, design and President Donald Trump's vision for reshaping infrastructure in the nation's capital. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/trump-pushes-major-dulles-makeover-video",
+      "published_at": "2026-08-02T15:59:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.977,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "38d10117df1758e5fe95",
+      "title": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
+      "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" snared $355 million in estimated domestic box office during its opening weekend, the second-highest debut of all time. The film is just $2 million short of the record-breaking debut of 2019's \"Avengers: Endgame.\" While \"Brand New Day\" was not released in IMAX, Dolby and CJ4DPlex posted record-breaking openings for the film. Spider-Man is taking on the Avengers. Sony and Marvel's \"Spider-Man: Brand New Day\" tallied an estimated $355 million at the domestic box office this weekend, just $2 million shy of the record-breaking debut of 2019's \"Avengers: Endgame.\" The film kicked off with record-shattering Thursday preview sales and snared $169.3 million on Friday, including presales, and $101.5 million on Saturday. Sony is projecting an $84 million Sunday haul, which would bring the newest Spider-Man flick to an estimated $355 million. Final tallies will arrive on Monday. \"Brand New Day\" is only the second Hollywood film to generate more than $300 million in ticket sales during a domestic opening weekend. Disney's \"Avengers: Endgame\" was the first to achieve this feat with its $357 million debut seven years ago. Internationally, the film collected an additional $572 million in estimated box office, including a whopping $121 million from China, bringing the global opening to $927 million. \"What this means for movie theaters cannot be overstated,\" said Paul Dergarabedian, head of marketplace trends at Rentrak. \"This sets up an incredible month of August and increases the likelihood that this summer will be the biggest in terms of revenue since 2019, surpassing the benchmark $4 billion threshold. No small feat.\" An estimated 24.1 million moviegoers headed out to cinemas in the U.S. and Canada to see \"Brand New Day,\" according to data from EntTelligence. Around 21% of tickets purchased were for premium large-format screenings and cost an average of $18.55 a piece. While \"Brand New Day\" did not have the added benefit of an IMAX release — those screens have been reserved for Christopher Nolan's and Universal's \"The Odyssey\" — other premium large-format options thrived over the weekend. Dolby Cinema boasted its highest-grossing domestic box office weekend ever, with $10 million in receipts from the film. Screen X posted $7 million in ticket sales, while 4DX topped $5.2 million, both domestic records for parent company CJ4DPlex. \"This is a truly phenomenal opening, and we are grateful to audiences everywhere for coming out and experiencing our film the way it was meant to be seen,\" said Kevin Feige, a producer on the film and president of the Disney-owned Marvel Studios. \"This debut reflects the enduring power of Marvel's characters, and the connection they continue to have with fans around the world — and, as audiences saw, it sets up exciting things to come.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
+      "published_at": "2026-08-02T15:54:05+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.976,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b1ecbd1a0bdd30d5f689",
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "summary": "Four more Club holdings report earnings. Plus, it's a loaded week of jobs data.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/02/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "published_at": "2026-08-02T15:36:01+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.97,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3a77549a29bdb0f2c2a6",
+      "title": "Jackson Warns US Policy Risks Caribbean Stability",
+      "summary": "Rep. Jonathan Jackson says the Trump administration's policies toward Haiti, Venezuela and Cuba risk worsening instability across the Caribbean, arguing that ending Temporary Protected Status for Haitians and maintaining broad sanctions will deepen humanitarian and migration challenges. He also calls for greater transparency in US policy toward Venezuela and warns that continued pressure on Cuba could further destabilize the region. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/jackson-warns-us-policy-risks-caribbean-stability-video",
+      "published_at": "2026-08-02T15:28:37+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "66c7c542c3822d4b051e",
+      "title": "Luxury Spending Drives Running Culture",
+      "summary": "Bloomberg Retail Reporter Lily Meier says running has evolved from a fitness activity into a lifestyle and status symbol, with run clubs fueling demand for premium apparel, accessories and social experiences. She says brands are benefiting as consumers increasingly spend on high-end performance gear that blends athletic function with fashion, even as running remains accessible to those who prefer simpler equipment. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/luxury-spending-drives-running-culture-video",
+      "published_at": "2026-08-02T15:22:29+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.966,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "06979476d34ea4add086",
+      "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
+      "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+      "published_at": "2026-08-02T15:19:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.965,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "09da7b15c5bcf12fee68",
+      "title": "Who Governs the AI Boom?",
+      "summary": "Should AI be regulated, or should society adapt to it instead? Economist Jason Furman argues that not every AI problem should be solved the same way. From bioweapons to job losses, he explains where the government should step in, where markets should adjust, and why the biggest AI debate may ultimately be a moral one. (Source: Bloomberg)",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/who-governs-the-ai-boom-video",
+      "published_at": "2026-08-02T15:02:27+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.96,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9cad95cae89096f4c75f",
+      "title": "AI Adoption Sparks Cultural Divide",
+      "summary": "Bloomberg's Josie Cox says artificial intelligence is creating new social divisions as disagreements over its use increasingly shape workplaces, relationships and personal identity, with skepticism driven by concerns over authenticity, ethics and creativity. She says employers are increasingly encouraging or requiring AI use, while growing public distrust suggests the technology's social consequences may extend well beyond its economic impact. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/ai-adoption-sparks-cultural-divide-video",
+      "published_at": "2026-08-02T14:34:46+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.951,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4b56194cc50a283347f8",
+      "title": "Why people are dropping out of the workforce and not looking for new jobs: 'The market wore me down'",
+      "summary": "Work 'Doomjobbing’ can hurt your job search and worsen anxiety, experts say: Why it happens and how to avoid it Work Barriers to U.S. jobs grow for international students: The 'American dream ... is collapsing' Work 34-year-old competed on 'Survivor' while building her business: It 'truly was a reset' Work The stress of unemployment has some jobseekers \"doomjobbing\" The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year After six months of scouring job listings and sending off resumes, Dan Coda's job search came to an end. He didn't find the technical program or project management job he wanted; he just stopped looking altogether. Starting around December 2025, when he was laid off from his previous role, Coda says he spent more than 300 hours job hunting, submitting dozens of applications, hearing back about 15 potential roles and going through multiple rounds of interviews to no avail. By June, Coda says he was done with the grueling effort of looking for work. \"The market wore me down,\" the 40-year-old from Durham, North Carolina, tells CNBC Make It. \"I was hitting wall after wall after wall and not getting anywhere.\" This year, the number of announced layoffs in January reached a level not seen since 2009, during the Great Recession, according to data from global outplacement firm Challenger, Gray & Christmas. \"The candidate pool is absolutely flooded,\" Coda says, citing mass layoffs pushing thousands of affected workers like himself into the job market at once. With that kind of competition, he says, \"What chance do you stand?\" Discouraged job seekers like Coda, who have given up on finding work, at least for now, are part of a trend economists say is worrying: The labor force participation rate has been on a downward trajectory since the turn of the millennium, fueled by an aging population and fewer young people entering the workforce. June saw the biggest one-month drop in prime age labor force participation of workers ages 25 to 54, excluding the Covid-19 pandemic, since June 1976. Roughly 720,000 people stopped working or looking for work between May and June, according to the St. Louis Fed. Those leaving the workforce are both men and women, and the majority are ages 25 to 34, says Heather Long, chief economist at Navy Federal Credit Union who specializes in the economics of the middle class. Meanwhile, elevated levels of long-term unemployment persist. In June, more than 1.9 million Americans, or roughly 1 in 4 unemployed people, were jobless but still looking for work for longer than six months , according to U.S. Bureau of Labor Statistics data. A continuous low-hire, low-fire job market could make it more challenging to find work and push more people out of the workforce altogether. Official numbers on how many people are dropping out of the workforce are likely to be revised downward in the coming months, Long says, noting that the one-month spike indicates \"something wasn't quite right\" in the initial data pull. But falling labor force participation nonetheless adds to a picture of an American labor economy seemingly out of balance with few solutions in sight. And the factors pushing people out of the labor force have implications beyond workers paying for everyday essentials, including stunting career trajectories and impacting long-term retirement savings. Mental health stressors are pushing some people out of the job search: 'I didn't have energy' Economists say several compounding factors are likely driving down the labor force participation rate, like an exodus of retiring workers and lower immigration into the U.S. Some working parents, especially moms of young kids , and people with disabilities may be striking out as they face more competition for remote or flexible work opportunities that are harder to come by today, Long says. Mental wellbeing could also play a part. Coda says he stopped his job search in June after a conversation with his wife, who'd noticed how the tiresome process soured his mood. \"Other than the death of a family member or a close friend, [unemployment] is one of the most devastating things that people face,\" Carl Van Horn, director of the Heldrich Center for Workforce Development at Rutgers University, told CNBC in June. About half of job seekers say the search negatively impacts their mental health due to rejection, lack of responses, financial pressure and waning motivation, according to an April Resume Genius survey of 1,000 active U.S. job seekers. Meanwhile, employers also tend to question resume gaps , which can make it harder for candidates to find work the longer they're searching. Coda says his mental health during his job search, while dispiriting, was less affected by the tepid responses because his family had been saving aggressively. He and his wife, who still works full-time in HR, had been working toward an early retirement.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
+      "published_at": "2026-08-02T14:30:01+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.95,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "950b974d850ea13dd06b",
+      "title": "Why Think Tanks are a Billion Dollar Business",
+      "summary": "Think tanks bring together experts and shape debates in Washington, but how do you measure the value of an idea? From the Aspen Institute to the Heritage Foundation, this episode explores the business of ideas, the billions of dollars behind America's leading think tanks, and how they measure success. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/why-think-tanks-are-a-billion-dollar-business-video",
+      "published_at": "2026-08-02T14:03:41+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.942,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "aaebea496082081c7f18",
+      "title": "Australia Expands Demand That Big Tech Pay for News Stories",
+      "summary": "Australia’s government plans to expand the scope and raise the charges to be imposed on Big Tech companies to encourage them to do deals with local media.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/australia-expands-demand-that-big-tech-pay-for-news-stories",
+      "published_at": "2026-08-02T14:01:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.941,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "eded61c38715d3519137",
       "title": "Apple Subscriptions; MacBook Air Shortages; Apple to Make Glasses Health Device",
@@ -49,7 +740,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -61,6 +752,50 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "61ea3b88f0b0b89ae56f",
+      "title": "Bond Traders Flying Blind on Fed See Risk Yields Spiral Higher",
+      "summary": "Bond investors including Brandywine Global Investment Management and Wellington Management say the risk of a deeper Treasury rout is rising as Federal Reserve Chairman Kevin Warsh keeps investors in the dark about how officials will respond to the evolving economy.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/bond-traders-flying-blind-on-fed-see-risk-yields-spiral-higher",
+      "published_at": "2026-08-02T14:00:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.941,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -91,7 +826,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -133,7 +868,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -175,7 +910,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.994,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -220,7 +955,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.987,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -265,7 +1000,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.987,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -306,7 +1041,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.932,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -347,7 +1082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.982,
+      "recency_weight": 0.927,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -394,7 +1129,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.978,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -441,7 +1176,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.978,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -483,7 +1218,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -528,7 +1263,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.978,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -575,7 +1310,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.976,
+      "recency_weight": 0.921,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -618,7 +1353,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.974,
+      "recency_weight": 0.919,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -663,7 +1398,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.968,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -705,7 +1440,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.968,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -746,7 +1481,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.965,
+      "recency_weight": 0.911,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -787,7 +1522,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -831,7 +1566,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -879,7 +1614,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -926,7 +1661,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -971,7 +1706,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1013,7 +1748,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1025,52 +1760,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6feb5601ae61e07d10c2",
-      "title": "Why every tech giant wants to look like a cybersecurity company in the AI era",
-      "summary": "As AI agents break free, tech giants are racing to turn cybersecurity into a core feature of their businesses.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T11:30:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.95,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1101,48 +1790,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.941,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "acc7a8cc834e62a6b033",
-      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
-      "summary": "Apple has been phenomenally profitable because its CEO resisted demands to change the business’s focus.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T11:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.941,
+      "recency_weight": 0.888,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1188,7 +1836,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.928,
+      "recency_weight": 0.876,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1230,7 +1878,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.901,
+      "recency_weight": 0.85,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1271,7 +1919,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.877,
+      "recency_weight": 0.828,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1315,7 +1963,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.843,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1360,7 +2008,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.796,
+      "recency_weight": 0.751,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1380,7 +2028,7 @@
     {
       "event_id": "4540f01677e94d109624",
       "title": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
-      "summary": "President Donald Trump lashed out at U.S. Attorney for the District of Columbia Jeanine Pirro, who blamed faulty installation, and not vandalism, for causing the lining to peel on the Lincoln Memorial Reflecting Pool. Pirro moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with vandalizing the pool. Damage to the pool's sealant was the result of a \"flawed installation,\" Pirro wrote in a court filing. Hearn’s attorneys accused the Trump administration of making him a “scapegoat” for the troubled renovation, which Trump had frequently boasted about. President Donald Trump on Saturday blasted his own Justice Department's decision to blame a poor contractor installation, and not vandalism, for causing the lining to peel on the newly renovated Lincoln Memorial Reflecting Pool in Washington, D.C. U.S. Attorney for the District of Columbia Jeanine Pirro on Friday moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with vandalizing the Reflecting Pool of the Lincoln Memorial, writing in a court filing that damage to the pool's sealant was the result of a \"flawed installation.\" But Trump, who has repeatedly said vandals were responsible for damage to the pool, slammed Pirro's explanation that the contractor handling the installation was at fault. \"I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool,\" Trump wrote in a Truth Social post . \"I don't know what she was thinking? To me, it was a pure case of VANDALISM.\" In a subsequent post , Trump touted a previously released U.S. Park Police video as proof vandals were at the site: \"Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!\" But Pirro, in a court filing in D.C. Superior Court, said her office received information and evidence after the charges were filed that \"significantly undermine the evidentiary basis for the indictment.\" Hearn had been charged with felony destruction of property in early July, with Pirro saying at a press conference that he \"violently\" ripped up part of the pool's liner with his bare hands. Hearn's attorneys accused the Trump administration of making the 67-year-old ex-Olympian a \"scapegoat\" for the expensive and troubled renovation, which Trump had frequently boasted about. After the pool appeared to continue leaking following its renovation, Trump repeatedly claimed, without providing evidence, that vandals had cut a gash hundreds of feet long along the bottom. Pirro said in Friday's court filing that a \"botched installation\" was to blame. Prosecutors had presented a grand jury in D.C. with \"evidence that damage to the Reflecting Pool was caused by vandals\" after receiving initial reports to that effect from the Department of the Interior and the U.S. Park Police, Pirro wrote. After that grand jury returned its indictment against Hearn, however, the Interior Department provided \"additional documents\" showing that the damage occurring in June was the \"result of flawed installation by the contractor, Atlantic Industrial Coatings,\" Pirro said. She also blamed \"the rush to complete the project prior to events associated with the America 250 celebration in the weeks surrounding Independence Day 2026.\" Asked for additional comment, the U.S. Attorney's Office for D.C. told CNBC, \"The motion speaks for itself.\" Hearn's attorneys said in a statement to CNBC, \"The Trump administration's case against Davey Hearn should have never been brought.\" \"Its dismissal today does not erase the abuse of government power in arresting and charging a patriotic American who did nothing wrong,\" read the statement from lawyers Norm Eisen, Mary Dohrmann and Steve Levin. \"The government's approach was ready, fire, aim. The administration owes Mr. Hearn an apology,\" they said. The White House did not immediately respond to CNBC's request for comment. Four days earlier, Hearn's attorneys wrote in a court filing that the government's key grand-jury witness in the case \"testified that the property was already damaged before Mr. Hearn allegedly touched it.\" In that same filing, the defense lawyers asked for disclosure of the information the government provided to the grand jury before it decided to charge Hearn. Pirro's decision to pack up her case may foreclose the possibility of that information being revealed. Her filing repeatedly and pointedly blames the Interior Department for providing her office with shoddy information. \"DOI provided less than fulsome information at the outset of this case,\" Pirro wrote at one point. \"It was not until USAO-DC repeatedly reached out to DOI dozens and dozens of times that DOI slowly started trickling information to USAO-DC.\" \"Had DOI been forthcoming with the information clearly in its possession, the government would not have sought a grand jury indictment,\" she wrote.",
+      "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1402,309 +2050,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.785,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "0cb5913558f702b4f0fe",
-      "title": "Saudi Prince Concerned Over Trump’s Iran Strike Plan: Axios",
-      "summary": "Saudi Crown Prince Mohammed bin Salman told President Donald Trump in a call that he was concerned over the US’s plans for new strikes against Iran, Axios reported, citing people familiar with the conversation.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/saudi-prince-concerned-over-trump-s-iran-strike-plan-axios",
-      "published_at": "2026-08-02T00:13:35+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 12.88,
-      "recency_weight": 0.764,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b6300dac35fc861e55f9",
-      "title": "Crushed by Kospi Rout, Angry Koreans Rip Lee and Vow Not to Buy",
-      "summary": "South Korea’s retail traders have long built a reputation for embracing risk. Yet July’s punishing reversal in the Kospi has rattled even this battle-hardened cohort, exposing the limits of their tolerance for volatility.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/crushed-by-kospi-rout-angry-koreans-rip-lee-and-vow-not-to-buy",
-      "published_at": "2026-08-02T00:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.761,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "541aefce519d3265fd54",
-      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-      "published_at": "2026-08-01T22:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.732,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e122cad2439718bf9e4f",
-      "title": "AI Loan Market Sees Investor Demands Rise, Borrowers Offer Better Terms",
-      "summary": "Loan investors are pushing back for the first time in years, in a shift that will probably translate to higher borrowing costs for everyone from private equity firms to deeply indebted AI companies.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/loan-investors-are-pushing-back-as-fear-rises-credit-weekly",
-      "published_at": "2026-08-01T19:00:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.691,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "1ff1d4d26fe73b11e5d8",
-      "title": "Bloomberg This Weekend 08/01/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Tim Stenovec bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Seaport Research Partners Chief Equity Strategist Jonathan Golub, Utah Governor Spencer Cox, Maryland Governor Wes Moore, Oklahoma Governor Kevin Stitt, Delaware Matt Meyer, the New Yorker Editor David Remnick, Fmr. US Ambassador to Ukraine William Taylor, Schwab Center for Financial Research Head of Macro Research & Strategy Kevin Gordon and Author & Financial Expert, Benna401(k) CEO, “Father of 401(K)” Ted Benna. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/bloomberg-this-weekend-08-01-2026-video",
-      "published_at": "2026-08-01T16:17:44+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.656,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "0973c7333cbc6f865f58",
-      "title": "Zepto Turns to Private Funding With IPO Plans on Hold for Now",
-      "summary": "Zepto Ltd said it agreed on a private share sale to major investors as the Indian quick-commerce firm pushed back plans for an initial public offering after failing to secure its anticipated valuation.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/zepto-turns-to-private-funding-with-ipo-plans-on-hold-for-now",
-      "published_at": "2026-08-01T15:17:35+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.644,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "91e0db229c546d0ec1de",
-      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's David Gura, Christina Ruffini and Tim Stenovec as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-      "published_at": "2026-08-01T15:01:56+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.64,
+      "recency_weight": 0.741,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1723,61 +2069,12 @@
     {
       "event_id": "1afdcd59fd9b4674199b",
       "title": "Berkshire Hathaway shares hit eight-month high",
-      "summary": "Berkshire Hathaway Portfolio Tracker (This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.) Berkshire shares hit eight-month high Berkshire Hathaway shares rallied to an eight-month high this week and there could be more gains ahead if they continue to catch up to the S&P 500. The B shares closed Tuesday at $512.37, their highest level since November 28, when they finished at $513.81. They closed Friday at $511.54, down 5.2% from the all-time closing high of $539.80 on May 2 of last year, the day before Warren Buffett revealed he would step down as CEO at the end 2025. The Class A shares ended Tuesday at $768,010, also their highest close since November 28's $770,100. Friday's close of $766,600 was 5.3% below their all-time closing high of $809,350. A story in Barron's says Berkshire's rally \"has room to run\" since the stock remains \"well behind\" the benchmark S&P 500 , which is 7.6 percentage points ahead. But Berkshire has erased more than half of its 17.5 percentage point deficit just two months ago. Berkshire is also lagging behind competitors in two key sectors: railroads ... Another positive for Berkshire is the big gains for three of its biggest equity portfolio holdings . Number one Apple , now worth more than $70 billion, is up 13.6% so far this year. Coca-Cola , Berkshire's third largest position at $35 billion, has jumped 25% year-to-date. Earnings this week came in ahead of expectations and Coke raised its full-year outlook . Number four Bank of America is up 12.6% on the year. That stake is now valued at almost $32 billion. Berkshire's gain of around 3% on Tuesday may have been partially fueled by UBS analyst Brian Meredith raising his price target on the B shares to $585 from $570, and on the A shares to $877,848 from $854,596. While maintaining a \"buy\" rating, Meredith also edged his earnings estimates higher and welcomed a Barron's report two weeks ago that Berkshire appeared to have bought back as much as $11 billion of its stock in the second quarter. We'll get the actual number when Berkshire releases second-quarter results, expected on Saturday, August 8. BUFFETT & BERKSHIRE AROUND THE INTERNET Some links may require a subscription: Barron's on MSN: Warren Buffett's worst-ever deal benefits this place the most Barron's on MSN: Why Berkshire Hathaway would win if the Fed lifts interest rates The Motley Fool: Why Berkshire's stake in Apple still matters more than people think The Motley Fool: Warren Buffett's legacy oil bet is paying off under Greg Abel. Nobody's talking about it. HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE Why Buffett doesn't ask his friends for favors (2003) Warren Buffett responds to a request from an audience member to enlist the support of his \"cousin\" Jimmy Buffett in saving the trees in the Florida botanical garden and theme park Cypress Gardens. AUDIENCE MEMBER : Several weeks from now I'll be before [Florida] Governor [Jeb] Bush with the Friends of Cypress Gardens. We have a website ... trying to keep a developer from clear-cutting the trees in Cypress Gardens, a national treasure. And my question is, would you consider contacting your \"cousin,\" [musician] Jimmy Buffett , about possibly helping us in some way? ... WARREN BUFFETT : I get asked to contact — probably the one I get asked to contact the most is Bill Gates , but I get asked to contact all kinds of people. And I mean, everybody is slipping me envelopes with letters in them, sending things to the office and saying, \"Won't you get this person?\" and all they can say is no. I don't do — I don't make requests of my friends, basically, for anything. And I just — I would spend the rest of my life doing it. They would feel — I would never know — (applause) — you know, what they were doing — You know, I would never know what they were doing because I was asking versus what they really felt. I mean it's an impossible — from my standpoint at least — that's an impossible game to get into, in terms of that. I mean when [Washington Post publisher] Kay Graham was alive, everybody, you know, wanted her for one reason or another. And they've all got causes. And, frankly, they, you know, they want to use me to get her, or Jimmy Buffett, or whomever, to say yes to something that they're saying yes to, partially, because they feel they don't want to say no to me. And I, you know, that — I just don't want to use my friendship for that purpose, frankly. And I don't do it, even for things that I strongly believe in, myself... I've never had one of those honorary dinners where they send out, you know, to all the suppliers to Berkshire and everything and start leaning on them and saying, you know, \"We're honoring Warren.\" Well, hell, if they want to honor me, they can honor me without soliciting all my friends for money.",
+      "summary": "The conglomerate that Warren Buffett built rallied to an eight-month high this week. There could be more gains ahead if they play catch up with the S&P 500.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
       "published_at": "2026-08-01T14:41:54+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "dollar",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.636,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e4f62d53dbedccea5fbd",
-      "title": "The Father of 401(k) Has A New Retirement Plan",
-      "summary": "Known as the \"Father of 401(k)\" Ted Benna has co-created Radish: a new employer-funded retirement plan that allows employees to access funds for immediate financial needs such as car repairs or medical expenses without relying on paycheck deductions. Joining David Gura and Christina Ruffini on Bloomberg This Weekend, Benna explains that while the original 401(k) succeeded in transforming workers into savers, many people now lack the financial ability to contribute. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/the-father-of-401-k-has-a-new-retirement-plan-video",
-      "published_at": "2026-08-01T14:37:44+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -1794,7 +2091,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.635,
+      "recency_weight": 0.601,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1813,110 +2110,12 @@
     {
       "event_id": "5bb8f681d8f6e04777a7",
       "title": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
-      "summary": "Trump Media and Technology Group's launched its new paid data service on Aug. 1, providing faster access to Truth Social posts from President Donald Trump and other top accounts on the platform. The new API is designed to give firms \"a direct, licensed, real-time feed of the platform's most market-moving Truths.\" The launch comes after Democratic Senators Adam Schiff and Elizabeth Warren took aim at the new service, urging the SEC to investigate whether the company is violating the law. Trump Media and Technology Group 's new paid data service launched on Aug. 1, providing faster access to Truth Social posts from President Donald Trump and other top accounts on the platform. \"Truth API,\" the new application programming interface, is designed to give firms \"a direct, licensed, real-time feed of the platform's most market-moving Truths,\" interim CEO Kevin McGurn said in a release announcing the launch. While not explicitly naming Trump, the president's @realDonaldTrump account is the largest on Truth Social by far, often posting his most consequential policy decisions there first, including updates on the war with Iran. As of Saturday, the account has 13 million followers. Trump's family is also the largest shareholder in Trump Media, the public company that operates Truth Social. The launch comes after Democratic Sens. Adam Schiff of California and Elizabeth Warren of Massachusetts took aim at the new service, urging the Securities and Exchange Commission on Wednesday to investigate whether the company is violating the law. \"This appears to be an outrageous abuse of the President's office for his personal benefit that undermines everyday investors and the integrity of our markets, while enriching Wall Street and other wealthy insiders,\" the y wrote in a letter to SEC chair Paul Atkins dated Tuesday. The SEC declined to comment on the letter to CNBC. \"Markets already move on Truth Social posts,\" Truth Media's McGurn wrote at the time of the announcement. \"Truth API delivers a direct, licensed, real-time feed of the platform's most market-moving Truths while advancing our strategy to monetize proprietary assets through a high-margin, recurring revenue stream.\"",
+      "summary": "Trump Media and Technology Group's new paid data service launched Aug. 1, selling faster access to top Truth Social posts from President Donald Trump and more.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
       "published_at": "2026-08-01T14:17:57+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.631,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f688c83d9e48f3334b21",
-      "title": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
-      "summary": "To learn more about the CNBC CFO Council, visit cnbccouncils.com/cfo In pushing back against mass autonomous vehicle deployment efforts, labor unions have found an unlikely ally in Uber. A bill being considered by the D.C. local government is a prime example, focused on the effects of autonomous-driving technologies on wages and employment of drivers in a city where gig work is a major part of the economy. At a time when the partnership between Uber and Alphabet's Waymo's is showing significant signs of strain, this labor battle has emerged as a key point of division. In pushing back against mass autonomous vehicle deployment efforts, labor unions have found an unlikely ally — Uber. A controversial bill currently being considered by the Washington, D.C. Council is a prime example of where this emerging political alliance is being tested. The D.C. bill, known as the \"Autonomous Vehicle Deployment Authorization Amendment Act,\" would allow widespread use of autonomous vehicles to transport passengers and goods in the District. This proposed change has been subject to immense scrutiny from organized labor due to growing concerns surrounding the effects of autonomous-driving technologies on wages and overall job opportunities for drivers. Concerns among Americans about safety have also contributed to pushback against AV rollouts across the U.S. The economic issues are especially acute in Washington, D.C., where an estimated 35,000 people have found work as gig work drivers, making up around 9% of its labor force based on the most recent available data, though much of the work is part-time. At a time when the D.C. metro area has lost over 100,000 jobs in the span of a year, largely due to federal job cuts, autonomous taxis have become a red-hot point of division. \"I cannot understand why, when D.C. is in the middle of an unemployment crisis, the council is considering bringing Waymo, a company that will put thousands of drivers like myself out of work and devastate the local economy,\" said Crystal Middleton, a part-time rideshare driver and member of 32BJ SEIU, at a mid-July public comment session for the legislation. \"Robotaxis also don't pay taxes. They don't raise families here. They don't vote. They don't make judgment calls when someone is in trouble. This isn't just a public safety issue. It's all about profit, profits that won't get reinvested into the district, but instead go straight to Silicon Valley,\" she added. Uber, historically, has been a major supporter of the expansion of AV technology for its business interests, and some of its recent comments regarding the D.C. issue seem to line up with its long-held views. \"AVs have the potential to make our roads safer, accelerate electrification, expand access to transportation, and lower costs,\" stated Harry Hatfield, director of AV and AI policy at Uber, in prepared testimony at a mid-July public comment session. \"We support the extension of autonomous vehicles, and we appreciate the council's willingness to engage on this issue.\" The San Francisco-based rideshare giant has placed itself on the frontlines of this emerging technology, with a pronounced focus on its own AV capabilities throughout the past year. Uber Autonomous Solutions, founded this past February, was created to help bring autonomous platforms to market, including training data, enriched mapping, and enhanced navigation technology. The company also set aside $7.5 billion for robotaxi fleet development over the years to come, according to the Financial Times, and an additional $2.5 billion designated for equity investments in other AV developers, such as WeRide and Nuro. And yet, $10 billion in capital expenditures notwithstanding, Uber has lined up squarely on the unions' side in the D.C. bill debate. \"The future of transportation is not a binary choice between human drivers and autonomous vehicles,\" Hatfield said in his testimony. \"It will be hybrid, [with] human drivers and autonomous vehicles operating side by side, each filling different needs and making the overall transportation system more resilient. ... The bill largely ignores the workforce transition,\" he continued. \"Workforce disruption is not a reason to stop innovation, but we should be honest about the trade-offs.\" He cited studies from San Francisco and Los Angeles, where drivers compete with AV-only fleets, and driver utilization and earnings declined last year. \"One AV in California now performs the work of roughly four drivers,\" Hatfield said. These California-based AV expansions and their aftereffects were also stressed by union leaders and members throughout the D.C. hearing. Many, however, argued that, when it came to cities across the country, Uber was the new-age disruptor of economic activity, displacing cab drivers as operations scaled. \"I was here when Uber came into the marketplace. If we were to pretend we didn't see a loss of earnings for taxi cab drivers, we wouldn't be honest,\" said Charles Allen, the D.C.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
-      "published_at": "2026-08-01T14:10:03+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.63,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c0bb5b6bbbc3592ca574",
-      "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
-      "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
-      "published_at": "2026-08-01T13:44:04+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -1933,7 +2132,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.625,
+      "recency_weight": 0.596,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f688c83d9e48f3334b21",
+      "title": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
+      "summary": "Uber and Waymo are increasingly at odds about the autonomous future, including in a labor battle over mass AV deployment in Washington, D.C.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
+      "published_at": "2026-08-01T14:10:03+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.595,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1974,48 +2214,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.622,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cc92a5cf921d5dc6c519",
-      "title": "Bipartisan Governors Launch Task Force to Tackle Immigration Reform",
-      "summary": "From Oklahoma City, the site of the annual meeting of the National Governor’s Association, Oklahoma Governor Kevin Stitt, Maryland Governor Wes Moore, Utah Governor Spencer Cox, and Delaware Governor Matt Meyer joined Bloomberg This Weekend host Christina Ruffini to announce the launching of a bi-partisan immigration task force to find solutions to one of America's most politically divisive issues. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/bipartisan-governors-to-tackle-immigration-reform-video",
-      "published_at": "2026-08-01T13:03:55+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.617,
+      "recency_weight": 0.587,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2056,7 +2255,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.61,
+      "recency_weight": 0.576,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2097,7 +2296,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.604,
+      "recency_weight": 0.57,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2142,7 +2341,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.604,
+      "recency_weight": 0.57,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2184,48 +2383,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.548,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e4ed89dc197797648f13",
-      "title": "Modi Opposes Court Cases For Protesters, Urges Forgiveness",
-      "summary": "Indian Prime Minister Narendra Modi said he opposed punishment and court proceedings for the young protesters who marched in New Delhi and other Indian cities in recent weeks, saying “children make mistakes” and society should “forgive” them for using foul language.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/modi-opposes-court-proceedings-for-protesters-urges-forgiveness",
-      "published_at": "2026-08-01T05:32:29+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.533,
+      "recency_weight": 0.518,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2266,7 +2424,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.462,
+      "recency_weight": 0.436,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2311,7 +2469,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.46,
+      "recency_weight": 0.434,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2357,7 +2515,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.459,
+      "recency_weight": 0.434,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2397,7 +2555,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.453,
+      "recency_weight": 0.428,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2442,7 +2600,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.453,
+      "recency_weight": 0.427,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2486,7 +2644,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.447,
+      "recency_weight": 0.422,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2498,47 +2656,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cdc02c0b6e8e7db3f8bf",
-      "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
-      "summary": "Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
-      "published_at": "2026-07-31T20:17:54+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.447,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2567,7 +2684,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2611,92 +2728,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.434,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a66665073cdbfa765213",
-      "title": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
-      "summary": "Investors saw Warsh’s press conference as dovish, but a closer reading of the Fed chair's prepared remarks suggests he may be close to raising interest rates.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
-      "published_at": "2026-07-31T18:16:18+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": -0.5,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 13.8,
-      "recency_weight": 0.429,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "295ca1282e8e770c3a29",
-      "title": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move",
-      "summary": "Options traders and market makers in Chicago were quick to buy dips below 7,500 in the benchmark index Friday, but almost as quick to sell rallies above that level.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
-      "published_at": "2026-07-31T18:07:36+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.428,
+      "recency_weight": 0.409,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2740,7 +2772,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.418,
+      "recency_weight": 0.394,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2781,7 +2813,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.409,
+      "recency_weight": 0.386,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2822,7 +2854,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.398,
+      "recency_weight": 0.375,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -2865,7 +2897,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.373,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -2908,7 +2940,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.373,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -2948,7 +2980,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.396,
+      "recency_weight": 0.373,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2995,7 +3027,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.384,
+      "recency_weight": 0.363,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3036,7 +3068,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.382,
+      "recency_weight": 0.361,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3077,7 +3109,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.285,
+      "recency_weight": 0.269,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3124,7 +3156,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.285,
+      "recency_weight": 0.269,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3137,127 +3169,6 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4b0f43f85a013ff23d5b",
-      "title": "CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning Affiliations Among Certain CFTC-Regulated Entities",
-      "summary": "",
-      "source": "CFTC General Press Releases",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.cftc.gov/PressRoom/PressReleases/9274-26",
-      "published_at": "2026-07-30T16:29:23+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "commodities",
-        "market",
-        "regulatory"
-      ],
-      "categories": [
-        "regulatory",
-        "commodities",
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.261,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "cftc",
-        "label": "CFTC",
-        "authority": "U.S. Commodity Futures Trading Commission",
-        "source_type": "衍生品、商品和市场结构监管公告",
-        "evidence_role": "衍生品、商品和市场结构监管公告：确认期货、掉期、预测市场和商品监管政策变化。",
-        "impact_axes": [
-          "指数风险偏好",
-          "监管/交易结构"
-        ],
-        "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "da5133e38b0ba3f74359",
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "summary": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system. For release at 11:00 a.m. EDT Share The Federal Reserve Board on Thursday announced the execution of the following enforcement action listed below: Iuka Bancshares, Inc., Salem, Illinois and The Iuka State Bank, Salem, Illinois Written Agreement dated July 15, 2026 Additional enforcement actions can be searched for here . Board of Governors of the Federal Reserve System 20th Street and Constitution Avenue N.W., Washington, DC 20551",
-      "source": "Federal Reserve Press Releases",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-      "published_at": "2026-07-30T15:00:00+00:00",
-      "event_type": "regulatory",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "fed",
-        "macro",
-        "regulatory"
-      ],
-      "categories": [
-        "macro",
-        "fed"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "federal-reserve",
-        "label": "Federal Reserve",
-        "authority": "Board of Governors of the Federal Reserve System",
-        "source_type": "货币政策与监管公告",
-        "evidence_role": "货币政策与监管公告：确认利率路径、资产负债表、监管和金融稳定相关事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "监管/交易结构"
-        ],
-        "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "681a8511554b90acb589",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "summary": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system. For release at 11:00 a.m. EDT Share The Federal Reserve Board on Thursday announced the execution of the following enforcement actions listed below: Consent prohibition order against Simon Alberto Gonzalez Former employee of Regions Bank, Birmingham, Alabama Misappropriation of customer funds Consent prohibition order against Ralph A. Mojica Former employee of First Interstate Bank, Billings, Montana Misappropriation of customer funds and embezzlement of Bank funds Additional enforcement actions can be searched for here . Board of Governors of the Federal Reserve System 20th Street and Constitution Avenue N.W., Washington, DC 20551",
-      "source": "Federal Reserve Press Releases",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
-      "published_at": "2026-07-30T15:00:00+00:00",
-      "event_type": "regulatory",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "fed",
-        "macro",
-        "regulatory"
-      ],
-      "categories": [
-        "macro",
-        "fed"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 2.0,
-      "recency_weight": 0.254,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "federal-reserve",
-        "label": "Federal Reserve",
-        "authority": "Board of Governors of the Federal Reserve System",
-        "source_type": "货币政策与监管公告",
-        "evidence_role": "货币政策与监管公告：确认利率路径、资产负债表、监管和金融稳定相关事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "监管/交易结构"
-        ],
-        "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
         "fetch_status": "live"
       }
     }
@@ -3574,7 +3485,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 4,
+      "recent_items": 2,
       "latest_published_at": "2026-07-31T14:00:00+00:00",
       "warning": null
     },
@@ -3619,7 +3530,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 2,
+      "recent_items": 1,
       "latest_published_at": "2026-07-31T14:18:05+00:00",
       "warning": null
     },
@@ -3629,7 +3540,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-02T13:31:08+00:00",
+      "latest_published_at": "2026-08-02T16:20:06+00:00",
       "warning": null
     },
     {
@@ -3637,8 +3548,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
-      "latest_published_at": "2026-08-02T14:00:01+00:00",
+      "recent_items": 4,
+      "latest_published_at": "2026-08-02T15:02:27+00:00",
       "warning": null
     },
     {
@@ -3647,7 +3558,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-08-02T14:00:00+00:00",
+      "latest_published_at": "2026-08-02T17:00:00+00:00",
       "warning": null
     },
     {
@@ -3656,7 +3567,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-02T13:52:33+00:00",
+      "latest_published_at": "2026-08-02T16:54:18+00:00",
       "warning": null
     },
     {
