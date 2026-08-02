@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:10:19.966677+00:00",
+  "generated_at": "2026-08-02T11:10:14.704453+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,14 +21,96 @@
   "environment": null,
   "events": [
     {
-      "event_id": "785046f9ad332e883a63",
-      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
-      "summary": "U.S. President Donald Trump says Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'. He says that the agreement would include the \"Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\" Iran's Fars International state news agency says that Trump's demands amounted to a \"wish list\". A number of U.S. Embassies in the Middle East had warned American citizens in the region to be prepared for flight cancellations amid growing tensions between Iran and the United States. U.S. media reports had said that Trump was preparing for a fresh round of strikes against Iran as early as this weekend. President Donald Trump said early Sunday he has canceled a planned attack on Iran following a request by Tehran and its regional neighbors. \"We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to,\" Trump said in a Truth Social post . He said that the agreement would include the \"Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\" \"Based on this request, I have agreed, for the future benefit of the WORLD and, likewise, the survival of a successful and prosperous Iran, to cancel the attack, subject to being able to rapidly make a DEAL,\" Trump added. \"The Country of Israel joins me in this commitment.\" He said the U.S. remains ready to strike Iran forcefully and is \"is locked and loaded and ready to go\". Iran's Fars International state news agency said via its Telegram channel Sunday that Trump's demands amounted to a \" wish list \". U.S. media reports had said that Trump was preparing for a fresh round of strikes against Iran as early as this weekend, as hopes of a negotiated end to the war that began on Feb. 28 receded and energy prices climbed. On Saturday, a number of U.S. Embassies in the Middle East warned American citizens in the region to exercise caution and be prepared for flight cancellations amid growing tensions between Iran and the United States. Embassies in Iraq , Jordan and the United Arab Emirates each warned U.S. citizens to consider leaving the region immediately, or be prepared to depart should there be an escalation in fighting. The warnings came after a tanker near Oman reported being struck late Friday, with another saying it saw an explosion nearby. Iran has warned Washington that the U.S. military's blockade of the Strait of Hormuz would result in the closure of key shipping routes. Iran's Foreign Minister Abbas Araqchi told his Saudi counterpart in a phone call on Saturday that any \"aggression\" by the U.S. and Israel or participation of regional countries will be met with a \"decisive and proportionate response,\" according to Araqchi's Telegram account . A temporary ceasefire following the signing of a memorandum of understanding between the U.S. and Iran on June 17 has effectively broken down. Neither side has given way on key sticking points, including Iran's nuclear program and control of shipping through the Strait of Hormuz, through which about a fifth of the world's oil supplies moved before the war broke out. The Wall Street Journal cited unnamed U.S. officials as saying Friday that Trump had ordered the military to launch a fresh attack on Iran that could begin as soon as this weekend. But Trump could call off the planned strikes, officials told the Journal, if there was progress on the diplomatic front. \"We will be hitting them very hard,\" The Associated Press quoted Trump as saying Friday at a televised cabinet meeting at the Camp David presidential retreat. \"And you know at some point, they're going to say, 'We just can't take it anymore.'\" Over the last week, the U.S. completed a \"heavy wave\" of strikes against Iran, hitting dozens of Islamic Revolutionary Guard Corps targets. In retaliation, Iran attacked U.S. military bases in Kuwait and Bahrain. Egypt said Thursday that a drone hit two ships at its Mediterranean port of Damietta, triggering a fire. No one claimed responsibility for the strike, which marks the first attack on Egyptian soil since the war began and another sign that the conflict is expanding . Araqchi warned on Saturday against any \"adventurous action\" by the U.S. in separate phone calls with his Turkish counterpart and Pakistan's army commander, according to the Iranian minister's account on Telegram. Araqchi stressed his country's readiness to respond decisively to any \"aggression.\" An Iranian official also warned that the U.S.'s actions would lead Iran to tighten its control over critical maritime passages. \"The continuation of the naval blockade and warmongering by the U.S. regime will not only lock the Strait of Hormuz tighter, but will also shut down other straits and chokepoints,\" Iran's WANA news agency quoted Mohammad Bagher Zolghadr, Secretary of Iran's Supreme National Security Council, as saying. The U.S.",
+      "event_id": "27a2bfb825b62cce7e99",
+      "title": "Banks Offload Risk from Leveraged ETFs With Exotic ‘Crash Puts’",
+      "summary": "Leveraged ETFs that offer the tantalizing prospect of doubling or tripling the daily returns of an individual stock are famously risky for investors who buy them.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/banks-offload-risk-from-leveraged-etfs-with-exotic-crash-puts",
+      "published_at": "2026-08-02T11:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "acc7a8cc834e62a6b033",
+      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
+      "summary": "Apple has been phenomenally profitable because its CEO resisted demands to change the business’s focus.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
+      "published_at": "2026-08-02T11:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "01bad62797a3d3f5e54c",
+      "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
+      "summary": "U.S. President Donald Trump says Iran and its regional neighbors asked the U.S. to hold off on attacks, saying 'perimeters of a deal has been agreed to'. The president said the agreement would include the \"Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\" Iran's Fars International state news agency said Trump's demands amounted to a \"wish list.\" A number of U.S. Embassies in the Middle East had warned American citizens in the region to be prepared for flight cancellations amid growing tensions between Iran and the United States. U.S. President Donald Trump said early Sunday he has canceled a planned attack on Iran following a request by Tehran and its regional neighbors. \"We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to,\" Trump said in a Truth Social post . The president said that the agreement would include the \"Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\" \"Based on this request, I have agreed, for the future benefit of the WORLD and, likewise, the survival of a successful and prosperous Iran, to cancel the attack, subject to being able to rapidly make a DEAL,\" Trump added. \"The Country of Israel joins me in this commitment.\" He added that the U.S. remains ready to strike Iran forcefully and \"is locked and loaded and ready to go.\" U.S. media reports on Friday had said that Trump was preparing for a fresh round of strikes against Iran as hopes of a negotiated end to the war that began on Feb. 28 receded and energy prices climbed. Iran appeared to react with caution to Trump's latest statement. \"Although the enemy's recent statements are part of a psychological and cognitive warfare campaign, we consider every threat to be real and take it seriously,\" Iran's acting Defense Minister, Seyyed Majid Ibn Al-Reza, said in a state media post on X. Iran's Fars International state news agency said via its Telegram channel Sunday that Trump's demands amounted to a \" wish list .\" Saudi Arabia's Crown Prince Mohammed bin Salman \"stressed the need to prioritize dialogue to reduce escalation and the importance of making every possible effort to achieve calm\" in a phone call with Trump, the Saudi Press Agency said Sunday. On Saturday, a number of U.S. Embassies in the Middle East warned American citizens in the region to exercise caution and be prepared for flight cancellations amid growing tensions between Iran and the United States. Embassies in Iraq , Jordan and the United Arab Emirates each warned U.S. citizens to consider leaving the region immediately, or be prepared to depart should there be an escalation in fighting. The warnings came after a tanker near Oman reported being struck late Friday, with another saying it saw an explosion nearby. Iran has warned Washington that the U.S. military's blockade of the Strait of Hormuz would result in the closure of key shipping routes. Iran's Foreign Minister Abbas Araqchi told his Saudi counterpart in a phone call on Saturday that any \"aggression\" by the U.S. and Israel or participation of regional countries will be met with a \"decisive and proportionate response,\" according to Araqchi's Telegram account . A temporary ceasefire following the signing of a memorandum of understanding between the U.S. and Iran on June 17 has effectively broken down. Neither side has given way on key sticking points, including Iran's nuclear program and control of shipping through the Strait of Hormuz, through which about a fifth of the world's oil supplies moved before the war broke out. The Wall Street Journal cited unnamed U.S. officials as saying Friday that Trump had ordered the military to launch a fresh attack on Iran that could begin as soon as this weekend. But Trump could call off the planned strikes, officials told the Journal, if there was progress on the diplomatic front. \"We will be hitting them very hard,\" The Associated Press quoted Trump as saying Friday at a televised cabinet meeting at the Camp David presidential retreat. \"And you know at some point, they're going to say, 'We just can't take it anymore.'\" Over the last week, the U.S. completed a \"heavy wave\" of strikes against Iran, hitting dozens of Islamic Revolutionary Guard Corps targets. In retaliation, Iran attacked U.S. military bases in Kuwait and Bahrain. Egypt said Thursday that a drone hit two ships at its Mediterranean port of Damietta, triggering a fire. No one claimed responsibility for the strike, which marks the first attack on Egyptian soil since the war began and another sign that the conflict is expanding . Araqchi warned on Saturday against any \"adventurous action\" by the U.S. in separate phone calls with his Turkish counterpart and Pakistan's army commander, according to the Iranian minister's account on Telegram. Araqchi stressed his country's readiness to respond decisively to any \"aggression.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
-      "published_at": "2026-08-02T07:47:37+00:00",
+      "published_at": "2026-08-02T10:18:35+00:00",
       "event_type": "black_swan",
       "severity": "major",
       "sentiment": -0.6,
@@ -50,7 +132,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.993,
+      "recency_weight": 0.984,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -62,6 +144,47 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a1396332369d8387c28e",
+      "title": "ANZ, NAB Among Banks Funding Blackstone HSBC Book Buy, AFR Says",
+      "summary": "ANZ Group Holdings Ltd. and National Australia Bank Ltd. are among lenders bankrolling Blackstone Inc.’s A$36 billion ($25.3 billion) purchase of HSBC Holdings Plc’s Australian retail loan portfolio, the Australian Financial Review reported Sunday, citing unnamed sources.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/anz-nab-among-banks-funding-blackstone-hsbc-book-buy-afr-says",
+      "published_at": "2026-08-02T08:45:44+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.955,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -92,7 +215,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.985,
+      "recency_weight": 0.93,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -136,7 +259,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.946,
+      "recency_weight": 0.893,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -153,8 +276,8 @@
       }
     },
     {
-      "event_id": "a86fdda9d1d2e5bbbdef",
-      "title": "Trump Says US to Hold Off Iran Attack If Rapid Deal Gets Agreed",
+      "event_id": "6fe34282d6e3997776f6",
+      "title": "Trump Says US to Hold Off Iran Attack If Rapid Deal Agreed",
       "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they’re working toward a deal.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
@@ -181,7 +304,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.894,
+      "recency_weight": 0.843,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -223,7 +346,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.881,
+      "recency_weight": 0.832,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -268,7 +391,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.858,
+      "recency_weight": 0.81,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -310,7 +433,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -351,7 +474,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.822,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -392,7 +515,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.81,
+      "recency_weight": 0.765,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -433,7 +556,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.806,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -474,7 +597,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.797,
+      "recency_weight": 0.752,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -519,7 +642,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.776,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -561,7 +684,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.769,
+      "recency_weight": 0.725,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -602,7 +725,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.765,
+      "recency_weight": 0.722,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -643,7 +766,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.763,
+      "recency_weight": 0.72,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -684,7 +807,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -725,7 +848,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -766,48 +889,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.749,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a200a763f4ff1b9384fd",
-      "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
-      "summary": "Spending down assets can be unsettling after a lifetime of saving.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
-      "published_at": "2026-08-01T16:41:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.742,
+      "recency_weight": 0.707,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -848,7 +930,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.737,
+      "recency_weight": 0.695,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -893,7 +975,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.723,
+      "recency_weight": 0.682,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -935,7 +1017,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.719,
+      "recency_weight": 0.679,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -982,7 +1064,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.714,
+      "recency_weight": 0.674,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1025,7 +1107,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.713,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1071,7 +1153,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.709,
+      "recency_weight": 0.669,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1118,7 +1200,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.708,
+      "recency_weight": 0.668,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1167,7 +1249,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.707,
+      "recency_weight": 0.667,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1210,7 +1292,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.706,
+      "recency_weight": 0.666,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1251,7 +1333,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1292,7 +1374,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.704,
+      "recency_weight": 0.664,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1337,7 +1419,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.701,
+      "recency_weight": 0.662,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1382,7 +1464,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.698,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1428,7 +1510,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.698,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1470,7 +1552,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.692,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1518,7 +1600,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.691,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1530,47 +1612,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "0e839e27133f1f27638b",
-      "title": "Phoenix Extends Record-Breaking Heat as West Faces Fire Threat",
-      "summary": "Phoenix has had a record-breaking run of high temperatures and that streak will continue through the coming week, as heat and fire risks spread across the wider US West.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/phoenix-extends-record-breaking-heat-as-west-faces-fire-threat",
-      "published_at": "2026-08-01T12:34:42+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.686,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1609,7 +1650,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.685,
+      "recency_weight": 0.646,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1621,52 +1662,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e6b36c5c4cf70a4d3745",
-      "title": "By The Way: Headlines You May Have Missed the Week of 7/26",
-      "summary": "The secret to a billion dollar movie, Willie Nelson speaks out against Data Centers, mystery packages, and Marmots on OnlyFans. Bloomberg News' Tim Stenovec joins David Gura and Christina Ruffini on Bloomberg This Weekend to share headlines you may have missed. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/by-the-way-headlines-you-may-have-missed-video",
-      "published_at": "2026-08-01T12:28:05+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.684,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1702,7 +1697,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.678,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1753,7 +1748,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.678,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1803,7 +1798,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.678,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1848,7 +1843,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.676,
+      "recency_weight": 0.639,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1890,7 +1885,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.658,
+      "recency_weight": 0.621,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1931,7 +1926,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.616,
+      "recency_weight": 0.581,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1972,7 +1967,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.599,
+      "recency_weight": 0.565,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2013,7 +2008,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.519,
+      "recency_weight": 0.489,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2058,7 +2053,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.516,
+      "recency_weight": 0.487,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2104,7 +2099,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.516,
+      "recency_weight": 0.487,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2146,7 +2141,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.509,
+      "recency_weight": 0.481,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2185,7 +2180,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.509,
+      "recency_weight": 0.48,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2230,7 +2225,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.48,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2270,7 +2265,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.505,
+      "recency_weight": 0.477,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2315,7 +2310,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.501,
+      "recency_weight": 0.473,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2357,7 +2352,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.501,
+      "recency_weight": 0.473,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2396,7 +2391,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.498,
+      "recency_weight": 0.47,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2441,7 +2436,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.498,
+      "recency_weight": 0.47,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2486,7 +2481,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.487,
+      "recency_weight": 0.459,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2530,7 +2525,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.482,
+      "recency_weight": 0.455,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2571,7 +2566,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.481,
+      "recency_weight": 0.454,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2615,7 +2610,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.469,
+      "recency_weight": 0.443,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2656,7 +2651,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.459,
+      "recency_weight": 0.433,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2697,7 +2692,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.459,
+      "recency_weight": 0.433,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2741,7 +2736,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.449,
+      "recency_weight": 0.424,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2782,7 +2777,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.447,
+      "recency_weight": 0.422,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -2825,7 +2820,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -2868,7 +2863,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.419,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -2908,7 +2903,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.444,
+      "recency_weight": 0.419,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -2955,7 +2950,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.431,
+      "recency_weight": 0.407,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -2996,7 +2991,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.429,
+      "recency_weight": 0.405,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3037,7 +3032,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3084,7 +3079,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.302,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3125,7 +3120,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.293,
+      "recency_weight": 0.277,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -3165,7 +3160,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.285,
+      "recency_weight": 0.269,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3205,7 +3200,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.285,
+      "recency_weight": 0.269,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3248,7 +3243,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.272,
+      "recency_weight": 0.256,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -3293,7 +3288,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.272,
+      "recency_weight": 0.256,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bea",
@@ -3677,7 +3672,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-02T07:22:43+00:00",
+      "latest_published_at": "2026-08-02T11:00:00+00:00",
       "warning": null
     },
     {
@@ -3695,7 +3690,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-08-01T22:00:00+00:00",
+      "latest_published_at": "2026-08-02T11:00:00+00:00",
       "warning": null
     },
     {
@@ -3704,7 +3699,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-02T07:47:37+00:00",
+      "latest_published_at": "2026-08-02T10:18:35+00:00",
       "warning": null
     },
     {
