@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:10:10.934851+00:00",
+  "generated_at": "2026-08-02T08:10:19.966677+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,9 +21,141 @@
   "environment": null,
   "events": [
     {
-      "event_id": "7a422e0afd01f379ef7e",
-      "title": "Trump Says US to Cancel Iran Attack Subject to a Rapid Deal",
-      "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they are working toward a deal.",
+      "event_id": "785046f9ad332e883a63",
+      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "summary": "U.S. President Donald Trump says Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'. He says that the agreement would include the \"Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\" Iran's Fars International state news agency says that Trump's demands amounted to a \"wish list\". A number of U.S. Embassies in the Middle East had warned American citizens in the region to be prepared for flight cancellations amid growing tensions between Iran and the United States. U.S. media reports had said that Trump was preparing for a fresh round of strikes against Iran as early as this weekend. President Donald Trump said early Sunday he has canceled a planned attack on Iran following a request by Tehran and its regional neighbors. \"We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to,\" Trump said in a Truth Social post . He said that the agreement would include the \"Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\" \"Based on this request, I have agreed, for the future benefit of the WORLD and, likewise, the survival of a successful and prosperous Iran, to cancel the attack, subject to being able to rapidly make a DEAL,\" Trump added. \"The Country of Israel joins me in this commitment.\" He said the U.S. remains ready to strike Iran forcefully and is \"is locked and loaded and ready to go\". Iran's Fars International state news agency said via its Telegram channel Sunday that Trump's demands amounted to a \" wish list \". U.S. media reports had said that Trump was preparing for a fresh round of strikes against Iran as early as this weekend, as hopes of a negotiated end to the war that began on Feb. 28 receded and energy prices climbed. On Saturday, a number of U.S. Embassies in the Middle East warned American citizens in the region to exercise caution and be prepared for flight cancellations amid growing tensions between Iran and the United States. Embassies in Iraq , Jordan and the United Arab Emirates each warned U.S. citizens to consider leaving the region immediately, or be prepared to depart should there be an escalation in fighting. The warnings came after a tanker near Oman reported being struck late Friday, with another saying it saw an explosion nearby. Iran has warned Washington that the U.S. military's blockade of the Strait of Hormuz would result in the closure of key shipping routes. Iran's Foreign Minister Abbas Araqchi told his Saudi counterpart in a phone call on Saturday that any \"aggression\" by the U.S. and Israel or participation of regional countries will be met with a \"decisive and proportionate response,\" according to Araqchi's Telegram account . A temporary ceasefire following the signing of a memorandum of understanding between the U.S. and Iran on June 17 has effectively broken down. Neither side has given way on key sticking points, including Iran's nuclear program and control of shipping through the Strait of Hormuz, through which about a fifth of the world's oil supplies moved before the war broke out. The Wall Street Journal cited unnamed U.S. officials as saying Friday that Trump had ordered the military to launch a fresh attack on Iran that could begin as soon as this weekend. But Trump could call off the planned strikes, officials told the Journal, if there was progress on the diplomatic front. \"We will be hitting them very hard,\" The Associated Press quoted Trump as saying Friday at a televised cabinet meeting at the Camp David presidential retreat. \"And you know at some point, they're going to say, 'We just can't take it anymore.'\" Over the last week, the U.S. completed a \"heavy wave\" of strikes against Iran, hitting dozens of Islamic Revolutionary Guard Corps targets. In retaliation, Iran attacked U.S. military bases in Kuwait and Bahrain. Egypt said Thursday that a drone hit two ships at its Mediterranean port of Damietta, triggering a fire. No one claimed responsibility for the strike, which marks the first attack on Egyptian soil since the war began and another sign that the conflict is expanding . Araqchi warned on Saturday against any \"adventurous action\" by the U.S. in separate phone calls with his Turkish counterpart and Pakistan's army commander, according to the Iranian minister's account on Telegram. Araqchi stressed his country's readiness to respond decisively to any \"aggression.\" An Iranian official also warned that the U.S.'s actions would lead Iran to tighten its control over critical maritime passages. \"The continuation of the naval blockade and warmongering by the U.S. regime will not only lock the Strait of Hormuz tighter, but will also shut down other straits and chokepoints,\" Iran's WANA news agency quoted Mohammad Bagher Zolghadr, Secretary of Iran's Supreme National Security Council, as saying. The U.S.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+      "published_at": "2026-08-02T07:47:37+00:00",
+      "event_type": "black_swan",
+      "severity": "major",
+      "sentiment": -0.6,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 28.98,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4df12d6f395d98fb3c90",
+      "title": "Bomb Kills Three, Injures 21 at Restaurant on Moscow’s Kudrinskaya Square",
+      "summary": "Three people were killed and 21 injured after a bomb was detonated in an upscale restaurant in central Moscow on Saturday night, according to Russia’s National Anti-Terrorism Committee.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/bomb-kills-three-injures-21-at-restaurant-on-moscow-s-kudrinskaya-square",
+      "published_at": "2026-08-02T07:22:43+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.985,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4965837af12042b63c83",
+      "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
+      "summary": "While the leak of key exam papers was the trigger for the recent student protest in India, rising unemployment is the real fuel angering Gen Z in the country. India has the largest youth population in the world, but secure employment prospects hinge on ultra-competitive exams, as good jobs are scarce. The underlying issue is the limited supply of \"secure, well-paid jobs\" in India, Alexandra Hermann Prasad, lead economist at Oxford Economics, told CNBC. India's youth unemployment crisis has become one of the biggest vulnerabilities for Prime Minister Narendra Modi's government, exposing the gap between the country's economic ambitions and the reality facing millions of young graduates. The frustration erupted into the open this month after a leaked paper forced a retest of India's ultra-competitive medical entrance exam, prompting nationwide student protests led by a viral, social media-focused youth movement called the Cockroach Janta Party . While the exam scandal was the immediate trigger, economists say the demonstrations reflected something much deeper: a generation struggling to find secure, well-paying jobs despite spending years competing for an education. Seeing footage of police fire tear gas at student protesters in Delhi on July 20 struck a nerve with 27-year-old Mumbai professional Abheet Mohanty (whose name has been changed due to the sensitive nature of the topic). He said he wasn't protesting because of one leaked exam paper, but because of what it represented. The Gen Z students in the crowd were calling for accountability from the government after exam papers were leaked in May for a crucial medical entrance exam test, also known as the National Eligibility cum Entrance Test (NEET). While a retest took place in June, more than 20 students died by suicide in the aftermath of the leak. \"I felt for the students because I was a NEET student back in 2018,\" Mohanty told CNBC, recalling the immense pressure he felt as his parents pushed him to take the test, which would help him land a secure job with good pay. Mohanty didn't pass the test and instead pursued a degree in communications. \"It was very difficult to get a job,\" he said. After waiting a year, he landed a job in Mumbai, but his parents insisted that he take the NEET again instead. They said his monthly salary of 20,000 rupees ($208) was \"unsustainable\" in Mumbai. Mohanty joined the Gen Z protests in the city on July 23. His experience is increasingly common. India has the world's largest Gen Z population , but also faces one of its toughest employment challenges . Graduate unemployment among 15-to 25-year-olds is close to 40%, according to the State of Working India 2026 report, while graduates accounted for two-thirds of the country's unemployed in 2023. As good jobs become harder to find, millions of young Indians are pinning their hopes on a handful of ultra-competitive entrance exams for medicine, engineering and government jobs that offer one of the few reliable paths to secure, well-paid jobs. Unsurprisingly, the number of students applying for the NEET exam rose 50% to over 2.2 million between 2019 and 2026, according to data from the National Testing Agency . And the scramble extends well beyond medicine. Millions of students also compete for the Joint Entrance Examination (JEE) to enter the prestigious Indian Institutes of Technology (IITs), the Common University Entrance Test (CUET) for undergraduate admissions, and the Union Public Service Commission's (UPSC) civil services examination. In India's tech city Bengaluru, 24-year-old graphic designer Aditi Garg faces a similar dilemma. Jobs are rare, applicants are many, and as a result, \"companies pay peanuts,\" she told CNBC. More than half a decade ago, Garg failed to get into the Indian Institute of Technology (IIT), a prestigious institute, despite a good score. \"I have lost count of the number of jobs I applied to last year,\" said Garg, adding that people of her generation are \"barely able to find a job or settle for one that barely pays bills.\" There is little room for negotiating better pay, she explains, as there are \"always a hundred other people\" desperate enough to do the job for less. This angst — and frustration at India's state of education and economy — is what Garg said drove her to join the offshoot of the Delhi student protest in Bengaluru. Neelanjan Sircar, an associate professor in the division of social sciences at Ahmedabad University, told CNBC that the appeal of medicine and government jobs to young people is clear. \"In a country where 'nearly one in two graduates is not getting a job,' young people are choosing to take routes like the NEET that guarantee one,\" he said. Seventeen-year-old Dimpy Gola (name changed) sat the NEET exam twice this year, first in May and then again when it was rescheduled in June. She did not score high enough to secure a medical college place and now plans to take a gap year before trying again next year.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+      "published_at": "2026-08-02T05:18:21+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.946,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a86fdda9d1d2e5bbbdef",
+      "title": "Trump Says US to Hold Off Iran Attack If Rapid Deal Gets Agreed",
+      "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they’re working toward a deal.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -49,7 +181,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.947,
+      "recency_weight": 0.894,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -91,7 +223,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.934,
+      "recency_weight": 0.881,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -136,7 +268,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.909,
+      "recency_weight": 0.858,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -178,7 +310,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -189,53 +321,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "31dc39ca37010fb34c80",
-      "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
-      "summary": "Several U.S. Embassies in the Middle East warned Americans in the region to be vigilant and prepared for flight cancellations amid growing tensions between Iran and the United States. A senior Gulf government official and a foreign diplomat based in the Gulf region told MS NOW the region is on \"high alert\" in anticipation of an \"increase\" in military action in the coming days. Media reports say U.S. President Donald Trump plans to launch a fresh attack on Iran this weekend. An Iranian official warned a U.S. strike would lead to Iran tightening its control over critical maritime passages. A number of U.S. Embassies in the Middle East on Saturday warned American citizens in the region to exercise caution and be prepared for flight cancellations amid growing tensions between Iran and the United States. Embassies in Iraq , Jordan and the United Arab Emirates each warned U.S. citizens to consider departing the region immediately, or be prepared to depart should there be escalation in fighting. A senior Gulf government official and a foreign diplomat based in the Gulf region told MS NOW the region is on \"high alert\" in anticipation of an \"increase\" in military action in the coming days. The officials, who did not want to be identified because of the sensitivity of the matter, added that there will be \"significant disruptions\" across the region. One official told MS NOW that Gulf states had been briefed on potential U.S.-Israeli attacks on energy infrastructure in Iran. The diplomats say that if such an attack were to occur, Iran is expected to retaliate by targeting energy sites in the Gulf region. The warnings come after a tanker near Oman reported being struck overnight, with another saying it saw an explosion nearby. Iran has warned Washington that the U.S. military's blockade of the Strait of Hormuz would result in the closure of key shipping routes. Kuwait also said its air defenses confronted hostile drone attacks by Iran. The latest conflict comes amid U.S. media reports that U.S. President Donald Trump is preparing for a fresh round of strikes against Iran as early as this weekend, as hopes of a negotiated end to the war that began on Feb. 28 recede and energy prices climb. Iran's Foreign Minister Abbas Araqchi told his Saudi counterpart in a phone call on Saturday that any \"aggression\" by the U.S. and Israel or participation of regional countries will be met with a \"decisive and proportionate response,\" according to Araqchi's Telegram account . The United Kingdom Maritime Trade Operations Centre (UKMTO) — an organization backed by the British Navy — said Saturday it received a report of a tanker being hit by an \"unknown projectile which has caused damage to the engine room.\" \"The tanker is not under command and the regional Coast Guard have been informed. There are no reported casualties or environmental impact,\" UKMTO said of the incident 11 nautical miles northeast of Oman. Another tanker in the waters off Oman reported \"seeing a large splash and explosion in close proximity to the vessel,\" UKMTO said. A temporary ceasefire following the signing of a memorandum of understanding between the U.S. and Iran on June 17 has effectively broken down. Neither side has given way on key sticking points, including Iran's nuclear program and control of shipping through the Strait of Hormuz, through which about a fifth of the world's oil supplies moved before the war broke out. Over the last week, the U.S. completed a \"heavy wave\" of strikes against Iran, hitting dozens of Islamic Revolutionary Guard Corps targets. In retaliation, Iran attacked U.S. military bases in Kuwait and Bahrain. Egypt said Thursday that a drone hit two ships at its Mediterranean port of Damietta, triggering a fire. No one claimed responsibility for the strike, which marks the first attack on Egyptian soil since the war began and another sign that the conflict is expanding . The Wall Street Journal cited unnamed U.S. officials as saying Friday that Trump has ordered the military to launch a fresh attack on Iran that could begin as soon as this weekend. But Trump could call off the planned strikes, officials told the Journal, if there is progress on the diplomatic front. \"We will be hitting them very hard,\" The Associated Press quoted Trump as saying Friday at a televised cabinet meeting at the Camp David presidential retreat. \"And you know at some point, they're going to say, 'We just can't take it anymore.'\" Axios quoted an unnamed U.S. official as saying that Trump is seriously considering attacking Iranian energy targets in the next few days, but hasn't given final orders to do so. Iran's Foreign Minister Abbas Araqchi warned on Saturday of any \"adventurous action\" by the U.S. in separate phone calls with his Turkish counterpart and Pakistan's army commander, according to the Iranian minister's account on Telegram. Araqchi stressed his country's readiness to respond decisively to any \"aggression.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-      "published_at": "2026-08-01T23:19:46+00:00",
-      "event_type": "black_swan",
-      "severity": "major",
-      "sentiment": -0.6,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.894,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -266,7 +351,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -307,7 +392,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.859,
+      "recency_weight": 0.81,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -348,7 +433,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -389,7 +474,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.844,
+      "recency_weight": 0.797,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -434,7 +519,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.822,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -476,7 +561,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.814,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -517,7 +602,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.81,
+      "recency_weight": 0.765,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -558,7 +643,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.808,
+      "recency_weight": 0.763,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -599,7 +684,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.799,
+      "recency_weight": 0.754,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -640,7 +725,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.795,
+      "recency_weight": 0.75,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -681,7 +766,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.793,
+      "recency_weight": 0.749,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -722,7 +807,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.786,
+      "recency_weight": 0.742,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -763,7 +848,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.78,
+      "recency_weight": 0.737,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -808,7 +893,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.766,
+      "recency_weight": 0.723,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -850,7 +935,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.762,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -897,7 +982,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.757,
+      "recency_weight": 0.714,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -940,7 +1025,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.756,
+      "recency_weight": 0.713,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -986,7 +1071,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.751,
+      "recency_weight": 0.709,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1033,7 +1118,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1082,7 +1167,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.749,
+      "recency_weight": 0.707,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1125,7 +1210,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.748,
+      "recency_weight": 0.706,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1166,7 +1251,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.747,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1207,7 +1292,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.746,
+      "recency_weight": 0.704,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1252,7 +1337,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.743,
+      "recency_weight": 0.701,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1297,7 +1382,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.74,
+      "recency_weight": 0.698,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1343,7 +1428,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.74,
+      "recency_weight": 0.698,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1385,7 +1470,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.733,
+      "recency_weight": 0.692,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1433,7 +1518,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.732,
+      "recency_weight": 0.691,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1475,7 +1560,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.727,
+      "recency_weight": 0.686,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1524,7 +1609,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.725,
+      "recency_weight": 0.685,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1571,7 +1656,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.725,
+      "recency_weight": 0.684,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1583,50 +1668,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8f77c06c7d22825a700a",
-      "title": "India Youth Protests Shake Modi Government",
-      "summary": "India's youth-led Cockroach Movement gains momentum as protests over exam paper leaks and rising unemployment force the resignation of the country's education minister. Bloomberg News Senior Reporter Dan Strumpf joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains how the movement underscores growing frustration over job opportunities and presents a new political challenge for Prime Minister Narendra Modi ahead of major elections. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/india-youth-protests-shake-modi-government-video",
-      "published_at": "2026-08-01T12:19:24+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.723,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1661,7 +1702,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.719,
+      "recency_weight": 0.678,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1712,7 +1753,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.719,
+      "recency_weight": 0.678,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1762,7 +1803,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.719,
+      "recency_weight": 0.678,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1807,7 +1848,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.717,
+      "recency_weight": 0.676,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1849,7 +1890,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.697,
+      "recency_weight": 0.658,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1868,21 +1909,19 @@
     {
       "event_id": "2e55bb4cd04f2f96a652",
       "title": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
-      "summary": "A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond. Eurostar, for example, has announced that it is preparing for unprecedented heat across Europe with a new fleet of trains designed to withstand temperatures of up to 55 degrees Celsius (131 degrees Fahrenheit). Lena Fuldauer, head of resilience and business development at Allianz Risk Consulting, said that for businesses, the challenge of extreme heat is a \"quiet catastrophe.\" Gripped by drought , raging wildfires and a summer of weather extremes , countries across Europe are scrambling to address the widely underestimated climate challenge of extreme heat . Supercharged by the climate crisis , a series of record-breaking heat waves in recent months has wreaked havoc across large swaths of the world's fastest-warming continent. Severe infrastructure stress brought on by the searing heat has forced companies and policymakers to respond. Eurostar, for example, recently announced that it is preparing to for unprecedented heat across Europe with a new fleet of trains designed to withstand temperatures of up to 55 degrees Celsius (131 degrees Fahrenheit). \"A decision has been taken to equip our new fleet of up to 50 Celestia trains with air conditioning capable of operating in temperatures up to 55 degrees,\" a Eurostar spokesperson told CNBC by email. \"These trains will enter service in 2031 and run into the 2060s so it's essential to be prepared for the future.\" The high-speed train operator, which runs some of the longest and largest passenger train sets in Europe, had originally intended to invest in a new fleet of trains that could operate in conditions of up to 45 degrees Celsius, but recent heat waves prompted a change of plan. In Norway, extreme heat has pushed asphalt temperatures at Oslo Airport toward 52 degrees Celsius, prompting fire crews to douse the tarmac with thousands of liters of water to prevent damage to aircraft stands and taxiways. Workers at Oslo Airport, which is operated by Avinor, said each cooling round used around 13,000 liters of water, with these operations repeating every hour during the hottest periods. In Sweden, meanwhile, Stockholm's public transport operator SL has painted railway tracks white to reduce the risk of heat-related disruptions, such as track displacement and track buckling, sometimes referred to as \"sun kinks.\" This method has also been used on particularly vulnerable railway sections in southern Europe, including Spain and Italy. 'Adaption alone is not a viable strategy' Wildfires in France and Spain forced the evacuation of more than 330,000 people in the past week, with both countries bracing for a fourth heat wave of the summer. Jan Rosenow, professor of energy and climate policy at the U.K.'s University of Oxford, said the ravaged village of Le Porge at the center of France's wildlife crisis should serve as a stark reminder of the root cause of the climate crisis. Scientists have repeatedly warned that climate change is exacerbating the frequency and intensity of extreme weather events. The burning of fossil fuels such as coal, oil and gas is the chief driver of the climate crisis. \"For decades climate scientists told us this would happen more frequently and that the severity of extreme weather and its consequences would increase. The world did not listen and we keep burning fossil fuels at record levels,\" Rosenow said in a LinkedIn post published on July 28. \"Adaption alone is not a viable strategy as the extreme fires show us.\" Europe is known to be warming at twice the speed of the global average since the 1980s, according to the European Union's Copernicus Climate Change Service. James Brennan, director of climate risk modelling at Climate X, said extreme heat days are set to double or even triple across central Europe by 2050 under a high-emission scenario used by the Intergovernmental Panel on Climate Change (IPCC). That would mean regions currently recording five to 10 days per year of extreme heat would see 20 to 30 days per year within a single generation. \"Southern Europe faces the most severe conditions, with parts of the Iberian Peninsula, southern Italy and Greece projected to exceed 40 to 55 extreme heat days per year,\" Brennan told CNBC. \"No region in Europe sees a reduction in extreme heat days by 2050: the acceleration is universal. But the risk is greatest where exposure is already highest, making adaptation both most urgent and most difficult in the south,\" he added. A spokesperson for the European Commission, the EU's executive arm, said the Commission will soon present a new integrated framework for climate resilience and risk management. \"It is clear that the efficiency and intent of all policies is being compromised by climate change unless that is calibrated into the policy design,\" a Commission spokesperson told CNBC by email.",
+      "summary": "A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html",
       "published_at": "2026-08-01T06:58:41+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.2,
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "energy",
         "macro",
-        "market",
-        "oil"
+        "market"
       ],
       "categories": [
         "market",
@@ -1891,8 +1930,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.652,
+      "impact_score": 1.84,
+      "recency_weight": 0.616,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1902,54 +1941,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7f15058ff1989101f952",
-      "title": "Iran's overlapping power centers make ending the war more complicated",
-      "summary": "Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
-      "published_at": "2026-08-01T06:52:42+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.651,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1980,7 +1972,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.634,
+      "recency_weight": 0.599,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2021,7 +2013,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.549,
+      "recency_weight": 0.519,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2066,7 +2058,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.547,
+      "recency_weight": 0.516,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2112,7 +2104,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.546,
+      "recency_weight": 0.516,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2154,7 +2146,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.539,
+      "recency_weight": 0.509,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2193,7 +2185,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.539,
+      "recency_weight": 0.509,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2238,7 +2230,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.538,
+      "recency_weight": 0.508,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2278,7 +2270,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.535,
+      "recency_weight": 0.505,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2323,7 +2315,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.531,
+      "recency_weight": 0.501,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2365,7 +2357,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.531,
+      "recency_weight": 0.501,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2404,7 +2396,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.528,
+      "recency_weight": 0.498,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2449,7 +2441,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.527,
+      "recency_weight": 0.498,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2494,7 +2486,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.516,
+      "recency_weight": 0.487,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2538,7 +2530,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.511,
+      "recency_weight": 0.482,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2579,7 +2571,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.509,
+      "recency_weight": 0.481,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2623,7 +2615,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.497,
+      "recency_weight": 0.469,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2664,7 +2656,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.487,
+      "recency_weight": 0.459,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2705,7 +2697,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.486,
+      "recency_weight": 0.459,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2716,49 +2708,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "78be332849e1a4f6bbe5",
-      "title": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw",
-      "summary": "Following Microsoft's (MSFT) Q4 earnings and record-setting appreciation, the immediate binary event risk is officially behind us.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
-      "published_at": "2026-07-31T15:26:31+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.484,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2792,7 +2741,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.476,
+      "recency_weight": 0.449,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2833,7 +2782,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.473,
+      "recency_weight": 0.447,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -2876,7 +2825,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.47,
+      "recency_weight": 0.444,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -2919,7 +2868,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.47,
+      "recency_weight": 0.444,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -2959,7 +2908,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.47,
+      "recency_weight": 0.444,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3006,7 +2955,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.457,
+      "recency_weight": 0.431,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3047,7 +2996,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.455,
+      "recency_weight": 0.429,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3088,7 +3037,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.32,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3135,7 +3084,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.339,
+      "recency_weight": 0.32,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3176,7 +3125,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.311,
+      "recency_weight": 0.293,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -3216,7 +3165,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.285,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3256,7 +3205,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.285,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3299,7 +3248,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.288,
+      "recency_weight": 0.272,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -3344,7 +3293,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.288,
+      "recency_weight": 0.272,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bea",
@@ -3728,7 +3677,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-02T02:19:38+00:00",
+      "latest_published_at": "2026-08-02T07:22:43+00:00",
       "warning": null
     },
     {
@@ -3754,8 +3703,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 30,
-      "latest_published_at": "2026-08-02T01:35:50+00:00",
+      "recent_items": 29,
+      "latest_published_at": "2026-08-02T07:47:37+00:00",
       "warning": null
     },
     {
