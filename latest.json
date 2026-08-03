@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:10:24.287033+00:00",
+  "generated_at": "2026-08-03T08:35:04.314224+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,99 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "f9fc386bf14a35f9f104",
+      "title": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb",
+      "summary": "AstraZeneca is reportedly in talks with U.S. peer Bristol Myers Squibb over a megadeal. If completed, a combined company could be valued at roughly roughly $400 billion. Analysts were perplexed over the news. AstraZeneca shares dropped as much as 7% after a report that the U.K.'s largest drugmaker was in talks with U.S. peer Bristol Myers Squibb over a megadeal that, if completed, could value the companies at roughly $400 billion. AstraZeneca declined to comment. Bristol Myers Squibb didn't immediately respond to a request to comment outside of normal working hours. The companies have discussed a potential merger over several months, the Financial Times reported on Sunday. It would be one of the biggest pharmaceutical deals ever. AstraZeneca's London-listed shares were last seen trading 6% lower in early morning trading, weighing on the U.K.'s blue-chip index FTSE 100 , which was largely flat. Coming into Monday trading, AstraZeneca had a market cap of $264 billion. That number has risen steadily over the past decade and since CEO Pascal Soriot took the reins in 2012 as the company has developed a solid pipeline of new drugs. It is targeting $80 billion in sales by 2030, up from $58.7 billion last year. Bristol Myers' market cap is roughly $133 billion. While details are scarce and sources told the FT a deal may still not come together, analysts were puzzled by the news. \"Given the strength of AZ's growth and innovation profile, we are a bit perplexed,\" Jefferies analysts wrote Monday morning. \"Of course financial accretion can look good and maybe more cash generation would allow for more R&D. But if there is one company that doesn't need financial engineering, it's AZ.\" One rationale for the reported deal talks could be AstraZeneca's strategic desire to move closer to the key U.S. market after the company completed a direct listing on the New York Stock Exchange earlier this year, replacing its earlier ADR program. AstraZeneca's U.S. sales accounted for 42% of total sales in the first half of 2026, and it explicitly targets the U.S. market to ensure its growth targets. Meanwhile, Princeton, New Jersey-based Bristol Myers Squibb sourced 69% of revenues from the U.S. market in the last quarter. The focus will likely be on the potential to establish an even bigger oncology powerhouse, with AstraZeneca's and Bristol Myers' combined portfolio of cancer drugs likely being the broadest in the industry, potentially attracting antitrust scrutiny, Jefferies said. Citi analysts said that if the merger talks report were true, it would be a \"surprise\" given AstraZeneca's best-in-class pipeline.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+      "published_at": "2026-08-03T08:29:43+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "984b57f89fa0958e8276",
+      "title": "ASML Supplier Zeiss Says It Can Handle Demand for Key AI Parts",
+      "summary": "One of the critical suppliers in the semiconductor industry, Germany’s Zeiss Group, pushed back on investor concerns about bottlenecks in the AI supply chain and said it’s confident it has the capacity to handle booming demand.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/asml-supplier-zeiss-says-it-can-handle-demand-for-key-ai-parts",
+      "published_at": "2026-08-03T08:25:02+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "9b7803d75262fb175012",
       "title": "Why Tungsten Is Getting More Expensive",
@@ -45,7 +138,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.989,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -86,7 +179,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.989,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -132,7 +225,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.996,
+      "recency_weight": 0.988,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -144,52 +237,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "41dd19c1fd8098e88835",
-      "title": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb",
-      "summary": "AstraZeneca is reportedly in talks with U.S. peer Bristol Myers Squibb over a megadeal. If completed, a combined company could be valued at roughly roughly $400 billion. Analysts were perplexed over the news. AstraZeneca shares dropped as much as 7% after a report that the U.K.'s largest drugmaker was in talks with U.S. peer Bristol Myers Squibb over a megadeal that, if completed, could value the companies at roughly $400 billion. AstraZeneca declined to comment. Bristol Myers Squibb didn't immediately respond to a request to comment outside of normal working hours. The companies have discussed a potential merger over several months, the Financial Times reported on Sunday. It would be one of the biggest pharmaceutical deals ever. AstraZeneca's London-listed shares were last seen trading 6.2% lower in early morning trading, weighing on the U.K.'s blue-chip index FTSE 100 , which was largely flat. Coming into Monday trading, AstraZeneca had a market cap of $264 billion. That number has risen steadily over the past decade and since CEO Pascal Soriot took the reins in 2012 as the company has developed a solid pipeline of new drugs. It is targeting $80 billion in sales by 2030, up from $58.7 billion last year. Bristol Myers' market cap is roughly $133 billion. While details are scarce and sources told the FT a deal may still not come together, analysts were puzzled by the news. \"Given the strength of AZ's growth and innovation profile, we are a bit perplexed,\" Jefferies analysts wrote Monday morning. \"Of course financial accretion can look good and maybe more cash generation would allow for more R&D. But if there is one company that doesn't need financial engineering, it's AZ.\" This is breaking news. Please refresh for updates.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
-      "published_at": "2026-08-03T07:52:36+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.994,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -220,7 +267,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.993,
+      "recency_weight": 0.985,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -265,7 +312,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.992,
+      "recency_weight": 0.984,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -312,7 +359,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.992,
+      "recency_weight": 0.984,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -354,7 +401,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.991,
+      "recency_weight": 0.983,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -395,7 +442,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.991,
+      "recency_weight": 0.983,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -440,7 +487,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.991,
+      "recency_weight": 0.983,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -483,7 +530,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -530,7 +577,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.987,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -572,7 +619,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.986,
+      "recency_weight": 0.978,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -617,7 +664,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.981,
+      "recency_weight": 0.973,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -661,7 +708,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.973,
+      "recency_weight": 0.965,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -703,48 +750,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.972,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "be77d3c963b43cc18843",
-      "title": "How Extreme Heat Affects Europe's Key Rivers",
-      "summary": "Europe’s biggest rivers, vital arteries for the region’s heavy industries, are drying up after the region was seared by a series of heat waves. Bloomberg's Eva Brendel breaks down the situation. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/how-extreme-heat-affects-europe-s-key-rivers-video",
-      "published_at": "2026-08-03T06:37:46+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.971,
+      "recency_weight": 0.964,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -790,7 +796,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.955,
+      "recency_weight": 0.948,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -836,7 +842,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.941,
+      "recency_weight": 0.933,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -881,7 +887,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.924,
+      "recency_weight": 0.916,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -926,7 +932,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.904,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -973,7 +979,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.894,
+      "recency_weight": 0.887,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1015,7 +1021,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.887,
+      "recency_weight": 0.88,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1059,7 +1065,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.878,
+      "recency_weight": 0.871,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b336693b750a39114a7a",
+      "title": "Korean Stocks Drop as Chipmakers Reverse Friday’s Record Gains",
+      "summary": "South Korean stocks slipped, as heavyweight chipmakers faced selloffs after Friday’s record gains while investors unwound leverage-backed trades.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/korean-stocks-drop-as-chipmakers-reverse-friday-s-record-gains",
+      "published_at": "2026-08-03T00:59:28+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.864,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1101,7 +1148,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.833,
+      "recency_weight": 0.826,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1121,31 +1168,34 @@
     {
       "event_id": "ffd8754740658c777c96",
       "title": "Stocks Rise as Oil Plunge Eases Pressure on Yields: Markets Wrap",
-      "summary": "US equity futures rose along with European stocks as oil plunged after President Donald Trump said fresh US-Iran talks would begin Monday, boosting optimism the two sides will reach a deal to reopen the Strait of Hormuz.",
+      "summary": "US equity futures rose along with European stocks as oil plunged after President Donald Trump said fresh US-Iran talks would begin Monday, easing concern over inflation that had pushed Treasury yields to the highest since January.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
       "published_at": "2026-08-02T22:09:16+00:00",
-      "event_type": "energy",
+      "event_type": "macro",
       "severity": "moderate",
-      "sentiment": 0.0,
+      "sentiment": 0.45,
       "affected_tags": [
         "broad_equity",
+        "dollar",
         "energy",
+        "growth",
         "macro",
         "market",
-        "oil"
+        "oil",
+        "rates"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "isolated",
+      "forward_significance": "trend_confirmation",
       "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.825,
+      "impact_score": 13.8,
+      "recency_weight": 0.818,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1192,7 +1242,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.806,
+      "recency_weight": 0.8,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1238,7 +1288,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.806,
+      "recency_weight": 0.8,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1281,7 +1331,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.798,
+      "recency_weight": 0.792,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1323,7 +1373,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.795,
+      "recency_weight": 0.788,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1367,7 +1417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.779,
+      "recency_weight": 0.773,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1412,7 +1462,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.767,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1454,7 +1504,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.747,
+      "recency_weight": 0.741,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1499,7 +1549,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.745,
+      "recency_weight": 0.739,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1547,7 +1597,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.745,
+      "recency_weight": 0.739,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1590,7 +1640,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.732,
+      "recency_weight": 0.727,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1632,7 +1682,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.731,
+      "recency_weight": 0.725,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1674,7 +1724,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.723,
+      "recency_weight": 0.717,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1720,7 +1770,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.719,
+      "recency_weight": 0.713,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1765,7 +1815,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.712,
+      "recency_weight": 0.706,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1810,7 +1860,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.699,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1856,7 +1906,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.699,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1897,7 +1947,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.699,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1939,7 +1989,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.699,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1981,7 +2031,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.698,
+      "recency_weight": 0.692,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2022,7 +2072,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.698,
+      "recency_weight": 0.692,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2068,7 +2118,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.691,
+      "recency_weight": 0.686,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2110,7 +2160,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.691,
+      "recency_weight": 0.686,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2151,7 +2201,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.691,
+      "recency_weight": 0.686,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2192,7 +2242,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.689,
+      "recency_weight": 0.683,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2233,7 +2283,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.685,
+      "recency_weight": 0.679,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2274,7 +2324,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.678,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2315,7 +2365,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.678,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2360,7 +2410,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.678,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2405,7 +2455,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.678,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2447,7 +2497,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.678,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2492,7 +2542,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.596,
+      "recency_weight": 0.591,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2533,7 +2583,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.555,
+      "recency_weight": 0.551,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2574,7 +2624,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.45,
+      "recency_weight": 0.446,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2615,7 +2665,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.447,
+      "recency_weight": 0.443,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2656,7 +2706,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.445,
+      "recency_weight": 0.442,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2697,7 +2747,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.44,
+      "recency_weight": 0.436,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2738,7 +2788,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.431,
+      "recency_weight": 0.428,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2779,7 +2829,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.427,
+      "recency_weight": 0.424,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2824,7 +2874,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.427,
+      "recency_weight": 0.424,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2866,7 +2916,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.327,
+      "recency_weight": 0.324,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2905,7 +2955,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.318,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -2950,7 +3000,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.32,
+      "recency_weight": 0.318,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2988,7 +3038,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.314,
+      "recency_weight": 0.311,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3032,7 +3082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.307,
+      "recency_weight": 0.304,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3073,7 +3123,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.289,
+      "recency_weight": 0.287,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3114,7 +3164,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.281,
+      "recency_weight": 0.279,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -3157,7 +3207,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.277,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3200,7 +3250,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.277,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3240,7 +3290,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.28,
+      "recency_weight": 0.277,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3287,7 +3337,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.272,
+      "recency_weight": 0.27,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3328,7 +3378,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.27,
+      "recency_weight": 0.268,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3720,8 +3770,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 10,
-      "latest_published_at": "2026-08-03T05:47:29+00:00",
+      "recent_items": 11,
+      "latest_published_at": "2026-08-03T08:25:02+00:00",
       "warning": null
     },
     {
@@ -3739,7 +3789,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-03T07:58:45+00:00",
+      "latest_published_at": "2026-08-03T08:29:43+00:00",
       "warning": null
     },
     {

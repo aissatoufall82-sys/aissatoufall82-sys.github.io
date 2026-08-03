@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T08:10:24.287033+00:00",
-  "generated_at_local": "2026-08-03 16:10:24 北京时间",
+  "generated_at": "2026-08-03T08:35:04.314224+00:00",
+  "generated_at_local": "2026-08-03 16:35:04 北京时间",
   "next_update_at_local": "2026-08-03 19:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
@@ -18,9 +18,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 77,
+  "total_items": 78,
   "total_official_items": 8,
-  "media_items": 69,
+  "media_items": 70,
   "items": [
     {
       "id": "141a1f37efa666e5967a",
@@ -209,19 +209,19 @@
       "in_event_ledger": true
     },
     {
-      "id": "214e0d766238fd55b0ca",
-      "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
+      "id": "984b57f89fa0958e8276",
+      "title": "ASML Supplier Zeiss Says It Can Handle Demand for Key AI Parts",
       "translation_label": "原文中文译读",
-      "translation": "The Cyber Alchemist的戈什谈人工智能网络安全风险。The Cyber Alchemist创始人兼首席信息安全官阿乔伊·戈什在作客彭博社《亚洲贸易》节目时，与主持人海迪·斯特劳德·沃茨和保罗·艾伦一同讨论了他对Anthropic和OpenAI最近披露黑客事件后企业应考虑的网络安全措施和解决方案的看法。",
+      "translation": "作为半导体行业的重要供应商，德国蔡司集团针对投资者对人工智能供应链瓶颈的担忧进行了回应，并表示有信心具备应对激增需求的处理能力。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：新法律或安全要求会提高AI内容和模型的审核门槛，平台需要增加标识、溯源、检测和人工复核。 可能受益：合规能力强的平台，以及提供内容溯源、身份验证、安全评测和版权管理的工具商。 可能承压：依赖低成本批量生成内容的卖家和应用，以及缺少训练数据授权或安全评测的模型提供方。 接下来观察：法规细则、平台执行范围、违规处罚和用户转化率。只有规则真正执行并影响成本或流量，财务影响才成立。",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/asml-supplier-zeiss-says-it-can-handle-demand-for-key-ai-parts",
       "source": "Bloomberg Technology",
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-03T05:47:29+00:00",
+      "published_at": "2026-08-03T08:25:02+00:00",
       "pick_score": 51,
       "event_type": "technology",
       "severity": "moderate",
@@ -451,6 +451,44 @@
       "pick_score": 75,
       "event_type": "geopolitical",
       "severity": "major",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "ffd8754740658c777c96",
+      "title": "Stocks Rise as Oil Plunge Eases Pressure on Yields: Markets Wrap",
+      "translation_label": "原文中文译读",
+      "translation": "股市上涨，因油价暴跌缓解了收益率的压力。随着总统唐纳德·特朗普表示美伊新一轮谈判将于周一启动，油价出现暴跌，美国股指期货与欧洲股市随之走高，这缓解了此前曾将美国国债收益率推高至1月以来最高水平的通胀担忧。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：油价上涨抬高通胀预期，投资者要求更高收益率，结果是现有债券价格下跌、融资成本上升。 可能受益：美元、短久期债券、现金类资产和上游能源公司。 可能承压：长期国债、高负债企业、REITs和高估值成长股；它们对利率上升最敏感。 接下来观察：布伦特与WTI、2年期和10年期国债收益率、通胀盈亏平衡率。油价或收益率回落，债券压力才会减轻。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
+      "source": "Bloomberg Markets",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-02T22:09:16+00:00",
+      "pick_score": 65,
+      "event_type": "macro",
+      "severity": "moderate",
       "impact_axes": [
         "利率/美元/估值折现",
         "指数风险偏好",
@@ -812,7 +850,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-02T05:18:21+00:00",
-      "pick_score": 52,
+      "pick_score": 51,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -835,48 +873,10 @@
       "in_event_ledger": false
     },
     {
-      "id": "ffd8754740658c777c96",
-      "title": "Stocks Rise as Oil Plunge Eases Pressure on Yields: Markets Wrap",
-      "translation_label": "原文中文译读",
-      "translation": "美股股指期货与欧洲股市一同上涨，此前油价暴跌缓解了收益率压力。美国总统唐纳德·特朗普表示，美伊新一轮会谈将于周一举行，这提振了市场对双方达成协议以重新开放霍尔木兹海峡的乐观情绪。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释债券融资、财政负担或汇率压力。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：油价上涨抬高通胀预期，投资者要求更高收益率，结果是现有债券价格下跌、融资成本上升。 可能受益：美元、短久期债券、现金类资产和上游能源公司。 可能承压：长期国债、高负债企业、REITs和高估值成长股；它们对利率上升最敏感。 接下来观察：布伦特与WTI、2年期和10年期国债收益率、通胀盈亏平衡率。油价或收益率回落，债券压力才会减轻。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-02T22:09:16+00:00",
-      "pick_score": 51,
-      "event_type": "energy",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "41dd19c1fd8098e88835",
+      "id": "f9fc386bf14a35f9f104",
       "title": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb",
       "translation_label": "原文中文译读",
-      "translation": "阿斯利康股价下跌7%，此前有报道称其正与Bristol Myers Squibb进行价值4000亿美元的并购谈判。据报道，作为英国最大的制药商，阿斯利康正与其美国同行Bristol Myers Squibb就一项超级交易进行谈判，若交易完成，合并后的公司估值可能达到约4000亿美元。分析师对这一消息感到困惑。在英国《金融时报》周日报道称两家公司正就一项可能成为史上最大制药交易之一的潜在合并进行数月讨论后，阿斯利康股价盘中一度暴跌高达7%。阿斯利康对此拒绝置评，Bristol Myers Squibb在正常工作时间之外未立即回应置评请求。阿斯利康在伦敦上市的股票在早盘交易中一度下跌6.2%，拖累英国蓝筹股指数FTSE 100基本持平。进入周一交易时，阿斯利康的市值为2640亿美元。随着该公司不断开发出稳健的新药管线，这一数字在过去十年间以及自CEO Pascal Soriot于2012年上任以来稳步上升。公司目前的战略目标是到2030年实现800亿美元的销售额，高于去年的587亿美元。Bristol Myers的市值约为1330亿美元。尽管细节尚不明确，且消息人士向《金融时报》透露交易仍可能无法达成，但分析师对这一消息感到不解。Jefferies分析师在周一早盘写道，鉴于阿斯利康强劲的增长和创新实力，我们感到有些困惑。当然，财务增厚可能看起来不错，或许更多的现金生成能允许更多的研发投入，但如果说有一家公司不需要金融工程，那就是阿斯利康。",
+      "translation": "在有报道称AstraZeneca正与美国同行Bristol Myers Squibb商讨一项巨型并购交易后，AstraZeneca的股价下跌了高达7%。如果这笔交易最终完成，合并后的公司估值可能达到大约4000亿美元。对于这一消息，AstraZeneca拒绝置评，而Bristol Myers Squibb在正常工作时间之外没有立即回应置评请求。据英国《金融时报》周日报道，这两家公司已经就潜在合并进行了几个月的讨论，这将成为有史以来规模最大的制药交易之一。在早盘交易中，AstraZeneca在伦敦上市的股票下跌了6%，拖累了表现基本持平的英国蓝筹股指数FTSE 100。在周一开盘前，AstraZeneca的市值已达2640亿美元。随着公司开发出稳健的新药管线，这一数字在过去十年以及自首席执行官Pascal Soriot于2012年掌舵以来稳步上升，公司正致力于到2030年实现800亿美元的销售额，高于去年的587亿美元。Bristol Myers的市值大约为1330亿美元。尽管细节稀少且消息人士向《金融时报》透露交易仍有可能无法达成，但分析师对这一消息感到困惑。Jefferies分析师在周一早盘写道，鉴于AstraZeneca增长和创新局面的强劲，他们感到有些困惑，当然财务增厚看起来不错，或许更多的现金生成能允许进行更多研发，但如果说有一家不需要金融工程的公司，那就是AstraZeneca。据报道，这起潜在交易谈判的一个合理解释可能是AstraZeneca的战略愿望，即在今年早些时候完成在纽约证券交易所的直接上市并取代先前的ADR计划后，进一步贴近美国这一关键市场。在2026年上半年，AstraZeneca的美国销售额占其总销售额的42%，并且该公司明确将美国市场作为确保其增长目标的重点。与此同时，总部位于新泽西州普林斯顿的Bristol Myers Squibb在上个季度有69%的收入来自美国市场。Jefferies表示，焦点可能在于建立一个更大肿瘤学巨头的潜力，AstraZeneca和Bristol Myers合并后的癌症药物产品组合很可能是行业中最广泛的，这也可能吸引反垄断审查。花旗分析师表示，如果关于合并谈判的报道属实，鉴于AstraZeneca拥有同类最佳的产品管线，这将是一个令人意外的消息。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
@@ -885,7 +885,7 @@
       "source": "CNBC Markets",
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-03T07:52:36+00:00",
+      "published_at": "2026-08-03T08:29:43+00:00",
       "pick_score": 51,
       "event_type": "technology",
       "severity": "moderate",
@@ -1244,8 +1244,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 10,
-      "latest_published_at": "2026-08-03T05:47:29+00:00",
+      "recent_items": 11,
+      "latest_published_at": "2026-08-03T08:25:02+00:00",
       "warning": null
     },
     {
@@ -1263,7 +1263,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-03T07:58:45+00:00",
+      "latest_published_at": "2026-08-03T08:29:43+00:00",
       "warning": null
     },
     {
