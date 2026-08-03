@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:46:46.877754+00:00",
+  "generated_at": "2026-08-03T11:10:19.882083+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,36 +21,35 @@
   "environment": null,
   "events": [
     {
-      "event_id": "e21b488048d74a0aa147",
-      "title": "U.S. Treasury yields fall as oil prices plunge on Iran de-escalation hopes",
-      "summary": "U.S. Treasury yields followed oil prices lower on Monday as investors monitor signs of de-escalation in the Iran conflict. The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell over 1 basis point to 4.688%. The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, fell 4 basis points to 4.252%. The longer-dated 30-year Treasury bond yield fell over 4 basis points to 5.226%. One basis point is equal to 0.01%, and yields and prices move in opposite directions. It came as oil prices slumped on Monday following President Donald Trump's claims that negotiations with Iran will begin again , after the U.S. held off on fresh strikes against the Islamic Republic at the request of Gulf allies. However, Iranian foreign ministry spokesperson Esmail Baghaei again poured cold water on the notion of direct negotiations with the United States. Baghaei told a press conference on Monday that there is no immediate plan for negotiations with the U.S., reiterating that Tehran is currently only engaged in talks with Oman regarding the Strait of Hormuz. Last week, the 30-year Treasury yield rose to its highest level since 2007 as investors reacted to an apparently \"hawkish hold\" from Federal Reserve interest rate setters. Some Fed officials said Friday that they favor raising rates to help ease inflation. Those officials voted against the central bank's decision in a 9-3 vote on Wednesday to hold its key interest rate steady in a range of 3.5% to 3.75%. \"While the decline in short-dated yields reflects a more dovish near-term policy outlook, the rise in long-end yields signals growing concern that Chair Warsh may prove unwilling to act aggressively enough should inflation remain elevated,\" said Seema Shah, chief global strategist at Principal Asset Management. \"The bond market is effectively testing the Fed's credibility.\" Monday's data highlight is manufacturing PMI data for July, released at 3:00 p.m. ET.",
-      "source": "CNBC Markets",
+      "event_id": "02609c587c8e18f804e8",
+      "title": "SpaceX Investors Want to Quiz Elon Musk About a Potential Tesla Merger",
+      "summary": "Many wonder whether a merger is ahead",
+      "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/03/us-treasury-yields-investors-bonds-war.html",
-      "published_at": "2026-08-03T08:39:18+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": -0.5,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger",
+      "published_at": "2026-08-03T11:02:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "energy",
+        "ai",
         "growth",
-        "macro",
         "market",
-        "oil",
-        "rates"
+        "semiconductor",
+        "technology"
       ],
       "categories": [
         "market",
-        "broad_equity",
-        "macro"
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 13.8,
-      "recency_weight": 0.998,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -61,21 +60,155 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期"
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
       }
     },
     {
-      "event_id": "f9fc386bf14a35f9f104",
-      "title": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb",
-      "summary": "AstraZeneca is reportedly in talks with U.S. peer Bristol Myers Squibb over a megadeal. If completed, a combined company could be valued at roughly roughly $400 billion. Analysts were perplexed over the news. AstraZeneca shares dropped as much as 7% after a report that the U.K.'s largest drugmaker was in talks with U.S. peer Bristol Myers Squibb over a megadeal that, if completed, could value the companies at roughly $400 billion. AstraZeneca declined to comment. Bristol Myers Squibb didn't immediately respond to a request to comment outside of normal working hours. The companies have discussed a potential merger over several months, the Financial Times reported on Sunday. It would be one of the biggest pharmaceutical deals ever. AstraZeneca's London-listed shares were last seen trading 6% lower in early morning trading, weighing on the U.K.'s blue-chip index FTSE 100 , which was largely flat. Coming into Monday trading, AstraZeneca had a market cap of $264 billion. That number has risen steadily over the past decade and since CEO Pascal Soriot took the reins in 2012 as the company has developed a solid pipeline of new drugs. It is targeting $80 billion in sales by 2030, up from $58.7 billion last year. Bristol Myers' market cap is roughly $133 billion. While details are scarce and sources told the FT a deal may still not come together, analysts were puzzled by the news. \"Given the strength of AZ's growth and innovation profile, we are a bit perplexed,\" Jefferies analysts wrote Monday morning. \"Of course financial accretion can look good and maybe more cash generation would allow for more R&D. But if there is one company that doesn't need financial engineering, it's AZ.\" One rationale for the reported deal talks could be AstraZeneca's strategic desire to move closer to the key U.S. market after the company completed a direct listing on the New York Stock Exchange earlier this year, replacing its earlier ADR program. AstraZeneca's U.S. sales accounted for 42% of total sales in the first half of 2026, and it explicitly targets the U.S. market to ensure its growth targets. Meanwhile, Princeton, New Jersey-based Bristol Myers Squibb sourced 69% of revenues from the U.S. market in the last quarter. The focus will likely be on the potential to establish an even bigger oncology powerhouse, with AstraZeneca's and Bristol Myers' combined portfolio of cancer drugs likely being the broadest in the industry, potentially attracting antitrust scrutiny, Jefferies said. Citi analysts said that if the merger talks report were true, it would be a \"surprise\" given AstraZeneca's best-in-class pipeline.",
+      "event_id": "0c7b695c5b3d003fa6a6",
+      "title": "AstraZeneca reported tie-up talks with Bristol-Myers Squibb are moving stocks. Analysts are puzzled.",
+      "summary": "AstraZeneca shares were slumping while Bristol-Myers Squibb was jumping on Monday on reported deal talks. But the big question is why these two pharmaceutical giants would want to come together in the first place.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T11:02:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "38b90116a6549b6ce2f2",
+      "title": "Whole Foods is Dhedding the \"Whole Paycheck\" Label",
+      "summary": "Under Amazon, Whole Foods is shedding its \"whole paycheck\" reputation. The chain has cut prices and expanded private label selection in a bid to attract inflation-bit shoppers, Matt Day explains. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/whole-foods-is-dhedding-the-whole-paycheck-label",
+      "published_at": "2026-08-03T11:00:06+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2023707888d2c206a9e5",
+      "title": "Whole Foods Stocks More Affordable Items With Expanded 365 Brand",
+      "summary": "The grocery chain has cut prices and expanded its 365 private label selection&nbsp;in a timely bid to attract inflation-bit&nbsp;shoppers.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/features/2026-08-03/whole-foods-stocks-more-affordable-items-with-expanded-365-brand",
+      "published_at": "2026-08-03T11:00:05+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "dollar",
+        "growth",
+        "market",
+        "rates",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "35e95ee769f58e556dd3",
+      "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
+      "summary": "OpenAI’s ChatGPT accounted for about 88% of identifiable House spending on artificial intelligence tools during the year ending March 31, according to a CNBC analysis. ChatGPT purchases appeared in at least 71 House member offices — roughly 1 in 6 — while Democratic offices spent more than three times as much as Republican offices on identifiable AI tools. The figures capture only part of Congress’ AI use but show the technology becoming embedded in legislative research, constituent work and communications as lawmakers debate how the industry should be regulated and overseen. OpenAI is dominating the first visible wave of artificial intelligence spending inside Congress . The maker of ChatGPT accounted for roughly $9 out of every $10 spent on identifiable AI tools by House offices, committees and institutional accounts during the year ending March 31, according to a CNBC analysis of House disbursement records . The records offer only a partial view of Congress' AI adoption because they exclude free accounts, AI bundled into broader software contracts and most Senate use. Even so, they show at least a sixth of House member offices — and likely many more — are already using AI tools as lawmakers shape the industry's future. CNBC identified at least $113,740 in spending on named AI vendors between April 1, 2025, and March 31, 2026, the most recent data available. ChatGPT accounted for $100,580 of that total across 798 transactions — about 88% of the dollars and 96% of the transactions reviewed. Anthropic's Claude , ChatGPT's closest chatbot rival, was a distant second, totaling $13,160 across 37 transactions. The competition is about more than congressional office productivity. OpenAI, Anthropic, Google and Microsoft are racing for influence across Washington as lawmakers and federal agencies decide how AI should be purchased, used and regulated. Congressional staff are using the tools to summarize legislation, draft memos, prepare hearing materials and respond to constituents — work that can shape how offices understand policy, communicate with voters and manage the flood of information arriving on Capitol Hill. Rep. Julie Fedorchak, R-N.D., said her staff used to spend hours writing memos to prepare her for the dozen-plus meetings she would have in a day — time that ate into writing and advancing legislation. Fedorchak said she and her staff used ChatGPT to develop a searchable database of legislation she has worked on and materials received from constituents and outside organizations. She said using AI to produce briefing memos from that information is \"saving dozens and dozens of hours every week of staff time.\" Other offices are also using AI to summarize reports and bills , draft social media posts, prepare constituent responses, analyze legislation, review hearing materials and sort through policy research, according to Marci Harris, CEO of POPVOX Foundation , a nonprofit that helps train members of Congress and staff on how to use AI. \"Staffers are famously overwhelmed, and actually AI is exacerbating that,\" Harris said, noting that lobbyists and constituents are also using AI to send longer, more frequent and more detailed material to congressional offices. Lawmakers are working with less staff than in years past, Brennan Center for Justice senior research fellow Maya Kornberg notes in her book \"Stuck — How Money, Media and Violence Prevent Change in Congress.\" Democratic member offices accounted for $54,165 in identified AI purchases, more than three times the $15,782 spent by Republican offices. ChatGPT purchases appeared in 44 Democratic member offices and 27 Republican offices. Claude purchases appeared in five Democratic offices and one Republican office. The numbers underscore an awkward political dynamic: Democrats are leading the visible spending on AI tools, even as many in the party have warned about the technology's risks to workers, privacy, civil rights, elections and corporate power. Exact congressional spending on AI tools is unknown The figures almost certainly understate Congress' total AI use. CNBC's analysis is limited to purchases for which House disbursement records specifically name an AI vendor. It does not capture use of free versions of ChatGPT, Claude or other products, nor does it capture AI functions bundled into broader software contracts, including Microsoft Copilot . Some offices also have a financial administrator purchase subscriptions and then reimburse that person. In those cases, the records show the reimbursement but not the specific tools purchased. The analysis also excludes the Senate, whose public spending reports do not identify software vendors in the same way, making ChatGPT subscriptions impossible to trace. The Senate does not allow Claude for official use, according to chamber rules. Harris said the House's Microsoft Copilot deployment may represent more official AI spending than the ChatGPT purchases visible in public records.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
-      "published_at": "2026-08-03T08:29:43+00:00",
+      "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
+      "published_at": "2026-08-03T11:00:01+00:00",
       "event_type": "technology",
       "severity": "moderate",
       "sentiment": 0.0,
@@ -96,7 +229,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.995,
+      "recency_weight": 0.997,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -108,6 +241,1400 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1d3b55ff0a66d5aa60f1",
+      "title": "Private credit has dodged public scrutiny for too long — and regulators need to step in",
+      "summary": "State regulators should mandate public disclosure of ratings of private credit.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/private-credit-has-dodged-public-scrutiny-for-too-long-and-regulators-need-to-step-in-9ebb1d8c?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6cb180bbf9f8faa61a30",
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "73f0b42e444979220d40",
+      "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
+      "summary": "The European Commission on Sunday gained new powers to investigate, impose fines and order changes at companies developing AI models, as part of the rollout of its AI Act. The new powers could bring further flashpoints between the U.S. and European Commission, with the two sparring over Europe's push for tech sovereignty and fines issued towards American tech companies. U.S. President Donald Trump threatened the EU with a \"substantial\" tariff after the bloc hit Google with a $1 billion fine in July, under Digital Markets Act rules. The European Union gained new powers to inspect AI models, restrict EU market access and fine model providers, raising the stakes for U.S. companies like Anthropic and OpenAI and Google . Under the powers that came into effect on Sunday, the Commission, the EU's executive arm, can demand to evaluate models before public release in the region, restrict EU market access and fine a provider up to 15 million euros or 3% of its annual turnover, whichever is higher. The new powers could mean further flashpoints between the U.S. and European Commission, with the two sparring over Europe's push for tech sovereignty and fines on American tech companies. Google was hit with a $1 billion fine in July after European regulators said the company gave preferential treatment to its own services. In response, U.S. President Donald Trump threatened the EU with a \"substantial\" tariff. How the powers fit into the EU AI Act rollout The EU AI Office's supervisory and enforcement powers over general-purpose AI models are part of a staggered rollout of the 2024 EU AI Act, which has imposed a transition period for certain aspects of the law. Henna Virkkunen, executive vice-president for tech sovereignty, security and democracy at the European Commission, said in a statement: \"Harms can occur if AI is not properly designed and used and the most advanced models create risks on an entirely new scale.\" Anthropic, the White House and the Department of Commerce have been approached for comment. Recent rapid leaps in AI capability have also brought new tensions between AI labs and the EU. The bloc had sought access to Anthropic's Mythos model for months before the company said it would share access . Europe's latest moves come as it scrambles to build up tech sovereignty to stop being so reliant on U.S. systems as tensions with the U.S. administration rise. The EU is in talks with OpenAI and Anthropic after recent cyber attacks by their models, Reuters reported on Friday. OpenAI confirmed it was in contact with the EU AI Office. The European Commission and Anthropic have been approached for comments on the report. Elisabetta Righini, partner at Sidley Austin, told CNBC the powers could be used on any company offering a general purpose AI [GPAI] model in the EU, regardless of where they were based. \"A U.S. address does not put a lab outside the EU regulator's reach,\" she said. \"Non-EU providers must also appoint an EU-based authorised representative as the regulator's point of contact.\" Exposure to risks from fines for AI companies is \"real\", Righini said. \"What's rarely appreciated is that GPAI liability isn't limited to substantive breaches: refusing an information request, giving misleading answers, or blocking a model evaluation is fineable on its own,\" she added. While the new enforcement powers relate to the AI Act, the Commission has taken steps to clamp down on AI in the past. In January, the bloc said it opened an investigation into Elon Musk's X over the spreading of sexually explicit material by the AI chatbot Grok. \"We've collaborated closely with the European Commission and the wider ecosystem on implementing the AI Act, including its Codes of Practice, and will continue working together to help Europe realise the benefits of the Intelligence Age,\" Tom Gordon, VP, EMEA policy at OpenAI, told CNBC when asked to comment on the new powers. A Google spokesperson said: \"As the Act and its codes of practice take effect, we remain dedicated to meeting all applicable rules as part of our primary mission: advancing European AI infrastructure and innovation.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+      "published_at": "2026-08-03T10:59:59+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "caf8993b819fc55d841c",
+      "title": "Top Philippine Power Retailer to Refund $156 Million to Clients",
+      "summary": "Manila Electric Co., the Philippines’ largest power distributor, was ordered by the regulator to refund 9.5 billion pesos ($156 million), representing excess charges to customers.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/top-philippine-power-retailer-to-refund-156-million-to-clients",
+      "published_at": "2026-08-03T10:58:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3b55935a0884c46c8e41",
+      "title": "Bloomberg News Now",
+      "summary": "Trump Pushes for New Iran Negotiations DOJ Ends Controversial Anti-Weaponization Fund Senate Unveils Short-Term Funding Bill Chip Stocks in Focus After July Selloff U.S. and Japan Intervene to Support Yen Markets Brace for Key U.S. Jobs Report AstraZeneca Explores Bristol-Myers Merger (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/bloomberg-news-now-video",
+      "published_at": "2026-08-03T10:56:52+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "e99eefdf578179a92c9f",
+      "title": "The US Has a Lot at Stake in Rare Intervention to Prop Up Yen",
+      "summary": "Bond yields and trade policy may be in play.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-03/the-us-has-a-lot-at-stake-in-rare-intervention-to-prop-up-yen",
+      "published_at": "2026-08-03T10:49:40+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "e7de74961877b7c06401",
+      "title": "Prysmian Strikes Deal to Buy US Electric Maker Atkore",
+      "summary": "Italy’s Prysmian has reached an all-cash deal to buy electrical manufacturing company Atkore Inc. Prysmian said it’s paying $95 per share in an offer that values the company at an enterprise value of about $3.8 billion. Prysmian CEO Massimo Battaini discusses the deal on “Bloomberg Brief.” (Source: Bloomberg)",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/prysmian-strikes-deal-to-buy-us-electric-maker-atkore-video",
+      "published_at": "2026-08-03T10:45:24+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.992,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "14fbae45870c238f3796",
+      "title": "Derivatives Trading Sinks at Biggest Indian Bourse on RBI Curbs",
+      "summary": "India’s largest stock exchange was severely hit by the central bank’s tighter funding rules implemented last month, with spending on derivatives slumping to a 17-month low.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/derivatives-trading-sinks-at-biggest-indian-bourse-on-rbi-curbs",
+      "published_at": "2026-08-03T10:45:22+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.992,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9d5eb8198d62812522cc",
+      "title": "UK Shipbroker Clarkson Sees Result Boost from Hormuz Disruption",
+      "summary": "Clarkson Plc expects its full year performance to be “materially ahead of market expectations” after the shipbroker delivered a record first-half performance boosted by “exceptional volatility” caused by the disruption in the Strait of Hormuz.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/uk-shipbroker-clarkson-sees-result-boost-from-hormuz-disruption",
+      "published_at": "2026-08-03T10:40:54+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9a7e545a24e53335ead4",
+      "title": "Fed’s Williams Says Interest Rates Are Well Positioned: Reuters",
+      "summary": "Federal Reserve Bank of New York President John Williams said interest rates remain well positioned as inflation should ease during the second half of the year.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/fed-s-williams-says-interest-rates-are-well-positioned-reuters",
+      "published_at": "2026-08-03T10:35:56+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3f7124e73562a85da480",
+      "title": "JPY/USD: Why the US Helped Japan Intervention to Prop Up Yen",
+      "summary": "The yen’s weakness has become a growing issue for Japan’s policymakers, given its role in driving up import prices and household living costs. It’s also become a worry for the US.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/jpy-usd-why-the-us-helped-japan-intervention-to-prop-up-yen",
+      "published_at": "2026-08-03T10:35:49+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5c84c91c8133b01b77f5",
+      "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
+      "summary": "Chinese tech giant Alibaba's stock rose on Monday after unveiling its latest \"most powerful\" AI model. Alibaba said Qwen3.8-Max contains 2.4 trillion parameters and is competitive with Anthropic's AI models. Chinese companies are locked in a race with the U.S. to achieve AI supremacy. Alibaba unveiled its latest and \"most powerful\" AI model Qwen3.8-Max on Monday as Chinese companies race to close the AI gap with the U.S. Qwen3.8-Max , which is scheduled for release next week, boasts 2.4 trillion parameters, making it one of the \"most powerful\" AI models in the Chinese tech giant's Qwen family of AI models to date, Alibaba said. Parameters refer to the numerical settings that shape how AI processes information and generates responses. The model also supports a context window of up to 1 million tokens, which means it can understand and work with thousands of pages of information. Alibaba's New York-listed shares were up 4.5% in premarket trading, while its shares rose 7% on the Hong Kong exchange . The model's capabilities also include coding, real-life work, research, long-horizon tasks and visual intelligence. Alibaba shared results showing it delivering comparable or sometimes better scores than Anthropic's Fable 5. The model also only ranks second to Fable 5 in the Vision Arena, and fifth in the Text Arena. It comes after domestic riva l Moonshot AI released Kimi K3 earlier this month, which has 2.8 trillion parameters, making it China's largest AI model. Meanwhile, Qwen3.8-Max can code highly autonomously for weeks with little human input, Alibaba said. In one internal test, it spent 16 days building and improving an AI coding tool by writing code, testing it, fixing errors, and refining its work on its own. It can also manage real-world workloads such as reviewing legal documents, conducting financial research, or architectural 3D modeling. Its visual intelligence spans being able to understand hundred-page documents, television series, or 100-hour livestreams and turning them into searchable, interactive knowledge hubs.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+      "published_at": "2026-08-03T10:34:35+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "cff2295fcaedaa5f7637",
+      "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
+      "summary": "China's domestic tourism is underperforming expectations, as Hilton's China revenue per available room fell 2.2% year-on-year in the second quarter. Industry RevPAR has deteriorated by 6% in July, according to a Goldman Sachs report. Industry weakness points towards demand softness, as room rates for tourist hotspots fall. Inbound travel and premium segments diverge from this overall slowdown as strong performers. China's domestic tourism market is weakening faster than expected, clouding one of the few bright spots in the country's sluggish consumer economy. Hilton China said last week it now expects revenue per available room (RevPAR) to fall by low single digits this year, worse than expectations earlier this year for a flat performance. The hotel group's RevPAR swung from 1.3% growth in the first quarter, to a 2.2% fall in the second quarter. \"The China economy is sputtering, and I mean it's growing, but not consistent with what prior growth rates have been,\" Christopher Nassetta, President and CEO of Hilton, said in the group's earnings call on Tuesday, according to a FactSet transcript. A weekend night in August at a Hilton resort in Dali, Yunnan province, popular with domestic Chinese tourists, runs at $173. But other options recommended on travel booking site Trip.com are less than half the price, with one around $50. Across China, hotel RevPAR has tumbled 6% year-on-year through late July, following a 1% drop in June, according to Smith Travel Research data cited by Goldman Sachs on Tuesday. That's after RevPAR rose mildly this spring, the data showed. A three percentage point drop in occupancy along with a 1% decline in average daily rates versus a year ago dragged down revenue, the Goldman report indicated. The downturn reflects how China's post-Covid tourism boom is fading after three years, amid a broader slowdown in the economy and retail sales. Gary Ng, senior economist at Natixis, noted that there has been a \"sharp decline of per-capita spending\" on tourism since the third quarter of 2025. \"While tourism is still a bright spot, [it] cannot escape this broad macro trend,\" he said, adding that consumers in China increasingly seek more unique or premium experiences, amid slower wage growth. Trip.com data showed price competition was clear in the three most-popular Chinese regions for travel this summer — Shanghai, Xinjiang and Yunnan. An August weekend stay in China can cost anywhere from 40 yuan (US$6) to 18,000 yuan (US$2,633) per night, according to a CNBC analysis of Trip.com listings. One-night stays saw a median price of just 192 yuan (US$28) in Kashgar, Xijiang, 373 yuan (US$55) in Dali, Yunnan, and 595 yuan (US$88) in Shanghai. Although premium rooms costing thousands of yuan lifted the averages, typical prices were far lower, with inexpensive options widely available in all three destinations. China's retail sales have remained sluggish since the pandemic, with spending dipping in May from a year ago. Consumer prices have likewise been subdued, with a slower-than-expected 1% rise in June from a year ago. Reflecting a sequential decline, the travel sub-index – part of the broader consumer price index – dropped by 0.6% in June from the prior month, according to China's National Bureau of Statistics. In accompanying commentary , chief statistician Dong Liquan also pointed to sharp price drops in hotel rates and airfares. While sentiment towards the domestic tourism market remains dim, inbound travel is emerging as a source of hope for the industry. Thanks to China's policy of allowing in travelers visa free from a growing number of countries, including in Europe, visitors from economies with far higher per capita income than China 's are coming. Upscale U.S. hotel operator Hyatt on Thursday reported an 18% increase in U.S. visitors into China, and 24% from Europe in the past quarter. This premium end of the market offers a far brighter picture than the rest of the industry. \"China luxury properties were up 11% this past quarter in China. Lot of it's leisure. So China is on fire,\" Mark Hoplamazian, Hyatt president and CEO, said on the earnings call, according to a FactSet transcript. Hyatt's Greater China RevPAR rose 7.2% year-on-year in the second quarter, as Hoplamazian cited \"leisure luxury\" as a key driver. Inbound travelers offer modest support for China's tourism market. Overseas visitors account for 12% to 13% of total tourism spending, according to Natixis estimates.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
+      "published_at": "2026-08-03T10:32:09+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.988,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "45c42770e9d1980ed630",
+      "title": "The AI Domination Race is Adding to US-China Tensions",
+      "summary": "The US has used plenty of sticks in an attempt to slow China’s progress in AI.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-03/the-ai-domination-race-is-adding-to-us-china-tensions",
+      "published_at": "2026-08-03T10:30:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ea3d669e1a09a816d1cb",
+      "title": "Mamdani’s Rent Freeze Heaps Pressure on a Teetering CMBS Deal",
+      "summary": "A $506 million bet on thousands of New York rent-stabilized apartments has already soured for bond investors. Mayor Zohran Mamdani’s rent freeze threatens to make it worse.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/mamdani-s-rent-freeze-heaps-pressure-on-a-teetering-cmbs-deal",
+      "published_at": "2026-08-03T10:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c90616d74e3b425b160a",
+      "title": "Oil prices fall to three-week low after Trump calls off planned attack",
+      "summary": "Oil prices declined sharply on Monday as hopes rose among investors of a potential de-escalation in the war between the U.S. and Iran.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/oil-prices-fall-to-three-week-low-after-trump-calls-off-planned-attack-631a8683?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T10:26:00+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6d5ca2358ad86487bf1e",
+      "title": "Treasuries Climb at Start of Week on Oil, Bessent’s Yen Pledge",
+      "summary": "Treasuries are starting the week on an optimistic note, buoyed by tumbling oil prices and assurances that tens of billions of dollars in Japanese currency interventions won’t be funded from sales of US government debt.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/treasuries-climb-at-start-of-week-on-oil-bessent-s-yen-pledge",
+      "published_at": "2026-08-03T10:18:19+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "079bb99d2cf12be0c59f",
+      "title": "China LGFV Says It Can Repay Debt Even as Bond Sale Hits Snag",
+      "summary": "A Chinese municipal borrower said it has enough funds to repay 1.08 billion yuan ($160 million) in offshore notes due next week, after people familiar with the matter said a plan to refinance that debt with a new bond sale had been delayed.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/china-lgfv-says-it-can-repay-debt-even-as-bond-sale-hits-snag",
+      "published_at": "2026-08-03T10:08:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.98,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "68451874a33ba28cc81f",
+      "title": "Fed’s Warsh Floats a Rethink of FOMC Policy Meeting Frequency",
+      "summary": "Federal Reserve Chairman Kevin Warsh is weighing the possibility of changing the frequency of regular policy meetings for the US central bank, according to people familiar with the matter. Alister Bull reports on Bloomberg Television. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/fed-s-warsh-floats-a-rethink-of-policy-meeting-frequency-video",
+      "published_at": "2026-08-03T10:04:44+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.979,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "07cc62d6edd0195427f1",
+      "title": "BlackRock Jostles Rivals Like Apollo in Bid for Mexican Projects",
+      "summary": "From its perch in one of Mexico City’s priciest office towers, overlooking the capital’s sprawling Chapultepec Park, BlackRock Inc. has its sights set on the country’s buildout.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/blackrock-jostles-rivals-like-apollo-in-bid-for-mexican-projects",
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "3da4b77fdfe50e47581a",
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ed0ef3dfb800f5633aef",
+      "title": "Morgan Stanley’s Wilson Tips Earnings to Revive Momentum Trade",
+      "summary": "Momentum-style equity investing is poised to rebound from a sharp retreat as sectors with strong earnings replace chip stocks in leading the market’s gains, Morgan Stanley strategist Michael Wilson said.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/morgan-stanley-s-wilson-tips-earnings-to-revive-momentum-trade",
+      "published_at": "2026-08-03T09:54:42+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.976,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f7af7d498f02a5bb7ffd",
+      "title": "AstraZeneca slides after report of Bristol Myers merger talks leaves analysts 'perplexed'",
+      "summary": "AstraZeneca is reportedly in talks with U.S. peer Bristol Myers Squibb over a megadeal. If completed, a combined company could be valued at roughly roughly $400 billion. Analysts were puzzled by both the news itself, as well as the timing of it. AstraZeneca shares dropped as much as 7% on Monday after a report that the company had discussed a potential mega-merger with Bristol Myers Squibb , a deal that analysts said would be a surprising strategic move for one of the pharmaceutical industry's strongest growth stories. If completed, a deal could value the companies at roughly $400 billion, and rank among the largest pharmaceutical tie-ups ever. Neither company confirmed the report. AstraZeneca declined to comment, while Bristol Myers Squibb did not immediately respond to CNBC's request for comment outside normal U.S. business hours. While details of the talks remain scarce and sources told the FT that a deal may never materialize, analysts questioned why AstraZeneca — whose market value has surged under CEO Pascal Soriot on the back of a strong drug pipeline — would pursue such a transaction. AstraZeneca's London-listed shares were last seen trading 6.1% lower, weighing on the U.K.'s blue-chip index FTSE 100 , which was largely flat. Coming into Monday trading, AstraZeneca had a market cap of $264 billion. That number has risen steadily over the past decade and since CEO Pascal Soriot took the reins in 2012 as the company has developed a solid pipeline of new drugs. It is targeting $80 billion in sales by 2030, up from $58.7 billion last year. Bristol Myers' market cap is roughly $133 billion, and the company is facing loss of exclusivity for multiple drugs. It's expected to see declining growth from next year as patents expire and top-selling drugs like its blood thinner Eliquis and cancer medicine Opdivo will start to face generic competition. \"Given the strength of AZ's growth and innovation profile, we are a bit perplexed,\" Jefferies analysts wrote Monday morning. \"Of course financial accretion can look good and maybe more cash generation would allow for more R&D. But if there is one company that doesn't need financial engineering, it's AZ.\" It also comes as Bristol Myers has major trial readouts looming for its newer blood thinner medication milvexian and the expansion of the label for its schizophrenia drug Cobenfy, making pipeline synergies between the two companies uncertain, noted RBC Capital Markets analysts. One rationale for the reported deal talks could be AstraZeneca's strategic desire to move closer to the key U.S. market after the company completed a direct listing on the New York Stock Exchange earlier this year, replacing its earlier ADR program. AstraZeneca's U.S. sales accounted for 42% of total sales in the first half of 2026, and it explicitly targets the U.S. market to ensure its growth targets. Meanwhile, Princeton, New Jersey-based Bristol Myers Squibb sourced 69% of revenues from the U.S. market in the last quarter. The focus will likely be on the potential to establish an even bigger oncology powerhouse, with AstraZeneca's and Bristol Myers' combined portfolio of cancer drugs likely being the broadest in the industry, potentially attracting antitrust scrutiny, Jefferies said. While the companies overlap in oncology, cardiovascular disease and immunology, their pipelines are largely complementary, with AstraZeneca stronger in solid tumors and Bristol Myers Squibb more focused on blood cancers and cell therapies. Citi analysts said that if the merger talks report were true, it would be a \"surprise\" given AstraZeneca's \"best-in-class pipeline.\" AstraZeneca did, however, report a rare setback when a late-stage clinical trial for a heart disease drug failed to meet its target earlier this month. It raised some questions around management's credibility, given the confidence they had communicated coming into the results. Even so, most analysts still considered the $80 billion sales target achievable by the end of the decade.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+      "published_at": "2026-08-03T09:50:18+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.975,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "135fbdc34089f8febb4e",
+      "title": "Europe’s Key Rivers Are Drying Up; Mixed Messages on US, Iran Talks | The Opening Trade 8/3/2026",
+      "summary": "President Donald Trump said fresh US-Iran talks would begin Monday, boosting optimism the two sides will reach a deal to reopen the Strait of Hormuz. While Iran Foreign Ministry Spokesman Esmail Baghaei said “We are not currently negotiating with the United States, and the negotiations with Oman are focused on reaching an agreement regarding the safe passage of ships through the Strait of Hormuz,” Europe’s biggest rivers are drying up after the region was seared by a series of heat waves. Soaring temperatures are also curbing power generation from France to Hungary, pushing up energy prices and straining Eastern European economies. The Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards and Lizzy Burden. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/the-opening-trade-8-3-2026-video",
+      "published_at": "2026-08-03T09:48:39+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.974,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5788e600d547ce30fbe2",
+      "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
+      "summary": "South Korean AI chip designer DeepX Co. has secured fresh funding at roughly four times its previous valuation, in a sign of sustained enthusiasm for companies involved in the artificial intelligence boom.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+      "published_at": "2026-08-03T09:45:07+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.973,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6adafc4488125099a0d6",
+      "title": "How Siri AI Stacks Up Against the New ChatGPT",
+      "summary": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity. (Source: Bloomberg)",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
+      "published_at": "2026-08-03T09:30:06+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "200a746e514964f4817a",
+      "title": "Apple Siri AI vs. ChatGPT: Which AI Assistant Is Better?",
+      "summary": "When Apple Inc. releases Siri AI this fall in iOS 27, it will instantly become the world’s most widely distributed artificial intelligence chatbot.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better",
+      "published_at": "2026-08-03T09:30:04+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "6154abb8f83de6f21f66",
+      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
+      "summary": "Oil prices fell after U.S. President Donald Trump said he had called off a planned strike on Iran. \"We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to,\" Trump said in a Truth Social post. Oil prices fell Monday in Asia trading as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran . West Texas Intermediate futures for September delivery declined 5.59% to $79.94 per barrel as of 5:12 a.m. ET. Brent crude futures for October delivery lost 4.63% to $83.86 a barrel. Trump said early Sunday that he had called off a planned strike on Iran after receiving a request from Tehran and other countries in the Middle East. He said the proposed agreement would include the \"Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\" Trump has reportedly been weighing another round of strikes on Iran amid fading prospects for a diplomatic resolution to the conflict, which began on Feb. 28. Tehran responded cautiously to Trump's announcement. \"Although the enemy's recent statements are part of a psychological and cognitive warfare campaign, we consider every threat to be real and take it seriously,\" said Seyyed Majid Ibn Al-Reza, Iran's acting defense minister, according to a state media post on X. Iran's Fars International news agency, which is affiliated with the Islamic Revolutionary Guard Corps, dismissed Trump's proposal, saying in a Telegram post on Sunday that his demands amounted to a \"wish list.\" — CNBC's Azhar Sukri and Terri Cullen contributed to this report.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+      "published_at": "2026-08-03T09:23:26+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.966,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "60b26c5d680ccafda194",
+      "title": "Warsh tightened more by pausing than by lifting rates, this bond-market veteran argues. Here’s the math.",
+      "summary": "It sounds paradoxical, but Federal Reserve Chair Kevin Warsh may have tightened the economy by not lifting interest rates than he would have by actually increasing them.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T09:18:00+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.965,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8f49d5624dfd546b97cc",
+      "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
+      "summary": "“My car was nearly 20 years old, and I only carried liability and uninsured motorist coverage, not collision coverage.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T09:15:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.964,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b82758fbdd1a761e16c0",
+      "title": "Joint U.S.-Japanese intervention boosts the yen — but will it be enough?",
+      "summary": "Although forex market intervention can affect exchange rates, most strategists believe interest rate differentials are the ultimate arbiter of the direction of travel. Japan’s rates are much lower than the U.S.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T09:07:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.961,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a0efda78a9b839f26437",
+      "title": "Wildfires force George and Amal Clooney to evacuate their home in France",
+      "summary": "Actor George Clooney and wife Amal were forced to evacuate their home in southeastern France amid wildfires breaking out across Europe.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/wildfires-force-george-and-amal-clooney-to-evacuate-their-home-in-france-51e2759d?mod=mw_rss_topstories",
+      "published_at": "2026-08-03T09:01:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -143,7 +1670,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.993,
+      "recency_weight": 0.948,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -155,486 +1682,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "549bf1c382e777e0c65d",
-      "title": "Citi Says African Sovereign Bond Sales Defied Mideast Conflict",
-      "summary": "Citigroup Inc. said the volume of African sovereign bond deals it has handled has jumped more than two-thirds this year, defying expectations that the conflict in the Middle East would curb investor appetite.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/citi-says-african-sovereign-bond-sales-defied-mideast-conflict",
-      "published_at": "2026-08-03T08:16:50+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.99,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9b7803d75262fb175012",
-      "title": "Why Tungsten Is Getting More Expensive",
-      "summary": "Bloomberg Opinion's David Fickling on why tungsten mining helps explain the state of worldwide conflict.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/why-tungsten-is-getting-more-expensive",
-      "published_at": "2026-08-03T08:00:03+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.985,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "32a09b5c04fa1f1c42be",
-      "title": "Odd Lots: Tungsten Market Is Warning of Upcoming War (Podcast)",
-      "summary": "Bloomberg Opinion columnist David Fickling tells us you can think of tungsten mining as “a century old prediction market for war.” As he writes in a recent piece, tungsten is “a super-element that can determine the fate of nations.” While the commercial market for tungsten is fairly small, it can be crucial in war manufacturing, due to its high density and melting point. He learned more about tungsten mining and its increasing geopolitical necessity, during a visit to Australia’s Dolphin Mine, w",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/audio/2026-08-03/odd-lots-tungsten-market-is-warning-of-upcoming-war-podcast",
-      "published_at": "2026-08-03T08:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.985,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "141a1f37efa666e5967a",
-      "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
-      "summary": "Trump said negotiations with Iran will begin Monday after he decided to hold off on new strikes. Shipping risks persist even as diplomacy has advanced, with a U.K. maritime agency reporting an incident in the northeast of Oman. A parallel track with Muscat is also advancing with Iran-Oman negotiations over the Strait of Hormuz reportedly in their final stages. U.S. President Donald Trump said negotiations with Iran will begin Monday after he held off on new strikes against the Middle Eastern country, once again raising hopes for a diplomatic resolution to the conflict that has upended energy supplies. \"Now what we're doing is we're talking to them in the form of a negotiation. It begins tomorrow afternoon,\" Trump told reporters Sunday aboard Air Force One, without disclosing the venue or participants. He said he had called off the strikes at the request of Saudi Arabia, the United Arab Emirates, Qatar and Iran, and described a deal covering the Strait of Hormuz and Iran's denuclearization as \"imminent.\" However, Iranian foreign ministry spokesperson Esmail Baghaei again poured cold water on the notion of direct negotiations with the United States. Baghaei told a press conference on Monday that there is no immediate plan for negotiations with the U.S., reiterating that Tehran is currently only engaged in talks with Oman regarding the Strait of Hormuz. Trump said on Saturday the planned operation would have been the biggest since World War II, while adding that the U.S. was ready to attack Iran. The Strait of Hormuz — which handled around one-fifth of global oil supply before the war — has seen traffic drop to a trickle with sporadic increase in ship transits on positive headlines. Oil retreated on signs of a diplomatic breakthrough. West Texas Intermediate futures for September delivery declined nearly 6% to $79.66 per barrel. Brent crude futures for October delivery lost 5.16% to $83.39 a barrel. BMI, a research unit of Fitch Solutions, said in a note Monday that a broader diplomatic understanding on reopening the Strait of Hormuz is still achievable this quarter, while raising the probability of its escalation scenario to 35% from 25%, citing mounting military, diplomatic and economic signs of rising US-Iran tensions. \"Diplomatic progress is likely to be punctuated by periodic military flare-ups, while miscalculation by either side could trigger a renewed escalation,\" BMI analysts wrote in a note. The firm said the key issue to watch is the future governance of the strait, as the Iran-Oman talks — potentially backed by Gulf states, China and the U.S. — point to efforts to build a post-conflict shipping framework. Shipping risks persist even as diplomacy appears to be advancing. The United Kingdom Maritime Trade Operations said it received a report of an incident 20 nautical miles northeast of Khasab, Oman — at the mouth of the Hormuz strait — with a tanker's master reporting an explosion in close proximity to the vessel at about 20:37 UTC Sunday (4:37 pm ET). The vessel and crew were safe and authorities are investigating, UKMTO said, advising ships to transit with caution. The latest proposal announced by Trump over the weekend calls for the U.S. and Iran to return to negotiations and continue ironing out some of the thorny issues that had derailed diplomatic efforts, according to the Associated Press, citing a regional official involved in the mediation efforts. The official said the proposal also includes a reopening of the Hormuz Strait and halting attacks across the region, including by Iranian-backed militias in Iraq on the Arab Gulf countries and Jordan. The U.S., for its part, will end its naval blockade on Iran and allow Tehran to export its oil, the official said, adding that no deal has been reached, although the mediation efforts remained underway. Trump's weekend reversal has lowered the temperature after days of escalating attacks across the Gulf. Kuwait said on Saturday that Iranian forces launched a wave of drones within its airspace, with its military destroying multiple aircraft after Iran targeted critical infrastructure in the country's north. A parallel track with Muscat is also advancing. Iranian diplomats said Tehran was close to reaching a new arrangement with Oman to manage shipping through the Strait of Hormuz, a deal critical to preventing the war from escalating further, according to the Financial Times . Iranian officials said negotiations over future management of the Hormuz strait with Oman, which sits on the opposite shore of the waterway, are in their final stages. The agreed shipping route would be different from those used before, according to Iran's foreign ministry spokesperson Esmaeil Baghaei, adding that the new route was separate from the issue of the strait's reopening or continued closure.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
-      "published_at": "2026-08-03T07:58:45+00:00",
-      "event_type": "black_swan",
-      "severity": "major",
-      "sentiment": -0.6,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.985,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "391c505bf56154cbb152",
-      "title": "Beer Dynasty Families Sell €731 Million Stake in AB InBev",
-      "summary": "Some of the historic family owners of Anheuser-Busch InBev sold a €731 million ($843 million) stake in the world’s largest brewer, after its shares surged at the start of this year.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/beer-dynasty-families-sell-731-million-stake-in-ab-inbev",
-      "published_at": "2026-08-03T07:47:03+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.981,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ae5a9fd21a96569d3e7a",
-      "title": "Eyre: US Has to Cut Losses In Iran War",
-      "summary": "President Trump says the US will start new negotiations with Iran after he called off a planned attack on Iran partially in response to pleas from US allies in the Middle East, including Saudi Arabia. Alan Eyre, Distinguished Diplomatic Fellow at the Middle East Institute & Former Senior US diplomat told Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the probability of a deal with Iran. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/eyre-us-has-to-cut-losses-in-iran-war-video",
-      "published_at": "2026-08-03T07:46:09+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.981,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a1bc42d86607b9fcfaaa",
-      "title": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
-      "summary": "Oil prices fell after U.S. President Donald Trump said he had called off a planned strike on Iran. \"We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to,\" Trump said in a Truth Social post. Oil prices fell Monday in Asia trading as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran . West Texas Intermediate futures for September delivery declined nearly 6% to $79.57 per barrel as of 3:33 a.m. ET. Brent crude futures for October delivery lost 4.88% to $83.64 a barrel. Trump said early Sunday that he had called off a planned strike on Iran after receiving a request from Tehran and other countries in the Middle East. He said the proposed agreement would include the \"Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\" Trump has reportedly been weighing another round of strikes on Iran amid fading prospects for a diplomatic resolution to the conflict, which began on Feb. 28. Tehran responded cautiously to Trump's announcement. \"Although the enemy's recent statements are part of a psychological and cognitive warfare campaign, we consider every threat to be real and take it seriously,\" said Seyyed Majid Ibn Al-Reza, Iran's acting defense minister, according to a state media post on X. Iran's Fars International news agency, which is affiliated with the Islamic Revolutionary Guard Corps, dismissed Trump's proposal, saying in a Telegram post on Sunday that his demands amounted to a \"wish list.\" — CNBC's Azhar Sukri and Terri Cullen contributed to this report.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
-      "published_at": "2026-08-03T07:44:34+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.98,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d5433ab790b4d32d67df",
-      "title": "Spider-Man, The Odyssey’s Success Lifts Indian Cinema Stocks",
-      "summary": "Indian cinema operators’ shares are rising after blockbuster openings for Hollywood movies Spider-Man: Brand New Day and The Odyssey.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/spider-man-the-odyssey-s-success-lifts-indian-cinema-stocks",
-      "published_at": "2026-08-03T07:42:41+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.98,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a1a6842e79f8116d43dd",
-      "title": "Yen Needs More Intervention to Hold Gain: 3-Minutes MLIV",
-      "summary": "Anna Edwards, Lizzy Burden and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/yen-needs-more-intervention-to-hold-gain-3-minutes-mliv-video",
-      "published_at": "2026-08-03T07:42:28+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.98,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cf2c2ed5f067df0dcdf7",
-      "title": "Kamel: Standard Raise Not Enough for Mideast Hiring",
-      "summary": "The war on Iran and talent shortages have made C-suite candidates much harder to recruit and retain in the Middle East. That’s according to Alchemy Search, who says candidates have stronger bargaining power, while employers are shifting to hire locally first. Weam Kamel, Partner & Abu Dhabi Operations Head for Alchemy Search spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on what it takes to attract talent to the region. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/kamel-standard-raise-not-enough-for-mideast-hiring-video",
-      "published_at": "2026-08-03T07:41:13+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.979,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "08f69336b023b5afb363",
-      "title": "Japanese Firms Have Buffer Before Stronger Yen Hits Earnings",
-      "summary": "The yen’s sharp rally sparked a selloff in Japanese equities Monday but the currency failed to breach the level that many companies use as the basis for their profit forecasts, giving stocks scope to rebound.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/japanese-firms-have-buffer-before-stronger-yen-hits-earnings",
-      "published_at": "2026-08-03T07:30:30+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.976,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -670,182 +1717,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.975,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c1b7033b408e881c2708",
-      "title": "Yen Surge Will Drive Up Other Asian Currencies, Strategists Say",
-      "summary": "The rally in the yen is set to bolster a number of other Asian currencies based on their relatively high correlations, according to Citigroup Inc. and Barclays Bank Plc.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/yen-surge-will-drive-up-other-asian-currencies-strategists-say",
-      "published_at": "2026-08-03T07:26:07+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.974,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3ce222f71c1c40f156e3",
-      "title": "Goldman Sachs Warns on Russia-Driven Diesel Squeeze",
-      "summary": "Samantha Dart, co-head of global commodities research at Goldman Sachs, joined Haslinda Amin on Insight with Haslinda Amin to discuss growing risks in diesel markets. Dart says disruptions to Russian fuel exports and the US-Iran war are tightening supplies, raising concerns about global refining capacity and fuel prices. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/goldman-sachs-warns-on-russia-driven-diesel-squeeze-video",
-      "published_at": "2026-08-03T07:09:04+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "broad_equity",
-        "geopolitical",
-        "gold",
-        "macro",
-        "market",
-        "oil",
-        "safe_haven"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.969,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c7a5c0b62f292b92c941",
-      "title": "Pakistan Consumer Prices Cool as Energy Risks Cloud Outlook",
-      "summary": "Pakistan’s inflation eased last month, though policymakers remain wary that higher energy costs could reignite price pressures.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/pakistan-consumer-inflation-cools-as-energy-risks-cloud-outlook",
-      "published_at": "2026-08-03T06:59:10+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.966,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "df52b3eb255eb6b2095b",
-      "title": "Trump Revives Hopes for Iran Deal, Oil Sinks | Insight with Haslinda Amin 8/03/2026",
-      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/insight-with-haslinda-amin-8-3-2026-video",
-      "published_at": "2026-08-03T06:44:09+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.961,
+      "recency_weight": 0.931,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -892,7 +1764,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.944,
+      "recency_weight": 0.902,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -904,6 +1776,47 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8eb9f4350a798c694fa9",
+      "title": "Prysmian Reaches Deal to Buy US Electrical Maker Atkore",
+      "summary": "Italy’s Prysmian SpA agreed to buy electrical parts manufacturer Atkore Inc. in an all-cash deal, extending a US growth drive focused on the data-center buildout.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/prysmian-strikes-deal-to-buy-us-electrical-maker-atkore",
+      "published_at": "2026-08-03T05:32:04+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.897,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -938,7 +1851,94 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.93,
+      "recency_weight": 0.888,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "35574f0f03c43695e5c3",
+      "title": "EchoStar Unit Hughes Satellite Files for Bankruptcy as Debt Falls Due",
+      "summary": "Hughes Satellite Systems Corp. filed for Chapter 11 bankruptcy protection on Sunday, saying intensifying competition was undermining its core broadband business.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/echostar-unit-hughes-satellite-files-for-bankruptcy-as-debt-falls-due",
+      "published_at": "2026-08-03T04:22:03+00:00",
+      "event_type": "credit",
+      "severity": "major",
+      "sentiment": -0.8,
+      "affected_tags": [
+        "broad_equity",
+        "credit",
+        "macro",
+        "market",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 28.98,
+      "recency_weight": 0.877,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "64b6f36fef0336e64550",
+      "title": "Tech Drags EM Stocks Lower; Rand Gets a Boost From Oil’s Slide",
+      "summary": "Emerging-market equities fell on the first trading day of August, weighed down by a pullback in South Korean chipmakers.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/emerging-market-stocks-fall-as-korea-chipmakers-slide-once-again",
+      "published_at": "2026-08-03T04:14:04+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "macro",
+        "market",
+        "oil"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.875,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -983,7 +1983,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.913,
+      "recency_weight": 0.872,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1028,7 +2028,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.894,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1075,7 +2075,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.884,
+      "recency_weight": 0.844,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1093,178 +2093,9 @@
       }
     },
     {
-      "event_id": "7750d9df28ece6738bb2",
-      "title": "Iron Ore Hits One-Year Low on Trader Concerns and Demand Outlook",
-      "summary": "Iron ore sank to the lowest level in more than a year amid concerns about a major physical trader of the commodity, which compounded existing market softness linked to a challenging demand outlook.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/iron-ore-hits-one-year-low-on-trader-concerns-and-demand-outlook",
-      "published_at": "2026-08-03T01:56:07+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.877,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "82a4d317cda3c24266bd",
-      "title": "Japan’s Use of Fed Repo May Ease Pressure on Treasury Market",
-      "summary": "Treasury Secretary Scott Bessent’s championing of a Federal Reserve facility Japan can use to boost the yen comes with the benefit of protecting the US bond market from excess sales.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/japan-s-use-of-fed-facility-may-ease-pressure-on-treasury-market",
-      "published_at": "2026-08-03T01:26:04+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.868,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b336693b750a39114a7a",
-      "title": "Korean Stocks Drop as Chipmakers Reverse Friday’s Record Gains",
-      "summary": "South Korean stocks slipped, as heavyweight chipmakers faced selloffs after Friday’s record gains while investors unwound leverage-backed trades.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/korean-stocks-drop-as-chipmakers-reverse-friday-s-record-gains",
-      "published_at": "2026-08-03T00:59:28+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.861,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "997f384ff72e70238315",
-      "title": "Japan Stocks Slide as Exporters Fall on Yen Intervention Worries",
-      "summary": "Japanese equities fell, hampered by automakers and other manufacturers amid concerns that a stronger yen following currency intervention could hit exporters’ earnings.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/japanese-stocks-set-to-fall-on-yen-worries-kioxia-guidance-miss",
-      "published_at": "2026-08-02T22:39:33+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.823,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
       "event_id": "ffd8754740658c777c96",
       "title": "Stocks Rise as Oil Plunge Eases Pressure on Yields: Markets Wrap",
-      "summary": "US equity futures rose along with European stocks as oil plunged after President Donald Trump said fresh US-Iran talks would begin Monday, easing concern over inflation that had pushed Treasury yields to the highest since January.",
+      "summary": "Stocks and bonds rose as the latest sign of easing tensions between the US and Iran pushed oil prices lower, allaying concerns about faster inflation.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1291,7 +2122,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.815,
+      "recency_weight": 0.778,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1338,7 +2169,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.797,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1384,7 +2215,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.797,
+      "recency_weight": 0.761,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1427,7 +2258,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.789,
+      "recency_weight": 0.753,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1439,47 +2270,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "34bb19ad486bdcc65b18",
-      "title": "AstraZeneca Shares Fall on Deal Talks With Bristol-Myers",
-      "summary": "AstraZeneca Plc has explored an acquisition of Bristol-Myers Squibb Co., according to people familiar with the matter, in a potential megadeal that would rank as the largest ever in pharma.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
-      "published_at": "2026-08-02T20:13:51+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.785,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1513,7 +2303,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.77,
+      "recency_weight": 0.736,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1558,7 +2348,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.758,
+      "recency_weight": 0.724,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1600,7 +2390,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.738,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1619,33 +2409,29 @@
     {
       "event_id": "989649c003afcef119df",
       "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
-      "summary": "Between Polymarket and Kalshi alone, there can be over 100,000 active markets. That's too much for one prediction market trader to juggle on her own. From using AI bots to purchasing an antenna, traders rely on tools and peculiar methods to compete against others. It's enough motivation for some to trade on the platforms full-time. It's been less than a year since 26-year-old Logan Sudeith became a full-time trader on prediction markets and in one month alone he managed to collect $250,000. That doesn't happen from simply checking the odds of an event contract on the platform, he said. A clever trade requires tools. \"For the Super Bowl I bought an antenna, so that I could watch the commercials,\" he said, noting online streaming services could face lags. Sudeith was able to quickly trade on what companies would show ads during the largest televised U.S. sporting event, or what would be said during those commercials. \"I wanted to have the lowest latency access to those.\" Between Polymarket and Kalshi alone, there can be more than 100,000 active markets. That's too much for traders like Sudeith to juggle on their own. And that's why they don't. CNBC spoke to several active traders on prediction market exchanges about how they gain an edge. From using AI bots to purchasing an antenna, traders rely on tools and peculiar methods to compete against others, and it's enough motivation for some to trade on the platforms full-time. And while hedge funds and large institutional trading desks are known for using complicated tools that help them win in the market, these traders are often just one person doing the work from their homes. Not every trader has the capacity to make custom workflows. That's why some platforms are offering more advanced technology to speculators, so that they don't have to build it all on their own. But whether those new, accessible products can deliver the same results to what individuals have made for themselves is unclear. One common theme among traders is reading the news. Kenneth Deneau, 32, calls it a \"minimum requirement\" to know what's happening in the world but admits that it can get overwhelming. He turned to AI to scan relevant information, including the newsletters he's subscribed to and Discord servers, to find insight for potential trades. \"I think that has been probably one of the most transformative aspects of allowing me to do this now, being able to build out those tools,\" he said about Anthropic-owned language model Claude. The surge in trading volume on Kalshi and Polymarket last fall drove Deneau to become a full-time prediction market trader. He left behind nearly a decade of work in institutional investing but carried over one key skill to his next gig: deep research under a time crunch. Earlier this year, when an event contract asked the date for when President Donald Trump would fire former Attorney General Pam Bondi, Deneau relied on Pacer, a database providing court records, to figure it out before it became viral. \"If you found those filings, which I did, you could use that as a baseline to help you determine when [Bondi] actually left the office,\" Deneau said. \"As far as I know, I was probably one of the first ones to take advantage of that.\" Prediction market platforms have an Application Programming Interface, or API, that makes their live and closed markets accessible. It's a playground full of analysis for Atlanta-based data engineer Steve Farmer. From his wife's \"big closet\", Farmer spent countless hours building an AI bot that would trade on Kalshi all day. \"As a trader, I wouldn't do very well myself because you know, impulses and greed and all that will just drive me nuts,\" he said. \"A bot doesn't have all that.\" His bot has about a 70% win rate in trading on economic-related event contracts on Kalshi, though he admitted it's likely not a long-term investment strategy, noting it's not replacing his retirement fund. What it is, however, is \"enough to pay for my AI bills,\" he said. Michael Boss placed his first trades on Kalshi during the 2024 presidential election, and decided he wanted to start speculating more often on the platform in summer 2025. But he didn't start trading full-time until February this year, waiting until he had the necessary software. The software Boss uses is placing many trades all the time across various markets. He wouldn't reveal exactly what he uses to train his software, showcasing just how much he wants to protect any edge he has over other traders. \"On something like Kalshi, a lot of different things need to go well,\" he said. \"There's a ton of markets on Kalshi, so it's kind of a big problem to tackle in that way.\" Prediction market exchanges know their most active traders have elaborate software and tools. Some platforms are looking to make trading easier for highly-engaged speculators.",
+      "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
       "published_at": "2026-08-02T16:54:18+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
-        "growth",
         "macro",
-        "market",
-        "semiconductor",
-        "tech"
+        "market"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.737,
+      "impact_score": 1.84,
+      "recency_weight": 0.703,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1655,8 +2441,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1693,7 +2478,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.736,
+      "recency_weight": 0.703,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1712,98 +2497,14 @@
       }
     },
     {
-      "event_id": "d054563462c2bf70ea90",
-      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T16:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.724,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
       "event_id": "38d10117df1758e5fe95",
       "title": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
-      "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" snared $355 million in estimated domestic box office during its opening weekend, the second-highest debut of all time. The film is just $2 million short of the record-breaking debut of 2019's \"Avengers: Endgame.\" While \"Brand New Day\" was not released in IMAX, Dolby and CJ4DPlex posted record-breaking openings for the film. Spider-Man is taking on the Avengers. Sony and Marvel's \"Spider-Man: Brand New Day\" tallied an estimated $355 million at the domestic box office this weekend, just $2 million shy of the record-breaking debut of 2019's \"Avengers: Endgame.\" The film kicked off with record-shattering Thursday preview sales and snared $169.3 million on Friday, including presales, and $101.5 million on Saturday. Sony is projecting an $84 million Sunday haul, which would bring the newest Spider-Man flick to an estimated $355 million. Final tallies will arrive on Monday. \"Brand New Day\" is only the second Hollywood film to generate more than $300 million in ticket sales during a domestic opening weekend. Disney's \"Avengers: Endgame\" was the first to achieve this feat with its $357 million debut seven years ago. Internationally, the film collected an additional $572 million in estimated box office, including a whopping $121 million from China, bringing the global opening to $927 million. \"What this means for movie theaters cannot be overstated,\" said Paul Dergarabedian, head of marketplace trends at Rentrak. \"This sets up an incredible month of August and increases the likelihood that this summer will be the biggest in terms of revenue since 2019, surpassing the benchmark $4 billion threshold. No small feat.\" An estimated 24.1 million moviegoers headed out to cinemas in the U.S. and Canada to see \"Brand New Day,\" according to data from EntTelligence. Around 21% of tickets purchased were for premium large-format screenings and cost an average of $18.55 a piece. While \"Brand New Day\" did not have the added benefit of an IMAX release — those screens have been reserved for Christopher Nolan's and Universal's \"The Odyssey\" — other premium large-format options thrived over the weekend. Dolby Cinema boasted its highest-grossing domestic box office weekend ever, with $10 million in receipts from the film. Screen X posted $7 million in ticket sales, while 4DX topped $5.2 million, both domestic records for parent company CJ4DPlex. \"This is a truly phenomenal opening, and we are grateful to audiences everywhere for coming out and experiencing our film the way it was meant to be seen,\" said Kevin Feige, a producer on the film and president of the Disney-owned Marvel Studios. \"This debut reflects the enduring power of Marvel's characters, and the connection they continue to have with fans around the world — and, as audiences saw, it sets up exciting things to come.\"",
+      "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" snared $355 million in estimated domestic box office on its opening weekend, the second-highest debut of all time.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
       "published_at": "2026-08-02T15:54:05+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.723,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "06979476d34ea4add086",
-      "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-      "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T15:19:00+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -1820,7 +2521,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.714,
+      "recency_weight": 0.69,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1866,7 +2567,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.711,
+      "recency_weight": 0.679,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1908,7 +2609,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.703,
+      "recency_weight": 0.672,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1953,7 +2654,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.697,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1999,7 +2700,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.697,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2016,21 +2717,24 @@
       }
     },
     {
-      "event_id": "498c8745cda61c356f00",
-      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
-      "source": "MarketWatch Top Stories",
+      "event_id": "47f3bda0c7a3a5afa92c",
+      "title": "Bond Traders Flying Blind on Fed See Risk Yields Spiral",
+      "summary": "Bond investors including Brandywine Global Investment Management and Wellington Management say the risk of a deeper Treasury rout is rising as Federal Reserve Chairman Kevin Warsh keeps investors in the dark about how officials will respond to the evolving economy.",
+      "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/bond-traders-flying-blind-on-fed-see-risk-yields-spiral-higher",
       "published_at": "2026-08-02T14:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
+      "event_type": "macro",
+      "severity": "moderate",
       "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
+        "dollar",
+        "growth",
         "macro",
-        "market"
+        "market",
+        "rates"
       ],
       "categories": [
         "market",
@@ -2039,8 +2743,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.697,
+      "impact_score": 11.04,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2051,49 +2755,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4ed5cd6634362eb09c04",
-      "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
-      "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T14:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.697,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2124,48 +2785,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.69,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9c087178718797e6edc2",
-      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T13:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.69,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2211,7 +2831,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.683,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2223,211 +2843,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "fb7e8cbc64bebca2fb3b",
-      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T13:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.683,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3d180d63b2ed11450f15",
-      "title": "How Apple’s cheap MacBook Neo sparked a war in budget laptops",
-      "summary": "Apple’s gamble on the budget MacBook Neo is paying off and forcing rivals to rethink their offerings.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T13:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.683,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "公司基本面/产品竞争",
-          "消费电子供应链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c87f3c0ed307e3c3c370",
-      "title": "Yen Rises Amid Speculation of More Intervention After US Support",
-      "summary": "The yen rallied sharply on Monday amid speculation that authorities may have intervened to prop up the currency again after coordinated action between the US and Japan last week.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
-      "published_at": "2026-08-02T12:47:40+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.681,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2082e1588bc95df99a8a",
-      "title": "Ugly Month in Emerging Markets May Be a Taste of What’s Next",
-      "summary": "Investors’ hopes of a stellar year in emerging markets are being tested by a bruising July that may offer a taste of the headwinds ahead.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/ugly-month-in-emerging-markets-may-be-a-taste-of-what-s-ahead",
-      "published_at": "2026-08-02T12:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.677,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4523e82ed0d56ef1603a",
-      "title": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
-      "summary": "Tracking top analysts can help investors shortlist attractive dividend stocks, as these experts provide useful insights.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
-      "published_at": "2026-08-02T12:01:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.67,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2458,7 +2873,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.67,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2503,7 +2918,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.67,
+      "recency_weight": 0.64,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2515,93 +2930,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "834fbdfc9ff24461d53a",
-      "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
-      "summary": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T12:00:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.67,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c9c15adcf6313ce59ecf",
-      "title": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
-      "summary": "The breakout to record highs by bank stocks, plus their strong earnings and favorable valuations, suggest more good times ahead for the financial sector.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
-      "published_at": "2026-08-02T12:00:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.67,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2635,7 +2963,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.589,
+      "recency_weight": 0.563,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2676,7 +3004,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.549,
+      "recency_weight": 0.524,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "31dc39ca37010fb34c80",
+      "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+      "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+      "published_at": "2026-08-01T23:19:46+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.502,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2717,7 +3086,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.445,
+      "recency_weight": 0.425,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2758,7 +3127,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.441,
+      "recency_weight": 0.421,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2799,7 +3168,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.44,
+      "recency_weight": 0.42,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2840,7 +3209,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.435,
+      "recency_weight": 0.415,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2881,48 +3250,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.426,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7e699975a5e84d8f89c5",
-      "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-      "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
-      "published_at": "2026-08-01T12:00:01+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.422,
+      "recency_weight": 0.407,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2967,7 +3295,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.422,
+      "recency_weight": 0.403,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2979,6 +3307,47 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7e699975a5e84d8f89c5",
+      "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+      "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+      "published_at": "2026-08-01T12:00:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.403,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3009,7 +3378,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.323,
+      "recency_weight": 0.308,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3048,7 +3417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.317,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3093,7 +3462,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.316,
+      "recency_weight": 0.302,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3131,7 +3500,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.31,
+      "recency_weight": 0.296,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3144,50 +3513,6 @@
           "国防/安全事件"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d8f00d35dde24f413b83",
-      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
-      "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-      "published_at": "2026-07-31T18:46:45+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.303,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3216,7 +3541,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.278,
+      "recency_weight": 0.266,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -3259,7 +3584,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.276,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3302,7 +3627,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.276,
+      "recency_weight": 0.264,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3342,7 +3667,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.276,
+      "recency_weight": 0.264,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3389,7 +3714,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.269,
+      "recency_weight": 0.257,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3430,7 +3755,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.267,
+      "recency_weight": 0.255,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3814,7 +4139,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-03T08:00:03+00:00",
+      "latest_published_at": "2026-08-03T11:00:06+00:00",
       "warning": null
     },
     {
@@ -3822,8 +4147,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 12,
-      "latest_published_at": "2026-08-03T08:25:02+00:00",
+      "recent_items": 18,
+      "latest_published_at": "2026-08-03T11:02:01+00:00",
       "warning": null
     },
     {
@@ -3832,7 +4157,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-08-02T17:00:00+00:00",
+      "latest_published_at": "2026-08-03T11:02:00+00:00",
       "warning": null
     },
     {
@@ -3840,8 +4165,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 29,
-      "latest_published_at": "2026-08-03T08:39:18+00:00",
+      "recent_items": 30,
+      "latest_published_at": "2026-08-03T11:00:01+00:00",
       "warning": null
     },
     {
