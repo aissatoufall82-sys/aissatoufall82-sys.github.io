@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:35:04.314224+00:00",
+  "generated_at": "2026-08-03T08:46:46.877754+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,53 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "e21b488048d74a0aa147",
+      "title": "U.S. Treasury yields fall as oil prices plunge on Iran de-escalation hopes",
+      "summary": "U.S. Treasury yields followed oil prices lower on Monday as investors monitor signs of de-escalation in the Iran conflict. The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell over 1 basis point to 4.688%. The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, fell 4 basis points to 4.252%. The longer-dated 30-year Treasury bond yield fell over 4 basis points to 5.226%. One basis point is equal to 0.01%, and yields and prices move in opposite directions. It came as oil prices slumped on Monday following President Donald Trump's claims that negotiations with Iran will begin again , after the U.S. held off on fresh strikes against the Islamic Republic at the request of Gulf allies. However, Iranian foreign ministry spokesperson Esmail Baghaei again poured cold water on the notion of direct negotiations with the United States. Baghaei told a press conference on Monday that there is no immediate plan for negotiations with the U.S., reiterating that Tehran is currently only engaged in talks with Oman regarding the Strait of Hormuz. Last week, the 30-year Treasury yield rose to its highest level since 2007 as investors reacted to an apparently \"hawkish hold\" from Federal Reserve interest rate setters. Some Fed officials said Friday that they favor raising rates to help ease inflation. Those officials voted against the central bank's decision in a 9-3 vote on Wednesday to hold its key interest rate steady in a range of 3.5% to 3.75%. \"While the decline in short-dated yields reflects a more dovish near-term policy outlook, the rise in long-end yields signals growing concern that Chair Warsh may prove unwilling to act aggressively enough should inflation remain elevated,\" said Seema Shah, chief global strategist at Principal Asset Management. \"The bond market is effectively testing the Fed's credibility.\" Monday's data highlight is manufacturing PMI data for July, released at 3:00 p.m. ET.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/03/us-treasury-yields-investors-bonds-war.html",
+      "published_at": "2026-08-03T08:39:18+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": -0.5,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 13.8,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "f9fc386bf14a35f9f104",
       "title": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb",
@@ -49,7 +96,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.998,
+      "recency_weight": 0.995,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -96,7 +143,53 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.997,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "549bf1c382e777e0c65d",
+      "title": "Citi Says African Sovereign Bond Sales Defied Mideast Conflict",
+      "summary": "Citigroup Inc. said the volume of African sovereign bond deals it has handled has jumped more than two-thirds this year, defying expectations that the conflict in the Middle East would curb investor appetite.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/citi-says-african-sovereign-bond-sales-defied-mideast-conflict",
+      "published_at": "2026-08-03T08:16:50+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.99,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -138,7 +231,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.989,
+      "recency_weight": 0.985,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -179,7 +272,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.989,
+      "recency_weight": 0.985,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -225,7 +318,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.988,
+      "recency_weight": 0.985,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -267,7 +360,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.985,
+      "recency_weight": 0.981,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -312,7 +405,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.984,
+      "recency_weight": 0.981,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -359,7 +452,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.984,
+      "recency_weight": 0.98,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -401,7 +494,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.983,
+      "recency_weight": 0.98,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -442,7 +535,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.983,
+      "recency_weight": 0.98,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -487,7 +580,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.983,
+      "recency_weight": 0.979,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -530,7 +623,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.979,
+      "recency_weight": 0.976,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -577,7 +670,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.979,
+      "recency_weight": 0.975,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -619,7 +712,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.978,
+      "recency_weight": 0.974,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -664,7 +757,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.973,
+      "recency_weight": 0.969,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -676,6 +769,50 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c7a5c0b62f292b92c941",
+      "title": "Pakistan Consumer Prices Cool as Energy Risks Cloud Outlook",
+      "summary": "Pakistan’s inflation eased last month, though policymakers remain wary that higher energy costs could reignite price pressures.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/pakistan-consumer-inflation-cools-as-energy-risks-cloud-outlook",
+      "published_at": "2026-08-03T06:59:10+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "macro",
+        "market",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.966,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -708,7 +845,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.965,
+      "recency_weight": 0.961,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -720,47 +857,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8c6cf4b06ac07d11304c",
-      "title": "Horizons Middle East & Africa 8/3/2026",
-      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/horizons-middle-east-africa-8-3-2026-video",
-      "published_at": "2026-08-03T06:40:21+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.964,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -796,7 +892,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.948,
+      "recency_weight": 0.944,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -842,7 +938,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.933,
+      "recency_weight": 0.93,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -887,7 +983,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.916,
+      "recency_weight": 0.913,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -932,7 +1028,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.897,
+      "recency_weight": 0.894,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -979,7 +1075,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.887,
+      "recency_weight": 0.884,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1021,7 +1117,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.88,
+      "recency_weight": 0.877,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1065,7 +1161,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.871,
+      "recency_weight": 0.868,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1106,7 +1202,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.864,
+      "recency_weight": 0.861,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1148,7 +1244,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.826,
+      "recency_weight": 0.823,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1195,7 +1291,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.818,
+      "recency_weight": 0.815,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1242,7 +1338,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.8,
+      "recency_weight": 0.797,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1288,7 +1384,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.8,
+      "recency_weight": 0.797,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1331,7 +1427,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.792,
+      "recency_weight": 0.789,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1373,7 +1469,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.788,
+      "recency_weight": 0.785,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1417,7 +1513,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.773,
+      "recency_weight": 0.77,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1462,7 +1558,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.761,
+      "recency_weight": 0.758,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1504,7 +1600,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.741,
+      "recency_weight": 0.738,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1549,7 +1645,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.739,
+      "recency_weight": 0.737,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1597,7 +1693,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.739,
+      "recency_weight": 0.736,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1640,7 +1736,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.727,
+      "recency_weight": 0.724,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1682,7 +1778,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.725,
+      "recency_weight": 0.723,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1724,7 +1820,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.717,
+      "recency_weight": 0.714,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1770,7 +1866,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.713,
+      "recency_weight": 0.711,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1790,22 +1886,19 @@
     {
       "event_id": "4b56194cc50a283347f8",
       "title": "Why people are dropping out of the workforce and not looking for new jobs: 'The market wore me down'",
-      "summary": "Work 'Doomjobbing’ can hurt your job search and worsen anxiety, experts say: Why it happens and how to avoid it Work Barriers to U.S. jobs grow for international students: The 'American dream ... is collapsing' Work 34-year-old competed on 'Survivor' while building her business: It 'truly was a reset' The Next Dream They're living the new American Dream—and doing it on less than $100,000 a year Leadership Harvard expert: Ambitious people often make this career mistake After six months of scouring job listings and sending off resumes, Dan Coda's job search came to an end. He didn't find the technical program or project management job he wanted; he just stopped looking altogether. Starting around December 2025, when he was laid off from his previous role, Coda says he spent more than 300 hours job hunting, submitting dozens of applications, hearing back about 15 potential roles and going through multiple rounds of interviews to no avail. By June, Coda says he was done with the grueling effort of looking for work. \"The market wore me down,\" the 40-year-old from Durham, North Carolina, tells CNBC Make It. \"I was hitting wall after wall after wall and not getting anywhere.\" This year, the number of announced layoffs in January reached a level not seen since 2009, during the Great Recession, according to data from global outplacement firm Challenger, Gray & Christmas. \"The candidate pool is absolutely flooded,\" Coda says, citing mass layoffs pushing thousands of affected workers like himself into the job market at once. With that kind of competition, he says, \"What chance do you stand?\" Discouraged job seekers like Coda, who have given up on finding work, at least for now, are part of a trend economists say is worrying: The labor force participation rate has been on a downward trajectory since the turn of the millennium, fueled by an aging population and fewer young people entering the workforce. June saw the biggest one-month drop in prime age labor force participation of workers ages 25 to 54, excluding the Covid-19 pandemic, since June 1976. Roughly 720,000 people stopped working or looking for work between May and June, according to the St. Louis Fed. Those leaving the workforce are both men and women, and the majority are ages 25 to 34, says Heather Long, chief economist at Navy Federal Credit Union who specializes in the economics of the middle class. Meanwhile, elevated levels of long-term unemployment persist. In June, more than 1.9 million Americans, or roughly 1 in 4 unemployed people, were jobless but still looking for work for longer than six months , according to U.S. Bureau of Labor Statistics data. A continuous low-hire, low-fire job market could make it more challenging to find work and push more people out of the workforce altogether. Official numbers on how many people are dropping out of the workforce are likely to be revised downward in the coming months, Long says, noting that the one-month spike indicates \"something wasn't quite right\" in the initial data pull. But falling labor force participation nonetheless adds to a picture of an American labor economy seemingly out of balance with few solutions in sight. And the factors pushing people out of the labor force have implications beyond workers paying for everyday essentials, including stunting career trajectories and impacting long-term retirement savings. Mental health stressors are pushing some people out of the job search: 'I didn't have energy' Economists say several compounding factors are likely driving down the labor force participation rate, like an exodus of retiring workers and lower immigration into the U.S. Some working parents, especially moms of young kids , and people with disabilities may be striking out as they face more competition for remote or flexible work opportunities that are harder to come by today, Long says. Mental wellbeing could also play a part. Coda says he stopped his job search in June after a conversation with his wife, who'd noticed how the tiresome process soured his mood. \"Other than the death of a family member or a close friend, [unemployment] is one of the most devastating things that people face,\" Carl Van Horn, director of the Heldrich Center for Workforce Development at Rutgers University, told CNBC in June. About half of job seekers say the search negatively impacts their mental health due to rejection, lack of responses, financial pressure and waning motivation, according to an April Resume Genius survey of 1,000 active U.S. job seekers. Meanwhile, employers also tend to question resume gaps , which can make it harder for candidates to find work the longer they're searching. Coda says his mental health during his job search, while dispiriting, was less affected by the tepid responses because his family had been saving aggressively. He and his wife, who still works full-time in HR, had been working toward an early retirement.",
+      "summary": "Candidates giving up in the face of relentless job searches could be part of the reason behind recent declines in the labor force participation rate.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
       "published_at": "2026-08-02T14:30:01+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
+      "event_type": "market",
+      "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
-        "dollar",
-        "growth",
         "macro",
-        "market",
-        "rates"
+        "market"
       ],
       "categories": [
         "market",
@@ -1814,8 +1907,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.706,
+      "impact_score": 1.84,
+      "recency_weight": 0.703,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1860,7 +1953,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.699,
+      "recency_weight": 0.697,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1906,7 +1999,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.699,
+      "recency_weight": 0.697,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1947,7 +2040,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.699,
+      "recency_weight": 0.697,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1989,7 +2082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.699,
+      "recency_weight": 0.697,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2031,7 +2124,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.692,
+      "recency_weight": 0.69,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2072,7 +2165,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.692,
+      "recency_weight": 0.69,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2118,7 +2211,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.686,
+      "recency_weight": 0.683,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2160,7 +2253,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.686,
+      "recency_weight": 0.683,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2201,7 +2294,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.686,
+      "recency_weight": 0.683,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2242,7 +2335,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.683,
+      "recency_weight": 0.681,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2283,7 +2376,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.679,
+      "recency_weight": 0.677,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2324,7 +2417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.673,
+      "recency_weight": 0.67,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2365,7 +2458,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.673,
+      "recency_weight": 0.67,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2410,7 +2503,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.673,
+      "recency_weight": 0.67,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2455,7 +2548,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.673,
+      "recency_weight": 0.67,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2497,7 +2590,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.673,
+      "recency_weight": 0.67,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2542,7 +2635,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.591,
+      "recency_weight": 0.589,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2583,7 +2676,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.551,
+      "recency_weight": 0.549,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2624,7 +2717,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.446,
+      "recency_weight": 0.445,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2665,7 +2758,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.443,
+      "recency_weight": 0.441,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2706,7 +2799,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.442,
+      "recency_weight": 0.44,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2747,7 +2840,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.436,
+      "recency_weight": 0.435,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2788,7 +2881,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.428,
+      "recency_weight": 0.426,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2829,7 +2922,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.424,
+      "recency_weight": 0.422,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2874,7 +2967,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.424,
+      "recency_weight": 0.422,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2916,7 +3009,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.324,
+      "recency_weight": 0.323,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2955,7 +3048,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.318,
+      "recency_weight": 0.317,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3000,7 +3093,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.318,
+      "recency_weight": 0.316,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3038,7 +3131,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.311,
+      "recency_weight": 0.31,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -3082,48 +3175,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.304,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "659e1bdf0bedf71aff68",
-      "title": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
-      "summary": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
-      "published_at": "2026-07-31T15:45:15+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.287,
+      "recency_weight": 0.303,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3164,7 +3216,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.279,
+      "recency_weight": 0.278,
       "scored_for_probability": false,
       "source_profile": {
         "key": "cftc",
@@ -3207,7 +3259,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.277,
+      "recency_weight": 0.276,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3250,7 +3302,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.277,
+      "recency_weight": 0.276,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3290,7 +3342,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.277,
+      "recency_weight": 0.276,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -3337,7 +3389,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.27,
+      "recency_weight": 0.269,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3378,7 +3430,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.268,
+      "recency_weight": 0.267,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3770,7 +3822,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 11,
+      "recent_items": 12,
       "latest_published_at": "2026-08-03T08:25:02+00:00",
       "warning": null
     },
@@ -3789,7 +3841,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-03T08:29:43+00:00",
+      "latest_published_at": "2026-08-03T08:39:18+00:00",
       "warning": null
     },
     {
