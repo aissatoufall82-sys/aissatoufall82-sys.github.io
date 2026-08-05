@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T05:10:00.191779+00:00",
+  "generated_at": "2026-08-05T08:10:11.823541+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,14 +21,841 @@
   "environment": null,
   "events": [
     {
-      "event_id": "ab5dc05499058aa67859",
+      "event_id": "3d40bcbfbd7d5f960118",
+      "title": "SoftBank jumps 13% as Asia tech stocks track Wall Street AI rally",
+      "summary": "Asian technology stocks rallied after Wall Street's soared. Asian technology stocks surged Wednesday after a strong Wall Street rally overnight that saw robust corporate earnings and easing oil prices push major U.S. indexes to fresh records. In South Korea, SK Hynix jumped 5.77%, while Samsung Electronics gained over 2.5%. Seoul Semiconductor popped 6.73%. Tech stocks have been seeing heightened volatility , with South Korea's semiconductor-heavy market whipsawing between steep losses and record gains in recent sessions. Ortus Advisors' strategist Andrew Jackson said in a note on Wednesday the latest rally in U.S. semiconductor stocks reinforced the bullish outlook for Asian AI names, pointing to a surge in chipmakers and infrastructure suppliers overnight. Jackson expects SoftBank to further extend gains after Arm Holdings , its majority-owned chip design subsidiary, jumped overnight on optimism over higher AI-related data center royalties and development plans for central processing units. U.S. stocks had a banner day Tuesday, with the S&P 500 and Dow Jones Industrial Average scaling fresh record highs, thanks to strong earnings and another decline in oil prices driven by hopes that the Strait of Hormuz could soon reopen. The Nasdaq Composite popped 2.59% to close at 26,584.99, as Palantir Technologies rallied over 29%. U.S. Treasury Secretary Scott Bessent told CNBC's \"Squawk Box \" on Tuesday that Washington and Tehran could reach a deal within days to reopen the Strait of Hormuz, easing concerns over global energy supplies.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+      "published_at": "2026-08-05T08:05:03+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ca651531d4ccf92c44a5",
+      "title": "Australia Doubles Down on Data Centers Using Renewable Power",
+      "summary": "Australia’s federal government will press on with a nationwide push to ensure new data centers use renewable energy, pledging to pass laws despite opposition to the move from some regional administrations.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/australia-doubles-down-on-data-centers-using-renewable-power",
+      "published_at": "2026-08-05T07:56:11+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.996,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ffa18c6173c9dbabcb82",
+      "title": "Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand",
+      "summary": "Hon Hai Precision Industry Co. reported a 54.2% increase in monthly sales, signaling sustained demand in global AI infrastructure buildout by customers such as Nvidia Corp.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/nvidia-partner-hon-hai-s-sales-rise-54-on-strong-ai-demand",
+      "published_at": "2026-08-05T07:37:43+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.99,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "66e1a07dabf50e48a1d7",
+      "title": "Optimism Leans on US-Iran Deal Hopes: 3-Minutes MLIV",
+      "summary": "Anna Edwards, Lizzy Burden and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-05/optimism-leans-on-us-iran-deal-hopes-3-minutes-mliv-video",
+      "published_at": "2026-08-05T07:26:56+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "64f19d9789d8ea23169b",
+      "title": "Novo Nordisk stock falls after raised forecast fails to change the debate over its obesity business",
+      "summary": "Novo Nordisk raised its full-year outlook late Tuesday. Analysts said the better-than-expected quarter benefited from rebate adjustments and other temporary factors. Novo also disclosed another disappointing clinical result for next-generation weight-loss drug CagriSema, reinforcing investor questions about the company's longer-term pipeline. Novo Nordisk's quarterly beat and guidance increase did little to resolve Wall Street's biggest concern: whether the Ozempic maker has a convincing path back to sustainable growth as competition from Eli Lilly intensifies. Analysts said the better-than-expected quarter benefited from rebate adjustments and other temporary factors, obesity drug sales were broadly in line with expectations, and oral Wegovy slightly missed forecasts. At the same time, Novo reported another mixed clinical result for n ext-generation weight-loss drug CagriSema , reinforcing investor questions about the company's longer-term pipeline. \"Overall nothing to inspire,\" Citi analysts wrote, while Jefferies said the guidance increase left little room for consensus sales estimates to move higher. The Danish drugmaker hiked its full-year guidance and said it now expects adjusted sales and operating profit to be down 6% to flat at constant exchange rates, an improvement from previous guidance of a decline of between 4% and 12% for both metrics. Copenhagen-listed shares fell as much as 5% in morning trading before paring some losses to trade 3.4% lower. Novo's American depositary receipts fell 6% in after-hours trading Tuesday after the quarterly report was published one day earlier than expected. Novo is racing to restore investor confidence in its pipeline and ability to execute, especially in the challenging U.S. market, amid intense pressure from Eli Lilly's rival medicines Zepbound and Mounjaro, which have rapidly gained market share despite being launched years after Novo's. Coming into Wednesday trading, the company's Danish shares had fallen about 5% year-to-date and were down nearly 70% from their mid-2024 peak, even if they have recovered some ground this year following the successful launch of the Wegovy pill. Novo said the improved outlook was driven by increased expectations for GLP-1 product sales and specifically its Wegovy product portfolio, which includes both an injectable and a pill. The pill has reached more than 5 million prescriptions since its launch, alongside encouraging early uptake in markets outside the U.S . and the rollout of a newly approved higher dose of injectable Wegovy, Novo said. \"I could see a future where actually this market is, to a large extent, a pill market,\" Mike Doustdar told CNBC's Carolin Roth on Wednesday, while stressing that the launch was only six months old. \"The fine detail is that [the] first 1 million prescriptions took us 11 weeks to do without any competitor in the market. This last 1 million prescriptions took us four weeks to do. While there's a competitor out there trying really hard to take those prescriptions away from us, and we have not allowed that,\" he said. Eli Lilly launched its rival weight loss pill Foundayo in April , roughly four months after the Wegovy pill hit the U.S. market. It has seen slower initial uptake, a nd Lilly CEO David Ricks has previously told CNBC that it will take time to build the brand since it's a new drug that doctors and patients don't know.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
+      "published_at": "2026-08-05T07:23:34+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.985,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7027421445c3b20123e1",
+      "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+      "summary": "Extremely low water levels on the Rhine and Danube are disrupting energy generation, freight and river transport across Europe. The rivers support nuclear cooling, hydropower, industry and trade, meaning prolonged low levels could increase energy and transport costs. Authorities are turning to extreme measures to fight the economy-threatening drought, like blowing up riverbeds. The drought in Europe is so severe that it is jeopardizing countries' economic growth and forcing them to take extreme measures like blowing up riverbeds. Gripped by a summer of weather extremes , Romania recently shut down its sole working nuclear reactor cooled by the Danube for the first time, with Bucharest even deploying naval forces to carry out underwater detonations to improve water flow. Images published Monday showed the Romanian navy blasting rocks in controlled explosions in Izvoarele village as part of a push to divert a higher volume of water toward the cooling systems of the Cernavoda Nuclear Power Plant. Low water levels on the Danube have also threatened to close Hungary's Paks nuclear plant, which supplies around 40% of the country's electricity, and forced Serbia to cut hydropower generation. Why low Rhine levels threaten Germany's economy In Germany, the water levels on the Rhine River, a crucial waterway in Europe's economic heartland, have fallen to their lowest levels in nearly 150 years, posing a risk to the German economy and further disrupting supply chains. The water level at Kaub, a key choke point for vessels transiting to southern Germany and Switzerland, fell to 24 centimeters on Monday and Tuesday, reflecting its lowest level since records began in 1880, with forecasts of even lower levels toward the end of this week, according to official data compiled by ETH Zurich. That's far below the critical level of 78 centimeters at the Kaub gauge for navigation on the Rhine. Transport is still possible below this threshold, but cargo barges must be less heavily loaded, and freight transport costs and low-water surcharges rise sharply. \"Major rivers like the Rhine and Danube are critical trade corridors and sources of water for industry and energy generation, so when water levels fall, the effects extend far beyond the waterways themselves,\" Liz Saccoccia, water security lead at the World Resources Institute, told CNBC by email. \"We're already seeing that happen. Nuclear plants in Hungary, Romania and France, along with hydropower facilities in Serbia, have already had to reduce electricity generation because there isn't enough water for cooling or driving turbines, increasing the risk of blackouts and costly electricity imports,\" Saccoccia said. \"Along the Danube, low water levels have prevented farmers from shipping their crops and stopped cruise ships from reaching ports such as Budapest. These are early examples of how increasingly unreliable water supplies can ripple through the economy, affecting trade, energy security, supply chains and local businesses,\" she added. What low water levels mean for freight and supply chains The issue shines a light on a critically important environmental issue: water scarcity . The issue is especially acute across southern Europe, where around 30% of the population is known to be situated in areas with permanent water stress: when water demand exceeds the available supply. In economic terms, the effects of low water levels on the Rhine could be enough to dampen German gross domestic product (GDP) by up to 0.2 percent in the third quarter, according to Stefan Kooths, professor of economics at the Kiel Institute for the World Economy (IfW). \"Since water levels are unlikely to rise sharply back above the critical threshold in early August, transport capacity is likely to remain affected by the low water levels for some time in the coming month as well,\" Kooths told CNBC by email. \"The loss in value added can be roughly estimated at 1 to 2 billion euros ($1.15 billion to $2.3 billion) in the third quarter,\" he added. How climate change is increasing Europe's drought risk Felix Schmidt, senior economist at the private German bank Berenberg, said companies in Europe's traditional growth engine had likely not been caught by surprise by the Rhine's low water levels because climate change means this has become a recurring challenge. Businesses have prepared by either stocking up on inventories or diverting the transport of some goods via rail or road, although Schmidt acknowledged that freight rates were currently going \"through the roof,\" exacerbating inflationary worries. \"Given that Germany is growing very little, obviously, if we grow 0.1 instead of 0.2 then this means we lose half of the growth, if you want to frame it like that,\" Schmidt told CNBC in a phone interview. The German economy expanded by 0.2% in the second quarter, compared to the previous three-month period. That followed an upwardly revised 0.4% quarter-on-quarter increase in the first quarter.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+      "published_at": "2026-08-05T07:15:17+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.983,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "356739b0f7071465038a",
+      "title": "Schaeffler Targets 1,300 Job Cuts With Early Pension Push",
+      "summary": "Schaeffler AG plans to cut its German workforce through an expanded phased-retirement program as weak automotive demand continues to pressure the supplier.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/schaeffler-targets-1-300-job-cuts-with-early-pension-push",
+      "published_at": "2026-08-05T07:00:51+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "9f6994f94d706fa62e12",
+      "title": "Moove Hits $2.1 Billion Valuation in Mubadala-Led Fundraising",
+      "summary": "Moove has closed a $250 million investment round led by Abu Dhabi sovereign wealth fund Mubadala, which will help the vehicle-financing and fleet-management startup add services for self-driving cars and expand into new geographies.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/moove-hits-2-1-billion-valuation-in-mubadala-led-fundraising",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "36878908832e57f43c74",
+      "title": "Push to Reopen Strait of Hormuz Gains Momentum | Insight with Haslinda Amin 8/5/2026",
+      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-05/insight-with-haslinda-amin-8-5-2026-video",
+      "published_at": "2026-08-05T06:57:28+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.977,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "773fa46d8d0525808e9d",
+      "title": "Glencore Takes Provision on Exposure to Trader Radiant World",
+      "summary": "Glencore Plc said it has taken a provision on its exposure to iron ore trader Radiant World and confirmed it has stopped doing any new business with the firm.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/glencore-says-it-has-taken-provision-on-radiant-world-exposure",
+      "published_at": "2026-08-05T06:49:31+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.974,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "0b51e55fb213fa85d38f",
+      "title": "Moonshot Backer Monolith Seeks to Raise $500 Million in New Fund",
+      "summary": "Monolith Management, which backed artificial intelligence sensation Moonshot, wants to raise $500 million for a new fund focused on Chinese AI, according to people familiar with the matter.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/moonshot-backer-monolith-seeks-to-raise-500-million-in-new-fund",
+      "published_at": "2026-08-05T06:39:29+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.971,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "16d6951b0bc12e5763aa",
+      "title": "Honda Raises Outlook 30% as Weak Yen, US Demand Lift Profits",
+      "summary": "Honda Motor Co. raised its profit outlook after the motorcycle business, a weak yen and US demand for hybrids lifted quarterly results to a record.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/honda-raises-outlook-30-as-weak-yen-us-demand-lift-profits",
+      "published_at": "2026-08-05T06:38:33+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.971,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "de732dc3cf2d65b42ecf",
+      "title": "Horizons Middle East & Africa 8/5/2026",
+      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-05/horizons-middle-east-africa-8-5-2026-video",
+      "published_at": "2026-08-05T06:38:25+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.971,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a60a19372e239fe4414d",
+      "title": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
+      "summary": "The new rules impose a 20% tax at nearly every stage of a trust's life, and give families until Oct. 22 to declare and pay tax owed on assets moved into trusts since the start of 2023. That countdown has set off a scramble among wealthy Chinese families to call lawyers and private bankers. \"This is a watershed moment for China-linked private wealth planning,\" a Singapore-based lawyer said. Offshore trusts have long been used by China's ultra-rich to tuck away hundreds of billions of dollars outside the country. Now, a move by Beijing to tax them has set off a rush to lawyers and a scramble for cash. For decades, the legal structure has been a favored vehicle of Chinese tycoons to hold everything from pre-IPO stakes to family fortunes — and their tax treatment in China was never spelled out. But on July 24, China's Ministry of Finance and tax authority issued the clearest rules yet on how they should be taxed. Now a 20% levy will be collected at nearly every stage of a trust's life, from establishment to profit distribution and termination. Families need to declare and pay outstanding amounts on assets transferred into such trusts since the start of 2023 by Oct. 22 — a total window of 90 days. Late declarations or non-payments could incur surcharges. That countdown has set off a scramble across Hong Kong and Singapore, popular destinations for China-linked families to set up trust structures. \"Many clients, trustees, and advisors are still in shock,\" said Clifford Ng, a Hong Kong-based partner at Zhong Lun law firm. Calls have poured in from wealthy families, private banks, trust companies, and insurers, said Kia Meng Loh, chief operating officer and senior partner at Singapore-based law firm Dentons Rodyk. People want to know whether they are affected by the new rules, how large the tax bill might be, and how to settle it before the grace period expires, he said, adding that some are already weighing which assets to sell. \"This is a watershed moment for China-linked private wealth planning,\" Loh added. For an industry built on decades of Chinese money, the sums potentially involved are massive. Assets held under trusts in Hong Kong alone reached HK$5.2 trillion ($667 billion) in 2023, with 55% of the underlying investments located in mainland China and Hong Kong, according to a report by KPMG and the Hong Kong Trustees' Association, which called the mainland the industry's most significant growth driver. Singapore, along with the British Virgin Islands and the Cayman Islands, has been favored as another legal hub for Chinese high-net-worth families to hold offshore assets. KPMG found some clients see less political risk in the city-state than in Hong Kong, according to a report released in 2025. \"Wealth owners from a diverse range of countries choose Singapore for many reasons, including our high standards of regulation, strong rule of law, and a comprehensive ecosystem of wealth managers and professional service providers,\" a Monetary Authority of Singapore spokesperson told CNBC. Hong Kong's Financial Services and the Treasury Bureau said the government would continue to strengthen the city's position as an international asset and wealth management center through tax incentives and measures aimed at attracting more funds and family offices. The tax revision comes as the Chinese government looks for new sources of fiscal revenue. Land sales – which used to be a major contributor to budgetary financing – collapsed amid a broader economic slump. Citizens' mountains of overseas assets presented a compelling target. Local tax bureaus in Shanghai, Shenzhen and Jiangsu had begun inspecting offshore trusts and applying 20% levies in select cases even before the national rules were released. Individual income-tax revenue jumped 13.1% in the first half of 2026, even as retail sales barely grew. Chinese officials have also been taking tougher stances on capital flows out of the country, including banning three cross-border online brokerage firms from the country earlier this year. The super-rich are calling lawyers to figure out the scope of their exposure and pin down a tax bill. There are multiple challenges. Taxable amounts submitted to Chinese authorities will need to match figures already shared with Beijing by foreign governments under the Common Reporting Standard, the global tax-information exchange, said Richard Grasby, a partner at offshore law firm Appleby in Hong Kong. Since first participating in the CRS in 2018, offshore financial account information has been continuously exchanged with Chinese tax authorities. Some assets may be hard to value. The wealth inside these trusts is often locked up in operating companies, pre-IPO stakes, properties, and other illiquid assets. Past banking and trading records may be difficult or impossible to locate. What's more, \"dipping into the trust fund itself to cover the bill could trigger additional tax,\" Grasby said.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/05/wealthy-chinese-race-for-tax-advice-as-beijing-targets-offshore-trusts.html",
+      "published_at": "2026-08-05T06:33:47+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.97,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ceead81e3c2a843f9b4a",
+      "title": "Vietnam’s Techcombank Seeks $1 Billion, Joining Rush for Funds",
+      "summary": "Vietnam Technological and Commercial JSB, known as Techcombank, is seeking a $1 billion loan for regular business operations, according to people familiar with the matter, in what would be one of the Southeast Asian nation’s largest debt deals this year.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/vietnam-s-techcombank-seeks-1-billion-joining-rush-for-funds",
+      "published_at": "2026-08-05T06:23:41+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.966,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "507dd6c85a3e80abc161",
+      "title": "Next Lifts Outlook as UK’s Hot Summer Boosts Clothing Sales",
+      "summary": "Next Plc raised its outlook for the third time this fiscal year, after sales surged in the second quarter due to warm UK weather and pent-up demand in the Middle East and northern Europe.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/next-lifts-outlook-as-demand-bucks-downbeat-consumer-outlook",
+      "published_at": "2026-08-05T06:15:39+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.964,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4ef22d35ff57445ee7b1",
+      "title": "China Sells Long-Dated Offshore Yuan Bonds at Record Low Yields",
+      "summary": "China sold long-dated yuan-denominated sovereign bonds in Hong Kong at record-low yields, underscoring strong demand from global investors for the offshore issuance.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-sells-long-dated-offshore-yuan-bonds-at-record-low-yields",
+      "published_at": "2026-08-05T06:12:44+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.963,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b14d673cf1c27c510070",
+      "title": "Glencore Profit Jumps on Trading Boom and Record Copper",
+      "summary": "Glencore Plc reported a steep jump in profits after a surge in the price of its most important commodities and its trading unit had one of its best ever periods as the Iran war sent energy prices soaring.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/glencore-profit-jumps-on-trading-boom-and-record-copper",
+      "published_at": "2026-08-05T06:07:36+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.961,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f8c3d87dc6bd50e6bc20",
+      "title": "FTSE 100 Live: UK Stocks Rise as Glencore, Next Rally on Earnings",
+      "summary": "",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/live-blog/2026-08-05/ftse-100-live-pound-gilts-gbp-pmi-data-iran-war-trump-oil-prices-hormuz-news-what-s-moving-uk-markets-right-now-markets-today-msfo884h",
+      "published_at": "2026-08-05T05:53:22+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.957,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b20ad42b1944cdc9643a",
       "title": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
-      "summary": "India's central bank on Wednesday held benchmark interest rates at 5.25%. India's retail inflation climbed to an 18-month high in June, crossing the central bank's medium-term target of 4% for the first time in over a year. Many Asian countries such as Japan, the Philippines, Indonesia and South Korea have raised interest rates to tackle inflation pressures mounting from the conflict in the Middle East. India's central bank on Wednesday held interest rates at 5.25% for a fifth time in a row, even as the country's retail inflation has crossed the Reserve Bank of India's medium-term target of 4%. Economists polled by Reuters had forecast the policy rate would remain unchanged. The central bank noted that headline inflation had \"edged up above target as expected,\" but core inflation, excluding precious metals, continues to \"remain moderate.\" Core Inflation is expected to decline after peaking in the December quarter, Sanjay Malhotra, RBI governor, said in his address on Wednesday. He added that greater clarity needs to emerge on inflation about \"its path, and composition before taking any policy action. Future rate action would also have to \"consider the need for recalibration of policy rates in line with the evolving growth-inflation dynamics,\" Malhotra said. Several Asian countries including Japan, the Philippines, Indonesia, and South Korea have raised interest rates in the past few months to curb inflation as the conflict in the Middle East has driven energy prices higher. Malhotra also cautioned that even though growth has been \"resilient,\" it is expected to be lower in this financial year. The outlook is \"hazy\" on the back of the uncertainties from the southwest monsoon, El Nino, geopolitics, and global trade policy, he said. India's benchmark Nifty 50 index was trading flat, while 10-year bond yields fell about 4 basis points to 6.782%. The country's consumer inflation touched an 18-month high of 4.38% in June, as oil prices surged. Since May, the government has partially passed on the fuel price increases to the public, adding to cost pressures. The Indian central bank, however, has repeatedly emphasized that its focus is on core inflation — which excludes energy and food prices. It was at 3.7% at the end of April, and is expected to climb up to 4.7% in the financial year ending March 2027. Higher inflation is mostly on account of fuel and food, with little signs of widespread price pressures so far, Malhotra said Wednesday. But a prolonged rise in energy prices could lift core inflation as well through higher input, transportation, and operational costs. Inflation is expected to stay above 5% for eight months starting October, HSBC Global Investment Research said in a report on Monday. \"That's a level that will be difficult for both the RBI and markets to overlook,\" it said, adding that it expects the central bank to raise rates in October and December by 25 basis points each. India, the world's fastest-growing major economy, is among the countries most vulnerable to the supply disruptions caused by the Iran war. The South Asian country meets nearly 85% of its fuel needs via imports and with Strait of Hormuz a key supply route prior to the war. India is also facing the risk of El Niño this year. Despite the copious downpour that led to flooding across many parts of the country in the past few weeks, India still faces the prospect of a deficient monsoon this year. India is facing strong macroeconomic headwinds with both its current account and fiscal deficit widening as of the quarter ended June, as per LSEG data. This, along with the persistent capital outflows, has made one of the worst performing Asian currencies.",
+      "summary": "India's central bank on Wednesday held benchmark interest rates at 5.25%. India's retail inflation climbed to an 18-month high in June, crossing the central bank's medium-term target of 4% for the first time in over a year. Many Asian countries such as Japan, the Philippines, Indonesia and South Korea have raised interest rates to tackle inflation pressures mounting from the conflict in the Middle East. India's central bank on Wednesday held interest rates at 5.25% for a fifth time in a row, even as the country's retail inflation has crossed the Reserve Bank of India's medium-term target of 4%. Economists polled by Reuters had forecast the policy rate would remain unchanged. The central bank noted that headline inflation had \"edged up above target as expected,\" but core inflation, excluding precious metals, continues to \"remain moderate.\" Core Inflation is expected to decline after peaking in the December quarter, Sanjay Malhotra, RBI governor, said in his address on Wednesday. He added that greater clarity needs to emerge on inflation about \"its path, and composition before taking any policy action. Future rate action would also have to \"consider the need for recalibration of policy rates in line with the evolving growth-inflation dynamics,\" Malhotra said. Several Asian countries including Japan, the Philippines, Indonesia, and South Korea have raised interest rates in the past few months to curb inflation as the conflict in the Middle East has driven energy prices higher. Malhotra also cautioned that even though growth has been \"resilient,\" it is expected to be lower in this financial year. The outlook is \"hazy\" on the back of the uncertainties from the southwest monsoon, El Nino, geopolitics, and global trade policy, he said. India's benchmark Nifty 50 index was trading flat, while 10-year bond yields fell about 4 basis points to 6.782%. The country's consumer inflation touched an 18-month high of 4.38% in June, as oil prices surged. Since May, the government has partially passed on the fuel price increases to the public, adding to cost pressures. The Indian central bank, however, has repeatedly emphasized that its focus is on core inflation — which excludes energy and food prices. It was at 3.7% at the end of April, and is expected to climb up to 4.7% in the financial year ending March 2027. Higher inflation is mostly on account of fuel and food, with little signs of widespread price pressures so far, Malhotra said Wednesday. But a prolonged rise in energy prices could lift core inflation as well through higher input, transportation, and operational costs. Inflation is expected to stay above 5% for eight months starting October, HSBC Global Investment Research said in a report on Monday. \"That's a level that will be difficult for both the RBI and markets to overlook,\" it said, adding that it expects the central bank to raise rates in October and December by 25 basis points each. India, the world's fastest-growing major economy, is among the countries most vulnerable to the supply disruptions caused by the Iran war. The South Asian country meets nearly 85% of its fuel needs via imports and with Strait of Hormuz a key supply route prior to the war. India is also facing the risk of El Niño this year. Despite the copious downpour that led to flooding across many parts of the country in the past few weeks, India still faces the prospect of a deficient monsoon this year. Going forward, experts said they see higher food prices as a bigger risk to India's inflation than energy price shocks. \"If oil prices settle even at $90 per barrel, I do not see this becoming a sticking point for inflation going forward,\" Sanjay Mathur, chief economist for South East Asia and India at ANZ, told CNBC's \"Access Middle East \" on Wednesday. \"From here on, it will be key to monitor how food prices lead to broad-based [inflationary] pressures,\" he added. India is facing strong macroeconomic headwinds with fiscal deficit widening as of the quarter ended June, as per LSEG data. This, along with the persistent capital outflows, has made the rupee one of the worst-performing Asian currencies. The RBI and the government have announced several measures to stem capital outflows. Some of these have led to a sharp rise in foreign inflows through the bond markets and through foreign currency non-resident bank deposits, or FCNR-B. However, experts remain bearish on the rupee, with Anubhuti Sahay, head of India economic research at Standard Chartered, saying that her firm estimates the rupee to trade at 96 per dollar in 2026 as the forex inflows from FCNR-B ease from September onwards.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/05/india-rbi-interest-rate-inflation-iran-war.html",
-      "published_at": "2026-08-05T05:02:09+00:00",
+      "published_at": "2026-08-05T05:50:04+00:00",
       "event_type": "macro",
       "severity": "major",
       "sentiment": -0.35,
@@ -53,7 +880,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.997,
+      "recency_weight": 0.956,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -71,14 +898,112 @@
       }
     },
     {
-      "event_id": "7ece60fa0f4bf048e30a",
-      "title": "SoftBank-Backed OfBusiness Is Said to Explore Reviving India IPO",
-      "summary": "OFB Tech Pvt , the operator of technology supply chain and financing platform OfBusiness , is considering reviving plans for an initial public offering that could raise as much as $800 million, according to people familiar with the matter. The SoftBank Group Corp. -backed company is working with Axis Capital Ltd. , Morgan Stanley , JPMorgan Chase & Co. , and Citigroup Inc. to help prepare for the potential listing, the people said, asking not to be identified because the information is private. The company is aiming to file its draft prospectus as soon as November, the people said.",
+      "event_id": "4f0fcff287d9f791cf2f",
+      "title": "India's Inflation Cushion 'Thinner' Than It Seems",
+      "summary": "The Reserve Bank of India kept its benchmark rate unchanged for a fourth straight review as it waits to see whether higher energy costs from the Iran war spill over into broader inflation. Prior to the decision, Standard Chartered Bank Head of India Economic Research Anubhuti Sahay told us the country's inflation has been benign so far, but the cushion is thinner than it appears. She speaks with Paul Allen on Bloomberg's \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/softbank-backed-ofbusiness-is-said-to-explore-reviving-india-ipo",
-      "published_at": "2026-08-05T04:56:02+00:00",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-05/india-s-inflation-cushion-thinner-than-it-seems-video",
+      "published_at": "2026-08-05T05:49:08+00:00",
+      "event_type": "macro",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 28.98,
+      "recency_weight": 0.956,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "79ccb747df1e6a51b829",
+      "title": "Infineon Falls as AI Boom Concerns Trump Strong Sales Forecast",
+      "summary": "Infineon Technologies AG shares fell after a strong revenue forecast in the current quarter failed to convince investors, who are increasingly worried about high valuations in the chip sector.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/infineon-revenue-forecast-beats-as-ai-power-chip-demand-rises",
+      "published_at": "2026-08-05T05:30:38+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "corporate",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.95,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "17e346d4b3eaed6727ba",
+      "title": "Allianz to Buy UOB Asset Management Unit as CEO Targets Asia",
+      "summary": "Allianz SE agreed to buy the asset management unit of Singapore’s United Overseas Bank Ltd., marking the German insurer’s second major deal in recent days as Chief Executive Officer Oliver Baete pursues growth in the region.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/allianzgi-to-buy-uob-asset-management-to-grow-in-southeast-asia",
+      "published_at": "2026-08-05T05:14:43+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -95,7 +1020,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.996,
+      "recency_weight": 0.945,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -112,19 +1037,20 @@
       }
     },
     {
-      "event_id": "7a3622fee4f15e2f2f8e",
-      "title": "US Copper Trades Near Record on Tariff Risks, Hormuz Speculation",
-      "summary": "Copper futures in New York traded just short of an all-time high, as investors awaited a decision on US tariffs, while also tracking a push to reopen the Strait of Hormuz that lifted demand for risk assets. The metal has gained more than 17% on Comex this year — stretching its premium over London Metal Exchange prices — as traders position for any announcements on import levies. The higher US rates have kept large volumes flowing to American ports , tightening the market elsewhere.",
+      "event_id": "a8a775b96a368b50237e",
+      "title": "Siemens Energy Eyes Top of Outlook Range on Record Orders",
+      "summary": "Siemens Energy AG sees strong demand for gas turbines and grid equipment pushing the profit margin in the current fiscal year to the upper end of its guidance corridor.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/us-copper-trades-near-record-on-tariff-risks-hormuz-speculation",
-      "published_at": "2026-08-05T04:46:06+00:00",
-      "event_type": "market",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/siemens-energy-targets-top-end-of-outlook-range-on-record-orders",
+      "published_at": "2026-08-05T05:00:00+00:00",
+      "event_type": "corporate",
       "severity": "minor",
-      "sentiment": 0.0,
+      "sentiment": 0.35,
       "affected_tags": [
         "broad_equity",
+        "corporate",
         "macro",
         "market"
       ],
@@ -136,7 +1062,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.992,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -146,7 +1072,54 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好"
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "65eec3f048c0a2ca6c93",
+      "title": "EQT-Run Scaleup Europe Fund Invests in Satellite Startup Iceye",
+      "summary": "Europe’s new €5 billion ($5.8 billion) technology fund has disclosed that its first investment is in Finnish satellite company Iceye Oy, part of the bloc’s push to cultivate startups working on strategic technologies.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/eqt-run-scaleup-europe-fund-invests-in-satellite-startup-iceye",
+      "published_at": "2026-08-05T05:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.941,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -182,7 +1155,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.99,
+      "recency_weight": 0.935,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -202,7 +1175,7 @@
     {
       "event_id": "7e11f2377d99eee68760",
       "title": "Key Options Trade Displays Abnormal Pattern With India Auction",
-      "summary": "A key options trade particularly popular in India to bet on volatility on the day equity derivatives expire showed an unusual pattern on Tuesday, highlighting a potential trading opportunity as market players grapple with a new mechanism for determining closing prices. The price of the at-the-money straddle, in which a trader simultaneously buys or sells both a put and a call, on the expiring NSE Nifty 50 Index options climbed late in Tuesday’s session. Since contracts become worthless at expiry, the straddle’s value should typically drop gradually to zero during the day.",
+      "summary": "A key options trade particularly popular in India to bet on volatility on the day equity derivatives expire showed an unusual pattern on Tuesday, highlighting a potential trading opportunity as market players grapple with a new mechanism for determining closing prices.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -224,7 +1197,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.987,
+      "recency_weight": 0.931,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -241,104 +1214,9 @@
       }
     },
     {
-      "event_id": "37b4bf9d72bff37f3e28",
-      "title": "Goldman Sachs' Keung on Chinese AI Models",
-      "summary": "Ronald Keung, Head of Asia Internet Research at Goldman Sachs, expects competition for best performance-to-cost balance to intensify among Chinese AI developers. He speaks on \"Bloomberg: The China Show.\" AI Bot Hacks Show Need for ‘Holistic’ Safety Guardrails SpaceX Is a Compelling Investment, Gerber Says Apple's India Business Hits a Major Milestone Big Take: War Is Good For Big Oil's Profits AMD Investors May Be Overreacting, GraniteShares CEO Says McDonald’s Names New US Boss After Slowest Growth in More Than a Year Jefferies Gets New Evidence of Fake Invoices at Troubled Fund Fed’s Paulson Keeping an ‘Open Mind’ on Interest Rates",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/goldman-sachs-keung-on-chinese-ai-models-video",
-      "published_at": "2026-08-05T04:26:33+00:00",
-      "event_type": "macro",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.986,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "36a0e1e523c4a7f71a0b",
-      "title": "Mitsubishi UBE Cement Is Said to Plan for December Tokyo Listing",
-      "summary": "Mitsubishi UBE Cement Corp. is planning to go public as soon as December, according to people familiar with the matter, five years after being formed through units of Japanese materials companies. The Tokyo-based company, held by Mitsubishi Materials Corp. and UBE Corp. , is working with joint global coordinators Citigroup Inc. , Mizuho Financial Group Inc. , Morgan Stanley and Nomura Holdings Inc. on its initial public offering, said the people, who asked not to be identified because the information isn’t public.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/mitsubishi-ube-cement-is-said-to-plan-for-december-tokyo-listing",
-      "published_at": "2026-08-05T03:51:14+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.975,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9d5191966dc6c9d1f04e",
-      "title": "China’s Official Newspaper Warns US Over Expanding Tech Curbs",
-      "summary": "The official newspaper of China’s ruling Communist Party warned of countermeasures against widening US technology curbs as Washington considers banning imports of some Chinese AI components, adding a fresh source of strain to the countries’ fragile trade truce.",
+      "event_id": "831d6033f38214c11fe1",
+      "title": "US Ban on Chinese AI Components Unlikely to Dent Export Engine",
+      "summary": "A potential US ban on Chinese data center components risks straining the countries’ fragile trade truce, but is unlikely to hurt China’s export engine.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -365,7 +1243,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.975,
+      "recency_weight": 0.92,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -376,116 +1254,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "aacc147ddb264079a708",
-      "title": "Rhodium: China Leads US in Key Tech Stack Areas",
-      "summary": "A Rhodium Group analysis shows China leads the US and other G7 nations in several key areas of AI development, despite lagging behind in chips. Reva Goujon, a director at the group and co-author of the report, discusses the findings on \"Bloomberg: The China Show.\" AI Bot Hacks Show Need for ‘Holistic’ Safety Guardrails SpaceX Is a Compelling Investment, Gerber Says Apple's India Business Hits a Major Milestone Big Take: War Is Good For Big Oil's Profits AMD Investors May Be Overreacting, GraniteShares CEO Says McDonald’s Names New US Boss After Slowest Growth in More Than a Year Jefferies Gets New Evidence of Fake Invoices at Troubled Fund Fed’s Paulson Keeping an ‘Open Mind’ on Interest Rates",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/rhodium-china-leads-us-in-key-tech-stack-areas-video",
-      "published_at": "2026-08-05T03:33:15+00:00",
-      "event_type": "macro",
-      "severity": "major",
-      "sentiment": -0.55,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.969,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d05d52bcae213d9d4f01",
-      "title": "US-Iran Deal Hope Grows; SpaceX Sinks After AI Splurge | The Asia Trade 8/5/2026",
-      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. US-Iran Deal Hope Grows; SpaceX Sinks After AI Splurge | The Asia Trade 8/5/2026 Now Playing Yen Rally Loses Steam; Trump Threatens Iran's 'Last Chance' | The Asia Trade 8/4/2026 Duration: 95:04 Yen Rises Sharply With Traders on Intervention Watch | The Asia Trade 8/3/2026 Duration: 95:15 Yen Intervention on Watch; Korean Stocks Jump by Record | The Asia Trade 7/31/2026 Duration: 94:47 Divided Fed Holds Rates, Samsung 1Q Chip Profit Soars | The Asia Trade 7/30/2026 Duration: 95:12 Traders Weigh Renewed US-Iran Strikes, SK Hynix Earnings | The Asia Trade 7/29/2026 Duration: 94:57 Chip Rout Deepens on Circular Funding, China Fears | The Asia Trade 7/28/2026 Duration: 93:59 Central Banks, Big Tech Deals in Focus | The Asia Trade 7/27/2026 Duration: 95:13 AI Fuels Nuclear Renaissance in Asia | Bloomberg Tech: Asia 7/24/2026 Duration: 22:51 Oil Tops $100 on War Worries; Trump Resurrects Tariff Wall | The Asia Trade 7/24/2026 Duration: 71:30 Markets Weigh Widening War, Big Tech Earnings | The Asia Trade 7/23/2026 Duration: 95:02 Yen Falls To 40-Year Low, Trump Imposes Pharma Tariffs | The Asia Trade 7/22/2026 Duration: 95:17 Iran War Rages On; New Trade War Looms With Canada Tariffs | The Asia Trade 7/21/2026 Duration: 95:15 Iran Conflict Escalates; Chinese AI in Focus | The Asia Trade 7/20/2026 Duration: 95:03 Chips Selloff Deepens Amid AI Angst | The Asia Trade 7/17/2026 Duration: 107:26 Chip Selloff Hits Kospi, BOK Begins Rate Hikes | The Asia Trade 7/16/2026 Duration: 97:21 World’s First Trillionaire, Governance Meets Growth, Menopause Market Boom Why Anthropic’s Mythos Is Sparking Alarm The Fight Against Trump’s Immigration Crackdown",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/the-asia-trade-8-5-2026-video",
-      "published_at": "2026-08-05T03:28:10+00:00",
-      "event_type": "macro",
-      "severity": "major",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "dollar",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "rates",
-        "safe_haven",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 24.15,
-      "recency_weight": 0.968,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -522,7 +1290,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.958,
+      "recency_weight": 0.904,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -534,134 +1302,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b40395d9f54097251535",
-      "title": "China’s AI Agent Unicorn Lovart Is Said to Explore Hong Kong IPO",
-      "summary": "Evoken, the Chinese startup behind AI design agent Lovart, is considering an initial public offering in Hong Kong, people familiar with the matter said, the latest such firm seeking to tap booming investor demand for artificial intelligence tools after the breakout success of Manus.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-ai-agent-unicorn-lovart-is-said-to-explore-hong-kong-ipo",
-      "published_at": "2026-08-05T02:47:28+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.955,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "be1efc904ad918a7edbf",
-      "title": "SK Hynix Climbs as Investors Bet on Shareholder Return Plan",
-      "summary": "Shares of SK Hynix Inc. advanced, lifted by an overnight rally in US chipmakers and speculation that the Korean firm may soon unveil buybacks and other details of a broader shareholder return plan.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/sk-hynix-climbs-as-investors-bet-on-shareholder-return-plan",
-      "published_at": "2026-08-05T02:37:33+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.952,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d8e97f1a457e4a6bfce7",
-      "title": "LIC’s Big Share Sale Draws Investors Even as India’s IPO Market Stalls",
-      "summary": "India expands the size of the offering to raise $3.3 billion amid strong demand.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-05/lic-s-big-share-sale-draws-investors-even-as-india-s-ipo-market-stalls",
-      "published_at": "2026-08-05T02:36:36+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.952,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -693,7 +1333,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -739,7 +1379,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.949,
+      "recency_weight": 0.896,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -787,7 +1427,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.947,
+      "recency_weight": 0.894,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -800,47 +1440,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "776bf9a212519a80dcfc",
-      "title": "Manipal Health Rises 11% in Trading Debut After $960 Million IPO",
-      "summary": "Manipal Health Enterprises Ltd. shares rose 11% in their Mumbai debut Wednesday, beating expectations implied by the gray market ahead of the company’s $960 million initial public offering.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/manipal-health-set-for-flat-mumbai-debut-after-960-million-ipo",
-      "published_at": "2026-08-05T02:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.941,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -880,7 +1479,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.936,
+      "recency_weight": 0.883,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -929,7 +1528,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.934,
+      "recency_weight": 0.882,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -947,185 +1546,9 @@
       }
     },
     {
-      "event_id": "c37c8edb10c1452c755f",
-      "title": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
-      "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks. Asian technology stocks surged Wednesday after a strong Wall Street rally overnight that saw robust corporate earnings and easing oil prices push major U.S. indexes to fresh records. In South Korea, SK Hynix jumped 6.9%, while Samsung Electronics gained over 4%. Seoul Semiconductor popped 7.6%. Tech stocks have been seeing heightened volatility , with South Korea's semiconductor-heavy market whipsawing between steep losses and record gains in recent sessions. Ortus Advisors' strategist Andrew Jackson said in a note on Wednesday the latest rally in U.S. semiconductor stocks reinforced the bullish outlook for Asian AI names, pointing to a surge in chipmakers and infrastructure suppliers overnight. Jackson expects SoftBank to further extend gains after Arm Holdings , its majority-owned chip design subsidiary, jumped overnight on optimism over higher AI-related data center royalties and development plans for central processing units. U.S. stocks had a banner day Tuesday, with the S&P 500 and Dow Jones Industrial Average scaling fresh record highs, thanks to strong earnings and another decline in oil prices driven by hopes that the Strait of Hormuz could soon reopen. The Nasdaq Composite popped 2.59% to close at 26,584.99, as Palantir Technologies rallied over 29%. U.S. Treasury Secretary Scott Bessent told CNBC's \"Squawk Box \" on Tuesday that Washington and Tehran could reach a deal within days to reopen the Strait of Hormuz, easing concerns over global energy supplies.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
-      "published_at": "2026-08-05T01:27:06+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "energy",
-        "growth",
-        "macro",
-        "market",
-        "oil",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.931,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2c4825167049953a2f6e",
-      "title": "Goldman-Backed Biotech Attovia Raises $289 Million in US IPO",
-      "summary": "Attovia Therapeutics Inc., an early-stage drug developer focused on immune system diseases with high unmet need, raised $289 million in a US initial public offering that priced at the top of its marketed range.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/goldman-backed-biotech-attovia-raises-289-million-in-us-ipo",
-      "published_at": "2026-08-05T01:06:12+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.925,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f0cbf40f1823f0826c5d",
-      "title": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
-      "summary": "The new rules impose a 20% tax at nearly every stage of a trust's life, and give families until Oct. 22 to declare and pay tax owed on assets moved into trusts since the start of 2023. That countdown has set off a scramble among wealthy Chinese families to call lawyers and private bankers. \"This is a watershed moment for China-linked private wealth planning,\" a Singapore-based lawyer said. Offshore trusts have long been used by China's ultra-rich to tuck away hundreds of billions of dollars outside the country. Now, a move by Beijing to tax them has set off a rush to lawyers and a scramble for cash. For decades, the legal structure has been a favored vehicle of Chinese tycoons to hold everything from pre-IPO stakes to family fortunes — and their tax treatment in China was never spelled out. But on July 24, China's Ministry of Finance and tax authority issued the clearest rules yet on how they should be taxed. Now a 20% levy will be collected at nearly every stage of a trust's life, from establishment to profit distribution and termination. Families need to declare and pay outstanding amounts on assets transferred into such trusts since the start of 2023 by Oct. 22 — a total window of 90 days. Late declarations or non-payments could incur surcharges. That countdown has set off a scramble across Hong Kong and Singapore, popular destinations for China-linked families to set up trust structures. \"Many clients, trustees, and advisors are still in shock,\" said Clifford Ng, a Hong Kong-based partner at Zhong Lun law firm. Calls have poured in from wealthy families, private banks, trust companies, and insurers, said Kia Meng Loh, chief operating officer and senior partner at Singapore-based law firm Dentons Rodyk. People want to know whether they are affected by the new rules, how large the tax bill might be, and how to settle it before the grace period expires, he said, adding that some are already weighing which assets to sell. \"This is a watershed moment for China-linked private wealth planning,\" Loh added. For an industry built on decades of Chinese money, the sums potentially involved are massive. Assets held under trusts in Hong Kong alone reached HK$5.2 trillion ($667 billion) in 2023, with 55% of the underlying investments located in mainland China and Hong Kong, according to a report by KPMG and the Hong Kong Trustees' Association, which called the mainland the industry's most significant growth driver. Singapore, along with the British Virgin Islands and the Cayman Islands, has been favored as another legal hub for Chinese high-net-worth families to hold offshore assets. KPMG found some clients see less political risk in the city-state than in Hong Kong, according to a report released in 2025. \"Wealth owners from a diverse range of countries choose Singapore for many reasons, including our high standards of regulation, strong rule of law, and a comprehensive ecosystem of wealth managers and professional service providers,\" a Monetary Authority of Singapore spokesperson told CNBC. Hong Kong's Financial Services and the Treasury Bureau hadn't provided comment by the time of publication. The tax revision comes as the Chinese government looks for new sources of fiscal revenue. Land sales – which used to be a major contributor to budgetary financing – collapsed amid a broader economic slump. Citizens' mountains of overseas assets presented a compelling target. Local tax bureaus in Shanghai, Shenzhen and Jiangsu had begun inspecting offshore trusts and applying 20% levies in select cases even before the national rules were released. Individual income-tax revenue jumped 13.1% in the first half of 2026, even as retail sales barely grew. Chinese officials have also been taking tougher stances on capital flows out of the country, including banning three cross-border online brokerage firms from the country earlier this year. The super-rich are calling lawyers to figure out the scope of their exposure and pin down a tax bill. There are multiple challenges. Taxable amounts submitted to Chinese authorities will need to match figures already shared with Beijing by foreign governments under the Common Reporting Standard, the global tax-information exchange, said Richard Grasby, a partner at offshore law firm Appleby in Hong Kong. Since first participating in the CRS in 2018, offshore financial account information has been continuously exchanged with Chinese tax authorities. Some assets may be hard to value. The wealth inside these trusts is often locked up in operating companies, pre-IPO stakes, properties, and other illiquid assets. Past banking and trading records may be difficult or impossible to locate. What's more, \"dipping into the trust fund itself to cover the bill could trigger additional tax,\" Grasby said. But it's a distinct possibility for many trust holders that they'll need to sell something in order to pay the new levies.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/05/wealthy-chinese-race-for-tax-advice-as-beijing-targets-offshore-trusts.html",
-      "published_at": "2026-08-05T00:32:29+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.915,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5ee7cbe6c2a8e850921c",
-      "title": "Shionogi Eyes More US Plants, M&A Deals",
-      "summary": "Isao Teshirogi, President and CEO of Shionogi & Co said the company is eyeing more manufacturing sites in the US for next decade. 'We’re actively pursuing minimum three deals today', he shared in an exclusive conversation with Bloomberg's Lisa Du. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/shionogi-eyes-more-us-plants-m-a-deals-video",
-      "published_at": "2026-08-05T00:17:13+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.91,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "79ce3a1eb89b49c4a21e",
-      "title": "Australian Stocks Hit Record High on Iran Hopes, Economic Bets",
-      "summary": "Australia’s stock benchmark briefly climbed to an intraday record on easing concerns over the US-Iran conflict and supportive signals in the domestic economy.",
+      "event_id": "0af8cc6fd6f025189742",
+      "title": "Australia Stocks Rise to Record on Iran Hopes, Economic Bets",
+      "summary": "Australia’s stock benchmark climbed to a record on easing concerns over the US-Iran conflict and supportive signals in the domestic economy.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1147,48 +1570,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.91,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "397bc830919b3f304f20",
-      "title": "China’s Quant Curbs Sap Volatility and Turnover: Equity Insight",
-      "summary": "China’s latest initiative to rein in quantitative trading is proving something of a double-edged sword for the stock market as it has reduced volatility, but also sapped turnover.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-quant-curbs-sap-volatility-and-turnover-equity-insight",
-      "published_at": "2026-08-05T00:10:48+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.908,
+      "recency_weight": 0.859,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1207,7 +1589,7 @@
     {
       "event_id": "2cef195abb5336bc4fcd",
       "title": "Gold Jumps With Silver as Markets Track Push to Reopen Hormuz",
-      "summary": "Gold gained for a third day, as the prospect of an interim deal to reopen the Strait of Hormuz eased concerns about the outlook for inflation and reduced the odds of the Federal Reserve raising interest rates.",
+      "summary": "Gold jumped, gaining for a third day as the prospect of an interim deal to reopen the Strait of Hormuz eased concerns about the outlook for inflation and reduced the odds of the Federal Reserve raising interest rates.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1232,7 +1614,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.904,
+      "recency_weight": 0.853,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1243,54 +1625,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4d237a853391ebae06a7",
-      "title": "SpaceX exceeds revenue estimates in first earnings report since IPO",
-      "summary": "SpaceX’s revenue exceeded Wall Street’s expectations in the company’s first quarterly financial report following its blockbuster IPO in June. Ed Ludlow has the info on Elon Musk's rocket, satellite and AI conglomerate. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-revenue-estimates-in-post-ipo-earnings-video",
-      "published_at": "2026-08-04T23:48:01+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "corporate",
-        "growth",
-        "macro",
-        "market",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.902,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1325,7 +1659,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.9,
+      "recency_weight": 0.849,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1367,7 +1701,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.896,
+      "recency_weight": 0.846,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1413,7 +1747,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.891,
+      "recency_weight": 0.841,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1424,6 +1758,52 @@
         "impact_axes": [
           "指数风险偏好",
           "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d4f4fd53669c22cfcf2b",
+      "title": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech",
+      "summary": "Prices of lab monkeys in China have surged, complicating new drug development trials and increasing the need for primate imports from neighboring countries.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/lab-monkeys-for-26-000-show-china-s-biotech-quest-to-rival-us",
+      "published_at": "2026-08-04T23:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.838,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1461,7 +1841,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.888,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1473,52 +1853,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "65c4defeadf3442b2e88",
-      "title": "Lab Monkeys for $26,000 Show China’s Biotech Quest to Rival US",
-      "summary": "Prices of lab monkeys in China have surged, complicating new drug development trials and increasing the need for primate imports from neighboring countries.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/lab-monkeys-for-26-000-show-china-s-biotech-quest-to-rival-us",
-      "published_at": "2026-08-04T23:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.888,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1555,7 +1889,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.885,
+      "recency_weight": 0.835,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1607,7 +1941,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.885,
+      "recency_weight": 0.835,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1653,7 +1987,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.884,
+      "recency_weight": 0.834,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1696,7 +2030,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.882,
+      "recency_weight": 0.833,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1715,7 +2049,7 @@
     {
       "event_id": "5c12a6b6bef1c6aa723a",
       "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-      "summary": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling, allowing technology stocks to rally on strong fundamentals. He said the timing was critical, with the fund's unwind coinciding with earnings season and helping companies like ServiceNow finally see strong results rewarded by investors. CNBC's Jim Cramer said Tuesday the biggest obstacle to technology stocks has finally been removed. \"Ever since we found out that Leopold Aschenbrenner's hedge fund, Situational Awareness, blew up last week, we've seen tech stocks flying all over the place, unleashed, unbound and roaring higher, catapulted by the lack of sellers of any size,\" the \" Mad Money \" host said. Situational Awareness, the AI-focused hedge fund founded by former OpenAI researcher Leopold Aschenbrenner, was forced to unwind its highly leveraged portfolio last week after suffering steep losses. Cramer said the liquidation — along with selling from investors who had copied the fund's trades — flooded the market with shares of AI infrastructure companies, pushing many fundamentally strong stocks well below where they should have been trading. With much of that selling now behind the market, Cramer said earnings have once again become the primary driver of stock prices. \"In the collapse of Situational Awareness, we realize what we had is a clearing event — it wiped out all your fellow shareholders with weak hands,\" he said. \"Once it ended, there were no more forced sellers.\" Enterprise software has been one of the clearest examples, Cramer said. For much of the year, investors broadly favored AI infrastructure stocks while betting against software companies they feared would lose pricing power . However, when ServiceNow reported a strong quarter in late July, the stock rallied instead of selling off as it had done in prior quarters. Cramer said that \"caused an avalanche,\" helping ignite a broader rebound across the sector. \"So much of tech, freed of the forced sales, goes ever higher,\" he said. \"We all owe Leopold Aschenbrenner a gigantic ocean of thanks. This is his rally. Too bad he didn't get to enjoy it.\" Click here to read Jim Cramer's Guide to Investing at no cost to help you build long-term wealth and invest smarter Questions for Cramer? Call Cramer: 1-800-743-CNBC Want to take a deep dive into Cramer's world? Hit him up! Mad Money Twitter - Jim Cramer Twitter - Facebook - Instagram Questions, comments, suggestions for the \"Mad Money\" website? madcap@cnbc.com",
+      "summary": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1723,11 +2057,10 @@
       "published_at": "2026-08-04T22:22:22+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.55,
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
-        "corporate",
         "growth",
         "macro",
         "market",
@@ -1739,10 +2072,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.877,
+      "impact_score": 5.52,
+      "recency_weight": 0.828,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1753,7 +2086,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -1789,7 +2121,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.877,
+      "recency_weight": 0.828,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1835,7 +2167,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.877,
+      "recency_weight": 0.828,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1853,33 +2185,35 @@
       }
     },
     {
-      "event_id": "93dba4d2509d9e2a5eb8",
-      "title": "Stocks Rally to Record, Oil and Dollar Dip on Iran: Markets Wrap",
-      "summary": "Global stocks climbed to a record as investors renewed bets on the artificial intelligence trade, driving gains in chipmakers. Oil and the dollar fell on the prospect of an interim US-Iran deal.",
+      "event_id": "b373aa99a79b376f16c7",
+      "title": "Stocks Hit Records on AI Trade, Iran Deal Prospect: Markets Wrap",
+      "summary": "Global stocks climbed to a record as hopes rose for a US-Iran deal to open the Strait of Hormuz, while investors renewed bets on the artificial intelligence trade, driving gains in chipmakers.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-08-04/stock-market-today-dow-s-p-live-updates",
       "published_at": "2026-08-04T22:11:08+00:00",
-      "event_type": "energy",
+      "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.2,
+      "sentiment": 0.55,
       "affected_tags": [
+        "ai",
         "broad_equity",
-        "energy",
+        "growth",
         "macro",
         "market",
-        "oil"
+        "semiconductor",
+        "tech"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "isolated",
+      "forward_significance": "trend_confirmation",
       "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.874,
+      "impact_score": 6.9,
+      "recency_weight": 0.825,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1890,7 +2224,7 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期"
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1899,7 +2233,7 @@
     {
       "event_id": "4a44ef507af08a0bb1c8",
       "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
-      "summary": "Advanced Micro Devices reported second-quarter earnings on Tuesday. The chipmaker beat expectations on the top and bottom lines and provided in-line guidance for the current quarter. AMD makes both data center CPUs and GPUs. Both kinds of AI chips are driving the company's growth and the unit's sales doubled on a year-over-year basis. Advanced Micro Devices reported second-quarter earnings on Tuesday that beat expectations, but the stock slumped in extended trading after rising during regular trading hours. Here's how the chipmaker did versus LSEG consensus estimates for the quarter ended June 27: EPS : $1.66, adjusted, versus $1.62 expected Revenue : $11.54 billion versus $11.28 billion expected Overall, AMD revenue climbed 50% from $7.69 billion a year ago, a sign of the company's central position in the market for artificial intelligence chips. AMD's Data Center unit is what is driving the company's growth. Data Center sales were $6.7 billion, up 107% on an annual basis, which the company attributed to central processing unit and graphics processing unit sales. The chipmaker's stock has nearly tripled over the past year, both on optimism that its AI chips, branded Instinct, will take a meaningful amount of a growing market from Nvidia , as well as the resurgence of the CPU — which AMD sells under the brand name Epyc — which AI experts now say is an essential component for running agents. AMD said it expects about $13 billion in revenue for the current quarter, plus or minus $300 million, versus LSEG expectations of $12.52 billion. Some analysts had been looking for guidance as high as $14 billion. In July, AMD raised its expectations for the size of the semiconductor industry, saying it could be worth $2 trillion per year by 2028. The chipmaker sees $1.4 trillion of that coming from AI accelerators, or GPUs, up from a previous estimate of $500 billion by 2028. The company will also start shipping Helios, its first rack AI system, this quarter to companies like Meta , OpenAI , and Oracle . It's AMD's first rack-scale system, using its CPUs, GPUs, and networking chips, which directly competes with Nvidia's complete systems, not just its chips. AMD said on Tuesday that it expected Helios shipments to ramp up in the fourth quarter. \"We expect Data Center sales to accelerate in the second half of 2026, driving stronger overall revenue growth and continued earnings expansion,\" AMD CFO Jean Hu said in a statement. On an earnings call with analysts, AMD CEO Lisa Su said that the company expects its data center sales to double in 2027, and that server revenue will up more than 80% on an annual basis in the second half of the company's fiscal 2026. \"Demand for both accelerators and CPUs is growing well above our prior expectations,\" Su said. Su added on the earnings call that the company's CPU business has taken market share during the quarter. AMD's main CPU rival is Intel. \"Hyperscalers continued expanding Epyc across their internal infrastructure and public cloud offerings, including AWS, Microsoft, Google, Oracle, and others,\" Su said. AMD's business selling CPUs and GPUs for consumer devices like laptops and consoles, called client and gaming, was only up 6% year-over-year to $3.8 billion. Its embedded segment, which includes chips for industrial purposes, grew 19% on an annual basis to $977 million. The company said it spent $808 million on capital expenditures, a steep increase from $282 million in the year-ago period and $389 million in the March quarter. \"Our first half performance has been very strong and although we are expecting that the market will decline in the second half, the market has actually held up better than most people would have thought,\" Su said about the company's PC business. AMD reported $2.3 billion in net income, or $1.38 per diluted share, versus $872 million in net income, or 54 cents per diluted share in the year-ago period. SpaceX revenue jumps 92% and AI costs soar in first earnings report since IPO NJ files antitrust suit against Amazon, alleging it unlawfully wielded power over delivery contractors Palantir stock skyrockets on 'otherworldly' commercial revenue — here's what's driving the demand How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
+      "summary": "AMD's data center unit is driving the company's growth, up 107% over last year.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1907,7 +2241,7 @@
       "published_at": "2026-08-04T22:09:17+00:00",
       "event_type": "technology",
       "severity": "moderate",
-      "sentiment": 0.55,
+      "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "broad_equity",
@@ -1923,10 +2257,10 @@
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "trend_confirmation",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.874,
+      "impact_score": 5.52,
+      "recency_weight": 0.825,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1969,7 +2303,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.874,
+      "recency_weight": 0.825,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1988,7 +2322,7 @@
     {
       "event_id": "c4e3dfdc6e1f8cf75c59",
       "title": "Latest Oil Market News and Analysis for Aug. 5",
-      "summary": "Oil fell for a third day on optimism a deal can be reached to reopen the Strait of Hormuz, potentially freeing up Persian Gulf supplies.",
+      "summary": "Oil erased a decline as Yemen’s Houthi militant group issued a fresh threat against Middle East shipping, tempering optimism over US-Iran talks.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2012,7 +2346,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2054,7 +2388,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.869,
+      "recency_weight": 0.821,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2095,7 +2429,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.865,
+      "recency_weight": 0.817,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2141,7 +2475,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.863,
+      "recency_weight": 0.815,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2183,7 +2517,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.861,
+      "recency_weight": 0.813,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2228,7 +2562,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.861,
+      "recency_weight": 0.813,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2270,7 +2604,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.86,
+      "recency_weight": 0.812,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2312,7 +2646,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.859,
+      "recency_weight": 0.81,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2354,7 +2688,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.858,
+      "recency_weight": 0.81,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2365,52 +2699,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "2ab945f375de6d8986dd",
-      "title": "ScottsMiracle-Gro CEO on New Growth Algorithm, Pricing",
-      "summary": "Nate Baxter, CEO and President of Scott'sMiracle-Gro, appeared on the program following the company's recent investor day. He shared that although he has recently assumed the CEO role, his discussions with investors over the past eighteen months have maintained a consistent strategic message. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-04/scottsmiracle-gro-ceo-on-new-growth-algorithm-pricing-video",
-      "published_at": "2026-08-04T21:11:34+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.858,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2441,7 +2729,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.858,
+      "recency_weight": 0.809,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2452,52 +2740,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "71dbac7d33ca2c28334e",
-      "title": "Japan Human-Sized Refrigerator Cooling Booth Sees Demand as Heat Waves Intensify",
-      "summary": "The glass door closes, and a curtain of cool air spills over your head, neck and shoulders, delivering instant relief from the punishing summer heat.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/japan-human-sized-refrigerator-cooling-booth-sees-demand-as-heat-waves-intensify",
-      "published_at": "2026-08-04T21:00:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.854,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -2528,7 +2770,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2569,7 +2811,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2614,7 +2856,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2664,7 +2906,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2714,7 +2956,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2764,7 +3006,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2814,7 +3056,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2862,7 +3104,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2911,7 +3153,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2960,7 +3202,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3009,7 +3251,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3060,7 +3302,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.854,
+      "recency_weight": 0.806,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3073,100 +3315,6 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cbc201cc9189fe67703c",
-      "title": "SpaceX Can Compete in AI, Former Tesla Board Member Says",
-      "summary": "Steve Westly, founder and managing partner of The Westly Group and a former Tesla board member, says SpaceX will be able to compete with the leaders in AI but it will not be cheap. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-can-compete-in-ai-former-tesla-board-member-says-video",
-      "published_at": "2026-08-04T20:58:14+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.854,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "725e6a2d18d1c53d468c",
-      "title": "Pipeline Owners Race to Build Capacity as AI Power Demand Jumps",
-      "summary": "US pipeline operators are racing to expand their capacity to help power new data centers.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/pipeline-owners-race-to-build-capacity-as-ai-power-demand-jumps",
-      "published_at": "2026-08-04T20:47:42+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.851,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3195,7 +3343,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.851,
+      "recency_weight": 0.803,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3206,55 +3354,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8fc3f01a00d010a80972",
-      "title": "SpaceX Exceeds Revenue Estimates in First Earnings Report Since IPO",
-      "summary": "SpaceX’s revenue exceeded Wall Street’s expectations in the company’s first quarterly financial report following its blockbuster initial public offering in June. Elon Musk’s satellite, space and artificial intelligence conglomerate reported revenue of $7.8 billion on Tuesday, greater than than the $6.81 billion analysts polled by Bloomberg estimated on average. It also unveiled an operating loss of $1.26 billion from its AI business, which was less than expected. We get reaction from Bloomberg Tech host Ed Ludlow, and Mandeep Singh of Bloomberg Intelligence. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-estimates-in-first-earnings-since-ipo-video",
-      "published_at": "2026-08-04T20:37:01+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.848,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3287,7 +3386,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.846,
+      "recency_weight": 0.799,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3330,7 +3429,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.846,
+      "recency_weight": 0.799,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -3373,7 +3472,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.846,
+      "recency_weight": 0.799,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -3386,55 +3485,6 @@
           "指数风险偏好"
         ],
         "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5b8855ef93451b27ecd2",
-      "title": "SpaceX Is a Compelling Investment, Gerber Says",
-      "summary": "SpaceX reports revenue of $7.8 billion for the second quarter, topping Wall Street estimates. But Elon Musk's company reported an operating loss of $1.26 billion from its AI business. Ross Gerber of Gerber Kawasaki Wealth and Investment Management says SpaceX is still a compelling stock to own. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-is-a-compelling-investment-gerber-says-video",
-      "published_at": "2026-08-04T20:29:44+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.846,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3466,7 +3516,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.845,
+      "recency_weight": 0.798,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3512,7 +3562,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.843,
+      "recency_weight": 0.796,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3554,7 +3604,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.842,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3596,7 +3646,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.839,
+      "recency_weight": 0.792,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3643,7 +3693,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.828,
+      "recency_weight": 0.782,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3687,7 +3737,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.821,
+      "recency_weight": 0.775,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3734,7 +3784,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.815,
+      "recency_weight": 0.769,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3777,7 +3827,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.792,
+      "recency_weight": 0.747,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3818,7 +3868,48 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.792,
+      "recency_weight": 0.747,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8cfb5c4fe7a215f08580",
+      "title": "Novo Underwhelms Investors With Soft Wegovy Pill Sales",
+      "summary": "Novo Nordisk A/S’s popular Wegovy weight-loss pill disappointed investors with sales that failed to live up to the hype of an obesity drug whose launch was billed the most successful in history.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
+      "published_at": "2026-08-04T16:48:40+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.744,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3859,7 +3950,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.785,
+      "recency_weight": 0.741,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3900,48 +3991,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.78,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ff1326208e5852110889",
-      "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
-      "summary": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared with 2025.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
-      "published_at": "2026-08-04T16:04:43+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.777,
+      "recency_weight": 0.736,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3982,7 +4032,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.751,
+      "recency_weight": 0.709,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4024,7 +4074,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.748,
+      "recency_weight": 0.706,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4072,7 +4122,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.747,
+      "recency_weight": 0.705,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -4085,90 +4135,6 @@
           "指数风险偏好"
         ],
         "canonical_url": "https://www.bls.gov/feed/bls_latest.rss",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3595a24ddca4164de19a",
-      "title": "A Quant and a Korean Dentist Push the Limits of Leveraged ETFs",
-      "summary": "A growing number of investors from the US to South Korea are using leveraged exchange-traded funds for long-term investing, a far cry from the day trading they were designed for.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/a-quant-and-a-korean-dentist-push-the-limits-of-leveraged-etfs",
-      "published_at": "2026-08-04T13:35:11+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.741,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "530fbc380394b8434c26",
-      "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-      "summary": "The reports come after the company told CNBC in June that its annualized revenue was well above $1 billion.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
-      "published_at": "2026-08-04T13:31:19+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.74,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -4199,7 +4165,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.725,
+      "recency_weight": 0.685,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -4240,7 +4206,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.673,
+      "recency_weight": 0.635,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4286,7 +4252,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.559,
+      "recency_weight": 0.528,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4326,7 +4292,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.55,
+      "recency_weight": 0.519,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4373,7 +4339,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.538,
+      "recency_weight": 0.508,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4412,7 +4378,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.484,
+      "recency_weight": 0.456,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4451,7 +4417,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.481,
+      "recency_weight": 0.454,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4490,7 +4456,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.47,
+      "recency_weight": 0.444,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4528,7 +4494,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.453,
+      "recency_weight": 0.427,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4912,7 +4878,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-05T04:56:02+00:00",
+      "latest_published_at": "2026-08-05T07:26:56+00:00",
       "warning": null
     },
     {
@@ -4921,7 +4887,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-05T03:50:37+00:00",
+      "latest_published_at": "2026-08-05T07:56:11+00:00",
       "warning": null
     },
     {
@@ -4939,7 +4905,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-08-05T05:02:09+00:00",
+      "latest_published_at": "2026-08-05T08:05:03+00:00",
       "warning": null
     },
     {
