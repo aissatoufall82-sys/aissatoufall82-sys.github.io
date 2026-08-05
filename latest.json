@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:10:11.776157+00:00",
+  "generated_at": "2026-08-05T02:10:27.674607+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -20,6 +20,789 @@
   },
   "environment": null,
   "events": [
+    {
+      "event_id": "626b5b71de8fa0a55ce0",
+      "title": "Manipal Health Set for Flat Mumbai Debut After $960 Million IPO",
+      "summary": "Manipal Health Enterprises Ltd. is set for a muted stock market debut in Mumbai after its $960 million initial public offering, as gray market trading signals cooling investor sentiment.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/manipal-health-set-for-flat-mumbai-debut-after-960-million-ipo",
+      "published_at": "2026-08-05T02:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "286805233bdfc356fa78",
+      "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff",
+      "summary": "In addressing Wall Street for the first time since SpaceX's IPO, executives tried to make the case that hefty AI investments are paying off within a year. CFO Bret Johnsen said that in the first few weeks of the current quarter, SpaceX contracted an additional $6.7 billion of cloud services revenue \"that begins ramping starting in October.\" Capital expenditures jumped more than sixfold from a year eariler. After SpaceX spent way more on its AI buildout than analysts expected, executives tried to convince investors on Tuesday that it's all worthwhile, claiming that the company is making its money back within a year. The message didn't resonate, as SpaceX shares sank following the company's first earnings report since its IPO in June. While revenue in the second quarter sailed past estimates, jumping 92% from a year prior, capital expenditures soared over sixfold to $18.4 billion, more than double total sales for the quarter. Well over 80% of SpaceX's capex went towards artificial intelligence, where the company is way behind OpenAI, Anthropic and Google when it comes to models and services, and where it's now trying to compete against cloud giants Microsoft , Amazon and Google by selling compute capacity. The capex figure exceeded the $13.22 billion average analyst analyst estimate, according to FactSet. The stock's 7.5% after-hours dropped mostly wiped out its gains from earlier in the day and left the shares more than 20% below the first trade on June 12. Bret Johnsen, SpaceX's CFO, suggested on the earnings call that investors should start thinking differently about capex because of how quickly it's converting into revenue. \"We have been very efficient, to date and I think we'll continue to be,\" Johnsen said. \"On the AI compute side, we're able to deploy capital in such a way that we're getting less than a one-year payback.\" Days before its record IPO, SpaceX inked a deal with Google that will bring in up to $920 million a month by providing AI compute capacity to the search giant. Prior to that, Anthropic announced a deal that would involve paying up to $1.25 billion a month for three years for compute capacity at SpaceX's Colossus data center in Memphis, Tennessee. And SpaceX has a separate agreement to provide computing power to Reflection AI for up to $150 million a month. Johnsen said that in the first few weeks of the current quarter, SpaceX contracted $6.7 billion of cloud services revenue \"over a six-month period that begins ramping starting in October.\" Add it up, and the company is on pace to reach $100 billion in annualized recurring revenue by the end of the year, Johnsen said, noting that his numbers assume closure of the $60 billion Cursor acquisition. In 2025, SpaceX's total revenue came in at below $19 billion. SpaceX CEO Elon Musk said investors can take the 2026 target to the bank. \"To be clear, the $100 billion ARR in December is not a question mark,\" Musk said. \"That's what we would achieve if we basically did nothing.\" SpaceX addressed Wall Street for the first time during a period of heightened scrutiny surrounding AI spending as tech outlays reach into the stratosphere. Alphabet and Amazon could each spend over $200 billion this year, with Microsoft and Meta not too far behind. Companies are watching their cash piles dwindle , betting that all these upfront investments on data centers and costly AI systems from the likes of Nvidia will be profitable in the long run. The particular challenge for SpaceX, which entered the AI market in February through its merger with Musk's xAI, is that reselling AI capacity for short-term revenue is a strategy that's detached from the company's broader ambitions. The company said in its IPO prospectus that its \"dual monetization strategy provides multiple pathways to generate returns on invested capital.\" Musk wants to be an AI pioneer through some combination of his company's Grok model and eventually by building data centers in space. The deals with Anthropic, Google and Reflection indicate that SpaceXAI, as the AI business is now known, built way more capacity at its mammoth data centers in Memphis than it's able to put to use. Musk said on the call that the company has a \"series of projects\" that cumulatively come to 20 gigawatts of capacity, including power and cooling, by the end of next year. \"Some of them won't pan out exactly on time, but I would expect that we'd still probably have, at the power plant level, something close to 15GW,\" Musk said. There are also potential legal headwinds. SpaceXAI has been sued for using natural gas-burning turbines to power its facilities in Memphis without first installing pollution controls and obtaining federal permits. In its quarterly filing , SpaceX said it's recorded an accrual of $354 million for \"litigation losses that are probable.\" To this point, SpaceX's AI business has been bleeding cash. In the second quarter, the unit generated $2.56 billion in revenue and had a $1.26 billion operating loss.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
+      "published_at": "2026-08-05T01:43:06+00:00",
+      "event_type": "geopolitical",
+      "severity": "moderate",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "075a0c1a51b3b378c55a",
+      "title": "Chinese Optical Stocks Slide on Report of Proposed US Import Ban",
+      "summary": "Zhongji Innolight Co. led a slump in Chinese optical stocks after Reuters reported that the US is drafting a ban on imports of some Chinese data center components to protect AI infrastructure.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/chinese-optical-stocks-slide-on-report-of-proposed-us-import-ban",
+      "published_at": "2026-08-05T01:37:28+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.989,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c37c8edb10c1452c755f",
+      "title": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+      "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks. Asian technology stocks surged Wednesday after a strong Wall Street rally overnight that saw robust corporate earnings and easing oil prices push major U.S. indexes to fresh records. In South Korea, SK Hynix jumped 6.9%, while Samsung Electronics gained over 4%. Seoul Semiconductor popped 7.6%. Tech stocks have been seeing heightened volatility , with South Korea's semiconductor-heavy market whipsawing between steep losses and record gains in recent sessions. Ortus Advisors' strategist Andrew Jackson said in a note on Wednesday the latest rally in U.S. semiconductor stocks reinforced the bullish outlook for Asian AI names, pointing to a surge in chipmakers and infrastructure suppliers overnight. Jackson expects SoftBank to further extend gains after Arm Holdings , its majority-owned chip design subsidiary, jumped overnight on optimism over higher AI-related data center royalties and development plans for central processing units. U.S. stocks had a banner day Tuesday, with the S&P 500 and Dow Jones Industrial Average scaling fresh record highs, thanks to strong earnings and another decline in oil prices driven by hopes that the Strait of Hormuz could soon reopen. The Nasdaq Composite popped 2.59% to close at 26,584.99, as Palantir Technologies rallied over 29%. U.S. Treasury Secretary Scott Bessent told CNBC's \"Squawk Box \" on Tuesday that Washington and Tehran could reach a deal within days to reopen the Strait of Hormuz, easing concerns over global energy supplies.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+      "published_at": "2026-08-05T01:27:06+00:00",
+      "event_type": "energy",
+      "severity": "moderate",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 7.36,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "de31e6cc71f5df18dae7",
+      "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close",
+      "summary": "CENTCOM said the \"southern route of the Strait of Hormuz remains free and open,\" referring to a path through Omani territorial waters. This comes after U.S. Treasury Secretary Scott Bessent said that a deal with Iran may come this week. U.S. President Donald Trump and others contradicted reports that U.S missile stockpiles are severely depleted. The U.S. military said the Strait of Hormuz was open for all commercial vessels to transit, after Treasury Secretary Scott Bessent claimed that an Iran deal is close. U.S. Central Command said the \"southern route of the Strait of Hormuz remains free and open\" in a post on X, highlighting that it had assisted more than 1,000 vessels in transiting the waterway despite \"unwarranted\" Iranian aggression. The southern route passes through Omani territorial waters, rather than the part closer to Iran. The announcement comes as oil prices also fell sharply Tuesday, following remarks by U.S. Treasury Scott Bessent that there may be a deal to open the Strait of Hormuz as soon as this week. \"We are in talks with the Iranians,\" Bessent told CNBC's \"Squawk Box.\" \"There is a chance we may have a deal today or tomorrow to open the Strait and move towards a more normalized position in this conflict.\" Brent , the international oil benchmark, climbed 0.43% on Wednesday to $79.7 per barrel after sliding 5.3% the day before. West Texas Intermediate futures inched up 0.21% to trade at $75.95, after falling 5.7% the day before. After Bessent's remarks, a senior Middle East diplomat with direct knowledge of the talks between Iran and Oman told MS NOW that a great deal of pressure is being brought to bear on Oman by the U.S. and European countries to accept a temporary agreement with Iran to reopen the Strait of Hormuz. MS NOW has also been told by a a senior Pakistan government official that a document on reopening the Strait of Hormuz is \"close to being finalized.\" The source, who didn't want to be identified because of the sensitive nature of the topic, added that the talks were being held between Iran and Oman whilst being mediated by Pakistan - with the U.S involved \"indirectly.\" Earlier on Tuesday, the White House and Pentagon insisted that U.S. forces had \"more than enough\" munitions, after reports that the U.S. military had used \"virtually all\" of its long-range precision missiles during the Iran war. Reuters said the Army has depleted most of its stockpile of Army Tactical Missile Systems and Precision Strike Missiles, and CNN reported that the the US military has exhausted nearly 80% of its interceptors for its THAAD missile defense system, used to defend against ballistic missile strikes. In response, U.S. President Donald Trump said that Washington has \"far more munitions than anyone in the world, and far more than we need,\" also claiming that U.S. defense companies were \"making more munitions than they have ever made before, in addition to expanding their plants and equipment at record levels.\" White House deputy press secretary Anna Kelly said that \"the United States Military has more than enough munitions, ammo, and stockpiles to serve all of President Trump's strategic goals and beyond, and Operation Epic Fury has exposed what happens when you mess with the United States.\"",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+      "published_at": "2026-08-05T01:26:27+00:00",
+      "event_type": "geopolitical",
+      "severity": "major",
+      "sentiment": 0.2,
+      "affected_tags": [
+        "broad_equity",
+        "energy",
+        "geopolitical",
+        "gold",
+        "macro",
+        "market",
+        "oil",
+        "safe_haven"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 19.32,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2c4825167049953a2f6e",
+      "title": "Goldman-Backed Biotech Attovia Raises $289 Million in US IPO",
+      "summary": "Attovia Therapeutics Inc. , an early-stage drug developer focused on immune system diseases with high unmet need, raised $289 million in a US initial public offering that priced at the top of its marketed range. The San Carlos, California-based biotech firm sold 17 million shares for $17 each, according to a statement , after increasing the size of the deal earlier Tuesday. The biotechnology firm initially offered 12.5 million shares for $15 to $17 each, an earlier filing showed.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/goldman-backed-biotech-attovia-raises-289-million-in-us-ipo",
+      "published_at": "2026-08-05T01:06:12+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.98,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "f0cbf40f1823f0826c5d",
+      "title": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
+      "summary": "The new rules impose a 20% tax at nearly every stage of a trust's life, and give families until Oct. 22 to declare and pay tax owed on assets moved into trusts since the start of 2023. That countdown has set off a scramble among wealthy Chinese families to call lawyers and private bankers. \"This is a watershed moment for China-linked private wealth planning,\" a Singapore-based lawyer said. Offshore trusts have long been used by China's ultra-rich to tuck away hundreds of billions of dollars outside the country. Now, a move by Beijing to tax them has set off a rush to lawyers and a scramble for cash. For decades, the legal structure has been a favored vehicle of Chinese tycoons to hold everything from pre-IPO stakes to family fortunes — and their tax treatment in China was never spelled out. But on July 24, China's Ministry of Finance and tax authority issued the clearest rules yet on how they should be taxed. Now a 20% levy will be collected at nearly every stage of a trust's life, from establishment to profit distribution and termination. Families need to declare and pay outstanding amounts on assets transferred into such trusts since the start of 2023 by Oct. 22 — a total window of 90 days. Late declarations or non-payments could incur surcharges. That countdown has set off a scramble across Hong Kong and Singapore, popular destinations for China-linked families to set up trust structures. \"Many clients, trustees, and advisors are still in shock,\" said Clifford Ng, a Hong Kong-based partner at Zhong Lun law firm. Calls have poured in from wealthy families, private banks, trust companies, and insurers, said Kia Meng Loh, chief operating officer and senior partner at Singapore-based law firm Dentons Rodyk. People want to know whether they are affected by the new rules, how large the tax bill might be, and how to settle it before the grace period expires, he said, adding that some are already weighing which assets to sell. \"This is a watershed moment for China-linked private wealth planning,\" Loh added. For an industry built on decades of Chinese money, the sums potentially involved are massive. Assets held under trusts in Hong Kong alone reached HK$5.2 trillion ($667 billion) in 2023, with 55% of the underlying investments located in mainland China and Hong Kong, according to a report by KPMG and the Hong Kong Trustees' Association, which called the mainland the industry's most significant growth driver. Singapore, along with the British Virgin Islands and the Cayman Islands, has been favored as another legal hub for Chinese high-net-worth families to hold offshore assets. KPMG found some clients see less political risk in the city-state than in Hong Kong, according to a report released in 2025. \"Wealth owners from a diverse range of countries choose Singapore for many reasons, including our high standards of regulation, strong rule of law, and a comprehensive ecosystem of wealth managers and professional service providers,\" a Monetary Authority of Singapore spokesperson told CNBC. Hong Kong's Financial Services and the Treasury Bureau hadn't provided comment by the time of publication. The tax revision comes as the Chinese government looks for new sources of fiscal revenue. Land sales – which used to be a major contributor to budgetary financing – collapsed amid a broader economic slump. Citizens' mountains of overseas assets presented a compelling target. Local tax bureaus in Shanghai, Shenzhen and Jiangsu had begun inspecting offshore trusts and applying 20% levies in select cases even before the national rules were released. Individual income-tax revenue jumped 13.1% in the first half of 2026, even as retail sales barely grew. Chinese officials have also been taking tougher stances on capital flows out of the country, including banning three cross-border online brokerage firms from the country earlier this year. The super-rich are calling lawyers to figure out the scope of their exposure and pin down a tax bill. There are multiple challenges. Taxable amounts submitted to Chinese authorities will need to match figures already shared with Beijing by foreign governments under the Common Reporting Standard, the global tax-information exchange, said Richard Grasby, a partner at offshore law firm Appleby in Hong Kong. Since first participating in the CRS in 2018, offshore financial account information has been continuously exchanged with Chinese tax authorities. Some assets may be hard to value. The wealth inside these trusts is often locked up in operating companies, pre-IPO stakes, properties, and other illiquid assets. Past banking and trading records may be difficult or impossible to locate. What's more, \"dipping into the trust fund itself to cover the bill could trigger additional tax,\" Grasby said. But it's a distinct possibility for many trust holders that they'll need to sell something in order to pay the new levies.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/05/wealthy-chinese-race-for-tax-advice-as-beijing-targets-offshore-trusts.html",
+      "published_at": "2026-08-05T00:32:29+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.969,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5ee7cbe6c2a8e850921c",
+      "title": "Shionogi Eyes More US Plants, M&A Deals",
+      "summary": "Isao Teshirogi, President and CEO of Shionogi & Co said the company is eyeing more manufacturing sites in the US for next decade. 'We’re actively pursuing minimum three deals today', he shared in an exclusive conversation with Bloomberg's Lisa Du. Big Take: War Is Good For Big Oil's Profits SpaceX Is a Compelling Investment, Gerber Says Turkey’s Plan To Attract the Wealthy From Dubai and London AMD Investors May Be Overreacting, GraniteShares CEO Says McDonald’s Names New US Boss After Slowest Growth in More Than a Year Jefferies Gets New Evidence of Fake Invoices at Troubled Fund Apple's India Business Hits a Major Milestone Fed’s Paulson Keeping an ‘Open Mind’ on Interest Rates",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-05/shionogi-eyes-more-us-plants-m-a-deals-video",
+      "published_at": "2026-08-05T00:17:13+00:00",
+      "event_type": "macro",
+      "severity": "major",
+      "sentiment": -0.55,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "dollar",
+        "energy",
+        "geopolitical",
+        "gold",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates",
+        "safe_haven",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "regime",
+      "confidence": 0.864,
+      "impact_score": 28.98,
+      "recency_weight": 0.964,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "79ce3a1eb89b49c4a21e",
+      "title": "Australian Stocks Hit Record High on Iran Hopes, Economic Bets",
+      "summary": "Australia’s stock benchmark briefly climbed to an intraday record on easing concerns over the US-Iran conflict and supportive signals in the domestic economy. The S&P/ASX 200 Index rose as much as 0.7% to 9,213.00, eclipsing its previous high from early March, before paring its advance. The materials sector added the biggest lift during Wednesday’s session as BHP Group and Rio Tinto Group gained, though a recent rally in banks cooled.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/australian-stocks-rise-to-record-on-iran-hopes-economic-bets",
+      "published_at": "2026-08-05T00:15:13+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.964,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "397bc830919b3f304f20",
+      "title": "China’s Quant Curbs Sap Volatility and Turnover: Equity Insight",
+      "summary": "China’s latest initiative to rein in quantitative trading is proving something of a double-edged sword for the stock market as it has reduced volatility, but also sapped turnover. The country’s stock exchanges this week banned brokers from connecting to trading and market data via local-area network (LAN) lines, effectively cutting them off from the high‑speed access that quant funds rely on, the Securities Times reported on Saturday.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-quant-curbs-sap-volatility-and-turnover-equity-insight",
+      "published_at": "2026-08-05T00:10:48+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.962,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2e4261b8bb54e7fc0ea6",
+      "title": "Gold Climbs for Third Day as Markets Track Push to Reopen Hormuz",
+      "summary": "Gold gained for a third day, as the prospect of an interim deal to reopen the Strait of Hormuz eased concerns about the outlook for inflation and reduced the odds of the Federal Reserve raising interest rates. Bullion rose toward $4,095 an ounce, after adding 0.8% in the first two sessions of the week. Qatar said a proposal had been drafted to help normalize commercial shipping via the Strait of Hormuz, and both US and Iranian officials signaled progress in talks. Crude oil steadied.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/gold-holds-steady-as-progress-on-hormuz-trims-rate-hike-bets",
+      "published_at": "2026-08-04T23:54:09+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "energy",
+        "growth",
+        "macro",
+        "market",
+        "oil",
+        "rates"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.957,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "4d237a853391ebae06a7",
+      "title": "SpaceX exceeds revenue estimates in first earnings report since IPO",
+      "summary": "SpaceX’s revenue exceeded Wall Street’s expectations in the company’s first quarterly financial report following its blockbuster IPO in June. Ed Ludlow has the info on Elon Musk's rocket, satellite and AI conglomerate. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-revenue-estimates-in-post-ipo-earnings-video",
+      "published_at": "2026-08-04T23:48:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "broad_equity",
+        "corporate",
+        "growth",
+        "macro",
+        "market",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.955,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "b2ea32824fcfb8348752",
+      "title": "Australia to Cut Price of Rooftop Solar for Factories, AFR Says",
+      "summary": "Australia will cut the price of installing solar panels on warehouse and factory rooftops, the Australian Financial Review reported, in the latest move by the government to accelerate the rollout of green energy.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/australia-to-cut-price-of-rooftop-solar-for-factories-afr-says",
+      "published_at": "2026-08-04T23:40:35+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.953,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "203500bb7c2cd0c3ae58",
+      "title": "Europe's heatwave isn't cooling Asian travelers' holiday plans for the continent",
+      "summary": "Asian travel demand remains resilient despite record-breaking heat across parts of Europe this summer. Searches for European destinations by Asian travelers rose 57% year on year, with conversion rates from searches to bookings also improving. Northern Europe has emerged as an increasingly popular destination for Asian travelers, including affluent tourists. As Europe endures another summer of record-breaking heat, Asian travelers continue to flock to the continent, with little sign that soaring temperatures are dampening demand. The trend also reflects a broader diversification in Asian travel spending across Europe, as travelers spread their budgets across a wider range of destinations throughout the continent. Searches for European destinations by Asian travelers rose 57% year on year during the July-August travel season, with improved conversion rates from search to booking, said Edmund Ong, senior regional director, Southeast Asia at Trip.com . France, Italy and Spain remained the most popular European destinations by booking volume on the platform this summer, underscoring resilient demand despite recent shifts in weather patterns. At the same time, while flight bookings to both Southern and Northern Europe grew more than 30% from a year earlier, hotel bookings in Northern Europe doubled over the same period, suggesting travelers may be allocating a larger share of their European itineraries to cooler destinations in Northern Europe, said Ong. This travel demand comes as much of Europe grapples with record-breaking heat this summer, as temperatures top 40 degrees Celsius (104 Fahrenheit) across parts of the continent with Italy placing 25 cities, including Rome and Milan, under its highest-level red heat alert. Extreme temperatures aside, among affluent travelers, Southern Europe, particularly Italy and Greece, remain firmly on the agenda, said Clemmie Spendlove, head of marketing at luxury travel agency Lightfoot Travel. Interest in Scandinavia, which has been growing over the past two to three years, remains high, as travelers seek Northern Europe's cooler climate, with a growing number of luxury hotel openings across the Nordic region helping raise its profile, Spendlove added Likewise, inquiries for Norway, Iceland, Finland and the Dolomites have risen noticeably for summer travel compared with a year earlier, said Geraleine Yap, senior travel specialist for Europe, at luxury travel agency Scott Dunn. Many Asian guests now begin their holiday search by asking for \"somewhere cooler\" rather than a specific destination, with the trend most pronounced among travelers from Singapore and Hong Kong, added Yap. Broader spending data also points to resilient demand for Northern Europe among Asian travelers. Outbound travel spending to Norway is forecast to rise 8% among Chinese travelers and 4% among Singaporean travelers in 2026 from a year earlier, according to David Zhang, Asia Pacific insight manager, at Euromonitor International. Spending on Finland travel is also projected to increase, rising 8% among Chinese travelers and 3% among Singaporean travelers over the same period. Airlines are also seeing little sign of weakening demand. Travel to Europe remains healthy, with the airline's passenger load factor, a measure of how flight occupancy, at 85.5% on European routes in June, compared with an overall passenger load factor of 86.4%, a Singapore Airlines spokesperson said. Korean Air likewise said it has not observed any visible changes in demand stemming from the recent heatwaves, noting that long-haul bookings are typically made several months in advance. Travel companies also echoed that view, saying most European holidays are booked in advance and that they had not seen widespread cancellations or major changes to travelers' itineraries in response to the extreme temperatures.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/05/europe-heatwave-travel-demand-asia.html",
+      "published_at": "2026-08-04T23:27:44+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.949,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "e75c72cbf5285f5309a7",
+      "title": "Breaking Down SpaceX’s First Earnings Report | The Close 8/4/2026",
+      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Invesco Portfolio Manager, Global Equity Anaya Lodaya, The Sundial Group of Companies Founder & Chair Richelieu Dennis, Mizuho Managing Director, Restaurants Equity Research Nick Setyan, ScottsMiracle-Gro CEO & President Nate Baxter, Gabelli Funds Portfolio Manager & Managing Director, Growth Portfolios John Belton, Gerber Kawasaki Wealth & Investment Management Co-Founder, President & CEO Ross Gerber, GraniteShares Founder & CEO Will Rhind, The Westly Group Founder & Managing Partner Steve Westly, Former Harvard Business School Institute for Strategy & Competitiveness Senior Researcher & Economist Sinead O’Sullivan, Moody’s Ratings Senior VP of Global Project & Infrastructure Finance John Medina, & Generac Holdings CEO, President & Chairman Aaron Jagdfeld. (Source: Bloomberg)",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-04/the-close-8-4-2026-video",
+      "published_at": "2026-08-04T23:08:50+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "corporate",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.943,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "809d9983091b10c81e15",
+      "title": "SoftBank Earnings to Test Appetite for AI Bets Beyond ChatGPT",
+      "summary": "SoftBank Group Corp.’s stock faces a critical test this week as investors seek reassurance that the company’s AI value extends beyond its debt-fueled bet on embattled ChatGPT operator OpenAI.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/softbank-earnings-to-test-appetite-for-ai-bets-beyond-chatgpt",
+      "published_at": "2026-08-04T23:00:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "corporate",
+        "growth",
+        "market",
+        "semiconductor",
+        "tech",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.941,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "65c4defeadf3442b2e88",
+      "title": "Lab Monkeys for $26,000 Show China’s Biotech Quest to Rival US",
+      "summary": "Prices of lab monkeys in China have surged, complicating new drug development trials and increasing the need for primate imports from neighboring countries.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/lab-monkeys-for-26-000-show-china-s-biotech-quest-to-rival-us",
+      "published_at": "2026-08-04T23:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "market",
+        "semiconductor",
+        "technology"
+      ],
+      "categories": [
+        "market",
+        "technology",
+        "ai",
+        "semiconductor",
+        "growth"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.941,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
     {
       "event_id": "33fcbb77bb5358934bd7",
       "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
@@ -50,7 +833,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 28.98,
-      "recency_weight": 0.993,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -102,7 +885,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 12.88,
-      "recency_weight": 0.993,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -148,7 +931,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.992,
+      "recency_weight": 0.936,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -191,7 +974,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.99,
+      "recency_weight": 0.935,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -237,7 +1020,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.985,
+      "recency_weight": 0.929,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -284,7 +1067,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.985,
+      "recency_weight": 0.929,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -302,8 +1085,8 @@
       }
     },
     {
-      "event_id": "e30a0903c420dc8f150e",
-      "title": "Coupang’s Losses Grow After Fallout From Data Breach Deepens",
+      "event_id": "654dbc41d2aefaca3d66",
+      "title": "Coupang’s Losses Widen After Fallout From Data Leak Spreads",
       "summary": "Coupang Inc. reported a larger-than-expected loss, underscoring the damage from a massive personal data leak that resulted in heavy administrative fines in South Korea, its primary market.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
@@ -330,7 +1113,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.985,
+      "recency_weight": 0.929,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -348,21 +1131,25 @@
       }
     },
     {
-      "event_id": "e822737170712f504b90",
-      "title": "Asian Stocks Set to Advance on Hormuz Deal Hopes: Markets Wrap",
-      "summary": "Asian stocks were set to track Wall Street higher as optimism over a possible interim deal between Washington and Tehran eased concerns about energy supplies and lifted US stocks to fresh records. Equity-index futures for Australia, Japan and South Korea all pointed to gains after the S&P 500 climbed to an all-time high Tuesday. While the Nasdaq 100 surged 3.3%, contracts for the benchmark edged lower in early Asian trading after SpaceX reported higher-than-expected spending on its artificial intelligence business, while Advanced Micro Devices Inc.’s outlook failed to excite investors.",
+      "event_id": "521fa3fa3d274beed0d3",
+      "title": "Asian Stocks Snap Two-Day Fall as Chipmakers Rally: Markets Wrap",
+      "summary": "Asian shares tracked Wall Street higher as investors returned to the artificial intelligence trade, helping stoke a rally in semiconductor stocks.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-08-04/stock-market-today-dow-s-p-live-updates",
       "published_at": "2026-08-04T22:11:08+00:00",
-      "event_type": "market",
-      "severity": "minor",
+      "event_type": "technology",
+      "severity": "moderate",
       "sentiment": 0.0,
       "affected_tags": [
+        "ai",
         "broad_equity",
+        "growth",
         "macro",
-        "market"
+        "market",
+        "semiconductor",
+        "tech"
       ],
       "categories": [
         "market",
@@ -371,8 +1158,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.981,
+      "impact_score": 5.52,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -382,7 +1169,8 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好"
+          "指数风险偏好",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -418,7 +1206,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.981,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -468,7 +1256,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.981,
+      "recency_weight": 0.926,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -489,7 +1277,7 @@
     {
       "event_id": "73e13ccd2df03ccbd196",
       "title": "Booking Holdings Keeps Full-Year Outlook on Resilient Travel",
-      "summary": "Booking Holdings Inc. shares rose as much as 6.9% in postmarket trading. Booking Holdings Inc. maintained its full-year outlook for gross bookings and revenue due to resilient travel demand even as the Middle East conflict weighs on flight prices and capacity. The Priceline owner said in its earnings statement that it still sees the year’s growth of both gross bookings in constant currency as well as revenue in the “high single-digits.” Travel demand remains firm so far in the third quarter thanks to solid domestic trends, the company said in a separate filing.",
+      "summary": "Booking Holdings Inc. maintained its full-year outlook for gross bookings and revenue due to resilient travel demand even as the Middle East conflict weighs on flight prices and capacity.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -512,7 +1300,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.979,
+      "recency_weight": 0.924,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -532,7 +1320,7 @@
     {
       "event_id": "c4e3dfdc6e1f8cf75c59",
       "title": "Latest Oil Market News and Analysis for Aug. 5",
-      "summary": "Oil Extends Two-Day Drop on Signs of Progress Toward Hormuz Deal Oil fell for a third day on optimism a deal can be reached that would reopen the Strait of Hormuz, freeing up supply trapped in the Persian Gulf. West Texas Intermediate declined toward $75 a barrel, after losing more than 10% in the prior two sessions, while Brent closed below $80 for the first time in more than three weeks. Qatar said an interim proposal had been drafted and both Washington and Tehran signaled progress in talks to reopen the waterway on Tuesday.",
+      "summary": "Oil steadied after a two-day decline on optimism a deal can be reached that would reopen the Strait of Hormuz, freeing up supply trapped in the Persian Gulf.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -556,7 +1344,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.978,
+      "recency_weight": 0.923,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -598,7 +1386,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.976,
+      "recency_weight": 0.921,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -649,7 +1437,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.971,
+      "recency_weight": 0.917,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -669,23 +1457,22 @@
       }
     },
     {
-      "event_id": "41905cab0d0e75d17574",
-      "title": "OpenAI, Anthropic AI Models Involved in More Security Incidents",
-      "summary": "Artificial intelligence models from OpenAI and Anthropic took unauthorized actions on the public Internet and, in some cases, attempted to add harmful code to online software, marking the latest in a string of breaches that have heightened concerns that AI providers can’t fully control their creations.",
+      "event_id": "a32f6c10b8b3c566f709",
+      "title": "OpenAI Says Models Breached Boundaries During Outside Testing",
+      "summary": "Artificial intelligence models developed by OpenAI and Anthropic PBC carried out “unsanctioned” actions — including hacking a website and attempting to inject harmful code into software during safety testing — reinforcing fears that neither the creators nor seasoned researchers of these systems can predict their actions in testing.",
       "source": "Bloomberg Technology",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing",
       "published_at": "2026-08-04T21:31:27+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
+      "event_type": "market",
+      "severity": "minor",
       "sentiment": 0.0,
       "affected_tags": [
         "ai",
         "growth",
         "market",
         "semiconductor",
-        "tech",
         "technology"
       ],
       "categories": [
@@ -697,8 +1484,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.969,
+      "impact_score": 1.84,
+      "recency_weight": 0.914,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -718,7 +1505,7 @@
     {
       "event_id": "b2eedcac1faa01e27cff",
       "title": "Whale Rock Sank 22% as AI Selloff Crippled Hedge Fund Returns",
-      "summary": "Whale Rock Capital Management ’s flagship hedge fund is one of the biggest losers in last month’s AI selloff, with a 21.7% drop in July erasing about half of its gains for the year. Investors are now left with a 35.1% gain for the year, a steep plunge from the fund’s 72.5% return through June 30, according to a person familiar with the matter, who requested not to be identified because the results aren’t public.",
+      "summary": "Whale Rock Capital Management’s flagship hedge fund is one of the biggest losers in last month’s AI selloff, with a 21.7% drop in July erasing about half of its gains for the year.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -744,7 +1531,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.967,
+      "recency_weight": 0.913,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -786,7 +1573,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.967,
+      "recency_weight": 0.912,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -831,7 +1618,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.966,
+      "recency_weight": 0.912,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -873,7 +1660,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.966,
+      "recency_weight": 0.911,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -892,7 +1679,7 @@
     {
       "event_id": "6228044801479613623f",
       "title": "Compass Shares Jump on Cost Savings, Transaction Growth",
-      "summary": "A Compass sign outside a home for sale in Sacramento, California. Compass Inc. shares jumped as much as 15% in post-market trading after the real estate services firm said cost savings from the acquisition of competitor Anywhere were progressing ahead of schedule. Compass hit its target of $300 million in actioned cost savings for the first year following the deal after just seven months, Chief Executive Officer Robert Reffkin said in a statement. The company raised its actioned net cost synergy target for the first year to $330 million, and it now expects $220 million in realized net cost savings in 2026.",
+      "summary": "Compass Inc. shares jumped as much as 15% in post-market trading after the real estate services firm said cost savings from the acquisition of competitor Anywhere were progressing ahead of schedule.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -914,7 +1701,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.964,
+      "recency_weight": 0.91,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -933,7 +1720,7 @@
     {
       "event_id": "8d33488375dd167de812",
       "title": "Wynn’s New Middle Eastern Resort to Open in September 2027",
-      "summary": "Wynn Resorts Ltd. said its first casino located in the Middle East will now open in September of next year. Work on the project was briefly halted earlier this year due to the US conflict with Iran. Wynn said the cost of construction will now rise by $600 million due to additional expenses for materials and shipping. The project had most recently been budgeted at $5.1 billion and scheduled to open earlier in 2027. Wynn owns 40% with partners holding the rest.",
+      "summary": "Wynn Resorts Ltd. said its first casino located in the Middle East will now open in September of next year.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -955,7 +1742,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.964,
+      "recency_weight": 0.91,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -974,7 +1761,7 @@
     {
       "event_id": "8ef05d241221a27d9402",
       "title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
-      "summary": "Paramount Skydance raised its full-year 2026 outlook for adjusted EBITDA when it reported second-quarter earnings on Tuesday. The report marks nearly a full year since the storied Hollywood company merged with David Ellison's Skydance. The company said it continues to prepare for its proposed merger with Warner Bros. Discovery, even as it has been held up by an antitrust challenge. Paramount Skydance raised its full-year guidance on Tuesday and reported second-quarter results that showcased the continued strengths of streaming and weaknesses of linear TV. While Paramount beat Wall Street expectations for revenue and reported gains in its streaming unit, led by its Paramount+ streaming service, its portfolio of cable TV networks continued to weigh on the overall company. Still, Paramount noted that cost cutting and its \"creative execution\" for the traditional TV business helped to improve margins and profit in the quarter. Here's how Paramount Skydance performed in the period ended June 30 compared with Wall Street estimates compiled by LSEG: Revenue: $6.91 billion vs. $6.88 billion expected Paramount reported net earnings attributable to the company of $41 million, or 4 cents per share, versus $57 million, or 8 cents per share, in the comparable year-earlier period. The company's reported EPS for the second quarter was not comparable to Wall Street estimates of 15 cents per share adjusted, according to LSEG. Paramount reported $6.91 billion in total revenue, up slightly year over year. Revenue for the direct-to-consumer streaming segment — which consists of Paramount+, BET+ and the free, ad-supported Pluto TV — was up 9% to $2.47 billion, while film studios revenue increased 16% to $1.31 billion. TV media revenue declined 9% to $3.13 billion. The company said the second quarter was its \"best quarter for retention in Paramount+'s history,\" due to series like the \"Yellowstone\" spinoff \"Dutton Ranch,\" as well as live sports like the UFC and offering of the FIFA World Cup in parts of Latin America. Paramount+ added 2 million subscribers during the quarter, bringing its total to 81.6 million global customers. The company said Tuesday it was raising its full-year 2026 guidance for adjusted earnings before interest, taxes, depreciation and amortization to a range of $3.8 billion to $3.9 billion, due to savings from last year's merger of Paramount and Skydance. The company has said it plans to save $3 billion from the consolidation. Paramount still expects total revenue in 2026 of $30 billion, representing 4% growth year over year. Direct-to-consumer revenue from both streaming subscriptions and advertising is expected to accelerate for the year. For the third quarter, Paramount expects total revenue of between $6.95 billion and $7.15 billion and for Paramount+ subscriber additions to be \"flattish\" quarter over quarter. Tuesday's earnings report comes nearly one year since the completion of Skydance's merger with Paramount, putting the storied Hollywood company under the leadership of CEO David Ellison. The company highlighted \"early benefits\" to unifying the tech behind Paramount+ and Pluto TV. It also noted that it increased Paramount's film slate from eight to 15 films. Paramount has more recently been in pursuit of Warner Bros. Discovery , a combination that has been held up by an antitrust challenge brought by U.S. states. However, Ellison reiterated the company's confidence in that merger Tuesday. \"As we've executed against our strategy over the past year, we've also prepared to close the transaction, and we remain confident it will be completed, creating a stronger, more competitive, creative-first media company that builds on the foundation we've established — one that benefits consumers, theater exhibitors and creatives,\" he said in a shareholder letter. Last month, Paramount agreed to delay the closing of the proposed acquisition to as late as June 2027 due to the lawsuit brought forth by a group of state attorneys general. Initially Paramount said it planned to close the deal by the end of September. It has received approval from the antitrust division of the U.S. Department of Justice, as well as from several global jurisdictions, including European regulators . The U.S. states' lawsuit will go to trial in March 2027, according to a court filing on Tuesday.",
+      "summary": "Paramount Skydance reported second-quarter earnings after the bell and said it continues to prepare for its proposed merger with Warner Bros. Discovery.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -982,7 +1769,7 @@
       "published_at": "2026-08-04T21:15:03+00:00",
       "event_type": "corporate",
       "severity": "minor",
-      "sentiment": 0.35,
+      "sentiment": 0.0,
       "affected_tags": [
         "broad_equity",
         "corporate",
@@ -997,7 +1784,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.964,
+      "recency_weight": 0.91,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1039,7 +1826,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.963,
+      "recency_weight": 0.909,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1084,7 +1871,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.963,
+      "recency_weight": 0.909,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1104,39 +1891,29 @@
     {
       "event_id": "ec5ec7c5462ef3fd4743",
       "title": "The stock market soars. 5 reasons behind the big surge Tuesday",
-      "summary": "A broad, booming rally sent the market soaring Tuesday. Among the reasons cited for the run: optimistic comments from Treasury Secretary Scott Bessent, booming earnings and a chart breakout for the S&P 500. The S&P 500 closed above 7,700 for the first time. Wall Street sent stocks soaring to records on Tuesday as a multitude of factors combined to form a broad rally. The Dow Jones Industrial Average surged more than 900 points for its best day in nearly two months. The S&P 500 jumped nearly 2% to a new all-time high in what became one of its biggest single-day advances of the year. \"It's not just one specific news event that's causing the rally. You're getting a succession of events,\" said Paul Hickey, co-founder at Bespoke Investment Group. \"Multiple positive catalysts tend to have longer legs.\" Here are five reasons why the market took off: Treasury Secretary Scott Bessent told CNBC's \"Squawk Box\" that the U.S. and Iran could reach a deal either Tuesday or Wednesday that would reopen the Strait of Hormuz. \"We are in talks with the Iranians,\" Bessent said in a Tuesday morning interview with CNBC. \"There is a chance we may have a deal today or tomorrow to open the strait and move towards a more normalized position in this conflict.\" Dow futures surged following his commentary on Hormuz, a key passageway for the global crude trade that's become a focal point of the economic impact tied to the monthslong conflict. Oil futures tumbled , further lending support to an equity rally and sending bond yields — another sticking point for investors — tumbling. Jeff Krumpelman, chief investment strategist at Mariner, said that the market is \"assuming that we're going to be able to handle the closing of the Strait of Hormuz just fine\" and that oil prices are going to stabilize longer term. He cautioned, however, that it could still be a headwind if the conflict continues to be extended and oil prices reaches $150 per barrel. Iran headlines are likely going to keep driving the market, according to Larry Tentarelli, chief technical strategist at the Blue Chip Daily Trend Report. While Tuesday's developments led to a market pop, he said investors should still be ready for big swings in either direction if tensions once again flare up between the two countries. \"You've got decent headlines for Iran,\" Tentarelli said. \"But if for some reason the headlines go the other way, then we just need to keep in the back of our mind to expect some volatility.\" A strong earnings backdrop was already underpinning the bull case for many investors this year, but the second quarter results have been positively explosive. The S&P 500 is on track to deliver second quarter earnings growth of 27% on a yearly basis, excluding mark-ups at Google-parent Alphabet and Amazon , according to Bank of America Securities. That's a 4% beat versus the consensus from the start of the earnings season. \"War continues to get shrugged off,\" said Jay Woods, chief market strategist at Freedom Capital Markets. \"Earnings are finally winning.\" With the inclusion of Alphabet and Amazon, the broader index is on pace to deliver even more incredible earnings growth, of 45% year over year, Bank of America noted. \"Right now, I think you're sitting there asking me, 'Oh, what happens if tech misses?' And I'm saying, 'Well, most are in good shape,'\" Krumpelman told CNBC. \"Have you checked out the earnings growth rates in healthcare, industrials, financials, consumer [staples], and these other areas? It's strong double digit,\" he continued. \"That will support further advancement in the market.\" To be sure, S&P 500 companies haven't been rewarded as much for their beats this earnings season than in the past, with the average stock in the index slipping 0.2% in the day after reporting, according to data from Charles Schwab. But that could be starting to reverse, with Caterpillar 's and Palantir 's post-earnings ascents on Tuesday only adding to confidence. A divergence within the high-flying technology sector took center stage in recent months with chip stocks for a time seen as the big A.I. winners, while those needing to pay for those semiconductors — big megacap tech like Microsoft and software companies — seen as the losers. That then reversed in July as chip stocks imploded with the group seen as too overheated by some. But so far in August, especially on Tuesday, investors were buying a broad array tech stocks on optimism they all can be winners from A.I. The iShares Semiconductor ETF (SOXX) jumped more than 6% on Tuesday, while the iShares Expanded Tech-Software Sector ETF (IGV) added nearly 5%. Both groups provided upward momentum to the broad sector, with the tech-heavy Nasdaq Composite rising more than 2.5%. Investors had largely looked beyond the group of marque technology stocks known as the Magnificent Seven that had been responsible for driving the market higher over recent years.",
+      "summary": "The Dow had its best day in nearly two months and the S&P 500 rose to new highs.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
       "url": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
       "published_at": "2026-08-04T21:11:05+00:00",
-      "event_type": "geopolitical",
-      "severity": "major",
-      "sentiment": 0.35,
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
       "affected_tags": [
-        "ai",
         "broad_equity",
-        "corporate",
-        "energy",
-        "geopolitical",
-        "gold",
-        "growth",
         "macro",
-        "market",
-        "oil",
-        "safe_haven",
-        "semiconductor",
-        "tech"
+        "market"
       ],
       "categories": [
         "market",
         "broad_equity",
         "macro"
       ],
-      "forward_significance": "regime",
+      "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 19.32,
-      "recency_weight": 0.962,
+      "impact_score": 1.84,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1146,10 +1923,7 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1158,7 +1932,7 @@
     {
       "event_id": "8c863d84a720a5046de3",
       "title": "Apollo Invests $1 Billion in Joint Venture With Starwood REIT",
-      "summary": "Apollo Global Management Inc. is investing $1.02 billion in a joint venture with Starwood Real Estate Income Trust , a commercial property vehicle known as SREIT that has struggled to provide liquidity to investors. Apollo is acquiring a 41.5% stake in a joint venture that will own roughly 120 of SREIT’s affordable housing properties in the US, according to a statement Tuesday. SREIT will use the proceeds from the transaction to repay a portion of the company’s credit facility, which the statement called “a critical step” toward improving liquidity and enhancing shareholder returns.",
+      "summary": "Apollo Global Management Inc. is investing $1.02 billion in a joint venture with Starwood Real Estate Income Trust, a commercial property vehicle known as SREIT that has struggled to provide liquidity to investors.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -1180,7 +1954,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1225,7 +1999,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1267,7 +2041,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1308,7 +2082,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1353,7 +2127,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1403,7 +2177,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1453,7 +2227,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1503,7 +2277,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1553,7 +2327,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1601,7 +2375,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1650,7 +2424,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1699,7 +2473,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1748,7 +2522,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1799,7 +2573,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1845,7 +2619,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1888,7 +2662,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.958,
+      "recency_weight": 0.904,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1935,7 +2709,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.955,
+      "recency_weight": 0.902,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1977,7 +2751,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.955,
+      "recency_weight": 0.901,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2018,7 +2792,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.953,
+      "recency_weight": 0.9,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2065,7 +2839,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.952,
+      "recency_weight": 0.899,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2114,7 +2888,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.951,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2159,7 +2933,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -2202,7 +2976,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "federal-reserve",
@@ -2245,7 +3019,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "federal-reserve",
@@ -2292,7 +3066,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.95,
+      "recency_weight": 0.896,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2338,91 +3112,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.949,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e58956f6e4e5458f64c0",
-      "title": "SpaceX Exceeds Estimates in First Earnings Report | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-estimates-closing-bell-video",
-      "published_at": "2026-08-04T20:21:34+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.947,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4063b3a38cb97e99e151",
-      "title": "Situational Awareness Not Target of Predatory Shorts, S3 Says",
-      "summary": "The losses that forced hedge fund Situational Awareness to sell stocks at deep discounts appear to be the result of highly concentrated positions in crowded trades, rather than a concerted effort by short-sellers, according to the founder of a company that analyzes short positioning data.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/situational-awareness-not-target-of-predatory-shorts-s3-says",
-      "published_at": "2026-08-04T20:19:21+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.947,
+      "recency_weight": 0.895,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2468,7 +3158,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.947,
+      "recency_weight": 0.893,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2515,7 +3205,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.946,
+      "recency_weight": 0.893,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2533,139 +3223,9 @@
       }
     },
     {
-      "event_id": "ec7d3fdb9f1e48d70348",
-      "title": "McDonald's says its U.S. business is falling short as it announces new head of its largest market",
-      "summary": "McDonald's posted mixed second-quarter results, as it beat earnings estimates but missed revenue expectations. The company said Skye Anderson will take over as president of its U.S. business. McDonald's said U.S. same-store sales rose 0.8% in the quarter as traffic fell. McDonald's on Tuesday reported mixed quarterly results as the chain's U.S. performance fell short of executives' expectations. \"We don't have a strategy problem,\" CEO Chris Kempczinski said on the company's earnings conference call. \"We simply didn't execute at the level we needed to in the second quarter.\" The company also announced that Skye Anderson is assuming the role of president of its U.S. business, effective Tuesday, as it tries to boost performance in its home market. She succeeds Joe Erlinger, who led the division for more than six years. Anderson, a 26-year McDonald's veteran, previously served as chief operating officer of McDonald's USA and led its Global Business Services unit before that. \"While our playbook is working around the world, we see an opportunity to raise the bar in the U.S. and accelerate performance in our largest market,\" Kempczinski said in a statement. Here's what the company reported for its second quarter ended June 30 compared with what Wall Street was expecting, based on a survey of analysts by LSEG: Earnings per share: $3.38 adjusted vs. $3.32 expected Revenue: $7.10 billion vs. $7.13 billion expected The burger giant reported second-quarter net income of $2.36 billion, or $3.32 per share, up from $2.25 billion, or $3.14 per share, a year earlier. Excluding restructuring charges and other items, McDonald's earned $3.38 per share. Net revenue rose 4% to $7.1 billion. The company's global same-store sales ticked up 1.3%, meeting Wall Street's expectations, according to StreetAccount estimates. McDonald's U.S. same-store sales increased 0.8% in the quarter. The chain said that average check rose, but traffic to its domestic restaurants fell. Executives said that McDonald's U.S. performance was disappointing, starting with the implementation of its value strategy. Kempczinski said that its U.S. restaurants, which are predominantly operated by franchisees, have not consistently executed its strategy for discounts. McDonald's allows franchisees to set their own prices, although the company assesses how operators' menu prices help the chain deliver value. For franchisees, discounts can grow sales but eat into profits. Only about 60% to 65% of its system has implemented its \"under $3 menu,\" which should include 10 items, according to Kempczinski. The loose $3 parameter meant some franchisees actually raised prices on items like a small-size order of fries. At the same time, McDonald's pulled back on many national digital offers, which play an important role in McDonald's loyalty program. \"There was a fairly significant amount of price [increases] that got taken in Q2 as a result of those two moves,\" Kempczinski said. Additionally, too many complicated launches slowed down restaurant operations, adding to service times and hurting customer satisfaction scores, Kempczinski said. Plus, McDonald's faced tough comparisons its popular \"Minecraft\" movie tie-in from last April, and its World Cup campaign that launched during the last month of the quarter underperformed expectations. If it succeeds at improving its operations and marketing, McDonald's is expecting its U.S. same-store sales to be back on track with its expectations in 2027. There were some bright spots, like the launch of its new lineup of refreshers and crafted sodas. Kempczinski said the drinks are introducing new visits and lifting average customer check. In the coming weeks, McDonald's will also add Red Bull Energizers to its beverage options. McDonald's saw stronger results outside of the U.S. Its international operated markets segment reported same-store sales growth of 1.5%, while its international developmental licensed markets division saw same-store sales rise 1.9%. In June, the company revealed a new growth strategy at its biennial worldwide convention for franchisees. A new restaurant design, better-tasting food and drinks, consumer-led innovation, and improved customer service are the four cornerstones of the new plan. The chain wants to become diners' first choice, every time. Executives also said that McDonald's now expects to reach 50,000 restaurants worldwide by the end of 2028, a slight delay from its prior projection of the end of 2027. CFO Ian Borden said the lag is due to the current consumer environment and inflation to development costs.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
-      "published_at": "2026-08-04T20:15:34+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.946,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d99ad013bb406b511f26",
-      "title": "Wayfair stock jumps 30% as retailer posts strongest U.S. growth since 2020",
-      "summary": "Wayfair saw its strongest U.S. growth since the pandemic during its second quarter. The growth helped Wayfair's profitability, as free cash flow also reached its highest level since 2020. Finance chief Kate Gulliver told CNBC that Wayfair is taking market share from traditional, brick-and-mortar retailers. Wayfair on Tuesday said it saw its strongest growth in the U.S. and best free cash flow since the pandemic during its second quarter, as the online furniture company continues to take market share from legacy brick-and-mortar retailers. In the three months ended June 30, sales in Wayfair's largest market grew 8.7% to $3.1 billion – the most the region has grown since 2020. That year, the overall home goods industry surged and Wayfair's business grew 55%. The second-quarter sales bump helped Wayfair's profitability, as free cash flow reached $301 million during the quarter, also the strongest the company has seen since 2020. During its call with analysts, Wayfair said it expects its sales momentum to continue during the current quarter with \"high single-digit\" percentage revenue growth. Analysts had been looking for 5% sales growth, according to LSEG. It expects gross margin to be between 29.5% and 30.5%. Wayfair's stock closed about 30% higher on Tuesday. In an interview with CNBC, Wayfair's finance chief, Kate Gulliver, said the company is growing by taking market share, primarily from traditional brick-and-mortar competitors, as the housing market remains \"stalled.\" It's also winning over more luxury consumers through its high-end brand Perigold, CEO Niraj Shah said in a news release. \"We saw noteworthy outperformance from our specialty retail brands, which grew by nearly 20% in the second quarter, and Perigold, which grew by more than 35%,\" said Shah. \"We are excited to see ramping growth in the Wayfair business and complementing that with outsized growth from our specialty and luxury brands, all building to why we expect to see even further acceleration as our numerous initiatives play out.\" Here's how Wayfair performed during the quarter compared with what Wall Street was anticipating, based on a survey of analysts by LSEG: Earnings per share: 95 cents adjusted vs. 89 cents expected Revenue: $3.52 billion vs. $3.47 billion expected Wayfair reported a loss of $1 million, or 1 cent per share, compared with a gain of $15 million, or 11 cents per share, a year earlier. Adjusting for nonrecurring charges like equity based compensation, Wayfair saw earnings of 95 cents per share. Revenue rose 7.5% to $3.52 billion. The home goods retailer beat Wall Street's expectations on the top and bottom lines and also exceeded estimates for adjusted earnings before interest, tax, depreciation and amortization, active customers and orders delivered. During the quarter, Wayfair's adjusted EBITDA reached $242 million, exceeding expectations of $230 million, according to StreetAccount. The 10.6 million orders it delivered beat estimates of 10.3 million, while active customers of 21.7 million topped expectations of 21.5 million, according to StreetAccount. However, average order value came in at $332, below expectations of $337.57, according to StreetAccount. Wayfair, a pandemic darling, has been working to get back to consistent growth and improve its profitability at a time when the overall home goods market remains under pressure due to tariffs , a sluggish housing market and a cash-strapped consumer. In recent quarters, it's found growth largely by winning over more shoppers, many of whom are looking for a better value as costs remain high, said Gulliver.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
-      "published_at": "2026-08-04T20:15:06+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.945,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "baa24fb31e5e172eb014",
-      "title": "Tanger Sees Boost from World Cup, Back to School Shoppers",
-      "summary": "Tanger Inc. boosted its outlook for a second time this year, as stronger domestic travel and early back-to-school shoppers have boosted traffic and sales at the real estate investment trust’s shopping centers.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/tanger-sees-boost-from-world-cup-back-to-school-shoppers",
-      "published_at": "2026-08-04T20:15:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.945,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
       "event_id": "5ba98502bb1bc93a3e3a",
       "title": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
-      "summary": "Jalapenos served at Chipotle Mexican Grill restaurants in Minnesota may have been a potential source for a salmonella outbreak. The chain has pulled the affected supply from restaurants and replaced it with peppers from different growers, according to the company. Chipotle Mexican Grill said Tuesday it temporarily pulled jalapenos from restaurants in Minnesota after learning that their supply may have been linked to a salmonella outbreak. \"We have a robust ingredient traceability system and, upon learning of a potential Salmonella outbreak in the supply chain impacting several food service retailers, we proactively identified jalapeños as a potential common ingredient from a common lot, removed them from the restaurants where they had been distributed, and replaced them with product from different growers,\" Chipotle spokesperson Laurie Schalow said in a statement to CNBC. The stock reaction indicates investors see the news as a callback to Chipotle's past as the poster child for food safety issues . The burrito chain was implicated in at least five separate foodborne illness outbreaks between 2015 and 2018. Chipotle added more training for employees, sick days and an enhanced food safety program to put those troubles in the past, and it is now seen as an industry leader on the issue. Foodborne illness has also been top of mind for many consumers lately. The ongoing cyclospora outbreak has led to more than 6,700 cases confirmed by the Centers for Disease Control and Prevention. Michigan public health authorities on Monday also confirmed the first two deaths linked to the outbreak. Though Chipotle does not serve any ingredients linked to the cyclospora outbreak, the company said concerns about the foodborne illness affected its sales in the second half of July. Bloomberg first reported that Chipotle was pulling the jalapenos.",
+      "summary": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -2687,7 +3247,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.945,
+      "recency_weight": 0.892,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2733,7 +3293,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.944,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2776,7 +3336,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.942,
+      "recency_weight": 0.889,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2822,194 +3382,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.939,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "449d50bc16d65a3328c4",
-      "title": "USD And JPY: Trump, Bessent Intervene to Rescue a Weakening Japanese Yen",
-      "summary": "One of the most dramatic foreign exchange market interventions in decades aims to stabilize the slumping yen — and stave off a larger crisis.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/usd-and-jpy-trump-bessent-intervene-to-rescue-a-weakening-japanese-yen",
-      "published_at": "2026-08-04T19:52:20+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.938,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6e7b29b6772062704616",
-      "title": "EchoStar’s Hughes Wins Approval to Use Lender Cash in Bankruptcy",
-      "summary": "A judge has allowed Hughes Satellite Systems Corp. to use noteholders’ cash to keep operating for the next four weeks, after a two-day court fight over how the company will pay its bills while in bankruptcy.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/echostar-s-hughes-wins-approval-to-use-lender-cash-in-bankruptcy",
-      "published_at": "2026-08-04T19:41:47+00:00",
-      "event_type": "credit",
-      "severity": "major",
-      "sentiment": -0.8,
-      "affected_tags": [
-        "ai",
-        "broad_equity",
-        "credit",
-        "growth",
-        "market",
-        "safe_haven",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.935,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "03237503a45e47a9cd68",
-      "title": "Invesco Portfolio Manager on Global Rally Gains",
-      "summary": "As the U.S. market approaches the closing bell with the S&P 500 on track for a record closing high, the discussion turns to the global nature of the current rally. Ananya Lodaya, Portfolio Manager of Global Equity at Invesco, provides insights into whether the gains seen in European markets are connected to the ongoing AI race or if they are driven by other factors. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-04/invesco-portfolio-manager-on-global-rally-gains-video",
-      "published_at": "2026-08-04T19:40:57+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.935,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5b4f5f2a462d86d26285",
-      "title": "Samsung Reveals New 3D-Memory Roadmap in Bid for AI Tech Lead",
-      "summary": "Samsung Electronics Co. offered a glimpse of its most advanced memory hardware, touting improved performance and power efficiency in a bid to overtake rivals SK Hynix Inc. and Micron Technology Inc. in the race for long-term dominance.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/samsung-reveals-new-3d-memory-roadmap-in-bid-for-ai-tech-lead",
-      "published_at": "2026-08-04T19:30:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "datacenter",
-        "growth",
-        "market",
-        "memory",
-        "semiconductor",
-        "storage",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.932,
+      "recency_weight": 0.886,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3056,7 +3429,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.93,
+      "recency_weight": 0.877,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3067,101 +3440,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9f22a13537b97e331a1b",
-      "title": "Palantir Short Sellers Take $3 Billion Hit After 30% Stock Surge",
-      "summary": "Palantir Technologies Inc.’s stock surge has wiped out all of the year-to-date paper gains for short sellers, saddling them with billions in losses.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/palantir-short-sellers-take-3-billion-hit-after-30-stock-surge",
-      "published_at": "2026-08-04T19:20:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "market",
-        "semiconductor",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.929,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "88819736b35f9221b784",
-      "title": "Palantir Surges as AI Demand Accelerates | Bloomberg Tech 8/4/2026",
-      "summary": "Bloomberg’s Ed Ludlow breaks down Palantir's blockbuster earnings results and strong commercial demand, with US commercial sales in the second quarter rising 149% from a year earlier. Plus, Apple exceeded $10 billion in annual sales in India for the first time last fiscal year. And, Palo Alto Networks doubles down on AI-powered cyber defense. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-04/bloomberg-tech-8-4-2026-video",
-      "published_at": "2026-08-04T19:07:07+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "corporate",
-        "growth",
-        "market",
-        "semiconductor",
-        "tech",
-        "technology"
-      ],
-      "categories": [
-        "market",
-        "technology",
-        "ai",
-        "semiconductor",
-        "growth"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.925,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
@@ -3193,7 +3471,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.923,
+      "recency_weight": 0.871,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3236,7 +3514,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.921,
+      "recency_weight": 0.87,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3283,7 +3561,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.915,
+      "recency_weight": 0.863,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3296,173 +3574,6 @@
           "指数风险偏好",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e129d652557ea3c1dab2",
-      "title": "Bessent says U.S. backed Japan’s yen intervention to help stabilize Asia",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. bought yen alongside Japan to curb currency volatility and reduce risks to Asian markets.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/bessent-us-japan-yen-currency-intervention.html",
-      "published_at": "2026-08-04T18:24:47+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.912,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "b2c1eadd44bac2f10a8b",
-      "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
-      "summary": "\"We are in talks with the Iranians,\" the Treasury secretary told CNBC's \"Squawk Box.\"",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
-      "published_at": "2026-08-04T17:59:19+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.905,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6b06a35cc0e23e972f6b",
-      "title": "Codelco Halts Expansion Work at Top Mine on New Seismic Risk",
-      "summary": "Codelco is suspending work on a project designed to extend the life of its biggest copper mine in Chile after identifying a new source of seismic risk a year after a rock burst killed six workers.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/codelco-halts-expansion-project-at-top-mine-on-new-seismic-risk",
-      "published_at": "2026-08-04T17:54:01+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.904,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ae05b0147da232b531d8",
-      "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-      "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-      "published_at": "2026-08-04T17:49:24+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "market",
-        "rates"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.902,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -3493,7 +3604,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.889,
+      "recency_weight": 0.839,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3534,7 +3645,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.889,
+      "recency_weight": 0.839,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3575,7 +3686,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.881,
+      "recency_weight": 0.831,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3616,7 +3727,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.875,
+      "recency_weight": 0.826,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3657,48 +3768,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.872,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6172a16055ab4c6d1f18",
-      "title": "McDonald's names company veteran Skye Anderson as its U.S. president as growth in its largest market slows",
-      "summary": "McDonald's new U.S. President Skye Anderson has been with the company for 26 years and succeeds Joe Erlinger in the role.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/mcdonalds-skye-anderson-us-president.html",
-      "published_at": "2026-08-04T14:32:41+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.847,
+      "recency_weight": 0.823,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3739,7 +3809,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.843,
+      "recency_weight": 0.795,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3781,7 +3851,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.839,
+      "recency_weight": 0.792,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3829,7 +3899,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.838,
+      "recency_weight": 0.791,
       "scored_for_probability": false,
       "source_profile": {
         "key": "bls",
@@ -3875,7 +3945,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.837,
+      "recency_weight": 0.79,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3894,14 +3964,14 @@
       }
     },
     {
-      "event_id": "a4d7a2a718f2d2b88200",
-      "title": "Foreigners are buying fewer U.S. properties, but luxury homebuilders still draw them in",
-      "summary": "Foreign buyers are pulling back sharply from U.S. residential real estate, in part due to a pullback among workers that would qualify for H-1B visas.",
-      "source": "CNBC Markets",
+      "event_id": "3595a24ddca4164de19a",
+      "title": "A Quant and a Korean Dentist Push the Limits of Leveraged ETFs",
+      "summary": "A growing number of investors from the US to South Korea are using leveraged exchange-traded funds for long-term investing, a far cry from the day trading they were designed for.",
+      "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/04/foreign-buyers-us-properties.html",
-      "published_at": "2026-08-04T13:33:21+00:00",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/a-quant-and-a-korean-dentist-push-the-limits-of-leveraged-etfs",
+      "published_at": "2026-08-04T13:35:11+00:00",
       "event_type": "market",
       "severity": "minor",
       "sentiment": 0.0,
@@ -3918,7 +3988,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.831,
+      "recency_weight": 0.785,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3960,7 +4030,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.83,
+      "recency_weight": 0.784,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3972,47 +4042,6 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "958d4acfd9ccc020f5b7",
-      "title": "AbbVie Sees Strong Demand for Its $10 Billion M&A Bond Sale",
-      "summary": "Investors flocked to drugmaker AbbVie Inc.’s $10 billion investment-grade bond sale after signs of investor fatigue for new debt to fund artificial intelligence efforts.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-04/abbvie-seeks-at-least-8-billion-in-debt-to-fund-apogee-deal",
-      "published_at": "2026-08-04T13:09:39+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "macro",
-        "market"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.825,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -4045,7 +4074,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.814,
+      "recency_weight": 0.769,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bea",
@@ -4087,7 +4116,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.785,
+      "recency_weight": 0.741,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4099,6 +4128,49 @@
           "利率/美元/估值折现",
           "指数风险偏好",
           "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "bf3aa635011f57b42230",
+      "title": "Takaichi’s fiscal push could lift growth — and Japan’s already-rising interest bill",
+      "summary": "Japan is giving up revenue now in the hope that stronger consumption and a 370 trillion yen public-private investment will deliver faster growth later.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/04/japan-takaichi-food-tax-cut-jgb-boj.html",
+      "published_at": "2026-08-04T08:36:34+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "corporate",
+        "macro",
+        "market"
+      ],
+      "categories": [
+        "market",
+        "broad_equity",
+        "macro"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.713,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好",
+          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -4129,7 +4201,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.667,
+      "recency_weight": 0.63,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4173,7 +4245,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.633,
+      "recency_weight": 0.597,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4190,24 +4262,25 @@
       }
     },
     {
-      "event_id": "3aec11f0dd21f6f25666",
-      "title": "S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap",
-      "summary": "Hopes for an agreement to revive the Strait of Hormuz lifted stocks to all-time highs, bonds climbed and oil sank, with Wall Street’s enthusiasm also fueled by a batch of solid corporate earnings.",
-      "source": "Bloomberg Markets",
+      "event_id": "f56a08645fc6fa1ae782",
+      "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
+      "summary": "From a surprise yuan devaluation in 2015 to crackdowns in recent years, many of Beijing's policy moves appear abrupt to outsiders.",
+      "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-      "published_at": "2026-08-03T22:13:40+00:00",
-      "event_type": "energy",
+      "url": "https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html",
+      "published_at": "2026-08-03T23:00:01+00:00",
+      "event_type": "technology",
       "severity": "moderate",
       "sentiment": 0.0,
       "affected_tags": [
+        "ai",
         "broad_equity",
-        "corporate",
-        "energy",
+        "growth",
         "macro",
         "market",
-        "oil"
+        "semiconductor",
+        "tech"
       ],
       "categories": [
         "market",
@@ -4216,8 +4289,8 @@
       ],
       "forward_significance": "isolated",
       "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.619,
+      "impact_score": 5.52,
+      "recency_weight": 0.593,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4228,8 +4301,7 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好",
-          "能源/避险/通胀预期",
-          "公司基本面/股本供给"
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -4258,7 +4330,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.617,
+      "recency_weight": 0.582,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4271,50 +4343,6 @@
           "国防/安全事件"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6cf4fee1d0ae5c0a5731",
-      "title": "Latest Oil Market News and Analysis for Aug. 4",
-      "summary": "Oil slid to the lowest in over three weeks as optimism grew that the US and Iran are moving closer to an agreement that would reopen the vital Strait of Hormuz chokepoint.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/latest-oil-market-news-and-analysis-for-aug-4",
-      "published_at": "2026-08-03T22:01:24+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "macro",
-        "market",
-        "oil"
-      ],
-      "categories": [
-        "market",
-        "broad_equity",
-        "macro"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.616,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -4349,7 +4377,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.604,
+      "recency_weight": 0.57,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4388,7 +4416,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.543,
+      "recency_weight": 0.512,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4427,7 +4455,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.54,
+      "recency_weight": 0.509,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4466,7 +4494,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.528,
+      "recency_weight": 0.498,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -4504,7 +4532,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.48,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -4888,7 +4916,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-04T22:11:08+00:00",
+      "latest_published_at": "2026-08-05T02:00:00+00:00",
       "warning": null
     },
     {
@@ -4897,7 +4925,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-04T22:21:33+00:00",
+      "latest_published_at": "2026-08-05T01:37:28+00:00",
       "warning": null
     },
     {
@@ -4915,7 +4943,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-08-04T22:47:49+00:00",
+      "latest_published_at": "2026-08-05T01:43:06+00:00",
       "warning": null
     },
     {
