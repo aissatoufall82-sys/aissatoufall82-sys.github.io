@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T11:10:26.247782+00:00",
+  "generated_at": "2026-08-08T14:10:23.229796+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,6 +21,857 @@
   "environment": null,
   "events": [
     {
+      "event_id": "ab41a6eeb2520e7a0e8a",
+      "title": "Changing how Medicare pays for hospice care could save the U.S. $7.6 billion a year — but at what cost to patients?",
+      "summary": "The hospice industry argues that the current payment system allows for providers to create individual care plans that meet patients’ specific needs.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/changing-how-medicare-pays-for-hospice-care-could-save-7-6-billion-a-year-but-at-what-cost-to-patients-270eb608?mod=mw_rss_topstories",
+      "published_at": "2026-08-08T14:04:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "cac39e6899f4cc56d1dd",
+      "title": "US Munitions Strain Complicates Iran Strategy",
+      "summary": "The US remains outside formal negotiations with Iran as Oman and Tehran discuss arrangements for the Strait of Hormuz, leaving the diplomatic path uncertain and raising the possibility of renewed fighting. Joining Bloomberg This Weekend, Bloomberg News White House & National Security Editor Michelle Jamrisko explains to David Gura and Christina Ruffini that strains on US munitions supplies are complicating Washington’s options, with the Pentagon pushing defense contractors to accelerate production while balancing weapons needs across Iran, Ukraine and other potential conflicts. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/us-munitions-strain-complicates-iran-strategy-video",
+      "published_at": "2026-08-08T14:01:29+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.997,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "042ca7ca79ebcf2ca5e3",
+      "title": "Hunting Camo Moves From the Woods to Runways",
+      "summary": "Hunting camouflage has moved from the woods into mainstream fashion, fueled by demand for vintage workwear and rural American aesthetics. Bloomberg Weekend Senior Features Writer Madison Darbyshire is on Bloomberg This Weekend to explain how the trend has reached streetwear and luxury fashion, where inexpensive hunting gear can inspire pieces costing thousands of dollars and give urban consumers a way to adopt the imagery of traditional masculinity and blue-collar culture. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/hunting-camo-moves-from-the-woods-to-runways-video",
+      "published_at": "2026-08-08T13:49:35+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.993,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "a3d399b542dcb98d5f32",
+      "title": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain",
+      "summary": "Berkshire Hathaway booked a near $13 billion gain on investments in the latest quarter, and has put $32 billion of its cash pile to work.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-profit-doubles-fueled-by-a-near-13-billion-investment-gain-26982ecf?mod=mw_rss_topstories",
+      "published_at": "2026-08-08T13:43:00+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "corporate",
+        "earnings",
+        "financials"
+      ],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "876a881087fbb4507763",
+      "title": "University of California Faculty Push to Bring Back SAT and ACT Score Consideration",
+      "summary": "Thousands of University of California faculty members are pushing the system to reconsider its test free admissions policy, arguing that SAT and ACT scores could help identify students prepared for college-level work as concerns grow about grade inflation and AI use. Bloomberg News Education Policy Reporter Liam Knox explains to hosts David Gura and Christina Ruffini that the university has launched a faculty-led review, but opponents argue standardized tests can reinforce socioeconomic disparities, and UC says no change will affect students applying for fall 2027 admission. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/uc-faculty-push-to-bring-back-sat-and-act-video",
+      "published_at": "2026-08-08T13:41:04+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.991,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ce591596870d6502d115",
+      "title": "'Moneymaxxing' isn't a trend, it's a 'cultural shift,' financial advisor says — here's how to get started",
+      "summary": "\"Moneymaxxing\" promotes practicing better financial habits, such as cutting expenses, redeeming rewards points and earning interest on savings. In an affordability crunch, social media's latest trend may have staying power, experts say. \"Moneymaxxing focuses on creating everyday habits to create long-term financial success,\" according to Jack Howard, head of money wellness and behavioral finance expert at Ally Bank. As consumers look for ways to strengthen their financial footing , a new trend is gaining steam on social media — and, for once, it doesn't involve buying anything. \" Moneymaxxing ,\" a movement aimed at financial improvement, encourages people to maximize their budgets by trimming recurring expenses, redeeming rewards points — a related trend known as \"pointsmaxxing\" — and stashing extra cash in a high‑yield savings account. It's the latest iteration of the viral \"maxxing\" trend: see vacationmaxxing to make the most of paid time off, sleepmaxxing to optimize rest and even fibermaxxing, the term for loading up on fiber-rich food. \"Moneymaxxing is now about getting the absolute most out of your money by being proactive, resourceful, and creative to achieve a life of abundance,\" said Winnie Sun , co-founder and managing director of Sun Group Wealth Partners, based in Irvine, California. It's a \"cultural shift,\" Sun said, one that's \"not about living with less, but rather it's about seeking more for yourself.\" Moneymaxxing is \"frugality made cool again — I love it,\" said Brad Klontz, a Boulder, Colorado-based psychologist and certified financial planner. \"It's better than credit-card maxxing, which is what we've been doing for way too long,\" said Klontz, who is also managing principal of YMW Advisors and a member of CNBC's Financial Advisor Council . Americans have been racking up more and more credit card debt . Credit card balances increased 4.4% year over year to a collective $1.14 trillion, according to a new, quarterly credit industry insights report from TransUnion. The average balance per consumer now stands at $6,610, also up 2.1% year over year. Some high earners will soon owe taxes on years of deferred capital gains Does the 4% retirement withdrawal rule still work? How to best maximize income EVs aren't following the 'law of used cars.' What it means for buyers, sellers Housing's K-shaped economy: Luxury sales rise as starter-home buyers struggle CNBC's Financial Advisor 100: Best financial advisors, top firms ranked CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026 Largely because of rising costs, young adults are having a hard time making it on their own, other studies show. Over half of millennials and 72% of Gen Zers still rely on their parents for financial support, according to Northwestern Mutual's 2026 Planning and Progress study . Now, on average, young adults don't expect to be financially independent until age 37. It's a movement that may have staying power, according to Jack Howard, head of money wellness and a behavioral finance expert at Ally Bank. \"Instead of jumping from one money trend to the next in search of a quick fix, moneymaxxing focuses on creating everyday habits to create long-term financial success,\" she said. Howard recommends starting with a clear assessment of your cash flow, including both income and recurring expenses. While there are several tried-and-true techniques for creating a basic budget , the most effective approach helps to \"identify spending patterns that no longer support your financial goals,\" she said. From there, set specific — and attainable — financial priorities. Whether the objective is to reduce debt or build a savings cushion, having a clear milestone can help you stay motivated, she said. Automating key financial moves, such as transfers into savings or extra payments toward outstanding balances, can also help streamline a new routine and maintain positive behaviors. \"Lasting financial progress comes from the habits you practice every day,\" Howard said. Technology can also play a role, according to Sun, who is a member of CNBC's Financial Advisor Council . \"Financial stress can be turned around by finding solutions,\" she said. AI-powered budgeting and financial planning tools can help identify spending patterns, uncover potential savings opportunities and suggest strategies tailored to your goals. Klontz also suggests being intentional about your social media environment. Curating a feed that includes people with similar financial aspirations can provide both practical ideas and a sense of accountability. \"It's never been easier to find a shared community,\" he said.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
+      "published_at": "2026-08-08T13:30:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.987,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "8f3ea35f736747670def",
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "summary": "Berkshire's operating earnings rose 16% to $12.98 billion from $11.16 billion a year earlier. CEO Greg Abel is starting to put the record cash hoard amassed by Warren Buffett to work on buybacks and stock purchases. Berkshire reversed a pattern of selling stocks, becoming a net buyer of equities in the second quarter with nearly $20 billion in net purchases. Berkshire Hathaway 's operating earnings climbed 16% in the second quarter as strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results. But the bigger takeaway from the results is that CEO Greg Abel, 64, is starting to put the record cash hoard amassed by Warren Buffett to work on buybacks and stock purchases. Operating earnings rose to $12.98 billion from $11.16 billion a year earlier. Manufacturing, service and retailing earnings jumped 24% to $4.47 billion, while Berkshire Hathaway Energy's profit surged 27% to $891 million. BNSF, the company's railroad, posted a 6% increase to $1.56 billion. Insurance was a weak spot. Underwriting earnings fell 13% to $1.73 billion from $1.99 billion a year earlier, while insurance investment income declined 9% to $3.06 billion. Berkshire repurchased approximately $4.5 billion of its own shares during the quarter, the second fiscal period under Abel, who took over from Buffett at the start of the year. The second quarter purchases marked a sharp acceleration from the $235 million spent on buybacks in the first three months of 2026, though it might be less than some expectations heading into the report . Berkshire's cash pile declined to $365.5 billion at the end of June from a record $397.4 billion three months earlier, as the conglomerate deployed capital through other investments along with the buybacks. The quarter included the closing of Berkshire's acquisition of Taylor Morrison . Berkshire reversed a pattern of selling stocks, becoming a net buyer of equities in the second quarter with nearly $20 billion in net purchases. The conglomerate had been a net seller of stocks for 14 consecutive quarters before the latest period. Buffett, now chairman, handed Abel a cash fortress unprecedented in corporate America, but in accordance with the 95-year-old legendary investor's patient and risk averse approach. Buffett had indicated for a while that he was having trouble finding any values in the equity market. Shareholders have been clamoring for Abel to put some of that cash to work outside of Treasuries. The filing indicated Alphabet is now among Berkshire's five largest equity holdings by market value at the end of June, alongside its longtime holdings American Express , Apple , Bank of America and Coca-Cola . Berkshire disclosed a $10 billion investment in the Google parent earlier this year to help fund AI development. Buffett told CNBC that he initiated the Alphabet investment after consulting with Abel.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "published_at": "2026-08-08T13:28:00+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.35,
+      "affected_tags": [
+        "corporate",
+        "earnings",
+        "financials"
+      ],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.986,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "62abe689bb1b838d8624",
+      "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "summary": "The Abu Dhabi National Oil Company said one of its vessels was targeted by a missile while moving through the Strait of Hormuz. Iran's Islamic Revolutionary Guard Corps says the strait would only be reopened when the U.S. accepts Iran's conditions. Negotiations between Iran and Oman over shipping in the critical waterway have yet to reach an agreement. Abu Dhabi's National Oil Company (ADNOC) said one of its vessels was targeted by a missile while transiting the Strait of Hormuz in the early hours of Saturday, as Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions. \"The incident resulted in no injuries, and the situation has been brought under control,\" ADNOC said in a statement . The United Arab Emirates , of which Abu Dhabi is the capital, said in a post on X that it \"condemns in the strongest terms the targeting of an ADNOC-affiliated tanker while it was passing through the Strait of Hormuz.\" Tehran's ability to effectively close the strait — an open, untolled international waterway before the U.S.-Iran war started on Feb. 28 — has triggered a global energy supply shock that has driven up gas prices, exacerbated inflation and raised alarms about oil reserves . Oil prices rose Friday as investors waited for an agreement teased by the Trump administration earlier this week to open the strait to freedom of navigation. \"The reopening of the Strait of Hormuz is subject to the specific mechanism and conditions of the Islamic Republic of Iran and has nothing to do with the negotiations between Iran and Oman,\" Sardar Mohbi, a spokesman for Iran's Islamic Revolutionary Guard Corps, said in a statement on Telegram translated by Google. Treasury Secretary Scott Bessent told CNBC on Tuesday that an agreement to open Hormuz with freedom of movement could come as soon as Wednesday. President Donald Trump and Secretary of State Marco Rubio had also indicated that an agreement was imminent. But a deal still has not been announced yet. Meanwhile, ship traffic through Hormuz was down 33% on Friday compared to the day prior, with most vessels using the Iranian route, according to the trade intelligence firm Kpler. Iran and Oman are working on an agreement to define transit routes through the strait, according to media reports. Inbound traffic would transit Iranian waters while outbound traffic would go through Omani waters. But Iranian state media published a draft plan Thursday that would restrict traffic through Hormuz. The plan is under review by Iran's parliament, according to the state outlet Fars. Under the draft plan , Iran would ban U.S. and Israeli ships from transiting the Strait. Other nations that have harmed Iran would not be allowed to transit until compensation is paid, according to the draft. Brent crude futures, the international benchmark, gained more than 1% to close at $83.55 a barrel. U.S. West Texas Intermediate advanced about 1% to settle at $78.18 per barrel. Prices fell more than 7% for the week. A brief hiatus in fighting between the U.S. and Iran after a June 17 memorandum of understanding was followed by weeks of attacks and counterstrikes between the U.S. and Iran, with Tehran targeting several of its Gulf neighbors with missiles and drones. On Thursday, Iran's chief negotiator accused Trump of staging \"theater diplomacy,\" as Washington and Tehran offered conflicting accounts of bilateral engagement aimed at ending their monthslong hostilities. \"'Massive attack coming … wait, never mind, they want to negotiate.' That's theater diplomacy on loop,\" Mohammad Bagher Ghalibaf, Iran's parliament speaker and top negotiator, wrote in a post on X on Thursday in an apparent gibe at Trump. The remarks came days after Trump called off planned strikes and said the outlines of a deal had already been settled with Tehran. Iranian officials have rejected the claim, saying no talks were underway. The conflict is meanwhile broadening across the region, with Gulf energy infrastructure and key shipping choke points under renewed threat. — Anniek Bao, Kevin Breuninger, Emma Graham, Spencer Kimball and Justina Lee contributed to this story.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "published_at": "2026-08-08T13:06:30+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.98,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "756fe3744f92b833b548",
+      "title": "CEO Greg Abel Starts Making His Mark at Berkshire",
+      "summary": "Berkshire Hathaway stepped up spending under CEO Greg Abel, repurchasing about $4.5 billion of its shares while deploying billions more into investments. Bloomberg Intelligence and Senior P&C Insurance Equity Analyst Matthew Palazola is on Bloomberg This Weekend explaining to hosts David Gura and Christina Ruffini that Abel appears more focused on operations and putting Berkshire’s enormous cash reserves to work, marking an early shift from Warren Buffett’s final years at the helm. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/abel-starts-making-his-mark-at-berkshire-video",
+      "published_at": "2026-08-08T13:02:48+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.979,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "c16876e2c09dddcd96a3",
+      "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
+      "summary": "Being too conservative with investments in retirement raises the likelihood you'll run out of money. Most wealth managers and financial advisors now recommend at least 40% in the stock market after leaving the workforce. Generating income is critical, and bonds are part of that, but staying in equities is also important to mitigate inflation and due to longevity risk. Attention retirees: Being overly conservative with your investments after exiting the workforce raises the likelihood you'll run out of money in retirement . Many retirees may have heard from friends or family members to take a conservative approach in retirement. But the conventional wisdom has changed. Modern thinking among financial advisors is that equities should be a meaningful part of every retiree's portfolio — often between 40% and 80% — to generate income and mitigate inflation and longevity risk. In the past, there was a general rule of thumb to reduce the equity portion of a portfolio as soon as you retire, to about 30%, at most, said Cheri Belski, head of investment management solutions at LPL Financial in Fort Mill, South Carolina. \"The new way of thinking is to get intentional about retirement, not conservative.\" There's no single target allocation that fits every individual in early retirement. Rather, coming up with an appropriate equity exposure means crunching the numbers, taking into account factors such as account age, risk tolerance, income, assets, spending needs and taxes, to increase the likelihood that retirees' nest eggs will last 30 years or more. The stakes are especially high, given that more than 11,200 Americans turn 65 every day — or over 4.1 million every year — from 2024 through 2027, according to estimates from the Retirement Income Institute at the Alliance for Lifetime Income. \"To me, equities aren't about taking more risk; it's about giving your portfolio a fighting chance to keep up with your life,\" Belski said. \"You're probably going to have 30 years in retirement. You want to make sure you have the assets to support it.\" Here's what retirees need to know about holding equities in their investment portfolio. Inflation, longevity risk require portfolio growth \"You need a portfolio allocation that has long-term growth benefits, and equities can serve that purpose — to address longevity risk and inflation,\" said Stuart Katz, chief investment officer of Robertson Stephens in San Francisco. There's no need to be overly aggressive, but, rather, the approach in retirement should be \"growth with guardrails,\" he added. Collin Lindsey, managing director and wealth manager at the Lindsey Trost Group of Steward Partners in Lake Oswego, Oregon, generally recommends clients in their late 60s and early 70s allocate about 40% to 60% to equities, depending on other retirement resources, lifestyle, needs and risk profile. The equity portfolio might include individual stocks, exchange-traded funds, unit investment trusts and REITS, depending on the client's goals. He recommends that retirees limit volatility in their portfolio where possible. That likely includes avoiding high-volatility assets like IPOs. A recent example of this is SpaceX , which since its first trade on June 12, has lost more than $500 billion in market cap . \"If you have a big downswing and you need to take the money out to live on, you're never going to get it back,\" Lindsey said. Diversification also remains important in a retiree's portfolio. Within equities, retirees should have international holdings and stocks with different market capitalizations. Some holdings should be growth-focused, and some should focus on income through dividends. Don't get overexposed to a particular sector such as technology, even if that's where it seems a quick way to generate returns, advisors said. Stock market exposure should not be fixed in retirement Just because you start with one equity allocation in retirement doesn't mean it's where you should be later on. If your expenses increase, for instance, you might need a slightly more aggressive equity allocation for income purposes, said Matt Gentzkow, managing director and wealth advisor at Coastal Bridge Advisors in Nashville, Tennessee. When determining an appropriate allocation, it's also important to consider whether your goals include leaving an inheritance to children and grandchildren. Maybe you've satisfied your retirement income needs but want to provide for the next generation, which expands the time horizon and allows you to be more aggressive, Gentzkow said. Here's a look at other stories offering insight on ETFs for investors. Investors made easy money on oil bets during Iran war. The trade is getting trickier For Gen X investors nearing retirement, the dotcom bubble looms large Jamie Dimon made a bearish treasuries call.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
+      "published_at": "2026-08-08T13:00:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "936c030b38df396c2ee4",
+      "title": "A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar",
+      "summary": "It was a tough week for crypto, but a good time to get a drink by Thursday evening.",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar",
+      "published_at": "2026-08-08T13:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.978,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "7818d1ceed16e6b9f52f",
+      "title": "AI Buildout Keeps Quinlan Bullish on US Stocks",
+      "summary": "Merrill & Bank of America Head of Market Strategy Joe Quinlan is on Bloomberg This Weekend to give his reaction to the July jobs report. Quinlan explains to hosts David Gura and Christina Ruffini that the US economy remains resilient despite the weak July jobs data, pointing to continued hiring in construction and health care and investment tied to AI. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/ai-buildout-keeps-quinlan-bullish-on-us-stocks-video",
+      "published_at": "2026-08-08T12:47:53+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.974,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "53b882194dc517387d15",
+      "title": "By The Way: Headline You May Have Missed the Week of 8/2",
+      "summary": "Sports game streaming, RFK Jr.'s cooking show, $100 hot dogs, and getting into college without applying. Bloomberg News' Lisa Mateo joins David Gura and Christina Ruffini on Bloomberg This Weekend to share headlines you may have missed from over the week. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/by-the-way-headline-you-may-have-missed-video",
+      "published_at": "2026-08-08T12:28:15+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.968,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "dae604932bbfbb529949",
+      "title": "Ceuta Migrant Surge Exposes Morocco’s Economic Strain",
+      "summary": "More than 70,000 people, mostly Moroccans, crossed into Spain’s North African enclave of Ceuta in a mass migration surge fueled by economic frustration and amplified by social media. Senior Researcher at Oxford University Centre on Migration, Policy & Society Myriam Cherti is on Bloomberg This Weekend to discuss the unusual influx of those looking to cross. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/ceuta-migrant-surge-exposes-morocco-s-economic-strain-video",
+      "published_at": "2026-08-08T12:22:07+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.966,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "dba878ebded95f886d11",
+      "title": "Weak Jobs Data Masked by Falling Unemployment",
+      "summary": "The US unexpectedly lost 23,000 jobs in July while unemployment fell to 4.1%, a decline driven by fewer people participating in the labor force rather than stronger employment. Bloomberg News Economics Chief US Economist Anna Wong joins Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that the weak payrolls and persistent downward revisions point to a softer labor market and could reduce pressure on the Fed to raise rates in September. (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/weak-jobs-data-masked-by-falling-unemployment-video",
+      "published_at": "2026-08-08T12:12:02+00:00",
+      "event_type": "macro",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "broad_equity",
+        "dollar",
+        "growth",
+        "labor",
+        "macro",
+        "rates"
+      ],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 11.04,
+      "recency_weight": 0.963,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1b72d94ae1b9bfb50a20",
+      "title": "How cleaning up space debris could grow to become a big business",
+      "summary": "The space around Earth is becoming increasingly congested, as the number of satellites and pieces of space debris grows, raising the risk of collisions. Companies including Astroscale and ClearSpace are betting that debris removal will develop into a broader business servicing, repairing and extending the lives of satellites. The market is still nascent and largely government-backed, with regulation likely to play a key role in creating commercial demand. Thousands of satellites are circling the Earth, and when they die, they don't just disappear. Neither do the rockets that put them there. This week, a spent SpaceX Falcon 9 upper stage crashed into the moon , more than a year after it was left on an uncontrolled trajectory following a lunar mission. Closer to Earth, defunct satellites, spent rocket parts and other debris can remain in orbit for years, adding to an increasingly congested environment and an elevated risk of collisions. Now, a growing group of companies is betting that cleaning up this orbital junk, and servicing satellites before they become it, could become a business in its own right. Space infrastructure has become foundational for the global economy, crucial in everything from financial transactions and GPS navigation to weather forecasting and missile tracking. \"Space is a global commons, and we're mucking it up,\" Andrew Faiola, commercial vice president at Tokyo-listed orbital services firm Astroscale , told CNBC. \"We do need to clean it up. There are consequences to just sort of having a throwaway culture in space.\" An interactive map developed by researchers at the University of Texas at Austin shows the congestion in real time in low-Earth orbit, where satellites operate alongside debris from decades of space activity, including U.S. and former Soviet rockets and satellites. Meanwhile, OrbitRadar tracks nearly 30,000 objects in space, of which about 18,500 are active satellites, and the rest are debris fragments or spent rocket bodies. Faiola compared a collision in space to a grenade hitting a car, creating a cloud of debris with small pieces falling into unpredictable orbits – sometimes too small to track from Earth – making them difficult to avoid. Even tiny fragments traveling at thousands of miles an hour can severely damage satellites, or worse, pierce the space suits of astronauts carrying out work outside their vehicles. Even if no additional satellites were launched, the amount of debris in orbit would continue to grow because objects are fragmenting faster than debris naturally re-enters the atmosphere, Tim Flohrer, the European Space Agency's Head of Space Debris, told CNBC, warning that it could make \"certain orbits unusable.\" \"Active satellites must perform an increasing number of collision-avoidance maneuvers to dodge out of the way of other satellites and fragments of space debris,\" he said, highlighting several debris removal and in-orbit servicing missions it is supporting. Astroscale develops spacecraft for debris removal and other in-orbit services. \"That means that we're building spacecraft that are designed to be very agile, designed to safely operate in and around other spacecraft in orbit,\" Faiola said. It is one of the few commercial companies that has demonstrated the ability to dock with another spacecraft in orbit through a magnetic capture system. That's a difficult task given objects in lower Earth orbit move at the speed of 7 or 8 kilometers per second – faster than the speed of a bullet – and can tumble uncontrollably. Astroscale is also seeing growing demand from the defense sector, where its technology has potential military applications, Faiola said. While the company reported a 142% revenue surge in the fiscal year ended April and is building a sizable order book, it is still burning cash and posting large operating losses. It continues to derive a big share of project income from government grants. This is still a nascent, deep-tech market, so initial contracts are coming largely from space agencies and governments, which will demonstrate to the private sector that this is a viable business, Faiola said. \"In the future, we would expect that this would be paid for by operators of constellations of spacecraft.\" Luxembourg-based startup ClearSpace , meanwhile, sees debris removal as part of a potentially much larger market for inspecting, repairing and maintaining spacecraft in orbit. \"Essentially, we build the servicing layer for the space infrastructure,\" ClearSpace's co-founder and CEO Luc Piguet told CNBC. He compared the opportunities in the broader space services market to the maintenance industries that have developed around roads, shipping and aviation. Without servicing, Piguet said, motorways \"would be littered with cars.\" Space, he argued, will increasingly need similar infrastructure.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
+      "published_at": "2026-08-08T12:04:15+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.96,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "80189df8500e94b52c12",
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "summary": "Cybersecurity leaders gathering in Las Vegas for Black Hat this week voiced frustration with the endless Hugging Face discussion. Recent AI agent hacks offer a \"hard lesson,\" but cyber executives were keen to showcase ways to combat this evolving threat. One executive said the new cyber era is putting companies in a dangerous situation and many \"don't even know it.\" Cybersecurity executives are ready to close the book on the now-infamous Hugging Face artificial intelligence hacking incident and start talking solutions. \"We need to chill the hype a little bit,\" said Lior Div, CEO and cofounder of agentic security startup 7AI. \"Can AI find vulnerabilities fast? The answer is yes. We've already proven it.\" Last month, AI agents operating with OpenAI cyber models broke out of a training environment to hack Hugging Face, an open-source AI platform developers use to collaborate, test and share tools. The breach sent shockwaves across tech and signaled that the moment cybersecurity experts had warned about since Anthropic's Mythos debut had finally arrived. Over the last four months, cybersecurity vendors have faced mounting pressure to deliver security stacks that can outpace adversaries as hackers leverage agentic AI to expose vulnerabilities and condense attacks into seconds and minutes. While the Hugging Face hack sparked widespread debate over AI accountability, it also challenged previous notions about the limits of AI for defenders. For instance, AI agents took matters into their own hands and went to extreme lengths to accomplish their goal. As the industry grapples with the new agentic cyber reality, leaders agree that Hugging Face deserves the attention, but these incidents are unavoidable and it's time to act. \"What we're talking about is whether we can govern and secure the capability, and that's the reality that everybody's waking up to today,\" said CrowdStrike president Mike Sentonas. At the annual Black Hat cybersecurity conference this week, OpenAI revealed that agents created an internal message board to share vulnerabilities and exploits in the weeks leading up to the Hugging Face attack. The autonomous agents then delegated tasks for the attack to reach the Internet and complete an evaluation. Even after OpenAI discovered and stopped the planned attack, the agents were able to recreate their work and succeed. The findings highlight not only the growing power of AI but also the major challenges faced by safety testing in this new technological revolution. In front of a live audience at Black Hat, OpenAI technical researcher Michael Dalton called it an \"unintended side effect\" of evaluating frontier models and a \"watershed moment\" for both OpenAI and the industry. \"In the near future, we should expect that threat actors will intentionally deploy, optimize, weaponize, and use offensive agent collectives in the manner that we have just described here,\" he said. The list of AI agent hacks has only grown since Hugging Face. Days after OpenAI's disclosure, Anthropic said its Claude models \"gained unauthorized access\" to the internal systems of three different organizations. As the cyber community gathered in the \"Entertainment Capital of the World,\" Meta said its AI models hacked another company in a third-party test, and the U.K.'s AI Security Institute said Anthropic's Mythos created fake identities in another incident. On Friday, news came that China startup Moonshot AI's open-weight model escaped a testing sandbox. \"They're all learning hard lessons right now, and let's face it, they're way more concerned about the next million users on their product than they are in cyber,\" said Mike Fey, CEO and cofounder of Dallas-based Island , which ranked No. 28 on CNBC's recent Disruptor 50 list. 'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says SpaceX stock could face further pressure as first batch of shares unlock since IPO Google is expanding its AI empire — and losing the people who built it Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech Cybersecurity leaders who spoke with CNBC at Black Hat this week made one point clear: Mishaps like Hugging Face are a known consequence of any new technological revolution, and it's no surprise. \"Hugging Face was very interesting and unique, but I do think if you look at the arc of an incident like that, it takes place over multiple days, there's a lot of noise,\" said Ryan Kazanciyan, chief information security officer and chief information officer at Wiz, which is owned by Google . Since the introduction of cybersecurity more than five decades ago, defenders have undertaken a relentless cat-and-mouse game with adversaries. Only this time, it involves swarms of autonomous agents. No matter what tools a company implements, incidents slip through the cracks, especially as companies apply new techniques to a whole new challenge of AI agents.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "published_at": "2026-08-08T12:00:01+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "5421004d1b909462ef99",
+      "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+      "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S. Dollars sales of prepackaged salads has also plummeted, according to data from NielsenIQ. The Food and Drug Administration has pointed to iceberg lettuce processed in Taylor Farms' central Mexico facility as the likely culprit for the outbreak that has sickened at least 10,000 people. Warm weather usually drives salad sales, but consumers spooked by the ongoing cyclospora outbreaks are avoiding lettuce this summer. Traffic to Chopt Creative Salad Co. locations fell 24% on July 18, right after the Food and Drug Administration announced the outbreak, according to Placer.ai data. Sweetgreen on Thursday said consumer concerns about the outbreak had about a 6 percentage point impact on same-store sales in July, and the company cut its full-year outlook . And earlier this week, upstart chain Salad and Go filed for Chapter 11 bankruptcy and closed all of its locations, saying the cyclospora outbreak had exacerbated its existing business challenges. Grocery stores aren't immune either. Dollar sales of prepackaged salads plunged 14% during the four weeks ended July 25 compared with the year-ago period, according to NielsenIQ data. The FDA has pointed to iceberg lettuce processed in Taylor Farms' central Mexico facility as the likely culprit for the outbreak that has sickened at least 10,000 people. Taylor Farms has voluntarily recalled products supplied from that facility. Yum Brands' Taco Bell is the only national restaurant chain that has been linked to the multistate outbreak. It uses iceberg lettuce frequently across its menu, from its Crunchwrap Supreme to its Cheesy Gordita Crunches, but the chain isn't known for its salads. Taco Bell's sales and traffic to its restaurants initially tumbled after the FDA announcement, but Yum executives said in late July that business was already recovering. But the FDA is also tracking at least six other active outbreaks without a clear culprit; those outbreaks have significantly smaller number of reported cases. The long incubation period for cyclosporiasis makes it difficult to identify the contaminated ingredients. Cyclospora is a water-borne parasite. It typically spreads through contaminated produce, like lettuce, green onions, raspberries and fresh herbs. Although public health authorities seem to have pinpointed the source of the current outbreak, the FDA is advising consumers to take extra steps, like discarding outer layers of fruits and vegetables, to reduce risk of exposure. Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says Consolidated food supply may be worsening cyclospora outbreaks, experts say Michigan confirms first two deaths in cyclospora outbreak Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales But many diners have gone further and chosen to avoid salads and greens altogether during the outbreak. Even Chipotle Mexican Grill has seen its sales dip. The burrito chain offers romaine lettuce as a topping and uses fresh cilantro across much of its menu, including its guacamole and salsas. \"In the second half of July, we did see a softening, call it about 200 basis points or so, right around the issue that's affecting the industry around cyclospora,\" Chipotle CFO Adam Rymer said on the company's earnings call in late July. Chipotle has separately been in the news for recalling jalapeno peppers that were potentially contaminated with salmonella as part of a broader outbreak that has sickened at least 300 people. Sweetgreen and other restaurant chains swept up in the panic have had to implement strategies to reassure their customers. For example, Sweetgreen has chosen to emphasize that iceberg lettuce isn't even on its menu. On the chain's 19th birthday, CEO Jonathan Neman posted on X that its restaurants have never served iceberg lettuce and only source lettuce grown in the U.S. Likewise, Just Salad founder and CEO Nick Kenner posted on LinkedIn detailing the chain's food safety measures, like peeling and discarding the outer leaves of romaine and kale and double washing the leaves. And Chopt posted on its Instagram about food safety. \"Food safety has always been at the heart of how we operate. ... We promise to continue monitoring guidance from public health officials and remain committed to earning your trust every time you choose Chopt,\" the company wrote. Cava , another fast-casual chain known for its bowls and salads, has yet to report its earnings and any impact from the cyclospora scare. It is expected to share its quarterly results after the bell on Tuesday. But in a promising sign for many restaurant chains — and diners — the danger may be passing. The Michigan Health Department on Thursday said residents can eat lettuce and salad greens again as new infections slowed.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+      "published_at": "2026-08-08T12:00:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "36d0b66b22a52e13347f",
+      "title": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
+      "summary": "Otis is the largest elevator company in the world, operating in 200-plus countries. More than 90% of Otis' profits comes from servicing elevators, which involves maintenance, repairs and modernization. Analysts say the stock is down because investors are chasing high-growth AI plays while Otis experiences some setbacks in its service business. Inside a 28-story testing tower erected in the middle of the suburban town of Bristol, Connecticut, Otis engineers run elevator parts through dust chambers, humidity cells and saltwater fog machines. \"[Elevators] are supposed to work in the extreme conditions of the world. Whether it's the desert or the Arctic,\" said Haran Vela, senior vice president of engineering for Otis. \"We try to simulate all of those conditions in this facility so that we know that our designs will work in the real environment.\" Otis is the largest elevator company in the world, operating in 200-plus countries. In 2025, the company generated more than $14 billion in revenue — up roughly 13% since it spun off from United Technologies in 2020. Otis' investment case hinges on the premise of long-term, stable growth, especially in an increasingly volatile market . But the company's stock is down about 15% year-to-date, underperforming both the industrial sector and the broader market. \"There's definitely a wave of money that's been following along or chasing … the [artificial intelligence] plays,\" said Melius Research global machinery analyst Robert Wertheimer. At the same time, Otis' own business has been faltering. \"Otis, as a service-led business, had a setback in service,\" Wertheimer said. \"And they're fixing it. It'll get fixed. But that was kind of a stumble at the right time for flow of funds to go in the other direction.\" Building new elevators isn't an inherently lucrative venture. In 2025, Otis' operating profit margin on new equipment was just 4.8%. The real profit driver of the business comes in servicing these elevators once they are installed. Initially, that involves things like maintenance and repairs. Then after about 20 years, the elevator needs to be modernized, which involves partially or fully replacing its parts. \"That's the engine that allows us to generate over 90% of our profits,\" said Otis CEO and Chair Judy Marks. Otis currently services about 2.5 million elevators worldwide, up from over 2 million units in 2020. The company has incrementally grown its profit margins on service over the past couple of years, reaching 25.5% by the end of 2025. But service margins fell by 250 basis points in the first quarter of 2026. That margin decline is a result of a broader issue the company has been working through since the start of last year. Otis saw its retention rate, meaning the customers that renew their service contracts, dropping as it entered 2025. \"They started calling out cost actions they were going to do to fix it, which is simply hiring more people, focusing more on maintenance; less revenue-producing but more customer-pleasing\" said Wertheimer. \"It's been an issue that has coincided with a lot of noise around tariffs and some China programs to stimulate growth. … There's just been a little bit more uncertainty around what is normally a very stable earnings stream.\" The company said it is making $50 million in incremental investments to its service business throughout 2026. In Otis' most recent quarter, service sales were up 11% year over year, but in its earnings call, Marks said the company had not yet seen a significant improvement in retention. The company cut its profit guidance for the year. Wertheimer wrote in a July analyst note that these investments in the service business should lead to fewer outages for customers, which would, in turn, improve retention. As he puts it: \"Renewals are somewhat automatic if no one is unhappy.\" But Otis needs to prove its tens of million of dollars in investments can pay off. It's banking on long-term predictability to get Wall Street back on board. \"Urbanization, digitalization, aging people who need mobility and infrastructure modernization is not only going to be attractive in the near term, the next few years, versus all the data center expansion that's happening,\" Marks said, \"but this has decadelong runs in it.\" News of an industry shake-up could also soon impact the elevator market. Finland's Kone agreed to buy Germany's TK Elevator in a nearly $35 billion deal announced in April. Wolfe Research senior analyst Nigel Coe noted that merger could potentially benefit Otis, as there would be just three instead of four major players bidding for elevator contracts. But the merger could face regulatory hurdles. The second-largest elevator company, Schindler , has said it would challenge the deal over antitrust considerations. When asked about how she views the current competitive landscape, Marks said Otis is going to leave the matter to regulators and let customers make their decisions.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+      "published_at": "2026-08-08T12:00:01+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "d529d95b0c153b2fe736",
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "published_at": "2026-08-08T12:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "1ed30ab80b290731e529",
+      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+      "summary": "Timing is everything when balancing retirement distributions and moving across state lines.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+      "published_at": "2026-08-08T12:00:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.959,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "83e50f428e3d9569d2ef",
+      "title": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
+      "summary": "Stock market bulls got some huge affirmation this week as the S&P 500 made all-time highs, options volumes set records, and shares of this year's star IPO – SpaceX – stabilized and rallied despite its earnings report and the end of its first lockup period. On Friday, the Cboe Volatility Index (VIX) fell to its lowest level since January as the S&P 500 added 0.6%, bringing the week's advance to 3.6%. More than four million S&P 500 index calls traded on Cboe Global Markets Tuesday as the benchmark gauge surged above 7,700 for the first time in history. That topped the previous record for call trading in May by 10%, according to exchange data. \"That's what it used to sound like,\" one trader on the Cboe floor in Chicago told me after Tuesday's roaring rally, referring to when thousands of traders crammed the pits in decades past. \"Sometimes it sounds like that on down days, but we were up. That was really busy.\" Zero-day-to-expiry call options accounted for 2.4 million trades in the S&P 500 on Tuesday, also a record. The ratio of puts to calls among all options plunged to 0.83, the second-lowest recorded. The average is greater than 1, reflecting the primary usage of put options as hedging instruments. Total open interest in the S&P 500 ended the week at 27.4 million contracts, in the 93rd percentile over the past year, according to Cboe. The ratio in open interest of calls is in the 95th percentile. Where that open interest is concentrated can help give investors an idea where the stock market might find support or resistance going forward. The most popular strike in the State Street SPDR S&P 500 ETF Trust (SPY) by combined open interest of both puts and calls is the 760-strike, about 1.7% below where the fund closed on Friday, according to Barchart data. That's because of 94,000 open puts, which could create support for the market on dips that turn into profit-taking for lingering bears who just had a rough week. On the upside, the biggest level for call buyers is the 785-strike, where there are 114,000 open calls. \"'Sell in May and go and play' is over and advisors are getting back to work as the summer ends,\" Ed Rumell, head of ETFs at Corgi, said in a call. \"We saw a big week in the underlying options on our buffer funds as well as big activity in SK Hynix and tech trades like our flagship photonics fund.\" Beaten-down semiconductor stocks jumped, with the iShares Semiconductor ETF (SOXX) advancing more than 7% on the week. The Corgi Lithography & Semiconductor Photonics ETF (EUV) added 13% in the period. Also helping the rally: The 10-year Treasury yield stopped its ascent at 4.7% S&P 500 earnings are on pace to grow 47% in the second quarter, which would be the biggest since the rebound from Covid in 2021, according to FactSet.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
+      "published_at": "2026-08-08T11:49:22+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.956,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "43f77f25ace5b3352a0b",
+      "title": "Here’s why Wendy’s is losing the burger wars",
+      "summary": "Wendy’s new CEO is embarking on a turnaround initiative, while acknowledging that issues around food quality and service have turned customers away.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories",
+      "published_at": "2026-08-08T11:30:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.95,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "ba658e58f081bf5eb6f1",
+      "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
+      "summary": "Singapore is benefitting from the rapid growth of artificial intelligence and the government is making use of the technology to ensure higher productivity and better jobs for workers who are worried about their livelihoods, Prime Minister Lawrence Wong said.",
+      "source": "Bloomberg Technology",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+      "published_at": "2026-08-08T11:13:30+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market",
+        "technology"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 5.52,
+      "recency_weight": 0.945,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
       "event_id": "d28dab2c6866e7a494a7",
       "title": "My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?",
       "summary": "“I imagine scenarios like this happen more often than people realize.”",
@@ -39,7 +890,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -78,7 +929,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.997,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -95,9 +946,9 @@
       }
     },
     {
-      "event_id": "f92168c246b65a2c61d1",
-      "title": "Zelenskyy Makes Debut Trip to Serbia as Russian Influence Wanes",
-      "summary": "Ukrainian President Volodymyr Zelenskyy is making a landmark first visit on Saturday to Serbia, the Balkan country whose leader has been scaling back once-close ties with Russia.",
+      "event_id": "d90d8e376ed462468a6c",
+      "title": "Zelenskyy Wins Serbian Pledges as Russian Influence Wanes",
+      "summary": "Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-close ties with Russia.",
       "source": "Bloomberg Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -113,7 +964,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.905,
+      "recency_weight": 0.854,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -154,7 +1005,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.904,
+      "recency_weight": 0.853,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -195,7 +1046,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.894,
+      "recency_weight": 0.844,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -230,7 +1081,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.888,
+      "recency_weight": 0.838,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -264,7 +1115,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.887,
+      "recency_weight": 0.837,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -298,7 +1149,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -332,7 +1183,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.862,
+      "recency_weight": 0.813,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -366,7 +1217,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.853,
+      "recency_weight": 0.805,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -400,7 +1251,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.835,
+      "recency_weight": 0.788,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -440,7 +1291,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.822,
+      "recency_weight": 0.776,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -475,7 +1326,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.81,
+      "recency_weight": 0.764,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -509,7 +1360,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.791,
+      "recency_weight": 0.746,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -549,7 +1400,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.777,
+      "recency_weight": 0.734,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -584,7 +1435,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.775,
+      "recency_weight": 0.732,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -622,7 +1473,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.771,
+      "recency_weight": 0.727,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -660,7 +1511,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.769,
+      "recency_weight": 0.726,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -698,7 +1549,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.769,
+      "recency_weight": 0.726,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -736,7 +1587,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.769,
+      "recency_weight": 0.726,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -774,7 +1625,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.768,
+      "recency_weight": 0.725,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -812,7 +1663,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.768,
+      "recency_weight": 0.725,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -850,7 +1701,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.768,
+      "recency_weight": 0.724,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -888,7 +1739,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.767,
+      "recency_weight": 0.724,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -926,7 +1777,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.767,
+      "recency_weight": 0.724,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -964,7 +1815,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.767,
+      "recency_weight": 0.724,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1004,7 +1855,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.767,
+      "recency_weight": 0.724,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1043,7 +1894,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.766,
+      "recency_weight": 0.723,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1081,7 +1932,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.766,
+      "recency_weight": 0.723,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1119,7 +1970,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.766,
+      "recency_weight": 0.723,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1160,7 +2011,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.765,
+      "recency_weight": 0.723,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1200,7 +2051,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.765,
+      "recency_weight": 0.722,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1238,7 +2089,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.764,
+      "recency_weight": 0.721,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1276,7 +2127,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.764,
+      "recency_weight": 0.721,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1314,7 +2165,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.764,
+      "recency_weight": 0.721,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1352,7 +2203,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.763,
+      "recency_weight": 0.721,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1390,7 +2241,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.763,
+      "recency_weight": 0.72,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1428,7 +2279,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.763,
+      "recency_weight": 0.72,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1466,7 +2317,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.719,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1504,7 +2355,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.719,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1539,7 +2390,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.762,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1579,7 +2430,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.762,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1618,7 +2469,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.762,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1654,7 +2505,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -1692,7 +2543,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1730,7 +2581,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1768,7 +2619,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1806,7 +2657,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1818,40 +2669,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9459bc1d231ebbdeb740",
-      "title": "Optimizing Life and Finances in Your Twenties | Masters in Business with Jack Raines",
-      "summary": "Barry sits down with Jack Raines author of \"Younge Money\". Jack dives into his unlikely journey into finance and venture capital. He discusses how his travels impacted the way he sees money and purpose in your twenties. He also reviews how to incorporate passion into your career and the impact it will have in your long-term finances. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-07/masters-in-business-with-jack-raines-video",
-      "published_at": "2026-08-07T21:00:20+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.761,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -1878,7 +2695,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1916,7 +2733,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1954,7 +2771,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.719,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1996,7 +2813,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2045,7 +2862,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2095,7 +2912,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2145,7 +2962,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2195,7 +3012,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2234,7 +3051,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2276,7 +3093,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2315,7 +3132,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2353,7 +3170,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.761,
+      "recency_weight": 0.718,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2391,7 +3208,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.76,
+      "recency_weight": 0.718,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2430,7 +3247,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.76,
+      "recency_weight": 0.717,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2469,7 +3286,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.759,
+      "recency_weight": 0.717,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2507,7 +3324,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.759,
+      "recency_weight": 0.717,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2545,7 +3362,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.759,
+      "recency_weight": 0.716,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2583,7 +3400,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.759,
+      "recency_weight": 0.716,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2621,7 +3438,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.758,
+      "recency_weight": 0.716,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2659,7 +3476,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.758,
+      "recency_weight": 0.715,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2697,7 +3514,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.758,
+      "recency_weight": 0.715,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2735,7 +3552,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.758,
+      "recency_weight": 0.715,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2773,7 +3590,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.758,
+      "recency_weight": 0.715,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2811,7 +3628,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.757,
+      "recency_weight": 0.715,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2849,7 +3666,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.757,
+      "recency_weight": 0.715,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2887,7 +3704,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.757,
+      "recency_weight": 0.715,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2925,7 +3742,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.757,
+      "recency_weight": 0.715,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2937,42 +3754,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "fdb6b68b8ac8e5210e7a",
-      "title": "Once Upon a Farm CEO on Outlook Boost, Consumer Demand",
-      "summary": "John Foraker, Co-Founder and CEO of Once Upon a Farm, discussed the company's strong 42% sales growth in the recent quarter and expressed confidence in sustaining this momentum due to resilient consumer demand across baby and kid food categories. The company has raised its guidance for the full year and anticipates continued growth. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-07/once-upon-a-farm-ceo-on-outlook-boost-consumer-demand-video",
-      "published_at": "2026-08-07T20:43:25+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "corporate"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.757,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -2999,7 +3780,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.757,
+      "recency_weight": 0.715,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3037,7 +3818,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.757,
+      "recency_weight": 0.715,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3049,46 +3830,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6532ab880275f7b7a336",
-      "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
-      "summary": "The chip maker recorded its largest-ever weekly increase in market capitalization.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
-      "published_at": "2026-08-07T20:41:00+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.757,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3115,7 +3856,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.756,
+      "recency_weight": 0.714,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3127,40 +3868,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "516e1cd97fd4fcc42614",
-      "title": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
-      "summary": "Stocks often come under pressure once insiders are able to unload shares — but in the case of SpaceX, that risk may have been already priced in.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
-      "published_at": "2026-08-07T20:38:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.756,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3187,7 +3894,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.756,
+      "recency_weight": 0.713,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3225,7 +3932,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.756,
+      "recency_weight": 0.713,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3263,7 +3970,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.755,
+      "recency_weight": 0.713,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3301,7 +4008,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.755,
+      "recency_weight": 0.713,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3339,7 +4046,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.755,
+      "recency_weight": 0.713,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3377,7 +4084,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.755,
+      "recency_weight": 0.713,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3416,7 +4123,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.755,
+      "recency_weight": 0.713,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3450,7 +4157,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.755,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -3488,7 +4195,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.755,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3526,7 +4233,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3564,7 +4271,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3602,7 +4309,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3640,7 +4347,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3678,7 +4385,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3716,7 +4423,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3754,7 +4461,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3792,7 +4499,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3830,7 +4537,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3868,7 +4575,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3906,7 +4613,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3944,7 +4651,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3982,7 +4689,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4020,7 +4727,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.754,
+      "recency_weight": 0.712,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4032,74 +4739,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "6424ef3bea1e755aa9eb",
-      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-      "published_at": "2026-08-07T20:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.754,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3482a37f752f22a4e53f",
-      "title": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally",
-      "summary": "SpaceX shares jumped for a second straight day bringing them close to breaking back above the company’s $135 initial public offering price for the first time since falling below the key level last month.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/spacex-nears-ipo-price-again-after-staging-327-billion-rally",
-      "published_at": "2026-08-07T20:29:47+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.754,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -4126,7 +4765,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.753,
+      "recency_weight": 0.711,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4164,7 +4803,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.753,
+      "recency_weight": 0.711,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4202,7 +4841,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.753,
+      "recency_weight": 0.711,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4240,7 +4879,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.753,
+      "recency_weight": 0.711,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4278,7 +4917,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.752,
+      "recency_weight": 0.71,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4313,7 +4952,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.752,
+      "recency_weight": 0.71,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4331,7 +4970,7 @@
     {
       "event_id": "37c1676e8d167130a8dd",
       "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
-      "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company. Savage said Celsius leadership needs to be replaced after this week's earnings miss and what he called management missteps. He's putting himself forth to become CEO. Celsius didn't immediately respond to request for comment. The billionaire founder of Rockstar Energy has purchased millions of shares of Celsius Holdings and is calling for the ouster of that company's CEO after its earnings miss this week. Russ Savage now controls more than 12 million shares of Celsius, he told CNBC. Celsius markets its energy drinks to athletes and health-conscious consumers and has exploded in popularity in recent years. Savage founded Rockstar in 2001 and sold it to PepsiCo in 2020 for a final purchase price of more than $4 billion, he said. Savage's stake in Celsius amounts to roughly 4.7% of the company and would be worth about $300 million at current stock levels. While Savage has been quietly advising Celsius to change its cost structure and marketing strategy for over a year, he now says new leadership is needed. \"The CEO, the COO, the brand manager and the marketing manager all need to be fired,\" Savage told CNBC. Celsius said in response that it is seeing continued demand and resilience across its base. \"We welcome ideas that are potentially value-creating from all Celsius Holdings shareholders,\" a company spokesperson said in a statement. \"We remain focused on executing our total energy portfolio strategy to drive durable, long-term growth. Members of our Board and management team have engaged with Russ Savage many times over the past several years.\" Celsius shares plunged 18% on Thursday after the company's second-quarter earnings missed analyst expectations, coming in at 36 cents per share versus the 43 cents expected by Wall Street, according to LSEG. Revenue of $817.9 million fell below the $870 million expected, and net income attributable to common shareholders fell by more than half compared to last year's second quarter. On the company's earnings call, Celsius Chairman and CEO John Fieldly cited a product rationalization program and deliberate pause in innovation as main reasons for the shortfall. He said the company was managing the integration of Alani Nu, which it acquired last year for $1.8 billion, and of the Rockstar brand in the U.S. and Canada, which it acquired from Pepsi also last year as part of a long-term strategic partnership. Pepsi continues to own the Rockstar brand internationally. Fieldly said on the earnings call that the company may have been overly aggressive in reducing the number of products being sold to make way for newer lines. Still, he said, the company sells 1 out of every 5 energy drinks in the U.S., and the sector remains strong. \"We are a key growth driver for the energy category, and we are just beginning to unlock the full potential of our expanding portfolio,\" Fieldly said. Get Inside Wealth directly to your inbox The Inside Wealth newsletter by Robert Frank is your weekly guide to high-net-worth investors and the industries that serve them. Savage, who was born Russell Weiner and started Rockstar with a $50,000 mortgage against his California condo, said he offered advice to Celsius over a year ago, but was largely ignored. He said Celsius has too many layers of management, with too many costs, and no real accountability. \"They need one person making the decisions, paying attention to every detail, not a circle of people in a firing squad,\" he said. Savage said the implication in the earnings call, that Celsius gave up shelf space to make way for its other brands, was a dire signal. In the fast-moving and hypercompetitive energy drink space, it's difficult for brands to reclaim shelf space once they've lost it, he said. \"Once you lose shelf space, you're dead,\" he said. \"The chains will give it to Red Bull or Monster .\" Savage said he's offering to take over as CEO before the problems become too deep to fix. When building Rockstar, he said, he managed every detail — from sales and marketing to sponsorships, packaging, distribution and innovation. He said the same type of cost-conscious, driven leader is needed at Celsius. \"I'm publicly volunteering to do it,\" he said. \"The CEO has lost credibility with the investment community.\" Savage said he's owned Celsius shares on and off for more than two years. He started acquiring his most recent stake in March, when the stock fell to the low $30 range. He said he bought the stock thinking it was undervalued and poised for a recovery. But he blamed what he called management missteps for the shares' continued decline. \"I didn't think they would wreck it this badly,\" he said. \"Now I'm trying to help fix it.\" Celsius stock now trades at almost out $28 per share after a sharp gain on Friday following CNBC's report of Savage's stake.",
+      "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -4347,7 +4986,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.752,
+      "recency_weight": 0.71,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4365,7 +5004,7 @@
     {
       "event_id": "2b19993a7ffca9005e22",
       "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-      "summary": "The past week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence. Airtable, a one-time highflyer among cloud software startups, agreed to be acquired for about one-tenth of its peak valuation. While HubSpot and Datadog tumbled after their earnings reports, Atlassian and Twilio saw historic pops, reviving confidence in parts of the sector. The \"SaaSpocalypse\" was raging this week. Then it got a reprieve. The pennies-on-the-dollar acquisition of one-time highflyer Airtable, followed by plunges in HubSpot , Datadog and Figma on earnings reports, all served to underscore investor concerns that artificial intelligence models are eating away at the value of costly software products. \"I do think that companies are going to continue to use these coding agents to build functionality to maybe act as a little bit of pressure on renewals,\" said Matt Hedberg, a software analyst at RBC Capital Markets. But by the end of the week, Wall Street was reminded that there's still juice left in an industry that, not long ago, was viewed as driving innovation and was trading at hefty market multiples. Twilio , a provider of cloud-based communications software, and Atlassian , which sells collaboration tools, each saw pops of well over 20% on Friday after reporting quarterly results. Cloudflare , which helps protect websites from cyber attacks, gained 5.6%. Box CEO Aaron Levie, who's been evangelizing cloud software since he started his file-sharing company more than two decades ago, was particularly impressed with Atlassian, which reported its most profitable quarter since 2021. \"Huge Atlassian quarterly beat,\" Levie wrote on X . \"There was a misplaced thesis over the past 6 months that somehow agents would be bad for certain software categories. There's definitely truth in this in some areas, but many were parsing this poorly.\" Levie's reaction reflects a level of nuance that's not always apparent in the sell-it-all trade. Salesforce CEO Marc Benioff has spent months trying to convince investors that his company's longstanding software for sales, marketing and customer service won't be vibe-coded away. Salesforce has lost more than 40% of its value since the end of 2024 despite accelerating revenue growth and consistent margins. Salesforce and its software peers have been under pressure , less because of their current growth rates and more because of the increasingly popular view that tools like OpenAI's Codex and Anthropic's Claude Code will slowly — and then rapidly — hollow out their economics. The iShares Expanded Tech-Software Sector ETF plummeted 24% in the first quarter, its worst performance since 2008. However, it's since rebounded sharply and is now down just 3% for the year, while the Nasdaq is up 15%. RBC's Hedberg said sentiment was so bad in the first quarter that clients didn't even want to discuss software. \"People were pencils down in the space,\" he said. \"They just didn't feel like it was worth their time to meet with software companies back then, and that was even high-quality companies.\" That attitude has become a big problem for venture-backed software companies that raised money at hefty valuations in the pre-AI era and are now trying to figure out what's next for them. There haven't been any notable SaaS IPOs this year, and 86% of private deal value in the first half of 2026 went to AI companies, according to PitchBook data . Concerns were amplified on Tuesday, when Italian software buyout firm Bending Spoons said it had agreed to buy workflow management startup Airtable for less than $1.3 billion. At its peak in 2021, Airtable was valued at nearly $12 billion . Bending Spoons, which held its own IPO in July, owns brands including AOL, Evernote and Vimeo, and now has a market cap of $28 billion. Two days after the Airtable deal, HubSpot had its worst day on the market in a decade, sliding 19% and bringing its loss for the past year to over 50%. Datadog, which sells monitoring software, also sank 19% on Thursday, the steepest slump since its IPO in 2019. Still, the stock has been an outperformer, climbing 72% this year. Datadog said its biggest AI client, which analysts suspect is OpenAI, has cut usage since June. \"There's these reminders that we're not out of it,\" Hedberg said. \"Everything's not smooth sailing.\" The mood improved after the close on Thursday, thanks to stronger reports from Atlassian, Twilio and Cloudflare. Atlassian CEO Mike Cannon-Brookes credited his company's research and development teams for working hard to give customers \"the best quality at the best price and the best speed.\" The report came five months after Atlassian slashed 10% of its workforce, or 1,600 jobs, which Cannon-Brookes said at the time was necessary to \"self-fund further investment in AI and enterprise sales, while strengthening our financial profile.",
+      "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -4381,7 +5020,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.752,
+      "recency_weight": 0.71,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4419,7 +5058,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.752,
+      "recency_weight": 0.71,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4457,7 +5096,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.752,
+      "recency_weight": 0.709,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4495,7 +5134,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.752,
+      "recency_weight": 0.709,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4533,7 +5172,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.752,
+      "recency_weight": 0.709,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4571,7 +5210,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.751,
+      "recency_weight": 0.709,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4609,7 +5248,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.751,
+      "recency_weight": 0.709,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4647,7 +5286,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.751,
+      "recency_weight": 0.709,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4685,7 +5324,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.751,
+      "recency_weight": 0.709,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4724,7 +5363,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.751,
+      "recency_weight": 0.709,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -4762,7 +5401,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.751,
+      "recency_weight": 0.709,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4800,7 +5439,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4838,7 +5477,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4876,7 +5515,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4914,7 +5553,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4952,7 +5591,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4990,7 +5629,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5028,7 +5667,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -5066,7 +5705,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5104,7 +5743,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5142,7 +5781,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -5180,7 +5819,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -5218,7 +5857,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5256,7 +5895,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -5294,7 +5933,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.75,
+      "recency_weight": 0.708,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5306,40 +5945,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "304035a87be5d7b71b2e",
-      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-      "published_at": "2026-08-07T20:15:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.75,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -5363,7 +5968,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.749,
+      "recency_weight": 0.707,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -5375,44 +5980,6 @@
           "待确认影响路径"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "374337e0c249f38a639b",
-      "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes",
-      "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
-      "published_at": "2026-08-07T20:04:00+00:00",
-      "event_type": "credit",
-      "severity": "major",
-      "sentiment": -0.8,
-      "affected_tags": [
-        "broad_equity",
-        "credit",
-        "safe_haven"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.748,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -5436,7 +6003,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.748,
+      "recency_weight": 0.706,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -5473,7 +6040,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.747,
+      "recency_weight": 0.705,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -5485,48 +6052,6 @@
           "国防/安全事件"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "74fb6df49194796a8172",
-      "title": "Credit Card Balances at Pace with Inflation: Whitney",
-      "summary": "Meredith Whitney, CEO of Meredith Whitney Advisory Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how many Americans are living payday to payday as well as how consumers are utilizing their credit cards. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-07/credit-card-balances-at-pace-with-inflation-whitney-video",
-      "published_at": "2026-08-07T20:01:49+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "inflation",
-        "macro",
-        "rates"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.747,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -5550,7 +6075,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.744,
+      "recency_weight": 0.702,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -5585,7 +6110,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.743,
+      "recency_weight": 0.702,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -5601,43 +6126,9 @@
       }
     },
     {
-      "event_id": "f519c6f019ea45de3599",
-      "title": "How the PGA Is Growing the Game and Winnings for Players",
-      "summary": "Brian Rolapp, CEO of PGA Tour, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the changing landscape of sports media coverage, the rising costs of streaming bills for consumers, and the evolution of the PGA Tour after the rise and fall of LIV Golf. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-07/innovation-doesn-t-happen-without-crisis-rolapp-video",
-      "published_at": "2026-08-07T19:34:44+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.741,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
       "event_id": "6d1bb58233a7008577e6",
       "title": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
-      "summary": "The Senate overwhelmingly approved legislation that would impose sanctions on buyers of Russian oil and top Russian leaders. The bill is named in honor of the late Sen. Lindsey Graham, R-S.C., who had just returned from visiting Ukraine when he died. The Senate on Friday overwhelmingly approved a Russia sanctions bill that was long championed by the late Sen. Lindsey Graham , R-S.C., before his death last month. The legislation, named the The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 , aims to hurt Russia's war effort in Ukraine by penalizing purchasers of Russian oil and Russian leaders. It passed with bipartisan support 86-11 and will now proceed to the House, which is on recess until September. Khanna to introduce ‘Data Center Bill of Rights’ as fight over AI power plants heats up Kids Online Safety Act social media safety bill advances in Senate Trump admin refunds $100 billion in ‘liberation day’ tariffs The bill would impose tariffs of up to 100% on countries that are within the top five purchasers of Russian crude oil or gas, which includes China and India. Oil revenue is key to funding Russia's military action. It also includes sanctions on Russian leaders and officials, targeting Russian President Vladimir Putin , oligarchs and financial institutions. At the request of President Donald Trump , the bill extends sanctions on Iran's weapons and energy sectors. Following the vote, Sen. Richard Blumenthal , D-Conn, told reporters on Capitol Hill that Graham would be \"proud of what we've done.\" Blumenthal worked on the legislation with Graham before his death. \"These sledgehammer sanctions and tariffs will stop all who are complicit in this murderous, criminal war of aggression against a brave free people,\" Blumenthal said. \"To the people of Ukraine, we are with you.\" Sen. Mazie Hirono , D-Hawaii, was among the group of legislators that voted no. She said that while she supports sanctions on Russia, this bill gives too much tariff authority to Trump. \"It provides too much room for him to do things that are unpredictable and that actually harms the situation,\" she told CNBC. House Speaker Mike Johnson , R-La., may face opposition similar to Hirono's in the closely divided House. Reps. Gregory Meeks, D-N.Y., and Don Beyer, D-Va., on Friday said in a statement they too are concerned about the tariff authority the measure would give the president. They also noted Trump already has the legal ability to impose sanctions on Russian leaders and other nations should he choose to do so.",
+      "summary": "A measure to impose new sanctions on Russian oil purchasers easily cleared the Senate and heads to the House.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -5659,7 +6150,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.737,
+      "recency_weight": 0.696,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5678,7 +6169,7 @@
     {
       "event_id": "c940e2267f83ed78eacd",
       "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-      "summary": "Nonfarm payrolls unexpectedly declined in July, falling by 23,000 amid a drop of 53,000 government jobs and softness in retail, leisure and hospitality, and slower-than-usual growth in healthcare. The unemployment rate edged lower to 4.1%, but was due largely to a further decline in those holding jobs or looking for work. Worker pay was nearly flat in the month as well, with the 12-month increase in average hourly earnings slipping to 3.2%, the lowest since May 2021. The U.S. economy saw an unexpected declined in jobs during July while the unemployment rate edged lower, the Bureau of Labor Statistics reported Friday in a snapshot that showed a slowing employment picture. Nonfarm payrolls fell by a seasonally adjusted 23,000 for the month, compared with a downwardly revised 20,000 for June. The Dow Jones consensus forecast had been looking for a gain of 83,000. At the same time, the unemployment rate slipped to 4.1% as the labor force participation rate fell further to 61.4%, its lowest in more than five years, another indication that fewer Americans were working or looking for jobs. In addition to the weak numbers for June and July, the final count for May was revised down to 63,000, or 66,000 lower than the prior estimate. The revised numbers brought the 12-month average down to just 34,000. \"The July employment report solidified that the labor market is not out of the woods quite yet,\" said Nicole Bachaud, a labor economist at ZipRecruiter. The drop was led by a 50,000 decline in local government education and a loss of 19,000 retail jobs. Financial activities also posted a fall of 14,000 and leisure and hospitality lost 40,000, a possible consequence of the World Cup tournament ending. Healthcare, which has been the leading sector for job creation, rose by 22,000, which was below its 12-month average of 36,000. Construction also saw an increase of 22,000. Private payrolls did increase for the month, up 30,000 as government jobs declined by 53,000. While jobs held flat, worker pay also saw virtually no gain during the month. Average hourly earnings increased by just 2 cents, bringing the 12-month average down to 3.2%, below the forecast increase of 3.5% and the lowest since May 2021. The report comes with Federal Reserve policymakers split on where interest rates should head in an economy where the labor market had been improving from a moribund year in 2025 while inflation has remained well above the central bank's 2% target. In recent days, several Fed officials have spoken in favor of raising rates as soon as September if the pace of price increases doesn't ease. The Federal Open Market Committee last week voted 9-3 to hold its benchmark rate in place. Following the jobs report, traders shifted their bets on when the Fed might hike. Odds for a move in September fell to 44% and to 58.3% for October, according to the CME Group's FedWatch gauge of futures prices. Stock market futures, meanwhile, posted solid gains amid the expectations for a more dovish Fed. Futures tied to the Dow Jones Industrial Average were up close to 200 points and Treasury yields plummeted after being around the flatline earlier in the session. \"This morning's report is a game changer in the sense that all of the recent focus has been on inflation and this report highlights the risks that are embedded in the labor market as well,\" said Chris Zaccarelli, chief investment officer for Northlight Asset Management. \"Before today, many were expecting that the Fed had no choice but to raise rates in order to fight stubbornly high inflation, because the job market was so strong, but this report shows that isn't the case.\" Details of the report confirmed the weak headline numbers. Household employment, which measures the total of people reporting that they are working and is used to calculate the unemployment rate, fell by 87,000. However, the unemployment rate declined because of a decrease of 264,000 in the labor force. Outside of the Covid era, the participation rate is at its lowest since the middle part of 1976. \"While the unemployment rate is falling, that is mostly for the wrong reason—not enough workers,\" wrote Bill Adams, chief U.S. economist at Fifth Third Commercial Bank. \"Immigration compensated for the aging of the workforce in the first few years of the post-pandemic expansion, but that's not happening anymore.\" The employment-to-population ratio fell again, slipping to 58.9% for its lowest level since May 2014. An alternative jobless measure that includes discouraged workers and those holding part-time jobs for economic reasons held steady at 7.9%.",
+      "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -5694,7 +6185,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.736,
+      "recency_weight": 0.695,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5735,7 +6226,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.733,
+      "recency_weight": 0.692,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5776,7 +6267,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.73,
+      "recency_weight": 0.689,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5795,7 +6286,7 @@
     {
       "event_id": "31fc59af54efad8f6461",
       "title": "Trump revives effort to fire Fed's Lisa Cook",
-      "summary": "President Donald Trump is \"considering\" firing Federal Reserve Board Governor Lisa Cook, the White House said. Trump first tried to fire Cook last year on mortgage fraud allegations, but Cook denied the charges and filed a lawsuit challenging her dismissal. A federal court blocked Trump from firing Cook while her suit was pending. The Supreme Court, in a 5-4 ruling in late June, upheld that decision. \"These allegations are as baseless now as they were a year ago,\" Cook's attorney Abbe Lowell said. President Donald Trump is \"considering\" firing Federal Reserve Board Governor Lisa Cook, the White House said this week, reviving an effort that had been stymied by the Supreme Court in June. White House presidential aide Dan Scavino, in a letter to Cook dated Wednesday, said there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\" Those are the same allegations Trump and his allies floated when he first moved to fire Cook from the central bank last year. Cook denied the charges and filed a lawsuit challenging her dismissal. A federal court blocked Trump from firing Cook while her suit was pending. The Supreme Court, in a 5-4 ruling in late June, upheld that decision against a challenge the president. But Chief Justice John Roberts noted that the court's decision did not stop Trump from trying again to remove Cook over the mortgage fraud allegations. Any new attempt to fire her would require additional steps in order to protect Cook's Constitutional due process rights, Roberts wrote. Scavino, Trump's deputy chief of staff and director of the Office of Presidential Personnel, wrote that he was sending Wednesday's letter \"pursuant to the Supreme Court's opinion.\" He instructed Cook to provide an \"explanation for your false statements and accompanying evidence\" within three weeks. Abbe Lowell, a lawyer for Cook, told CNBC in a statement that the allegations \"are as baseless now as they were a year ago when President Trump tried to remove Governor Cook and interfere with the independence of the Federal Reserve.\" \"No matter what President Trump tries to do next, this much is clear under the facts and Supreme Court precedent — there is no valid cause for removing Governor Cook,\" Lowell's statement said. \"As we did before, we will challenge this latest pretext and preserve her position and the historic role of the Fed.\" The Federal Reserve declined to comment on the White House's letter. Trump's initial move to fire Cook, who was appointed by former President Joe Biden , came as he ramped up his efforts to pressure the Fed to slash interest rates. The mortgage-related allegations were surfaced by Federal Housing Finance Agency Director Bill Pulte , who has been criticized as an \" attack dog \" for Trump. Pulte has also targeted other of Trump's perceived political foes, including New York Attorney General Letitia James , who also faced allegations of mortgage-related wrongdoing. — CNBC's Dan Mangan and Jeff Cox contributed to this report.",
+      "summary": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -5817,7 +6308,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.727,
+      "recency_weight": 0.687,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5836,7 +6327,7 @@
     {
       "event_id": "7ab64d88bda66d0d9b58",
       "title": "Gold bugs spend $180 million betting all's clear for metal as bond yields stall",
-      "summary": "They are called gold bugs for a reason, because they sure are hard to get rid of. Despite a 25% decline in gold from its high in January, proponents of the precious metal are storming into bullish call positions after almost two months of sideways action gives way to a rally Friday following weak jobs data. Almost $100 million of call options in the SPDR Gold Shares (GLD) ETF were likely bought on Friday, SpotGamma data show, compared to about $25 million of puts bought. It's the same for the miners: over $80 million of GDX calls were bought, compared to just over $9 million in puts. Options volume in both surged, according to Cboe LiveVol data, with GLD on pace for twice its 30-day average and GDX quadrupling its typical trading volume. After an incredible 100% year-long rally through January, gold prices reversed this year as Treasury yields and the dollar firmed in the first half of the year and the explosive bull market in tech stocks vacuumed up investor dollars from around the world. The aggressive call-buying suggests gold bulls think regime change could be afoot. After touching 4.7 percent, the 10-year yield stalled out this week, stabilizing below multi-year highs as the dollar pulled back to the lowest since mid-June. Despite speculation over interest-rate hikes by new Federal Reserve chair Kevin Warsh, a weak U.S. jobs report on Friday arguably bolstered the case for doves. Nonfarm payrolls unexpectedly declined in July, falling by 23,000 amid a drop of 53,000 government jobs. Gold prices typically move inversely to real interest rates. They also might be getting a boost from foreign buyers, according to the Arora Report's Nigam Arora. \"The trigger for this move off the lows a few days ago was very aggressive buying by Chinese individual investors in the domestic gold ETFs,\" Arora said via text. \"The catalyst appears to be Beijing's latest moves to make it harder for Chinese capital to move offshore.\"",
+      "summary": "Despite a 25% decline in gold from its high in January, proponents of the precious metal are storming into bullish call positions.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -5858,7 +6349,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.724,
+      "recency_weight": 0.683,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5877,7 +6368,7 @@
     {
       "event_id": "9e46d81b742d4c3fd8b3",
       "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
-      "summary": "Burger King is once again the second-largest burger chain in the U.S. by systemwide sales. The chain's successful turnaround has helped it unseat Wendy's from the number two spot. McDonald's still maintains its lead by a wide margin. Burger King has overtaken Wendy's as the second-largest burger chain in the U.S. by systemwide sales, retaking its crown six years after losing it to the rival chain. The change in positions follows the two companies' diverging results over the past two years. Wendy's has reported shrinking U.S. same-store sales for six straight quarters. Its domestic same-store sales slipped 7% in its latest quarter, the company reported on Friday. Meanwhile, Burger King has been embarking on a turnaround and has seen its domestic same-store sales rise over the past five quarters; the Restaurant Brands International chain on Thursday reported U.S. same-store sales growth of 8.5% for its second quarter . McDonald's holds onto its spot as the number one burger chain, with a significant lead. Although the company only reports its systemwide sales on a global basis, it held about 48% of the U.S. burger market share in 2024, according to Barclays. For comparison, at that time, Wendy's had an 11.4% share of the market, while Burger King had a 10% hold. Wendy's initially overtook Burger King through the success of its nationwide breakfast launch. But staying number two has been a rocky road. Both Wendy's and Burger King had to navigate the Covid-19 pandemic and the subsequent supply chain issues that led to soaring food costs. Then came the consumer pushback against rising menu prices and a pullback in restaurant spending. In late 2022, Restaurant Brands announced a turnaround plan for Burger King's U.S. business after a year of lackluster sales. The strategy has focused on improving its food quality, investing in marketing and remodeling restaurants. While Burger King tried to find its footing, Wendy's was dealing with a revolving door of chief executives at a time when consumers were growing even more value conscious and beef costs were soaring. In 2024, Wendy's longtime CEO Todd Penegor retired after eight years in the role. PepsiCo executive Kirk Tanner succeeded him but left after a little more than a year to lead Hershey's. CFO Ken Cook took over as interim CEO until Wendy's tapped former Potbelly CEO Bob Wright as his permanent replacement in May. \"Our quality differentiation has eroded, our value proposition has weakened, and we have not consistently delivered the experience customers expect from Wendy's,\" Wright said on the company's earnings conference call on Friday. \"These issues have weighed on traffic and created pressure on the restaurant economic model, which is the heartbeat of this business, and this is reflected in our latest results.\" Now Wendy's is planning to embark on its own turnaround to revive sales, meaning that Burger King can't rest on its laurels.",
+      "summary": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -5893,7 +6384,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.723,
+      "recency_weight": 0.682,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5911,7 +6402,7 @@
     {
       "event_id": "3b0a0a11e4442f05b740",
       "title": "Here are three key takeaways from the disappointing July jobs report",
-      "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals on how to process the latest jobs report. Misleading numbers : The payroll decline of 23,000 wasn't quite as bad as it looked and the drop in the unemployment rate to 4.1% wasn't nearly as good as it looked. The main reason for the red headline number was a loss of 53,000 government workers, a development economists say was largely owing to seasonal factors that could get revised away. Private payrolls actually rose by 30,000. At the same time, the unemployment rate fell due to yet another decline in workers employed or actively looking for a job. The vanishing labor force : On that labor force theme, the participation rate edged down to 61.4%, now off 0.7 percentage point this year alone due to the exodus of nearly 1.4 million people. There's a strong degree of immigration noise in that number, but it still changes the dynamics by which policymakers will evaluate the labor market. A 4.1% unemployment rate suddenly doesn't seem as impressive with participation at its lowest in 50 years outside of the Covid era. Whither the Fed? Markets reacted to the report by taking a September rate hike off the table. Not so fast: Central bank policymakers may take more signal from the lower unemployment rate as they could view it as an indicator of a relatively stable labor market. A common theme in post-report commentary from Wall Street on Friday was that Fed officials likely will set this report aside and quickly turn their focus to next Wednesday's consumer price index inflation reading — while acknowledging that weak payrolls growth at least takes the urgency out of a September increase. \"This report is like a hall of mirrors, tricking investors with different signals about whether labor's recovery is stalling.\" — Kevin Gordon, head of macro research and strategy at the Schwab Center for Financial Research . \"We agree that the [July] jobs report was a bit dovish on net. But we are sticking with our call that the Fed will hike by 75 [basis points] this year, starting in [September]. The Fed is likely to remain more focused on inflation than labor. The [July] CPI report is a bigger event than today's jobs numbers.\" — Aditya Bhave, U.S. economist, Bank of America . \"Although the stock market is likely to welcome the dovish implications of the report, investors should be wary of the future growth potential of an economy where fewer people are working.\" — Peter Graf, chief Investment officer at Amova Asset Management Americas .",
+      "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -5927,7 +6418,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.721,
+      "recency_weight": 0.68,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5968,7 +6459,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.719,
+      "recency_weight": 0.679,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6003,7 +6494,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.716,
+      "recency_weight": 0.676,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6044,7 +6535,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.716,
+      "recency_weight": 0.676,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6080,7 +6571,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.713,
+      "recency_weight": 0.673,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6115,7 +6606,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.708,
+      "recency_weight": 0.668,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6158,7 +6649,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.706,
+      "recency_weight": 0.666,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6200,7 +6691,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.706,
+      "recency_weight": 0.666,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6236,7 +6727,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.666,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6271,7 +6762,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6306,7 +6797,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.705,
+      "recency_weight": 0.665,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6341,7 +6832,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.704,
+      "recency_weight": 0.664,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6380,7 +6871,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.702,
+      "recency_weight": 0.663,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6423,7 +6914,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.698,
+      "recency_weight": 0.659,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6460,42 +6951,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.696,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d840c107be6216d56ecd",
-      "title": "Lyft Is Transforming Into a Global Brand, CEO Says",
-      "summary": "Lyft CEO David Risher discusses the company's growth compared to Waymo, its plans to expand internationally and where Lyft is focused internally. He speaks with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-07/lyft-is-transforming-into-a-global-brand-ceo-says-video",
-      "published_at": "2026-08-07T16:02:42+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.692,
+      "recency_weight": 0.657,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6533,7 +6989,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.691,
+      "recency_weight": 0.653,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6544,40 +7000,6 @@
         "impact_axes": [
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "78623c54076e8546a44d",
-      "title": "CFTC Warns Prediction Markets on American-Style Casino Odds",
-      "summary": "The Commodity Futures Trading Commission told prediction markets to avoid using American-style gambling odds as the US regulator fends off legal challenges alleging the platforms are illicit sports betting operations.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/cftc-warns-prediction-markets-against-american-style-casino-odds",
-      "published_at": "2026-08-07T15:13:29+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.681,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -6602,75 +7024,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.681,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "dc402a7db496b3d25066",
-      "title": "Dollar Ends Week at Lowest Since May as Rate-Hike Bets Fade",
-      "summary": "The dollar fell Friday after soft US labor data reduced expectations that the Federal Reserve will raise interest rates in the near term.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/dollar-falls-to-lowest-level-since-may-as-rate-hike-in-doubt",
-      "published_at": "2026-08-07T15:12:58+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.681,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9b6a081d0b0ec1e03c75",
-      "title": "Whatnot valued at $20 billion as live shopping continues to boom",
-      "summary": "Whatnot, the live commerce platform, has increased its valuation to $20 billion as the popularity of live shopping continues to grow.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html",
-      "published_at": "2026-08-07T15:02:12+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.679,
+      "recency_weight": 0.643,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6704,7 +7058,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.667,
+      "recency_weight": 0.629,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6749,7 +7103,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 8.0,
-      "recency_weight": 0.665,
+      "recency_weight": 0.628,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -6787,41 +7141,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.66,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "74d86c4ab30933629914",
-      "title": "Private equity is circling budget airlines after Apollo's EasyJet deal — and this carrier could be next",
-      "summary": "Private equity investors could target more undervalued airlines following Apollo's swoop for EasyJet.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/07/easyjet-apollo-private-equity-airlines-travel.html",
-      "published_at": "2026-08-07T12:35:19+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.647,
+      "recency_weight": 0.623,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6864,7 +7184,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 12.0,
-      "recency_weight": 0.647,
+      "recency_weight": 0.61,
       "scored_for_probability": true,
       "source_profile": {
         "key": "bls",
@@ -6900,7 +7220,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.645,
+      "recency_weight": 0.609,
       "scored_for_probability": true,
       "source_profile": {
         "key": "defense",
@@ -6912,191 +7232,6 @@
           "待确认影响路径"
         ],
         "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "5be3217deac1b5635c2e",
-      "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
-      "summary": "Volkswagen's top investor on Friday called on the auto giant to take immediate action to fend off intensifying competition from Chinese car brands.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html",
-      "published_at": "2026-08-07T12:15:29+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.643,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a451e41bb72c2c6f524b",
-      "title": "China is gaining ground in AI. But the U.S. still has a major advantage",
-      "summary": "Chinese AI companies have made recent leaps in closing the performance gap with U.S. frontier labs.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
-      "published_at": "2026-08-07T11:19:21+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.632,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "bf14886f7bba0f467915",
-      "title": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
-      "summary": "MVAAFF founder Floyd Rance says the festival has found a sustainable audience on the Massachusetts island, helping it weather macroeconomic uncertainty.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/07/marthas-vineyard-african-american-film-festival-set-for-record-attendance.html",
-      "published_at": "2026-08-07T11:16:34+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.631,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7487e309f890cd1d843e",
-      "title": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
-      "summary": "Memory prices have surged because of short supply and huge demand with investors watching closely for any changes to the supply-demand imbalance.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
-      "published_at": "2026-08-07T09:02:59+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "datacenter",
-        "growth",
-        "memory",
-        "semiconductor",
-        "storage",
-        "tech"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.605,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a8671b031add82218128",
-      "title": "Yen Jumps on US Data as Traders Watch for Intervention Clues",
-      "summary": "The yen surged against a weaker dollar after an unexpectedly soft US payrolls report on Friday, with traders on alert for any sign authorities were preparing to intervene in the Japanese currency again.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/yen-surrenders-nearly-half-its-gains-from-us-japan-intervention",
-      "published_at": "2026-08-07T00:04:31+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.509,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -7127,7 +7262,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 6.0,
-      "recency_weight": 0.508,
+      "recency_weight": 0.48,
       "scored_for_probability": true,
       "source_profile": {
         "key": "treasury-rates",
@@ -7162,7 +7297,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.492,
+      "recency_weight": 0.464,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -7172,80 +7307,6 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "08925acd6ea63915ac6f",
-      "title": "S&P 500 Has Best Week Since April After Jobs Data: Markets Wrap",
-      "summary": "A sharp slowdown in the US jobs market drove stocks higher while bond yields fell on speculation the Federal Reserve won’t be forced to raise interest rates any time soon.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
-      "published_at": "2026-08-06T22:10:21+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.49,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ae327bebbc10da799194",
-      "title": "AMD buys chip startup that hardwires AI models into its silicon",
-      "summary": "Taalas' current chip runs a small version of Meta's Llama 3.1, though the company is working on chips for bigger and more advanced models.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
-      "published_at": "2026-08-06T21:42:31+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.486,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -7276,7 +7337,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.484,
+      "recency_weight": 0.456,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -7319,7 +7380,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.48,
+      "recency_weight": 0.453,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -7370,7 +7431,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.48,
+      "recency_weight": 0.453,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -7418,7 +7479,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.48,
+      "recency_weight": 0.453,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -7431,81 +7492,6 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "26cff710be5aab87ab51",
-      "title": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
-      "summary": "Virginia's State Corporation Commission is tasked with reviewing the deal and will either accept, reject or impose conditions on it.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/06/virginia-governor-nextera-nee-dominion-data-center.html",
-      "published_at": "2026-08-06T20:50:59+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.478,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "a66be99d250980485b13",
-      "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
-      "summary": "Trump's reported phone calls to the Fed chairman will complicate his efforts to prove he will act independently on inflation and interest rates.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/06/trump-fed-chairman-kevin-warsh-relationship.html",
-      "published_at": "2026-08-06T19:38:44+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "rates"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.467,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -7528,7 +7514,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.308,
+      "recency_weight": 0.29,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -7570,7 +7556,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.285,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -7618,7 +7604,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.285,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -7665,7 +7651,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.302,
+      "recency_weight": 0.285,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -7678,43 +7664,6 @@
           "AI硬件/数据中心产业链"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "ec13da1f00d3131f4fa9",
-      "title": "The U.S.-Canada natural gas and electricity trade value rose in 2025",
-      "summary": "Although the total value of energy trade between the United States and Canada fell by 11% in 2025 to an estimated $137 billion, according to data from the U.S. Census Bureau, the trade value of natural gas and electricity between the two countries increased slightly primarily because of increased natural gas prices and trade volume.",
-      "source": "EIA Today in Energy",
-      "source_tier": "official",
-      "source_weight": 1.0,
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=",
-      "published_at": "2026-08-05T14:00:00+00:00",
-      "event_type": "energy",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "energy"
-      ],
-      "categories": [
-        "energy",
-        "oil"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.9,
-      "impact_score": 4.0,
-      "recency_weight": 0.264,
-      "scored_for_probability": true,
-      "source_profile": {
-        "key": "eia",
-        "label": "EIA",
-        "authority": "U.S. Energy Information Administration",
-        "source_type": "能源供需、库存与价格背景数据",
-        "evidence_role": "能源供需、库存与价格背景数据：确认能源供给、出口、库存和运输风险相关事实。",
-        "impact_axes": [
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "https://www.eia.gov/rss/todayinenergy.xml",
         "fetch_status": "live"
       }
     }
@@ -8072,7 +8021,7 @@
       "tier": "official",
       "enabled": true,
       "status": "ok",
-      "recent_items": 2,
+      "recent_items": 1,
       "latest_published_at": "2026-08-07T14:00:00+00:00",
       "warning": null
     },
@@ -8100,7 +8049,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-08T06:00:00+00:00",
+      "latest_published_at": "2026-08-08T14:01:29+00:00",
       "warning": null
     },
     {
@@ -8109,7 +8058,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-07T21:23:00+00:00",
+      "latest_published_at": "2026-08-08T11:13:30+00:00",
       "warning": null
     },
     {
@@ -8118,7 +8067,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-08-08T11:00:00+00:00",
+      "latest_published_at": "2026-08-08T14:04:00+00:00",
       "warning": null
     },
     {
@@ -8127,7 +8076,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-08-08T05:21:12+00:00",
+      "latest_published_at": "2026-08-08T13:30:01+00:00",
       "warning": null
     },
     {
