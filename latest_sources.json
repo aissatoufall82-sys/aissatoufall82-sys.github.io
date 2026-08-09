@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T23:10:10.605055+00:00",
-  "generated_at_local": "2026-08-09 07:10:10 北京时间",
-  "next_update_at_local": "2026-08-09 10:10:00 北京时间",
+  "generated_at": "2026-08-09T02:10:29.631018+00:00",
+  "generated_at_local": "2026-08-09 10:10:29 北京时间",
+  "next_update_at_local": "2026-08-09 13:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "01:10",
@@ -18,9 +18,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 180,
+  "total_items": 179,
   "total_official_items": 118,
-  "media_items": 62,
+  "media_items": 61,
   "items": [
     {
       "id": "9f376822b6e78a3236cd",
@@ -36,7 +36,7 @@
       "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-08T17:58:00+00:00",
-      "pick_score": 79,
+      "pick_score": 78,
       "event_type": "credit",
       "severity": "major",
       "impact_axes": [
@@ -57,10 +57,46 @@
       "in_event_ledger": false
     },
     {
+      "id": "e2a12b4a8e05e2c54fdf",
+      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+      "translation_label": "原文中文译读",
+      "translation": "Verizon的美国移动服务在经历数千名用户断网后已恢复。周六下午，数千名美国Verizon手机用户的服务中断了数小时。这家无线运营商表示，仍在遇到服务问题的客户应重启设备。该公司未说明断网原因。根据数据追踪网站Downdetector的数据，断网始于美东时间下午3点30分左右，Verizon在巅峰时期收到了超过13,000起投诉，达到最高峰。受影响最大的客户主要位于纽约、洛杉矶和波士顿等主要大都市区。该公司在给CNBC的一份声明中表示，工程师已经解决了今天下午影响部分无线客户语音服务的问题。Verizon建议仍在遇到服务问题的客户重启设备。该公司未提供断网原因。Downdetector的数据显示，此次Verizon断网还影响了来自AT&T和T-Mobile US等其他主要无线运营商的数百名客户，导致他们的电话无法拨通。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-09T00:36:19+00:00",
+      "pick_score": 77,
+      "event_type": "black_swan",
+      "severity": "major",
+      "impact_axes": [
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "904b4983b23f14884b09",
       "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
       "translation_label": "原文中文译读",
-      "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
+      "translation": "在阿联酋表示其一艘船只遭到空袭后，伊朗为开放霍尔木兹海峡设定了条件。伊朗军方强调，只有在美国接受伊朗的条件后，这条至关重要的水道才会重新开放。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
@@ -250,7 +286,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-08T15:29:19+00:00",
-      "pick_score": 63,
+      "pick_score": 62,
       "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
@@ -428,7 +464,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-08T05:54:20+00:00",
-      "pick_score": 62,
+      "pick_score": 61,
       "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
@@ -606,7 +642,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-07T19:21:22+00:00",
-      "pick_score": 61,
+      "pick_score": 60,
       "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
@@ -714,7 +750,7 @@
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-08T12:47:53+00:00",
-      "pick_score": 50,
+      "pick_score": 49,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -815,10 +851,10 @@
       "title": "MSFT SEC 4: STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES",
       "translation_label": "原文全文翻译",
       "translation": "MSFT SEC 4：证券所有权变动声明。MICROSOFT CORP (MSFT) 提交了 SEC 表格 4。提交日期：2026-08-06。表格 4 详情：2026-08-05，代码 S，以 487.893 美元的价格处置了 10,000 股（1）；变动后持有 100,447.434 股。报告日期：2026-08-05。描述：证券所有权变动声明。呈报编号：0000789019-26-000143。",
-      "article_explanation": "MSFT披露内部人持股变动。首笔已解析交易为代码S，处置10,000股，价格$487.893 (1)。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
-      "summary": "MSFT披露内部人持股变动。首笔已解析交易为代码S，处置10,000股，价格$487.893 (1)。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
+      "article_explanation": "MICROSOFT CORP (MSFT) 向美国证券交易委员会提交了SEC Form 4持股变动声明。根据2026年8月5日的报告期，微软进行了股票处置交易，以每股487.893美元的价格出售了10,000股股份，交易完成后其持股数量变为100,447.434股。",
+      "summary": "MICROSOFT CORP (MSFT) 向美国证券交易委员会提交了SEC Form 4持股变动声明。根据2026年8月5日的报告期，微软进行了股票处置交易，以每股487.893美元的价格出售了10,000股股份，交易完成后其持股数量变为100,447.434股。",
       "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给，但仍需要市场价格或下一份官方数据确认。",
-      "impact_interpretation": "先发生什么：文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：交易代码P/S、成交金额、交易后持股，以及是否连续多次发生。",
+      "impact_interpretation": "先发生什么：本篇没有提供足以判断销量、利润或利率预期等宏观变量变化的信息。 可能受益：本篇没有提供足以判断其他公司或行业受益情况的信息。 可能承压：本篇没有提供足以判断具体谁将承压的信息。 接下来观察：接下来需观察MICROSOFT CORP (MSFT)后续的SEC Form 4申报文件以及股价在487.893美元附近的波动情况以核对持股变动。",
       "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000143/xslF345X06/form4.xml",
       "source": "SEC EDGAR Submissions",
       "publisher": "美国证券交易委员会（SEC）",
@@ -840,42 +876,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "7ab64d88bda66d0d9b58",
-      "title": "Gold bugs spend $180 million betting all's clear for metal as bond yields stall",
-      "translation_label": "原文中文译读",
-      "translation": "随着债券收益率停滞不前，黄金多头斥资1.8亿美元押注该金属前景一片光明。尽管黄金价格较1月份的高点下跌了25%，但这种贵金属的支持者仍然蜂拥买入看涨期权头寸。",
-      "article_explanation": "在黄金价格较1月高点下跌25%的背景下，黄金多头斥资1.8亿美元买入看涨期权合约，押注随着债券收益率停滞，贵金属市场将迎来好转。尽管此前金价经历大幅回调，但市场看涨情绪依然强劲，资金正通过期权渠道积极押注黄金走势。",
-      "summary": "在黄金价格较1月高点下跌25%的背景下，黄金多头斥资1.8亿美元买入看涨期权合约，押注随着债券收益率停滞，贵金属市场将迎来好转。尽管此前金价经历大幅回调，但市场看涨情绪依然强劲，资金正通过期权渠道积极押注黄金走势。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：黄金期权市场注入了1.8亿美元的看涨资金，直接推动了贵金属衍生品市场的多头头寸增加和看涨情绪聚集。 可能受益：贵金属及相关黄金资产、黄金多头投资者可能从此次期权资金流入中获得情绪和交易活跃度的支持。 可能承压：若债券收益率走势发生变化或黄金价格未能如期反弹，投入1.8亿美元进行看涨押注的多头资金将面临直接的期权亏损压力。 接下来观察：接下来需要核对债券收益率走势数据、黄金价格变动幅度以及黄金期权市场的持仓变化和成交量指标。",
-      "url": "https://www.cnbc.com/2026/08/07/gold-bugs-spend-180-million-betting-alls-clear-for-metal-as-bond-yields-stall.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-07T18:22:56+00:00",
-      "pick_score": 51,
-      "event_type": "macro",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       },
       "in_event_ledger": false
@@ -1215,7 +1215,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-08T16:11:17+00:00",
+      "latest_published_at": "2026-08-09T00:00:00+00:00",
       "warning": null
     },
     {
@@ -1223,7 +1223,7 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 3,
+      "recent_items": 2,
       "latest_published_at": "2026-08-08T11:13:30+00:00",
       "warning": null
     },
@@ -1242,7 +1242,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-08T17:41:31+00:00",
+      "latest_published_at": "2026-08-09T00:36:19+00:00",
       "warning": null
     },
     {
