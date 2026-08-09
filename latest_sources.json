@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T05:10:19.654720+00:00",
-  "generated_at_local": "2026-08-09 13:10:19 北京时间",
-  "next_update_at_local": "2026-08-09 16:10:00 北京时间",
+  "generated_at": "2026-08-09T08:10:20.103021+00:00",
+  "generated_at_local": "2026-08-09 16:10:20 北京时间",
+  "next_update_at_local": "2026-08-09 19:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "01:10",
@@ -18,9 +18,9 @@
     "official",
     "tier1"
   ],
-  "total_items": 177,
+  "total_items": 178,
   "total_official_items": 118,
-  "media_items": 59,
+  "media_items": 60,
   "items": [
     {
       "id": "9f376822b6e78a3236cd",
@@ -57,42 +57,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "e2a12b4a8e05e2c54fdf",
-      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
-      "translation_label": "原文中文译读",
-      "translation": "Verizon的美国移动服务在经历数千名用户断网后已恢复。周六下午，数千名美国Verizon手机用户的服务中断了数小时。这家无线运营商表示，仍在遇到服务问题的客户应重启设备。该公司未说明断网原因。根据数据追踪网站Downdetector的数据，断网始于美东时间下午3点30分左右，Verizon在巅峰时期收到了超过13,000起投诉，达到最高峰。受影响最大的客户主要位于纽约、洛杉矶和波士顿等主要大都市区。该公司在给CNBC的一份声明中表示，工程师已经解决了今天下午影响部分无线客户语音服务的问题。Verizon建议仍在遇到服务问题的客户重启设备。该公司未提供断网原因。Downdetector的数据显示，此次Verizon断网还影响了来自AT&T和T-Mobile US等其他主要无线运营商的数百名客户，导致他们的电话无法拨通。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
-      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-09T00:36:19+00:00",
-      "pick_score": 77,
-      "event_type": "black_swan",
-      "severity": "major",
-      "impact_axes": [
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
       "id": "ea63dc721d6931fe953e",
       "title": "China’s Inflation Cools as Iran War Oil Shock Starts to Ease",
       "translation_label": "原文中文译读",
@@ -122,6 +86,42 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "e2a12b4a8e05e2c54fdf",
+      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+      "translation_label": "原文中文译读",
+      "translation": "Verizon的美国移动服务在经历数千名用户断网后已恢复。周六下午，数千名美国Verizon手机用户的服务中断了数小时。这家无线运营商表示，仍在遇到服务问题的客户应重启设备。该公司未说明断网原因。根据数据追踪网站Downdetector的数据，断网始于美东时间下午3点30分左右，Verizon在巅峰时期收到了超过13,000起投诉，达到最高峰。受影响最大的客户主要位于纽约、洛杉矶和波士顿等主要大都市区。该公司在给CNBC的一份声明中表示，工程师已经解决了今天下午影响部分无线客户语音服务的问题。Verizon建议仍在遇到服务问题的客户重启设备。该公司未提供断网原因。Downdetector的数据显示，此次Verizon断网还影响了来自AT&T和T-Mobile US等其他主要无线运营商的数百名客户，导致他们的电话无法拨通。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-09T00:36:19+00:00",
+      "pick_score": 76,
+      "event_type": "black_swan",
+      "severity": "major",
+      "impact_axes": [
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
           "指数风险偏好",
           "能源/避险/通胀预期"
         ],
@@ -218,7 +218,7 @@
       "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-08T18:30:00+00:00",
-      "pick_score": 50,
+      "pick_score": 49,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -241,38 +241,38 @@
       "in_event_ledger": false
     },
     {
-      "id": "881f87c6772c039c8333",
-      "title": "CFTC Reminds Markets to Display Clear Pricing Information",
-      "translation_label": "原文全文翻译",
-      "translation": "CFTC Reminds 市场 to Display Clear Pricing Information",
-      "article_explanation": "CFTC General Press Releases发布市场更新，涉及 未指定。 当前没有提取到足以改变方向判断的量化变化，因此保持中性。",
-      "summary": "CFTC General Press Releases发布市场更新，涉及 未指定。 当前没有提取到足以改变方向判断的量化变化，因此保持中性。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "id": "2ada722ae4a5ff39c8a4",
+      "title": "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot",
+      "translation_label": "原文中文译读",
+      "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释信用、监管或市场结构风险。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释信用、监管或市场结构风险。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足监管/交易结构的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
       "impact_interpretation": "先发生什么：这条信息本身不会直接决定股价；只有它改变盈利、利率、供需或风险偏好，影响才可能持续。 可能受益：文章主题中出现可量化改善，并得到价格、成交量或官方数据确认的公司和资产。 可能承压：成本、需求、融资条件或监管环境受到反向影响的公司；没有数据确认时不应提前扩大解读。 接下来观察：等待可量化数据、政策决定或公司指引确认。",
-      "url": "https://www.cftc.gov/PressRoom/PressReleases/9278-26",
-      "source": "CFTC General Press Releases",
-      "publisher": "美国商品期货交易委员会（CFTC）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-08-07T21:00:57+00:00",
-      "pick_score": 49,
-      "event_type": "market",
+      "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-09T05:00:01+00:00",
+      "pick_score": 46,
+      "event_type": "regulatory",
       "severity": "minor",
       "impact_axes": [
-        "待确认影响路径"
+        "监管/交易结构"
       ],
       "source_profile": {
-        "key": "cftc",
-        "label": "CFTC",
-        "authority": "U.S. Commodity Futures Trading Commission",
-        "source_type": "衍生品、商品和市场结构监管公告",
-        "evidence_role": "衍生品、商品和市场结构监管公告：确认期货、掉期、预测市场和商品监管政策变化。",
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
-          "待确认影响路径"
+          "监管/交易结构"
         ],
-        "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
+        "canonical_url": "",
         "fetch_status": "live"
       },
-      "in_event_ledger": true
+      "in_event_ledger": false
     },
     {
       "id": "904b4983b23f14884b09",
@@ -309,6 +309,40 @@
         "fetch_status": "live"
       },
       "in_event_ledger": false
+    },
+    {
+      "id": "881f87c6772c039c8333",
+      "title": "CFTC Reminds Markets to Display Clear Pricing Information",
+      "translation_label": "原文全文翻译",
+      "translation": "CFTC Reminds 市场 to Display Clear Pricing Information",
+      "article_explanation": "CFTC General Press Releases发布市场更新，涉及 未指定。 当前没有提取到足以改变方向判断的量化变化，因此保持中性。",
+      "summary": "CFTC General Press Releases发布市场更新，涉及 未指定。 当前没有提取到足以改变方向判断的量化变化，因此保持中性。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：这条信息本身不会直接决定股价；只有它改变盈利、利率、供需或风险偏好，影响才可能持续。 可能受益：文章主题中出现可量化改善，并得到价格、成交量或官方数据确认的公司和资产。 可能承压：成本、需求、融资条件或监管环境受到反向影响的公司；没有数据确认时不应提前扩大解读。 接下来观察：等待可量化数据、政策决定或公司指引确认。",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9278-26",
+      "source": "CFTC General Press Releases",
+      "publisher": "美国商品期货交易委员会（CFTC）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-08-07T21:00:57+00:00",
+      "pick_score": 48,
+      "event_type": "market",
+      "severity": "minor",
+      "impact_axes": [
+        "待确认影响路径"
+      ],
+      "source_profile": {
+        "key": "cftc",
+        "label": "CFTC",
+        "authority": "U.S. Commodity Futures Trading Commission",
+        "source_type": "衍生品、商品和市场结构监管公告",
+        "evidence_role": "衍生品、商品和市场结构监管公告：确认期货、掉期、预测市场和商品监管政策变化。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
     },
     {
       "id": "28cd516edf581e97bf1a",
@@ -360,7 +394,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-08T15:00:01+00:00",
-      "pick_score": 53,
+      "pick_score": 52,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -419,40 +453,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "307edb143523a3e4db2a",
-      "title": "Office of Strategic Capital Signs $400 Million Conditional Loan Commitment With Sunrise Energy Metals Limited to Expand Scandium Mining Operations",
-      "translation_label": "原文全文翻译",
-      "translation": "U.S. Defense的这条原文本轮没有生成合格的全文翻译，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与官方原文入口；下面的摘要与影响分析仍基于本篇内容。",
-      "article_explanation": "战争部战略资本办公室与 Sunrise Energy Metals Limited 签署了一项价值 4 亿美元的有条件贷款承诺，旨在扩大该公司的钪开采和运营业务。",
-      "summary": "战争部战略资本办公室与 Sunrise Energy Metals Limited 签署了一项价值 4 亿美元的有条件贷款承诺，旨在扩大该公司的钪开采和运营业务。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：Sunrise Energy Metals Limited 的资金流动性以及钪开采业务的建设和扩张进度将最先发生变化。 可能受益：获得资金支持的 Sunrise Energy Metals Limited 及其钪开采业务相关产业链将直接受益。 可能承压：本篇没有提供足以判断竞争对手或相关替代行业压力的信息。 接下来观察：接下来需要核对该 4 亿美元有条件贷款的最终落地进度以及 Sunrise Energy Metals Limited 的钪产量数据。",
-      "url": "https://www.war.gov/News/Releases/Release/Article/4566598/office-of-strategic-capital-signs-400-million-conditional-loan-commitment-with/",
-      "source": "US Defense Releases",
-      "publisher": "美国国防部",
-      "publisher_type": "官方机构",
-      "published_at": "2026-08-07T20:08:52+00:00",
-      "pick_score": 49,
-      "event_type": "market",
-      "severity": "minor",
-      "impact_axes": [
-        "待确认影响路径"
-      ],
-      "source_profile": {
-        "key": "defense",
-        "label": "U.S. Defense",
-        "authority": "U.S. Department of Defense",
-        "source_type": "国防部公告、合同和安全事件原文",
-        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
       "id": "ec71a2bd85b9fc169deb",
       "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
       "translation_label": "原文中文译读",
@@ -487,6 +487,40 @@
         "fetch_status": "live"
       },
       "in_event_ledger": false
+    },
+    {
+      "id": "307edb143523a3e4db2a",
+      "title": "Office of Strategic Capital Signs $400 Million Conditional Loan Commitment With Sunrise Energy Metals Limited to Expand Scandium Mining Operations",
+      "translation_label": "原文全文翻译",
+      "translation": "U.S. Defense的这条原文本轮没有生成合格的全文翻译，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与官方原文入口；下面的摘要与影响分析仍基于本篇内容。",
+      "article_explanation": "战争部战略资本办公室与 Sunrise Energy Metals Limited 签署了一项价值 4 亿美元的有条件贷款承诺，旨在扩大该公司的钪开采和运营业务。",
+      "summary": "战争部战略资本办公室与 Sunrise Energy Metals Limited 签署了一项价值 4 亿美元的有条件贷款承诺，旨在扩大该公司的钪开采和运营业务。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：Sunrise Energy Metals Limited 的资金流动性以及钪开采业务的建设和扩张进度将最先发生变化。 可能受益：获得资金支持的 Sunrise Energy Metals Limited 及其钪开采业务相关产业链将直接受益。 可能承压：本篇没有提供足以判断竞争对手或相关替代行业压力的信息。 接下来观察：接下来需要核对该 4 亿美元有条件贷款的最终落地进度以及 Sunrise Energy Metals Limited 的钪产量数据。",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4566598/office-of-strategic-capital-signs-400-million-conditional-loan-commitment-with/",
+      "source": "US Defense Releases",
+      "publisher": "美国国防部",
+      "publisher_type": "官方机构",
+      "published_at": "2026-08-07T20:08:52+00:00",
+      "pick_score": 48,
+      "event_type": "market",
+      "severity": "minor",
+      "impact_axes": [
+        "待确认影响路径"
+      ],
+      "source_profile": {
+        "key": "defense",
+        "label": "U.S. Defense",
+        "authority": "U.S. Department of Defense",
+        "source_type": "国防部公告、合同和安全事件原文",
+        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "https://www.defense.gov/News/Releases/",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
     },
     {
       "id": "6028d4cdba7d44cd2860",
@@ -597,40 +631,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "046c4df24a8270ab79cc",
-      "title": "The Office of Strategic Capital Signs $1.4 Billion Conditional Loan Commitment With Sila Nanotechnologies, Inc. to Enhance American Battery Production",
-      "translation_label": "原文全文翻译",
-      "translation": "来源：美国国防部发布 标题：战略资本办公室与Sila Nanotechnologies公司签署14亿美元有条件贷款承诺以提升美国电池产量 正文： 战略资本办公室与Sila Nanotechnologies公司签署14亿美元有条件贷款承诺以提升美国电池产量。战争部与美国先进电池材料制造商Sila Nanotechnologies公司签署了一项14亿美元的有条件贷款承诺，该制造商直接支持美国国防工业基础。",
-      "article_explanation": "美国战争部下属的战略资本办公室与美国先进电池材料制造商Sila Nanotechnologies, Inc.签署了一项14亿美元的有条件贷款承诺，旨在支持美国国防工业基础并提升电池本土生产能力。",
-      "summary": "美国战争部下属的战略资本办公室与美国先进电池材料制造商Sila Nanotechnologies, Inc.签署了一项14亿美元的有条件贷款承诺，旨在支持美国国防工业基础并提升电池本土生产能力。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：Sila Nanotechnologies, Inc.获得14亿美元有条件贷款承诺，直接缓解其在美国本土电池材料生产的资金压力。 可能受益：获得资金支持的Sila Nanotechnologies, Inc.以及美国国防工业基础与电池制造行业。 可能承压：本篇没有提供足以判断哪些具体企业或行业将承压的信息。 接下来观察：接下来需要核对该笔14亿美元贷款承诺的最终落地进展以及美国本土电池产能的具体建设数据。",
-      "url": "https://www.war.gov/News/Releases/Release/Article/4566579/the-office-of-strategic-capital-signs-14-billion-conditional-loan-commitment-wi/",
-      "source": "US Defense Releases",
-      "publisher": "美国国防部",
-      "publisher_type": "官方机构",
-      "published_at": "2026-08-07T20:03:43+00:00",
-      "pick_score": 49,
-      "event_type": "market",
-      "severity": "minor",
-      "impact_axes": [
-        "待确认影响路径"
-      ],
-      "source_profile": {
-        "key": "defense",
-        "label": "U.S. Defense",
-        "authority": "U.S. Department of Defense",
-        "source_type": "国防部公告、合同和安全事件原文",
-        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
       "id": "e3803ad31d01e8a9d759",
       "title": "Kyiv Struck as Ukraine Targets Two Russian Oil Refineries",
       "translation_label": "原文中文译读",
@@ -667,6 +667,40 @@
       "in_event_ledger": false
     },
     {
+      "id": "046c4df24a8270ab79cc",
+      "title": "The Office of Strategic Capital Signs $1.4 Billion Conditional Loan Commitment With Sila Nanotechnologies, Inc. to Enhance American Battery Production",
+      "translation_label": "原文全文翻译",
+      "translation": "来源：美国国防部发布 标题：战略资本办公室与Sila Nanotechnologies公司签署14亿美元有条件贷款承诺以提升美国电池产量 正文： 战略资本办公室与Sila Nanotechnologies公司签署14亿美元有条件贷款承诺以提升美国电池产量。战争部与美国先进电池材料制造商Sila Nanotechnologies公司签署了一项14亿美元的有条件贷款承诺，该制造商直接支持美国国防工业基础。",
+      "article_explanation": "美国战争部下属的战略资本办公室与美国先进电池材料制造商Sila Nanotechnologies, Inc.签署了一项14亿美元的有条件贷款承诺，旨在支持美国国防工业基础并提升电池本土生产能力。",
+      "summary": "美国战争部下属的战略资本办公室与美国先进电池材料制造商Sila Nanotechnologies, Inc.签署了一项14亿美元的有条件贷款承诺，旨在支持美国国防工业基础并提升电池本土生产能力。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：Sila Nanotechnologies, Inc.获得14亿美元有条件贷款承诺，直接缓解其在美国本土电池材料生产的资金压力。 可能受益：获得资金支持的Sila Nanotechnologies, Inc.以及美国国防工业基础与电池制造行业。 可能承压：本篇没有提供足以判断哪些具体企业或行业将承压的信息。 接下来观察：接下来需要核对该笔14亿美元贷款承诺的最终落地进展以及美国本土电池产能的具体建设数据。",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4566579/the-office-of-strategic-capital-signs-14-billion-conditional-loan-commitment-wi/",
+      "source": "US Defense Releases",
+      "publisher": "美国国防部",
+      "publisher_type": "官方机构",
+      "published_at": "2026-08-07T20:03:43+00:00",
+      "pick_score": 48,
+      "event_type": "market",
+      "severity": "minor",
+      "impact_axes": [
+        "待确认影响路径"
+      ],
+      "source_profile": {
+        "key": "defense",
+        "label": "U.S. Defense",
+        "authority": "U.S. Department of Defense",
+        "source_type": "国防部公告、合同和安全事件原文",
+        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "https://www.defense.gov/News/Releases/",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
+    },
+    {
       "id": "1ccfb69e4e8e6bc6c6b8",
       "title": "ANET SEC 4: PRIMARY DOCUMENT",
       "translation_label": "原文全文翻译",
@@ -680,7 +714,7 @@
       "publisher": "美国证券交易委员会（SEC）",
       "publisher_type": "官方机构",
       "published_at": "2026-08-07T21:00:00+00:00",
-      "pick_score": 55,
+      "pick_score": 54,
       "event_type": "corporate",
       "severity": "minor",
       "impact_axes": [
@@ -775,40 +809,6 @@
       "in_event_ledger": false
     },
     {
-      "id": "840226f6c2a51ef52730",
-      "title": "Office of Strategic Capital Signs $150 Million Conditional Loan Commitment With Niron Magnetics, Inc. to Scale Domestic Rare Earth-Free Magnet Production",
-      "translation_label": "原文全文翻译",
-      "translation": "战略资本办公室与 Niron Magnetics, Inc. 签署 1.5 亿美元的附条件贷款承诺，以扩大国内无稀土磁体产能。国防部战略资本办公室宣布向 Niron Magnetics, Inc. 提供 1.5 亿美元的附条件贷款承诺，用于建设该公司无稀土磁体的生产能力。",
-      "article_explanation": "美国战争部战略资本办公室宣布向 Niron Magnetics, Inc. 签署一项 1.5 亿美元的有条件贷款承诺，旨在扩大该公司的国内无稀土磁体生产能力。",
-      "summary": "美国战争部战略资本办公室宣布向 Niron Magnetics, Inc. 签署一项 1.5 亿美元的有条件贷款承诺，旨在扩大该公司的国内无稀土磁体生产能力。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：Niron Magnetics, Inc. 获得了 1.5 亿美元的有条件资金支持，直接用于建设和扩大无稀土磁体生产能力。 可能受益：Niron Magnetics, Inc. 以及国内无稀土磁体生产行业。 可能承压：本篇没有提供足以判断哪家公司或行业将因此承压的信息。 接下来观察：后续需关注 Niron Magnetics, Inc. 该笔 1.5 亿美元有条件贷款的正式落地进展以及无稀土磁体产能建设的实际推进数据。",
-      "url": "https://www.war.gov/News/Releases/Release/Article/4566567/office-of-strategic-capital-signs-150-million-conditional-loan-commitment-with/",
-      "source": "US Defense Releases",
-      "publisher": "美国国防部",
-      "publisher_type": "官方机构",
-      "published_at": "2026-08-07T19:46:00+00:00",
-      "pick_score": 48,
-      "event_type": "market",
-      "severity": "minor",
-      "impact_axes": [
-        "待确认影响路径"
-      ],
-      "source_profile": {
-        "key": "defense",
-        "label": "U.S. Defense",
-        "authority": "U.S. Department of Defense",
-        "source_type": "国防部公告、合同和安全事件原文",
-        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "https://www.defense.gov/News/Releases/",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
       "id": "6d1bb58233a7008577e6",
       "title": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
       "translation_label": "原文中文译读",
@@ -845,38 +845,38 @@
       "in_event_ledger": false
     },
     {
-      "id": "e1642f3ac9fc7423a7e7",
-      "title": "MSFT SEC 4: STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES",
+      "id": "840226f6c2a51ef52730",
+      "title": "Office of Strategic Capital Signs $150 Million Conditional Loan Commitment With Niron Magnetics, Inc. to Scale Domestic Rare Earth-Free Magnet Production",
       "translation_label": "原文全文翻译",
-      "translation": "MSFT SEC 4：证券所有权变动声明。MICROSOFT CORP (MSFT) 提交了 SEC 表格 4。提交日期：2026-08-06。表格 4 详情：2026-08-05，代码 S，以 487.893 美元的价格处置了 10,000 股（1）；变动后持有 100,447.434 股。报告日期：2026-08-05。描述：证券所有权变动声明。呈报编号：0000789019-26-000143。",
-      "article_explanation": "MICROSOFT CORP (MSFT) 向美国证券交易委员会提交了SEC Form 4持股变动声明。根据2026年8月5日的报告期，微软进行了股票处置交易，以每股487.893美元的价格出售了10,000股股份，交易完成后其持股数量变为100,447.434股。",
-      "summary": "MICROSOFT CORP (MSFT) 向美国证券交易委员会提交了SEC Form 4持股变动声明。根据2026年8月5日的报告期，微软进行了股票处置交易，以每股487.893美元的价格出售了10,000股股份，交易完成后其持股数量变为100,447.434股。",
-      "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给，但仍需要市场价格或下一份官方数据确认。",
-      "impact_interpretation": "先发生什么：本篇没有提供足以判断销量、利润或利率预期等宏观变量变化的信息。 可能受益：本篇没有提供足以判断其他公司或行业受益情况的信息。 可能承压：本篇没有提供足以判断具体谁将承压的信息。 接下来观察：接下来需观察MICROSOFT CORP (MSFT)后续的SEC Form 4申报文件以及股价在487.893美元附近的波动情况以核对持股变动。",
-      "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000143/xslF345X06/form4.xml",
-      "source": "SEC EDGAR Submissions",
-      "publisher": "美国证券交易委员会（SEC）",
+      "translation": "战略资本办公室与 Niron Magnetics, Inc. 签署 1.5 亿美元的附条件贷款承诺，以扩大国内无稀土磁体产能。国防部战略资本办公室宣布向 Niron Magnetics, Inc. 提供 1.5 亿美元的附条件贷款承诺，用于建设该公司无稀土磁体的生产能力。",
+      "article_explanation": "美国战争部战略资本办公室宣布向 Niron Magnetics, Inc. 签署一项 1.5 亿美元的有条件贷款承诺，旨在扩大该公司的国内无稀土磁体生产能力。",
+      "summary": "美国战争部战略资本办公室宣布向 Niron Magnetics, Inc. 签署一项 1.5 亿美元的有条件贷款承诺，旨在扩大该公司的国内无稀土磁体生产能力。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：Niron Magnetics, Inc. 获得了 1.5 亿美元的有条件资金支持，直接用于建设和扩大无稀土磁体生产能力。 可能受益：Niron Magnetics, Inc. 以及国内无稀土磁体生产行业。 可能承压：本篇没有提供足以判断哪家公司或行业将因此承压的信息。 接下来观察：后续需关注 Niron Magnetics, Inc. 该笔 1.5 亿美元有条件贷款的正式落地进展以及无稀土磁体产能建设的实际推进数据。",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4566567/office-of-strategic-capital-signs-150-million-conditional-loan-commitment-with/",
+      "source": "US Defense Releases",
+      "publisher": "美国国防部",
       "publisher_type": "官方机构",
-      "published_at": "2026-08-06T21:00:00+00:00",
-      "pick_score": 53,
-      "event_type": "corporate",
+      "published_at": "2026-08-07T19:46:00+00:00",
+      "pick_score": 48,
+      "event_type": "market",
       "severity": "minor",
       "impact_axes": [
-        "公司基本面/股本供给"
+        "待确认影响路径"
       ],
       "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "key": "defense",
+        "label": "U.S. Defense",
+        "authority": "U.S. Department of Defense",
+        "source_type": "国防部公告、合同和安全事件原文",
+        "evidence_role": "国防部公告、合同和安全事件原文：确认国防采购、军事通报和安全事件的官方事实。",
         "impact_axes": [
-          "公司基本面/股本供给"
+          "待确认影响路径"
         ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "canonical_url": "https://www.defense.gov/News/Releases/",
         "fetch_status": "live"
       },
-      "in_event_ledger": false
+      "in_event_ledger": true
     }
   ],
   "source_catalog": [
@@ -1212,8 +1212,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 19,
-      "latest_published_at": "2026-08-09T01:46:29+00:00",
+      "recent_items": 20,
+      "latest_published_at": "2026-08-09T06:14:43+00:00",
       "warning": null
     },
     {
@@ -1240,7 +1240,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 29,
-      "latest_published_at": "2026-08-09T00:36:19+00:00",
+      "latest_published_at": "2026-08-09T05:00:01+00:00",
       "warning": null
     },
     {
