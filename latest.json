@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:10:23.274407+00:00",
+  "generated_at": "2026-08-11T02:10:29.170051+00:00",
   "timezone": "Asia/Shanghai",
   "forecasts": [],
   "market_series": {},
@@ -21,6 +21,152 @@
   "environment": null,
   "events": [
     {
+      "event_id": "0e3b6ed7da4801127bcd",
+      "title": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
+      "summary": "Nvidia late Monday announced a partnership with seven Wall Street financial institutions designed to raise more than $500 billion of third-party capital to fund the buildout of AI infrastructure.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories",
+      "published_at": "2026-08-11T02:03:00+00:00",
+      "event_type": "technology",
+      "severity": "moderate",
+      "sentiment": 0.55,
+      "affected_tags": [
+        "ai",
+        "growth",
+        "semiconductor",
+        "tech"
+      ],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "trend_confirmation",
+      "confidence": 0.864,
+      "impact_score": 6.9,
+      "recency_weight": 0.998,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "2f81bfec13e89bea24fa",
+      "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
+      "summary": "Trump said the U.S. Navy has swept the Strait of Hormuz clear of mines and now holds \"100%\" control of the waterway. Trump also escalated his demand forreparations, arguing that Iran should compensate the U.S. The impasse leaves Washington treating its naval presence as a permanent fixture guaranteeing access, while Tehran treating that same presence as the primary obstacle to normalizing traffic. President Donald Trump said Monday the U.S. Navy had swept the Strait of Hormuz clear of mines and now holds \"100%\" control of the waterway, with reparations emerging as the latest flashpoint between Washington and Tehran. Speaking to reporters in the Oval Office, Trump said the U.S. Navy now has full control of the waterway. \"It's open now,\" he said, adding that the U.S. was \"the only one that has control of the Strait of Hormuz right now.\" He described the U.S. posture as a \"steel wall\" and said sporadic Iranian mine-laying hasn't changed that. \"They will, on occasion, drop a mine, and we find the mine,\" he said. The U.S. has maintained a naval blockade of Iranian ports since mid-April. Iranian officials have insisted that the Strait of Hormuz would remain closed until the U.S. agrees to its demands including lifting their naval blockade, while its discussions with Oman over a shipping arrangement would not lead to the waterway being fully reopened. In an attempt at turning the tables on Iran, Trump in a Truth Social post early Tuesday stateside said Tehran's demand for war-damage reimbursements gave him \"an interesting idea\" — that Iran should instead compensate the U.S. for the people killed or wounded in roadside bombings and other attacks linked to Iran, as well as Iranian protestors that he said have been killed over the past 50 years by the country's regime. Trump's reparations demand has introduced a new sticking point after Iran laid out its own conditions for reopening the strait on Saturday, a vital waterway that carried roughly a fifth of the world's oil before the war. Mohammad Bagher Zolghadr, secretary of Iran's Supreme National Security Council, said Saturday the strait won't reopen until Washington lifts its naval blockade and sanctions , withdraws American forces from the region, pays war reparations and releases frozen Iranian assets. The council also called for an end to U.S. attacks on Iran's regional allies. Trump has signaled that he was prepared to let the mounting economic distress take its toll on Iran rather than launch further military strikes. Iran's foreign ministry on Tuesday pushed back on the economic front. The spokesman Esmaeil Baqaei responded to the U.S. Treasury Secretary Scott Bessent's claims that U.S. sanctions were \"suffocating\" Iran . He said that Washington opts for sanctions whenever diplomacy fails and escalates them when they don't work — a pattern he said has become less a \"policy\" than a \"compulsive addiction.\" The impasse leaves Washington treating its naval presence as a permanent fixture guaranteeing access, while Tehran treats that same presence as the primary obstacle to normalizing traffic. Iran has insisted that it would not reopen the Strait of Hormuz as long as the U.S. continues to blockade its ports. Energy supply disruptions remain a key market concern, with tanker traffic through the strait still subdued, said Lloyd Chan, senior currency analyst at MUFG Bank in Singapore, noting that Brent prices remain way above above pre-conflict levels. While periodic flare-ups remain possible, a full-blown regional war is still not the base case, Chan added. Oil prices rallied on Monday on the hardening rhetoric, reversing a brief retreat last week. West Texas Intermediate crude for September climbed about 5% to settle near $82.13 a barrel, while Brent crude rose by a similar margin to around $87.72. Oil was slightly higher Tuesday in Asia trading.",
+      "source": "CNBC Markets",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+      "published_at": "2026-08-11T01:52:04+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.994,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "e98d6a2d63cc57ea7402",
+      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
+      "summary": "The company is looking to expand its reach in Europe and building up its backlog.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
+      "published_at": "2026-08-11T01:03:00+00:00",
+      "event_type": "corporate",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [
+        "corporate",
+        "earnings",
+        "financials"
+      ],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.979,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "公司基本面/股本供给"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
+      "event_id": "03a11148dbb3a4c319a2",
+      "title": "This is the ZIP code with the hottest housing market in the country right now",
+      "summary": "Today’s residential real-estate market is not for the weak, observes one buyer in what Realtor.com is calling America’s hottest ZIP code.",
+      "source": "MarketWatch Top Stories",
+      "source_tier": "tier1",
+      "source_weight": 0.92,
+      "url": "https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories",
+      "published_at": "2026-08-11T00:15:00+00:00",
+      "event_type": "market",
+      "severity": "minor",
+      "sentiment": 0.0,
+      "affected_tags": [],
+      "categories": [
+        "market"
+      ],
+      "forward_significance": "isolated",
+      "confidence": 0.864,
+      "impact_score": 1.84,
+      "recency_weight": 0.964,
+      "scored_for_probability": false,
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      }
+    },
+    {
       "event_id": "40893cc61863758682f7",
       "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
       "summary": "Monday - Friday, 10:00 - 11:00 SIN/HK | 0400 - 05:00 CET Several A-list U.S. celebrities have attended China premieres of their movies this year. Beijing has allowed several blockbuster titles into the country amid a trade truce. Chinese companies are also trying to release movies and entertainment abroad. Hi, this is Evelyn, writing to you from Beijing. Welcome to the latest edition of The China Connection — a snapshot of what I'm seeing and hearing from local businesses. China doesn't have any 70mm Imax screens for \"The Odyssey,\" but that hasn't stopped fans from snapping up tickets for premium screenings. Several showings were nearly sold out this weekend, and at the Beijing theater I visited Sunday, there was a rare line to get in. But is Hollywood doing enough? America's movie stars are back in China. From Timothee Chalamet selling tofu in Chengdu to Tom Holland and Zendaya enjoying sheep-themed matcha in Shanghai , Hollywood is actively courting a massive market that's tightly controlled by Beijing . Some of it's paying off. \" Spider-Man: Brand New Day \" has already broken into the 10 highest-grossing movies in China this year, according to ticketing site Maoyan. As for \"The Odyssey,\" it has already made more than $7 million in China, in just two weekends of limited screenings ahead of its official Aug. 14 release. Adding attention was an unconventional interview that went viral. Among a few local media appearances, director Christopher Nolan spoke with Yiyang Zhuge, a Boston College doctoral candidate who also hosts her own podcast. Their philosophical conversation has racked up more than 1 million views on streaming site Bilibili, and millions more on X . Zhuge claims someone from Universal reached out several weeks earlier to set up the post-premiere interview in Beijing. It contrasts with the studio's reported focus on traditional media in the U.S. A representative for Universal did not respond to a request for comment. The increased engagement comes as U.S.-China tensions have thawed this year. In the first six months, Imax screened 14 Hollywood films in mainland China, up from just two during the same period last year, filing data indicated . Not all the movies have done well. \"Marty Supreme\" and \"Devil Wears Prada 2\" both sent their leads to China but their box office struggled. \"Toy Story 5\" had only modest success . \"The box office has picked up dramatically in China in recent weeks,\" Imax CEO Richard Gelfond said on an earnings call in late July, according to a FactSet transcript. He anticipates further improvement with upcoming films \"Dune: Part Three\" and \"Avengers: Doomsday.\" The company also expects to benefit from popular Chinese series due to see new films released early next year, such as sci-fi title \"The Wandering Earth.\" But it's hard to shake off bigger changes in how consumers spend. Industry figures show China's box office plunged 40% in the first half of the year. The content flow is also no longer one-way. Two of China's three highest-grossing films domestically this year have rolled out to other parts of Asia and abroad, helped by Alibaba 's Damai Entertainment. Their overseas box office results are modest so far . But in a reminder of the Chinese studios' potential, it was just last year that Chinese animated movie \"Ne Zha 2\" beat Pixar's \"Inside Out 2\" as the top-grossing animated film worldwide , albeit largely at home. Some companies in China are going further to upend entertainment. There's the Chinese-led micro-drama trend that's overtaken Netflix in the U.S. on mobile , according to Omdia. Then there's the rise of immersive virtual reality. As artificial intelligence enables studios to create VR content more cheaply and quickly, consumers can experience new productions more frequently, creating \"the next generation of cinema,\" Ethan Tang, CEO of Metavision International, told me in Chengdu last month. Working with studios in France, Spain and Canada, the VR experience operator uses Pico or HTC headsets at designated venues in China and other countries to immerse people in 40-minute stories, set in ancient Egypt or the time of the dinosaurs. There's still a ways to go before replacing movie theaters. Tang said that across four venues, the company made $14.82 million in ticket sales in three years. But he said Metavision is already profitable. It reflects how VR may not be for the mass home market — and how cinematic experience may evolve. \"Immersive entertainment commercializes fastest when one operator controls the hardware, the environment, and the narrative all together as a single integrated experience,\" said Jialu Shan, an associate research director at the Center for Future Readiness at IMD Business School. \"One thing genuinely unique to China is the sheer scale of the large-format, location-based VR venues,\" she said, noting state policy support for such experiences. In combination with tourism, it's a trend she expects is more investable.",
@@ -39,7 +185,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.997,
+      "recency_weight": 0.941,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -73,7 +219,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.995,
+      "recency_weight": 0.939,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -112,7 +258,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.994,
+      "recency_weight": 0.938,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -147,7 +293,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.993,
+      "recency_weight": 0.937,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -182,7 +328,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.992,
+      "recency_weight": 0.936,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -224,7 +370,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.991,
+      "recency_weight": 0.935,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -259,7 +405,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.99,
+      "recency_weight": 0.934,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -297,7 +443,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.988,
+      "recency_weight": 0.933,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -331,7 +477,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.988,
+      "recency_weight": 0.933,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -341,157 +487,6 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f9077cb0345394c4fe2a",
-      "title": "Google’s AI Team Tells Job Seekers Its HR Filters Are Unreliable",
-      "summary": "Alphabet Inc.’s Google pitches its artificial intelligence tools to corporate clients as a way to more quickly sift through a mountain of job applications to find the most promising candidates. Some of its own AI researchers don’t want to rely on these tools when recruiting.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
-      "published_at": "2026-08-10T22:29:29+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.987,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8bbcb144d4b06770a1bd",
-      "title": "SEC Alleges Fund Adviser Misled Investors in Pre-IPO Schemes",
-      "summary": "Investment adviser Adit Ventures and co-founder Eric Munson were accused by the US Securities and Exchange Commission of making false claims about investments and overcharging clients with millions of dollars in undisclosed fees to buy shares of companies including SpaceX and Klarna before they were offered to the public.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
-      "published_at": "2026-08-10T22:27:20+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.986,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c8b8e52d78ba0ae2eef9",
-      "title": "Trump Media Losses Hit $238 Million as Firm Pivots to Fast Feeds",
-      "summary": "Donald Trump’s social media company posted steeper losses as it careened from a big cryptocurrency bet into a controversial new line of business selling faster access to market-moving posts from the US president.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/trump-media-losses-hit-238-million-as-firm-pivots-to-fast-feeds",
-      "published_at": "2026-08-10T22:22:45+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.985,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "287787cfd1d17410d5d2",
-      "title": "Five Takeaways From Zuckerberg's 6,500-word Manifesto on AI",
-      "summary": "Meta CEO Mark Zuckerberg touted his views on artificial intelligence in a 6,500-word essay published Monday, emphasizing his belief that wider access to AI models is key to the industry’s future. Rileyr Griffin has the five key takeaways. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/five-takeaways-from-zuckerberg-s-manifesto-on-ai-video",
-      "published_at": "2026-08-10T22:19:05+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.984,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -521,7 +516,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.98,
+      "recency_weight": 0.925,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -532,156 +527,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "48b5fa75395d0c78ebb4",
-      "title": "Oil Holds Gains, Asian Stocks Set for Muted Open: Markets Wrap",
-      "summary": "Oil held onto a rally as hopes faded for a deal to reopen the Strait of Hormuz, while Asian stocks were set for a muted start ahead of key US inflation reports.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
-      "published_at": "2026-08-10T22:08:16+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "oil"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.98,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c68719f32652917a0abd",
-      "title": "Latest Oil Market News and Analysis for Aug. 11",
-      "summary": "Oil held a three-day gain after President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the crucial Strait of Hormuz.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
-      "published_at": "2026-08-10T22:02:35+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "oil"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.978,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4ba53d9cfdd165337af0",
-      "title": "777 Partners Files Bankruptcy After Creditors’ Liquidation Push",
-      "summary": "Alternative investment firm 777 Partners has filed for bankruptcy weeks after creditors sought to liquidate what’s left of the company that began unloading its assets more than a year ago.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/777-partners-files-bankruptcy-after-creditors-liquidation-push",
-      "published_at": "2026-08-10T21:54:50+00:00",
-      "event_type": "credit",
-      "severity": "major",
-      "sentiment": -0.8,
-      "affected_tags": [
-        "broad_equity",
-        "credit",
-        "safe_haven"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "regime",
-      "confidence": 0.864,
-      "impact_score": 28.98,
-      "recency_weight": 0.976,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cd2d7e3c94e4d680fcb1",
-      "title": "Outsiders Pay $6,500 for Help With Sorority Rush",
-      "summary": "The push by young women to gain acceptance into sororities at large schools in the Deep South has led to an increase in demand for rush coaches. Bloomberg News Reporter Gabriel Baumgaertner discusses his recent story about the high price tag some parents are willing to invest to help their kids get into the sorority of their dreams. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/outsiders-pay-6-500-for-help-with-sorority-rush-video",
-      "published_at": "2026-08-10T21:45:03+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.973,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -711,7 +556,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.973,
+      "recency_weight": 0.918,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -722,120 +567,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "885868a91cdbb16d942d",
-      "title": "Trump Touts $3B in Mineral Project to Counter China",
-      "summary": "During a recent meeting with top industry executives, the US President announced $3 billion in investments aimed at strengthening the domestic critical minerals and mining sector. The initiative seeks to reduce reliance on supply chains dominated by China. Gary Evans, Chairman and CEO of US Antimony, participated in the discussion and spoke to Bloomberg News about how much he is willing to see the government invest in his firm. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/trump-touts-3b-in-mineral-project-to-counter-china-video",
-      "published_at": "2026-08-10T21:43:16+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.972,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "04a685bb50f96f32da65",
-      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
-      "summary": "The company is looking to expand its reach in Europe and building up its backlog.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
-      "published_at": "2026-08-10T21:37:00+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "corporate",
-        "earnings",
-        "financials"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.97,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4c389c52157ce6e3cb9a",
-      "title": "Wall Street thinks inflation is under control. Here’s why investors shouldn’t buy it.",
-      "summary": "Uncle Sam needs inflation, not just economic growth, to escape today’s debt crisis.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
-      "published_at": "2026-08-10T21:32:00+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "inflation",
-        "macro",
-        "rates"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.969,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -864,7 +595,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.968,
+      "recency_weight": 0.914,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -902,7 +633,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.968,
+      "recency_weight": 0.914,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -940,7 +671,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.968,
+      "recency_weight": 0.913,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -978,7 +709,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.967,
+      "recency_weight": 0.913,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1016,7 +747,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.967,
+      "recency_weight": 0.913,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1054,7 +785,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.967,
+      "recency_weight": 0.913,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1092,7 +823,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.967,
+      "recency_weight": 0.913,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1130,7 +861,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.967,
+      "recency_weight": 0.913,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1168,7 +899,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.966,
+      "recency_weight": 0.912,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1206,7 +937,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.966,
+      "recency_weight": 0.912,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1244,7 +975,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.966,
+      "recency_weight": 0.912,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1284,7 +1015,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.966,
+      "recency_weight": 0.912,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -1295,44 +1026,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c540f9198a4186fc8393",
-      "title": "Hims & Hers Lowers Profit Forecast, Shares Drop",
-      "summary": "Hims & Hers Health shares are down after the telehealth firm reduced the top end of its adjusted Ebitda forecast for the full year. Madison Muller reports on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/hims-hers-lowers-profit-forecast-shares-drop-video",
-      "published_at": "2026-08-10T21:22:55+00:00",
-      "event_type": "corporate",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "corporate",
-        "earnings",
-        "financials"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.966,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "公司基本面/股本供给"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1361,7 +1054,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.966,
+      "recency_weight": 0.911,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1373,40 +1066,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "18d6225305e2069bdf95",
-      "title": "Chicago Taps Fitch Senior Director as New CFO Amid Rash of Exits",
-      "summary": "Chicago is hiring Ashlee Gabrysch, a senior director at Fitch Ratings, as its next chief financial officer, according to a person familiar with the matter.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/chicago-taps-fitch-senior-director-as-new-cfo-amid-rash-of-exits-msnqjmd6",
-      "published_at": "2026-08-10T21:20:20+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.965,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -1433,7 +1092,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.965,
+      "recency_weight": 0.911,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1471,7 +1130,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.965,
+      "recency_weight": 0.911,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1509,7 +1168,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.965,
+      "recency_weight": 0.911,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1547,7 +1206,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.965,
+      "recency_weight": 0.91,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1585,7 +1244,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.964,
+      "recency_weight": 0.91,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1623,7 +1282,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.964,
+      "recency_weight": 0.91,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1661,7 +1320,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.964,
+      "recency_weight": 0.91,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1699,7 +1358,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.964,
+      "recency_weight": 0.909,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -1737,7 +1396,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.964,
+      "recency_weight": 0.909,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1749,40 +1408,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cbadbbf32de511955b19",
-      "title": "I looked into buying a house in Singapore as an investment. Here’s why I didn’t — despite the 2% mortgage rate.",
-      "summary": "Home-loan interest rates in Singapore are less than 2%, while in Japan they’re around 1% or even lower. That’s in stark contrast to mortgage rates in America and Australia, which are over 6% on average.",
-      "source": "MarketWatch Top Stories",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
-      "published_at": "2026-08-10T21:14:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.963,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -1809,7 +1434,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.963,
+      "recency_weight": 0.909,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1847,7 +1472,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.963,
+      "recency_weight": 0.909,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1885,7 +1510,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.963,
+      "recency_weight": 0.909,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1923,7 +1548,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.962,
+      "recency_weight": 0.908,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1961,7 +1586,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.962,
+      "recency_weight": 0.908,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -1999,7 +1624,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.962,
+      "recency_weight": 0.908,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2037,7 +1662,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.961,
+      "recency_weight": 0.907,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2075,7 +1700,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.961,
+      "recency_weight": 0.907,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2113,7 +1738,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.961,
+      "recency_weight": 0.907,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2155,7 +1780,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.961,
+      "recency_weight": 0.907,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2194,7 +1819,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2232,7 +1857,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2270,7 +1895,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.96,
+      "recency_weight": 0.906,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2308,7 +1933,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2346,7 +1971,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2358,46 +1983,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "875559c710f2e6fefca3",
-      "title": "AI Stock Heavy ETF Risks Spread to Broader Equity Market",
-      "summary": "A growing share of equity leverage is riding on the same AI names, many of which have seen historic swings.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/",
-      "published_at": "2026-08-10T21:00:23+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.959,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -2424,7 +2009,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2462,7 +2047,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2500,7 +2085,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2538,7 +2123,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2587,7 +2172,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2626,7 +2211,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.959,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2664,7 +2249,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.958,
+      "recency_weight": 0.905,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2702,7 +2287,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.958,
+      "recency_weight": 0.904,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2714,40 +2299,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3d29431b1efc14e0275c",
-      "title": "Gotham Greens CEO: Not Good To Have an Outbreak Like This",
-      "summary": "Craig Stevenson, CEO of Gotham Greens, addressed the ongoing concerns over food safety amid recent recalls linked to salmonella in jalapenos and the widespread Cyclospora outbreak affecting thousands in the U.S. He noted a temporary decline in consumer demand for greens as news of outbreaks circulates, but emphasized that consumer interest in salads remains strong. He speaks with David Gura & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/gotham-greens-ceo-not-good-to-have-outbreak-like-this-video",
-      "published_at": "2026-08-10T20:56:55+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.958,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -2774,7 +2325,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.958,
+      "recency_weight": 0.904,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2812,7 +2363,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.957,
+      "recency_weight": 0.904,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -2850,7 +2401,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.957,
+      "recency_weight": 0.903,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2884,7 +2435,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.956,
+      "recency_weight": 0.903,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -2922,7 +2473,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.956,
+      "recency_weight": 0.903,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2960,7 +2511,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.956,
+      "recency_weight": 0.902,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -2998,7 +2549,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.956,
+      "recency_weight": 0.902,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3036,7 +2587,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.956,
+      "recency_weight": 0.902,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3048,40 +2599,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "32458b1d638b97a515fd",
-      "title": "ETFs Look Safer After Bitcoin Hack, Small Caps | ETF IQ 8/10/2026",
-      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: JPMorgan Investment Management Chief ETF Strategist Jon Maier, BlackRock Head of Digital Assets Robert Mitchnick, Avantis Investors CIO Eduardo Repetto, and Raymond James Vice President of ETF Strategy Mayuranki De. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/etf-iq-8-10-2026-video",
-      "published_at": "2026-08-10T20:48:54+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.956,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3108,7 +2625,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.955,
+      "recency_weight": 0.902,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3146,7 +2663,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.955,
+      "recency_weight": 0.901,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3184,7 +2701,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.955,
+      "recency_weight": 0.901,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3222,7 +2739,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.955,
+      "recency_weight": 0.901,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3260,7 +2777,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.955,
+      "recency_weight": 0.901,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3298,7 +2815,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.954,
+      "recency_weight": 0.901,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3336,7 +2853,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.954,
+      "recency_weight": 0.901,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3374,7 +2891,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.954,
+      "recency_weight": 0.9,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3412,7 +2929,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.953,
+      "recency_weight": 0.9,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3450,7 +2967,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.953,
+      "recency_weight": 0.9,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3462,47 +2979,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "42683fb0f94bac10d58d",
-      "title": "Five Takeaways From Zuckerberg’s 6,500-Word Manifesto on AI",
-      "summary": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg touted his views on artificial intelligence in a 6,500-word essay published Monday, emphasizing his belief that wider access to AI models is key to the industry’s future.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
-      "published_at": "2026-08-10T20:40:23+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.953,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -3529,7 +3005,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.953,
+      "recency_weight": 0.899,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3567,7 +3043,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.953,
+      "recency_weight": 0.899,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3605,7 +3081,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.952,
+      "recency_weight": 0.899,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3649,7 +3125,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.952,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3688,7 +3164,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.952,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3726,7 +3202,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.952,
+      "recency_weight": 0.898,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3764,7 +3240,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.952,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3802,7 +3278,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.952,
+      "recency_weight": 0.898,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3840,7 +3316,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.952,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3878,7 +3354,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.951,
+      "recency_weight": 0.898,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -3916,7 +3392,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.951,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3954,7 +3430,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.951,
+      "recency_weight": 0.898,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -3992,7 +3468,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.951,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4030,7 +3506,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4068,7 +3544,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4106,7 +3582,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4144,7 +3620,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4182,7 +3658,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4220,7 +3696,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4258,7 +3734,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4296,7 +3772,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4334,7 +3810,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4372,7 +3848,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4410,7 +3886,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4448,7 +3924,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.95,
+      "recency_weight": 0.897,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4460,41 +3936,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "11da3424df129bbd579a",
-      "title": "Webtoon Buys $100 Million Share in Game Studio to Expand Reach",
-      "summary": "Webtoon Entertainment Inc. is buying a majority stake in a Korean gaming studio for about $100 million, in its latest push to expand a content portfolio that includes web comics, anime and gaming.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/webtoon-buys-100-million-share-in-game-studio-to-expand-reach",
-      "published_at": "2026-08-10T20:30:00+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.95,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -4521,7 +3962,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.949,
+      "recency_weight": 0.896,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4559,7 +4000,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.949,
+      "recency_weight": 0.896,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4597,7 +4038,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.949,
+      "recency_weight": 0.896,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4609,41 +4050,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "c105a389c7faf1b1b9c9",
-      "title": "OpenAI Buys Back $7 Billion of Employee Shares in Tender Offer",
-      "summary": "OpenAI has completed a deal to help employees sell roughly $7 billion worth of shares in the company ahead of a possible Wall Street debut, according to a person familiar with the matter.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/openai-buys-back-7-billion-of-employee-shares-in-tender-offer",
-      "published_at": "2026-08-10T20:26:08+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.949,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -4670,7 +4076,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.949,
+      "recency_weight": 0.895,
       "scored_for_probability": false,
       "source_profile": {
         "key": "sec-edgar",
@@ -4708,7 +4114,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.895,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4720,45 +4126,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "86e3bd2492c465e6ec8f",
-      "title": "Oil Jumps as Markets Await Middle East Clarity | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with David Gura, Isabelle Lee, Norah Mulinda and Tim Stenovec. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/oil-jumps-as-markets-await-clarity-closing-bell-video",
-      "published_at": "2026-08-10T20:25:13+00:00",
-      "event_type": "energy",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "energy",
-        "oil"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 7.36,
-      "recency_weight": 0.948,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -4785,7 +4152,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.895,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4823,7 +4190,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.895,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4861,7 +4228,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.895,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4899,7 +4266,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.895,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4937,7 +4304,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.895,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -4975,7 +4342,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.895,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5013,7 +4380,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.894,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5051,7 +4418,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.948,
+      "recency_weight": 0.894,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5089,7 +4456,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.947,
+      "recency_weight": 0.894,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5127,7 +4494,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.947,
+      "recency_weight": 0.894,
       "scored_for_probability": true,
       "source_profile": {
         "key": "sec-edgar",
@@ -5139,47 +4506,6 @@
           "公司基本面/股本供给"
         ],
         "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "3a736e366f6c8f28634f",
-      "title": "Hoenig: Upcoming Data Will Be Deciding Factor for Fed",
-      "summary": "Thomas Hoenig, Distinguished Senior Fellow at the Mercatus Center, discussed the Federal Reserve's current stance amid recent economic data. He emphasized that the Fed is maintaining a cautious, wait-and-see attitude as it awaits upcoming inflation reports, including CPI and PPI data, which will be critical for shaping future policy decisions. He speaks with David Gura & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/hoenig-upcoming-data-will-be-deciding-factor-for-fed-video",
-      "published_at": "2026-08-10T20:19:51+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "macro",
-        "rates"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.947,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
         "fetch_status": "live"
       }
     },
@@ -5202,7 +4528,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.944,
+      "recency_weight": 0.891,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5236,76 +4562,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.943,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "83a3fc5e6a6dce4417bc",
-      "title": "Gautam Adani Wins Dismissal of US Securities Fraud Charges",
-      "summary": "Gautam Adani won dismissal of US securities fraud charges, ending a blockbuster case that threatened the expansion of the Indian billionaire’s giant conglomerate.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/gautam-adani-wins-dismissal-of-us-securities-fraud-charges",
-      "published_at": "2026-08-10T19:44:24+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.936,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "cc823f9f5b56582cccbf",
-      "title": "Bart Scott on Jets’ Partnership With Outfront",
-      "summary": "Former NY Jets Linebacker Bart Scott sat down with Bloomberg's Romaine Bostick to discuss the Jets new advertising partnership with Outfront Media, the state of sports media, and Scott's future plans in the media industry. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/bart-scott-on-jets-partnership-with-outfront-video",
-      "published_at": "2026-08-10T19:32:45+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.933,
+      "recency_weight": 0.89,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5346,7 +4603,7 @@
       "forward_significance": "regime",
       "confidence": 0.864,
       "impact_score": 19.32,
-      "recency_weight": 0.931,
+      "recency_weight": 0.878,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5386,51 +4643,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.926,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "0a24341ee1267ecf4f02",
-      "title": "Investor ETF Appeal Of Photonics",
-      "summary": "Mayuranki De, vice president of ETF Trade Strategy at Raymond James, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the Roundhill Photonics & Optics ETF (ticker: LYTE), an actively managed ETF that seeks to provide capital appreciation. The Fund invests in the equity securities of companies whose core technology involves generating, manipulating, detecting, or transmitting light for various technologies, such as AI data centers, defense, medical imaging, industrial manufacturing, and quantum computing. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/investor-etf-appeal-of-photonics-video",
-      "published_at": "2026-08-10T18:53:59+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "cpo",
-        "datacenter",
-        "growth",
-        "networking",
-        "optical",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.921,
+      "recency_weight": 0.874,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5465,41 +4678,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.919,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d4a5a33463ce9cbceaa3",
-      "title": "JBS Returns Leadership to Batista Clan as Scion Named CEO",
-      "summary": "The world’s largest meat supplier, JBS NV, will be led once again by a member of Brazil’s Batista family, a pivotal move for a global food powerhouse that’s increasingly focused on the US.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/jbs-returns-leadership-to-batista-clan-as-scion-named-next-ceo",
-      "published_at": "2026-08-10T18:45:01+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.918,
+      "recency_weight": 0.867,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5517,7 +4696,7 @@
     {
       "event_id": "506561d1f53758126f75",
       "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve",
-      "summary": "OpenAI said it is expanding its Daybreak cybersecurity initiative to include two different access tiers: Daybreak Blue and Daybreak Red. The company introduced Daybreak in May as a way for its ecosystem partners to use its most advanced AI models to adapt to a rapidly changing threat landscape. OpenAI is also launching a new AI model, GPT‑5.6‑Cyber, which will be available to Daybreak Red users. OpenAI on Monday said it is expanding Daybreak , its exclusive cybersecurity initiative, to help give its participants access to the \"right capabilities\" that they need to help defend themselves from attackers. The company first introduced Daybreak in May, shortly after its chief rival Anthropic captivated Wall Street and the U.S. government by launching its own cybersecurity coalition called Project Glasswing . OpenAI positioned Daybreak as a way for its ecosystem partners to use its most advanced artificial intelligence models to adapt to a rapidly changing threat landscape . OpenAI said Monday that it is expanding the program to include two different access tiers: Daybreak Blue and Daybreak Red. The expansion follows a number of cybersecurity incidents that AI developers —including OpenAI, Anthropic and Meta — have disclosed in recent weeks . In each case, an AI model accessed systems that should have been off limits as part of cybersecurity testing, prompting industry researchers and government officials to call for stronger protections. \"As the threat landscape evolves, we're putting frontier intelligence in the hands of trusted defenders before attackers can deploy offensive AI at scale,\" OpenAI said in a post on X on Monday. Daybreak Blue will give users unique access to OpenAI's advanced general-purpose models, as the safeguards will be altered to allow for defensive security work, the company said in a blog post. Daybreak Red participants will be able to go a step further, leveraging OpenAI's \"purpose-trained cybersecurity models\" for security testing, vulnerability research and exploit validation. Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic OpenAI is also launching a new AI model, GPT‑5.6‑Cyber, which will be available to Daybreak Red users. The company said the model is built on its most powerful publicly available offering, GPT-5.6 Sol, but it's designed to improve capabilities and reduce refusals on certain specialized cybersecurity tasks. The company said it recommends Daybreak Blue as the starting point for most organizations. OpenAI has repeatedly warned about AI models' advancing cyber capabilities in recent months. The company said last week that it is pausing some internal activities involving an upcoming model called Astra, which has demonstrated \"significant advancements in agentic coding and cybersecurity\" during testing. It said it is working to assess these capabilities and implement more robust safeguards and security controls. \"We're committed to working alongside governments, safety institutes, and civil society to ensure that the frontier capabilities of models like Astra, and those that follow, are deployed responsibly and broadly for the benefit of all humanity,\" OpenAI said. WATCH: OpenAI, Anthropic agents participate in new ‘unsanctioned’ AI behavior",
+      "summary": "The company introduced Daybreak in May as a way for its ecosystem partners to use its most advanced AI models to adapt to a rapidly changing threat landscape.",
       "source": "CNBC Markets",
       "source_tier": "tier1",
       "source_weight": 0.92,
@@ -5538,7 +4717,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.918,
+      "recency_weight": 0.866,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5577,7 +4756,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 7.36,
-      "recency_weight": 0.918,
+      "recency_weight": 0.866,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5588,47 +4767,6 @@
         "impact_axes": [
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "83c313baf27f0761791b",
-      "title": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio",
-      "summary": "OpenAI is hiring a power-trading lead to help manage the expanding energy needs of the electricity-intensive data centers running its artificial intelligence models.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/openai-is-hiring-a-power-trading-lead-for-its-data-center-portfolio",
-      "published_at": "2026-08-10T18:38:13+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.916,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -5653,7 +4791,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.916,
+      "recency_weight": 0.864,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -5663,392 +4801,6 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "101c3c4772be6d11a332",
-      "title": "'Overwhelming Demand' for Crypto ETFs: Mitchnick",
-      "summary": "Robert Mitchnick, head of digital assets at BlackRock, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" Hackers have stolen more than $130 million worth of Bitcoin from thousands of supposedly secure cold wallets in recent days. The Coldcard wallet hack may strengthen the case for spot Bitcoin ETFs by undermining confidence in self-custody among investors. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/-overwhelming-demand-for-crypto-etfs-mitchnick-video",
-      "published_at": "2026-08-10T18:33:26+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.915,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4b6e63ca77fd753a204a",
-      "title": "ETFs Offer 'Trusted Vehicle' for Bitcoin: Mitchnick",
-      "summary": "Robert Mitchnick, head of digital assets at BlackRock, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" Hackers have stolen more than $130 million worth of Bitcoin from thousands of supposedly secure cold wallets in recent days. The Coldcard wallet hack may strengthen the case for spot Bitcoin ETFs by undermining confidence in self-custody among investors. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/etfs-offer-trusted-vehicle-for-bitcoin-mitchnick-video",
-      "published_at": "2026-08-10T18:23:59+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.912,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9a00200c998a4d5a1bb2",
-      "title": "Meta Brings Powerful AI to the Personal Computer",
-      "summary": "Meta is escalating the debate over open versus closed AI with Muse Glimmer, a new downloadable model designed to run on a personal computer using a single GPU. The release, accompanied by a new essay from CEO Mark Zuckerberg, underscores Meta's push for more accessible and customizable AI as low-cost open models from China intensify pressure on rivals including OpenAI and Anthropic. Bloomberg's Kurt Wagner joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/meta-brings-powerful-ai-to-the-personal-computer-video",
-      "published_at": "2026-08-10T18:13:08+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.909,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "公司基本面/产品竞争",
-          "消费电子供应链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "fff0b13e3cea04d2e82c",
-      "title": "South Park Commons Raises Ambitions for the AI Era",
-      "summary": "South Park Commons is expanding its investment strategy as AI pushes founders toward increasingly ambitious and capital-intensive ideas. Co-founder and General Partner Aditya Agarwal joins Bloomberg to discuss the firm’s “minus one to zero” approach to backing entrepreneurs before their ideas fully take shape, why its new fund will allow it to write bigger checks and invest for longer, and how early bets on founders like Cognition CEO Scott Wu are shaping its strategy. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/south-park-commons-raises-ambitions-for-the-ai-era-video",
-      "published_at": "2026-08-10T18:12:11+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.909,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "dfa88995c65b15e8042c",
-      "title": "From Coding to Finance: Microsoft’s AI Agent Push",
-      "summary": "Microsoft says AI agents are already fundamentally changing how its software engineers work — and sales, finance and other knowledge workers are next. Charles Lamanna, Microsoft EVP of Copilot, Agents and Platform, joins Bloomberg to explain how employees are shifting from doing tasks themselves to overseeing AI agents, why the company sees the technology driving more productivity rather than simply reducing headcount, and what’s behind Microsoft 365 Copilot’s surge past 30 million paid seats. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/from-coding-to-finance-microsoft-s-ai-agent-push-video",
-      "published_at": "2026-08-10T18:10:41+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.55,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "trend_confirmation",
-      "confidence": 0.864,
-      "impact_score": 6.9,
-      "recency_weight": 0.908,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "bb7208f688a6a8953512",
-      "title": "GameStop Rethinks Its eBay Play",
-      "summary": "GameStop is considering dropping its bid for eBay and pursuing a partnership instead, according to sources. Bloomberg’s Bailey Lipschultz and Spencer Soper explain how GameStop CEO Ryan Cohen could seek to leverage its 1,600 US stores to give eBay a physical retail presence - and why a partnership may prove more realistic than an outright deal. They join Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/gamestop-rethinks-its-ebay-play-video",
-      "published_at": "2026-08-10T18:01:21+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.906,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "d6ec8d37137ee81a9bfd",
-      "title": "Baillie Gifford’s McPadden Backs TSMC, SK Hynix Over China Chips",
-      "summary": "Baillie Gifford &amp; Co.’s Paulina McPadden said companies like Taiwan Semiconductor Manufacturing Co. and SK Hynix Inc. hold near-monopoly positions in advanced chip manufacturing that China will struggle to match, even as Beijing mobilizes its stock and bond market to fund its AI ambitions.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/baillie-gifford-s-mcpadden-backs-tsmc-sk-hynix-over-china-chips",
-      "published_at": "2026-08-10T17:56:34+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.904,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7153292e8bc08f80bafc",
-      "title": "Intel Raises Cash, Apple Gets Downgraded | Bloomberg Tech 8/10/2026",
-      "summary": "Bloomberg’s Ed Ludlow breaks down Intel's decision to tap the market for $15 billion in fresh capital, betting renewed AI enthusiasm can help fund its push into chips and physical AI. Plus, Apple gets a rare downgrade from Jefferies on concerns about its iPhone roadmap, and Microsoft explains how AI agents are already transforming the way software gets built. (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/bloomberg-tech-8-10-2026-video",
-      "published_at": "2026-08-10T17:54:03+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.903,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "47752cecae92362ecc23",
-      "title": "How Can China Win the AI Race Against the US?",
-      "summary": "As the US-China AI race intensifies, investors are weighing not only access to chips and capital, but which companies have competitive advantages that can endure for decades. Paulina McPadden, investment manager of International Concentrated Growth Strategy at Baillie Gifford, discusses why she “wouldn’t want to bet against China” and the durable moats she sees at TSMC, SK Hynix and ASML. She also discusses how companies like Shopify and MercadoLibre are emerging as AI beneficiaries outside the semiconductor industry. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/how-can-china-win-the-ai-race-against-the-us-video",
-      "published_at": "2026-08-10T17:48:04+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.902,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "09b26cc2ea82d8eb9fdb",
-      "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
-      "summary": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to invest $500 billion in artificial intelligence infrastructure.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
-      "published_at": "2026-08-10T16:56:57+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.887,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -6080,7 +4832,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 11.04,
-      "recency_weight": 0.883,
+      "recency_weight": 0.833,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6121,7 +4873,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 13.8,
-      "recency_weight": 0.874,
+      "recency_weight": 0.825,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6156,7 +4908,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.874,
+      "recency_weight": 0.825,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6192,7 +4944,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 2.0,
-      "recency_weight": 0.871,
+      "recency_weight": 0.822,
       "scored_for_probability": true,
       "source_profile": {
         "key": "cftc",
@@ -6226,7 +4978,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.856,
+      "recency_weight": 0.808,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6260,7 +5012,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.845,
+      "recency_weight": 0.798,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6270,46 +5022,6 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "7b187a1b251bb176b3a8",
-      "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
-      "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
-      "source": "CNBC Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
-      "published_at": "2026-08-10T14:06:08+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.84,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -6337,7 +5049,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 4.0,
-      "recency_weight": 0.838,
+      "recency_weight": 0.791,
       "scored_for_probability": true,
       "source_profile": {
         "key": "eia",
@@ -6376,7 +5088,7 @@
       "forward_significance": "trend_confirmation",
       "confidence": 0.864,
       "impact_score": 6.9,
-      "recency_weight": 0.833,
+      "recency_weight": 0.786,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6387,86 +5099,6 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "9aa9b1d01279baf05da3",
-      "title": "US Stocks End Mixed as Chipmaker Earnings, CPI Due to Set Pace",
-      "summary": "US stocks held steady through Monday’s market close after a strong earnings week as investors continue to navigate the uncertain path of interest rates and war in Iran. The market is gearing up for the final stretch of corporate earnings, with chipmakers set to provide confirmation for the long-winded debate over valuations.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/us-futures-drop-as-focus-turns-on-chipmaker-earnings-inflation",
-      "published_at": "2026-08-10T13:28:32+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.35,
-      "affected_tags": [
-        "broad_equity",
-        "corporate",
-        "dollar",
-        "earnings",
-        "financials",
-        "growth",
-        "inflation",
-        "macro",
-        "rates"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.83,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好",
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "8f58d7415558e2032d1e",
-      "title": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-      "summary": "Michael Saylor’s Strategy Inc. spent another week revising the company’s capital structure by selling more Bitcoin and common shares to bolster its cash reserve.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/strategy-sells-more-bitcoin-stock-to-bolster-cash-stockpile",
-      "published_at": "2026-08-10T13:02:43+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.823,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -6496,7 +5128,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.817,
+      "recency_weight": 0.771,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6531,7 +5163,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.81,
+      "recency_weight": 0.765,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6565,7 +5197,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.803,
+      "recency_weight": 0.758,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6599,7 +5231,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.802,
+      "recency_weight": 0.757,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6609,47 +5241,6 @@
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "4f8349fe912c5155b2fa",
-      "title": "Intel to Sell $15 Billion in Stock After AI Boosts Demand",
-      "summary": "Intel Corp. is offering $15 billion worth of new stock in what represents its first public share sale since the chipmaker listed in 1971, a bid to extend its comeback and capitalize on the AI boom.",
-      "source": "Bloomberg Technology",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
-      "published_at": "2026-08-10T11:41:05+00:00",
-      "event_type": "technology",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "ai",
-        "growth",
-        "semiconductor",
-        "tech"
-      ],
-      "categories": [
-        "market",
-        "technology"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 5.52,
-      "recency_weight": 0.802,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -6679,7 +5270,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 5.52,
-      "recency_weight": 0.792,
+      "recency_weight": 0.748,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6714,7 +5305,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.791,
+      "recency_weight": 0.747,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6748,75 +5339,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.743,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "e51bcd8b3a8ed3ebc35b",
-      "title": "Emerging Currencies Weaken as US-Iran Standoff Lifts Dollar",
-      "summary": "Most emerging-market currencies weakened against the dollar on Monday as fading hopes of an imminent US-Iran deal to reopen the Strait of Hormuz sent Brent futures prices higher.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/emerging-market-stocks-currencies-gain-after-soft-us-jobs-data",
-      "published_at": "2026-08-10T04:25:49+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.697,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      }
-    },
-    {
-      "event_id": "f9e2d14b8dc17b3a6a2b",
-      "title": "Yen Erases Half of Intervention Gains as Traders Test Bessent",
-      "summary": "The yen swung to a loss, sapping momentum from efforts by the US and Japan authorities to boost the currency.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/yen-underperforms-g-10-peers-as-intervention-boost-fades",
-      "published_at": "2026-08-10T03:26:41+00:00",
-      "event_type": "market",
-      "severity": "minor",
-      "sentiment": 0.0,
-      "affected_tags": [],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 1.84,
-      "recency_weight": 0.684,
+      "recency_weight": 0.701,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6858,7 +5381,7 @@
       "forward_significance": "isolated",
       "confidence": 0.9,
       "impact_score": 6.0,
-      "recency_weight": 0.64,
+      "recency_weight": 0.604,
       "scored_for_probability": true,
       "source_profile": {
         "key": "treasury-rates",
@@ -6872,48 +5395,6 @@
         ],
         "canonical_url": "https://home.treasury.gov/treasury-daily-interest-rate-xml-feed",
         "fetch_status": "catalog_only"
-      }
-    },
-    {
-      "event_id": "36984ca196b687a606b9",
-      "title": "Gold Nears $4,400 as Traders Weigh Hormuz Standoff, Inflation",
-      "summary": "Gold rose to nearly $4,400 an ounce as traders assessed the latest development around the Strait of Hormuz while awaiting the release of a key US inflation report later this week.",
-      "source": "Bloomberg Markets",
-      "source_tier": "tier1",
-      "source_weight": 0.92,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/gold-holds-gain-after-soft-us-jobs-data-eases-rate-hike-concerns",
-      "published_at": "2026-08-09T23:30:12+00:00",
-      "event_type": "macro",
-      "severity": "moderate",
-      "sentiment": 0.0,
-      "affected_tags": [
-        "broad_equity",
-        "dollar",
-        "growth",
-        "inflation",
-        "macro",
-        "rates"
-      ],
-      "categories": [
-        "market"
-      ],
-      "forward_significance": "isolated",
-      "confidence": 0.864,
-      "impact_score": 11.04,
-      "recency_weight": 0.634,
-      "scored_for_probability": false,
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
       }
     },
     {
@@ -6935,7 +5416,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.577,
+      "recency_weight": 0.545,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -6969,7 +5450,7 @@
       "forward_significance": "isolated",
       "confidence": 0.864,
       "impact_score": 1.84,
-      "recency_weight": 0.329,
+      "recency_weight": 0.311,
       "scored_for_probability": false,
       "source_profile": {
         "key": "professional-media",
@@ -7319,10 +5800,10 @@
       "name": "BLS Latest Numbers",
       "tier": "official",
       "enabled": true,
-      "status": "quiet",
+      "status": "warning",
       "recent_items": 0,
       "latest_published_at": null,
-      "warning": null
+      "warning": "Failed to fetch https://www.bls.gov/feed/bls_latest.rss: HTTP Error 403: Forbidden"
     },
     {
       "name": "BEA News Releases",
@@ -7346,10 +5827,10 @@
       "name": "US Defense Releases",
       "tier": "official",
       "enabled": true,
-      "status": "quiet",
+      "status": "warning",
       "recent_items": 0,
       "latest_published_at": null,
-      "warning": null
+      "warning": "Failed to fetch https://www.war.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=10: HTTP Error 403: Forbidden"
     },
     {
       "name": "CFTC General Press Releases",
@@ -7364,19 +5845,19 @@
       "name": "Bloomberg Markets",
       "tier": "tier1",
       "enabled": true,
-      "status": "ok",
-      "recent_items": 20,
-      "latest_published_at": "2026-08-10T22:27:20+00:00",
-      "warning": null
+      "status": "warning",
+      "recent_items": 0,
+      "latest_published_at": null,
+      "warning": "Failed to fetch https://feeds.bloomberg.com/markets/news.rss: <urlopen error timed out>"
     },
     {
       "name": "Bloomberg Technology",
       "tier": "tier1",
       "enabled": true,
-      "status": "ok",
-      "recent_items": 20,
-      "latest_published_at": "2026-08-10T22:29:29+00:00",
-      "warning": null
+      "status": "warning",
+      "recent_items": 0,
+      "latest_published_at": null,
+      "warning": "Failed to fetch https://feeds.bloomberg.com/technology/news.rss: <urlopen error timed out>"
     },
     {
       "name": "MarketWatch Top Stories",
@@ -7384,7 +5865,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 10,
-      "latest_published_at": "2026-08-10T22:54:00+00:00",
+      "latest_published_at": "2026-08-11T02:03:00+00:00",
       "warning": null
     },
     {
@@ -7393,7 +5874,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-08-10T23:00:14+00:00",
+      "latest_published_at": "2026-08-11T01:52:04+00:00",
       "warning": null
     },
     {
@@ -7416,6 +5897,10 @@
     }
   ],
   "warnings": [
+    "BLS Latest Numbers: Failed to fetch https://www.bls.gov/feed/bls_latest.rss: HTTP Error 403: Forbidden",
+    "US Defense Releases: Failed to fetch https://www.war.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=10: HTTP Error 403: Forbidden",
+    "Bloomberg Markets: Failed to fetch https://feeds.bloomberg.com/markets/news.rss: <urlopen error timed out>",
+    "Bloomberg Technology: Failed to fetch https://feeds.bloomberg.com/technology/news.rss: <urlopen error timed out>",
     "Source-only mode; market breadth skipped."
   ]
 }
