@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T05:10:14.137808+00:00",
-  "generated_at_local": "2026-08-12 13:10:14 北京时间",
-  "next_update_at_local": "2026-08-12 16:10:00 北京时间",
+  "generated_at": "2026-08-12T08:10:26.500521+00:00",
+  "generated_at_local": "2026-08-12 16:10:26 北京时间",
+  "next_update_at_local": "2026-08-12 19:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "01:10",
@@ -61,6 +61,42 @@
       "in_event_ledger": false
     },
     {
+      "id": "77af8d3b0d367e6e4c05",
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+      "translation_label": "原文中文译读",
+      "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
+      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-12T06:30:07+00:00",
+      "pick_score": 76,
+      "event_type": "geopolitical",
+      "severity": "major",
+      "impact_axes": [
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "acafaba02721b9ab5ae6",
       "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
       "translation_label": "原文中文译读",
@@ -74,7 +110,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-11T22:51:06+00:00",
-      "pick_score": 69,
+      "pick_score": 68,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -92,42 +128,6 @@
           "利率/美元/估值折现",
           "公司基本面/股本供给",
           "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "dcc3fdd5aa36c2616efe",
-      "title": "Oil prices rise as Red Sea, Gulf of Oman attacks heighten supply concerns",
-      "translation_label": "原文中文译读",
-      "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
-      "url": "https://www.cnbc.com/2026/08/12/oil-prices-today-wti-brent-red-sea.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T04:56:36+00:00",
-      "pick_score": 64,
-      "event_type": "geopolitical",
-      "severity": "moderate",
-      "impact_axes": [
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -184,7 +184,7 @@
       "publisher": "美国商品期货交易委员会（CFTC）",
       "publisher_type": "官方机构",
       "published_at": "2026-08-11T20:40:28+00:00",
-      "pick_score": 51,
+      "pick_score": 50,
       "event_type": "market",
       "severity": "minor",
       "impact_axes": [
@@ -218,7 +218,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-11T14:11:05+00:00",
-      "pick_score": 68,
+      "pick_score": 67,
       "event_type": "technology",
       "severity": "moderate",
       "impact_axes": [
@@ -239,6 +239,40 @@
         "fetch_status": "live"
       },
       "in_event_ledger": false
+    },
+    {
+      "id": "36f8245b8f0fb8cf331a",
+      "title": "Duration of power outages in Puerto Rico not caused by major events increased 19% in 2025",
+      "translation_label": "原文全文翻译",
+      "translation": "来源：EIA 今日能源 标题：2025年波多黎各非重大事件引起的停电持续时间增加了19% 正文： 2025年，波多黎各非重大事件引起的停电持续时间增加了19%。2025年，波多黎各的电力用户平均经历了36小时并非由飓风等重大事件引起的电力中断，比2024年增加了19%。平均而言，在2021年至2025年期间，波多黎各用户每年经历29小时的断电。相比之下，美国本土的电力用户在没有重大事件的情况下，每年通常经历大约两小时的电力中断。",
+      "article_explanation": "根据EIA Today in Energy的数据，2025年波多黎各电力客户遭遇非重大事件引起的平均断电时间达到36小时，比2024年增加了19%，显著高于2021至2025年期间每年平均29小时的水平，而美国本土客户通常每年仅断电约两小时。",
+      "summary": "根据EIA Today in Energy的数据，2025年波多黎各电力客户遭遇非重大事件引起的平均断电时间达到36小时，比2024年增加了19%，显著高于2021至2025年期间每年平均29小时的水平，而美国本土客户通常每年仅断电约两小时。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：波多黎各非重大事件引起的平均断电时间延长了19%，直接反映出当地电力供应稳定性的下降及电网运行压力的上升。 可能受益：本篇没有提供足以判断谁将受益的信息。 可能承压：波多黎各的电力客户以及当地的电力供应相关方将面临更长时间的断电压力与服务质量考验。 接下来观察：接下来需要核对波多黎各未来的电力中断时长数据、电网维护报告以及相关能源监管机构发布的统计指标。",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67926",
+      "source": "EIA Today in Energy",
+      "publisher": "美国能源信息署（EIA）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-08-10T14:00:00+00:00",
+      "pick_score": 49,
+      "event_type": "energy",
+      "severity": "minor",
+      "impact_axes": [
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "eia",
+        "label": "EIA",
+        "authority": "U.S. Energy Information Administration",
+        "source_type": "能源供需、库存与价格背景数据",
+        "evidence_role": "能源供需、库存与价格背景数据：确认能源供给、出口、库存和运输风险相关事实。",
+        "impact_axes": [
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "https://www.eia.gov/rss/todayinenergy.xml",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": true
     },
     {
       "id": "1fe6ddc4d809cb2d5956",
@@ -275,42 +309,6 @@
         "fetch_status": "live"
       },
       "in_event_ledger": true
-    },
-    {
-      "id": "aae1cbbf544a7a479632",
-      "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
-      "translation_label": "原文中文译读",
-      "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
-      "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-11T19:11:58+00:00",
-      "pick_score": 51,
-      "event_type": "energy",
-      "severity": "moderate",
-      "impact_axes": [
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
     },
     {
       "id": "80ac30cbad6fb927db73",
@@ -383,19 +381,19 @@
       "in_event_ledger": true
     },
     {
-      "id": "cbf40a0a095a3116cabf",
-      "title": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
+      "id": "831294bd97ccb762f732",
+      "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
       "translation_label": "原文中文译读",
       "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
       "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
+      "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
       "source": "CNBC Markets",
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T02:58:04+00:00",
+      "published_at": "2026-08-12T05:00:01+00:00",
       "pick_score": 51,
       "event_type": "technology",
       "severity": "moderate",
@@ -419,6 +417,40 @@
       "in_event_ledger": false
     },
     {
+      "id": "23649766084ba9f888bb",
+      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
+      "translation_label": "原文中文译读",
+      "translation": "巴基斯坦暗示美国与伊朗协议取得进展，与此同时华盛顿和德黑兰互相提出赔偿要求。尽管双方都谈到了化解地区敌对状态，但华盛顿和德黑兰的分歧依然巨大。",
+      "article_explanation": "巴基斯坦释放出美国与伊朗达成协议取得进展的信号，与此同时，华盛顿和德黑兰互相交换了赔偿要求。尽管双方均谈及缓和地区敌对状态，但华盛顿与德黑兰在立场上依然存在巨大分歧。",
+      "summary": "巴基斯坦释放出美国与伊朗达成协议取得进展的信号，与此同时，华盛顿和德黑兰互相交换了赔偿要求。尽管双方均谈及缓和地区敌对状态，但华盛顿与德黑兰在立场上依然存在巨大分歧。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足待确认影响路径的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：巴基斯坦释放调解或谈判进展信号，华盛顿与德黑兰互提赔偿要求，直接引发市场对地区局势走向及外交谈判预期的变化。 可能受益：本篇没有提供足以判断具体受益公司、行业或资产的信息。 可能承压：本篇没有提供足以判断具体承压公司、行业或资产的信息。 接下来观察：接下来用华盛顿与德黑兰后续的谈判进展、双方赔偿要求的变化以及地区敌对状态是否真正缓和等指标来确认或证伪。",
+      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-11T14:56:43+00:00",
+      "pick_score": 44,
+      "event_type": "market",
+      "severity": "minor",
+      "impact_axes": [
+        "待确认影响路径"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "b2a90b48f712c7a12f66",
       "title": "ANET SEC 4: PRIMARY DOCUMENT",
       "translation_label": "原文全文翻译",
@@ -432,7 +464,7 @@
       "publisher": "美国证券交易委员会（SEC）",
       "publisher_type": "官方机构",
       "published_at": "2026-08-10T21:00:00+00:00",
-      "pick_score": 55,
+      "pick_score": 54,
       "event_type": "corporate",
       "severity": "minor",
       "impact_axes": [
@@ -453,40 +485,6 @@
         "fetch_status": "live"
       },
       "in_event_ledger": false
-    },
-    {
-      "id": "36f8245b8f0fb8cf331a",
-      "title": "Duration of power outages in Puerto Rico not caused by major events increased 19% in 2025",
-      "translation_label": "原文全文翻译",
-      "translation": "来源：EIA 今日能源 标题：2025年波多黎各非重大事件引起的停电持续时间增加了19% 正文： 2025年，波多黎各非重大事件引起的停电持续时间增加了19%。2025年，波多黎各的电力用户平均经历了36小时并非由飓风等重大事件引起的电力中断，比2024年增加了19%。平均而言，在2021年至2025年期间，波多黎各用户每年经历29小时的断电。相比之下，美国本土的电力用户在没有重大事件的情况下，每年通常经历大约两小时的电力中断。",
-      "article_explanation": "根据EIA Today in Energy的数据，2025年波多黎各电力客户遭遇非重大事件引起的平均断电时间达到36小时，比2024年增加了19%，显著高于2021至2025年期间每年平均29小时的水平，而美国本土客户通常每年仅断电约两小时。",
-      "summary": "根据EIA Today in Energy的数据，2025年波多黎各电力客户遭遇非重大事件引起的平均断电时间达到36小时，比2024年增加了19%，显著高于2021至2025年期间每年平均29小时的水平，而美国本土客户通常每年仅断电约两小时。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：波多黎各非重大事件引起的平均断电时间延长了19%，直接反映出当地电力供应稳定性的下降及电网运行压力的上升。 可能受益：本篇没有提供足以判断谁将受益的信息。 可能承压：波多黎各的电力客户以及当地的电力供应相关方将面临更长时间的断电压力与服务质量考验。 接下来观察：接下来需要核对波多黎各未来的电力中断时长数据、电网维护报告以及相关能源监管机构发布的统计指标。",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67926",
-      "source": "EIA Today in Energy",
-      "publisher": "美国能源信息署（EIA）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-08-10T14:00:00+00:00",
-      "pick_score": 49,
-      "event_type": "energy",
-      "severity": "minor",
-      "impact_axes": [
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "eia",
-        "label": "EIA",
-        "authority": "U.S. Energy Information Administration",
-        "source_type": "能源供需、库存与价格背景数据",
-        "evidence_role": "能源供需、库存与价格背景数据：确认能源供给、出口、库存和运输风险相关事实。",
-        "impact_axes": [
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "https://www.eia.gov/rss/todayinenergy.xml",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
     },
     {
       "id": "54c349d7d00a1a597772",
@@ -525,7 +523,7 @@
       "in_event_ledger": true
     },
     {
-      "id": "b17cae4906dddb4b26b8",
+      "id": "5d54d5ef120af3d130e3",
       "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
       "translation_label": "原文中文译读",
       "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
@@ -537,7 +535,7 @@
       "source": "CNBC Markets",
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T04:51:12+00:00",
+      "published_at": "2026-08-12T07:40:42+00:00",
       "pick_score": 46,
       "event_type": "market",
       "severity": "minor",
@@ -559,19 +557,19 @@
       "in_event_ledger": false
     },
     {
-      "id": "2c2abdb55fe05bc95037",
-      "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
+      "id": "cbf40a0a095a3116cabf",
+      "title": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
       "translation_label": "原文中文译读",
-      "translation": "由于人工智能支出担忧再度浮现，Oracle的股价遭遇了下跌。一位分析师认为，围绕Oracle未来人工智能支出计划缺乏清晰度，正使投资者保持观望。",
+      "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：消息首先影响Oracle的订单、收入、利润率或资金状况，不应直接外推为整个板块都上涨或下跌。 可能受益：能把合同、融资或客户增长转化为实际收入和现金流的公司及直接供应商。 可能承压：融资成本上升、利润率被稀释或无法兑现订单的公司，以及竞争中失去份额的同业。 接下来观察：下一份财报中的收入、利润率、订单和管理层指引，并观察股价是否放量且相对同业走强或走弱。",
-      "url": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "publisher": "MarketWatch",
+      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
+      "url": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-11T20:32:00+00:00",
+      "published_at": "2026-08-12T02:58:04+00:00",
       "pick_score": 50,
       "event_type": "technology",
       "severity": "moderate",
@@ -629,41 +627,7 @@
       "in_event_ledger": true
     },
     {
-      "id": "23649766084ba9f888bb",
-      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
-      "translation_label": "原文中文译读",
-      "translation": "巴基斯坦暗示美国与伊朗协议取得进展，与此同时华盛顿和德黑兰互相提出赔偿要求。尽管双方都谈到了化解地区敌对状态，但华盛顿和德黑兰的分歧依然巨大。",
-      "article_explanation": "巴基斯坦释放出美国与伊朗达成协议取得进展的信号，与此同时，华盛顿和德黑兰互相交换了赔偿要求。尽管双方均谈及缓和地区敌对状态，但华盛顿与德黑兰在立场上依然存在巨大分歧。",
-      "summary": "巴基斯坦释放出美国与伊朗达成协议取得进展的信号，与此同时，华盛顿和德黑兰互相交换了赔偿要求。尽管双方均谈及缓和地区敌对状态，但华盛顿与德黑兰在立场上依然存在巨大分歧。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足待确认影响路径的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：巴基斯坦释放调解或谈判进展信号，华盛顿与德黑兰互提赔偿要求，直接引发市场对地区局势走向及外交谈判预期的变化。 可能受益：本篇没有提供足以判断具体受益公司、行业或资产的信息。 可能承压：本篇没有提供足以判断具体承压公司、行业或资产的信息。 接下来观察：接下来用华盛顿与德黑兰后续的谈判进展、双方赔偿要求的变化以及地区敌对状态是否真正缓和等指标来确认或证伪。",
-      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-11T14:56:43+00:00",
-      "pick_score": 45,
-      "event_type": "market",
-      "severity": "minor",
-      "impact_axes": [
-        "待确认影响路径"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "4765d9b13edb7fc05627",
+      "id": "a5c0cab7ee5cd7a4f538",
       "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
       "translation_label": "原文中文译读",
       "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
@@ -675,7 +639,7 @@
       "source": "CNBC Markets",
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T03:37:00+00:00",
+      "published_at": "2026-08-12T07:20:31+00:00",
       "pick_score": 46,
       "event_type": "market",
       "severity": "minor",
@@ -697,19 +661,19 @@
       "in_event_ledger": false
     },
     {
-      "id": "a645128f0f45dd47f538",
-      "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+      "id": "2c2abdb55fe05bc95037",
+      "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
       "translation_label": "原文中文译读",
-      "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
+      "translation": "由于人工智能支出担忧再度浮现，Oracle的股价遭遇了下跌。一位分析师认为，围绕Oracle未来人工智能支出计划缺乏清晰度，正使投资者保持观望。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
+      "impact_interpretation": "先发生什么：消息首先影响Oracle的订单、收入、利润率或资金状况，不应直接外推为整个板块都上涨或下跌。 可能受益：能把合同、融资或客户增长转化为实际收入和现金流的公司及直接供应商。 可能承压：融资成本上升、利润率被稀释或无法兑现订单的公司，以及竞争中失去份额的同业。 接下来观察：下一份财报中的收入、利润率、订单和管理层指引，并观察股价是否放量且相对同业走强或走弱。",
+      "url": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "publisher": "MarketWatch",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-11T19:41:17+00:00",
+      "published_at": "2026-08-11T20:32:00+00:00",
       "pick_score": 50,
       "event_type": "technology",
       "severity": "moderate",
@@ -780,7 +744,7 @@
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
       "published_at": "2026-08-11T22:42:10+00:00",
-      "pick_score": 46,
+      "pick_score": 45,
       "event_type": "market",
       "severity": "minor",
       "impact_axes": [
@@ -801,19 +765,19 @@
       "in_event_ledger": false
     },
     {
-      "id": "abb89bff23f49cf788e0",
-      "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
+      "id": "a645128f0f45dd47f538",
+      "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
       "translation_label": "原文中文译读",
       "translation": "本轮没有生成合格的完整中文译读，可能原因是源站限制、正文截断或翻译接口限流。卡片上方保留了英文原题与原文入口；下面的摘要与影响分析仍基于本篇内容，关键事实请以原站为准。",
       "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
       "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+      "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
       "source": "CNBC Markets",
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-11T19:08:16+00:00",
+      "published_at": "2026-08-11T19:41:17+00:00",
       "pick_score": 50,
       "event_type": "technology",
       "severity": "moderate",
@@ -869,6 +833,40 @@
         "fetch_status": "live"
       },
       "in_event_ledger": true
+    },
+    {
+      "id": "65d0b13acb4cded35680",
+      "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+      "translation_label": "原文中文译读",
+      "translation": "一位读者表示自己意外获得了一笔资金，并询问将这笔2万美元存入大额存单是否是一个明智的选择。该读者同时指出，自己希望让受益人在未来获取这笔资金的过程尽可能简便。",
+      "article_explanation": "一位获得意外之财的个人投资者正考虑将20,000美元存入存单 (CDs)，其核心诉求是希望让受益人能够尽可能简单直接地获取这笔资金。",
+      "summary": "一位获得意外之财的个人投资者正考虑将20,000美元存入存单 (CDs)，其核心诉求是希望让受益人能够尽可能简单直接地获取这笔资金。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足待确认影响路径的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：本篇没有提供足以判断具体销量、利润、利率预期、供给、价格或监管成本等直接变化的信息。 可能受益：本篇没有提供足以判断具体受益公司的信息。 可能承压：本篇没有提供足以判断具体承压对象的信息。 接下来观察：本篇没有提供足以判断具体可核对指标、时点或价格的信息。",
+      "url": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "publisher": "MarketWatch",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-11T22:30:00+00:00",
+      "pick_score": 45,
+      "event_type": "market",
+      "severity": "minor",
+      "impact_axes": [
+        "待确认影响路径"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
     }
   ],
   "source_catalog": [
@@ -1232,7 +1230,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-08-12T04:56:36+00:00",
+      "latest_published_at": "2026-08-12T07:40:42+00:00",
       "warning": null
     },
     {
