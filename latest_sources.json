@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T02:10:04.696219+00:00",
-  "generated_at_local": "2026-08-13 10:10:04 北京时间",
-  "next_update_at_local": "2026-08-13 13:10:00 北京时间",
+  "generated_at": "2026-08-13T05:10:14.934217+00:00",
+  "generated_at_local": "2026-08-13 13:10:14 北京时间",
+  "next_update_at_local": "2026-08-13 16:10:00 北京时间",
   "timezone": "Asia/Shanghai",
   "update_times": [
     "01:10",
@@ -18,10 +18,46 @@
     "official",
     "tier1"
   ],
-  "total_items": 349,
+  "total_items": 350,
   "total_official_items": 122,
-  "media_items": 227,
+  "media_items": 228,
   "items": [
+    {
+      "id": "760acd7a154ab72ee6b5",
+      "title": "India’s RBI Turns Upbeat as Worst of Iran War Shock Recedes",
+      "translation_label": "原文中文译读",
+      "translation": "印度央行对经济前景态度转为乐观，因伊朗战事带来的最糟糕冲击正在消退。在伊朗战事引发对通胀飙升和经济低迷担忧的五个月后，印度官员表现得更加自信，因为那些最糟糕的担忧目前尚未成为现实。",
+      "article_explanation": "印度储备银行在伊朗战争引发通胀飙升和经济衰退担忧五个月后态度转为乐观，因最糟糕的担忧目前尚未成真，官员们显得更有信心。",
+      "summary": "印度储备银行在伊朗战争引发通胀飙升和经济衰退担忧五个月后态度转为乐观，因最糟糕的担忧目前尚未成真，官员们显得更有信心。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：通胀飙升和经济衰退的悲观预期减弱，印度宏观经济与政策利率预期发生变化。 可能受益：本篇没有提供足以判断具体受益公司或行业的信息。 可能承压：本篇没有提供足以判断具体承压公司或行业的信息。 接下来观察：接下来用印度储备银行的官方政策声明及相关通胀和经济增长数据来确认或证伪。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/india-s-rbi-turns-upbeat-as-worst-of-iran-war-shock-recedes",
+      "source": "Bloomberg Economics",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-13T04:32:29+00:00",
+      "pick_score": 77,
+      "event_type": "geopolitical",
+      "severity": "major",
+      "impact_axes": [
+        "指数风险偏好",
+        "能源/避险/通胀预期"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "指数风险偏好",
+          "能源/避险/通胀预期"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
     {
       "id": "67f484f645bfa05482f7",
       "title": "Colombian earthquake disrupts vital coffee export route",
@@ -59,55 +95,19 @@
       "in_event_ledger": false
     },
     {
-      "id": "96114086c229a8b6663a",
-      "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
+      "id": "6e32c870ee880f1befa4",
+      "title": "Japan’s Government Is Said to Support Faster BOJ Rate Hike",
       "translation_label": "原文中文译读",
-      "translation": "随着美伊协议前景存疑，霍尔木兹海峡的船舶交通量已接近三个月来的最低水平。自2月28日美国和以色列袭击伊朗之前，霍尔木兹海峡的日均通行量约为130艘船，而目前的交通量较该水平骤降了约90%。",
-      "article_explanation": "由于美国与伊朗协议陷入停滞，霍尔木兹海峡的船舶交通量跌至三个月来的低点。该海峡目前的交通量较2月28日美以对伊朗发动袭击前的日均130艘水平下降了约90%。",
-      "summary": "由于美国与伊朗协议陷入停滞，霍尔木兹海峡的船舶交通量跌至三个月来的低点。该海峡目前的交通量较2月28日美以对伊朗发动袭击前的日均130艘水平下降了约90%。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：霍尔木兹海峡的船舶交通量大幅下降约90%，直接导致航运供给减少和地缘物流成本上升。 可能受益：本篇未提供足以判断具体受益资产或行业的信息。 可能承压：本篇未提供足以判断具体承压企业的信息，但地缘冲突下航运受阻相关方承压。 接下来观察：接下来需核对霍尔木兹海峡的日均船舶过境数量以及美伊协议的后续进展。",
-      "url": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T16:33:35+00:00",
-      "pick_score": 74,
-      "event_type": "geopolitical",
-      "severity": "major",
-      "impact_axes": [
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "7272a814a411b65f6b4d",
-      "title": "Why the Fed Is Likely to Hold Rates: TD Strategist",
-      "translation_label": "原文中文译读",
-      "translation": "TD Securities美国利率策略师Molly Brooks表示，包括温和CPI在内的近期经济数据支持美联储在近期维持利率不变，尽管未来加息的门槛依然较低。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "translation": "据知情人士透露，日本政府据称支持日本央行更快加息。首相高市早苗的政府支持日本央行在近期加息，下一次行动最快可能在9月或10月。",
+      "article_explanation": "知情人士透露，日本首相高市早苗的政府支持日本银行尽快加息，下一次加息行动最快可能在九月或十月发生，这表明日本政府对货币政策正常化的态度出现积极变化。",
+      "summary": "知情人士透露，日本首相高市早苗的政府支持日本银行尽快加息，下一次加息行动最快可能在九月或十月发生，这表明日本政府对货币政策正常化的态度出现积极变化。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/why-the-fed-is-likely-to-hold-rates-td-strategist-video",
+      "impact_interpretation": "先发生什么：日本政府支持更快加息的表态，直接推升了市场对日本银行近期加息的预期，进而可能影响日元汇率与日本国债收益率的走势。 可能受益：本篇没有提供足以判断哪些具体行业或资产将直接受益的信息。 可能承压：本篇没有提供足以判断哪些具体公司或行业将直接承压的信息。 接下来观察：接下来需要密切关注九月或十月日本银行的实际利率决议，以及日元汇率和日本国债收益率的变化来确认这一预期。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/japan-s-government-is-said-to-support-faster-boj-rate-hike",
       "source": "Bloomberg Economics",
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T00:50:45+00:00",
+      "published_at": "2026-08-13T04:45:30+00:00",
       "pick_score": 73,
       "event_type": "macro",
       "severity": "moderate",
@@ -124,6 +124,42 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "362b89d314034632490a",
+      "title": "ASUS Lifts AI Server Growth Target",
+      "translation_label": "原文中文译读",
+      "translation": "华硕上调人工智能服务器增长目标。华硕联合首席执行官许先越表示，人工智能服务器需求依然强劲，促使该公司上调了2026年的增长预期。他探讨了人工智能基础设施支出、内存短缺、供应链挑战以及人工智能服务器和个人电脑的前景。他在Insight with Haslinda Amin节目中接受了Paul Allen的独家采访。",
+      "article_explanation": "华硕联合首席执行官徐世昌表示，由于人工智能服务器需求强劲，华硕上调了2026年的增长预期，并讨论了人工智能基础设施支出、内存短缺及供应链挑战。",
+      "summary": "华硕联合首席执行官徐世昌表示，由于人工智能服务器需求强劲，华硕上调了2026年的增长预期，并讨论了人工智能基础设施支出、内存短缺及供应链挑战。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：华硕对人工智能服务器需求保持强劲的判断并上调2026年增长预期，直接反映出相关硬件制造商的业务扩张步伐加快。 可能受益：华硕及其相关的人工智能服务器产业链企业可能受益于持续增长的基础设施支出。 可能承压：内存短缺及供应链挑战可能对华硕及相关硬件厂商的产能交付和成本控制带来压力。 接下来观察：接下来需要用华硕后续公布的财务数据、出货量指标以及内存供应价格等可核对数据来进一步确认。",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video",
+      "source": "Bloomberg Technology",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-13T04:49:14+00:00",
+      "pick_score": 69,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -169,25 +205,25 @@
       "in_event_ledger": false
     },
     {
-      "id": "0ce8bdc68dc95771edae",
-      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "id": "96114086c229a8b6663a",
+      "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
       "translation_label": "原文中文译读",
-      "translation": "谷歌全新的Pixel 11将Gemini置于与苹果AI手机之战的核心。谷歌设备业务负责人里克·奥斯特洛向CNBC表示，Pixel和iPhone正在走向“截然不同的方向”，因为谷歌正全力押注其宣称在Android上独一无二的Gemini功能。奥斯特洛表示，Gemini最终可能成为人们使用手机、笔记本电脑和其他设备的主要方式。他还指出，内存短缺正推高消费电子产品价格，谷歌预计需要进一步提价。字母表公司周三发布了全新的Pixel 11智能手机系列，将迄今为止最具智能体特性的Gemini版本置于设备的核心位置，而几周后苹果预计将推出由谷歌AI模型驱动的重建版Siri。全新系列包括Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL和Pixel 11 Pro Fold。但谷歌的硬件宣传同样严重依赖Gemini Intelligence，这是一套旨在理解用户在手机上的操作并跨不同应用采取行动的人工智能功能。例如，Gemini Intelligence可以连接来自信息、日历、地图和其他谷歌服务的信息，然后建议或执行后续步骤，例如检查可用性、比较旅行选项或开始餐厅预订。谷歌还在扩展直接在手机操作系统内部运行的AI功能，而不再需要用户打开独立的聊天机器人。谷歌设备业务负责人里克·奥斯特洛在接受CNBC独家采访时表示，该公司相信AI可以从根本上改变人们与智能手机交互的方式。奥斯特洛称，在过去的10到15年里，笔记本电脑和手机的使用方式并没有发生太大变化，但他认为这种情况即将发生戏剧性的改变。他将Gemini Intelligence描述为“与计算机交互的全新方式”，利用智能体能力让用户“不仅能找到信息，还能完成工作”。这次发布也使谷歌陷入了一个不寻常的境地，即与其最大的AI客户之一直接竞争。苹果正在围绕谷歌的Gemini模型重建Siri，其许多广泛目标与谷歌现在在Pixel上展示的相同：理解个人信息、识别屏幕上发生的事情并跨应用采取行动。当被问及Pixel是否为谷歌提供了在模型到达iPhone用户之前率先展示该模型的机会时，奥斯特洛反驳了这两种体验会完全相同的说法。奥斯特洛认为，显然Pixel和iPhone正朝着截然不同的方向发展，以新技术引领潮流一直是Pixel产品战略的前沿，特别是Gemini和AI。奥斯特洛指出了诈骗检测、Rambler语音转录技术以及Gemini在Android中更深层次的集成等功能，这些能力使谷歌的体验脱颖而出。他表示，所有这些都是Android和Gemini Intelligence独有的，因此这些是人们想要体验Pixel或Android手机的原因。两家公司面临的问题是，日益强大的人工智能是否足以说服消费者购买新手机。奥斯特洛承认，人工智能还不是人们升级设备的首要原因，尽管他表示近年来它在消费者心中的地位急剧上升。人工智能高昂的建设成本使美联储对抗通胀的努力变得复杂。谷歌全新的Pixel 11将Gemini置于与AI手机大战苹果的核心。Meta和Nvidia在由中国实验室主导的开源AI竞赛中插上了“非常坚定的旗帜”。CoreWeave股价在“更干净的季度”后飙升，以下是具体情况。Counterpoint Research表示，人工智能目前在消费者升级智能手机的原因中排名第六或第七，但在其最新调查中，随着Gemini和Apple Intelligence功能变得更加强大，它已经上升了的一到两个名次。Counterpoint研究总监塔伦·帕塔克表示，引人注目的用例和更高的消费者意识将是把这种不断增长的兴趣转化为实际升级的关键。他预计Apple Intelligence将成为iPhone升级的催化剂，并指出苹果手中拥有的具备生成式AI能力的智能手机比任何其他品牌都多。谷歌最终认为Gemini将对人们使用设备的方式变得更加核心。奥斯特洛表示，他们认为它的重要性将会增长，或许有一天会成为人们使用手机、笔记本电脑和其他设备的主要方式。谷歌还在应对另一项全行业压力，即内存组件短缺推高了硬件成本。奥斯特洛向CNBC表示，内存（包括RAM内存和闪存）明显存在短缺。他指出，这种挤压正迫使消费电子公司提高价格，并暗示谷歌预计其自身设备将面临额外的定价压力。奥斯特洛认为，在短期内，每个人都需要提高价格",
-      "article_explanation": "Alphabet旗下的Google发布了全新的Pixel 11系列智能手机，包括Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL和Pixel 11 Pro Fold，并将更具自主性的Gemini Intelligence功能作为核心，以应对与Apple的AI手机竞争。Google硬件负责人Rick Osterloh表示，内存短缺正迫使消费电子产品价格上涨，Google未来可能需要进一步提高价格。",
-      "summary": "Alphabet旗下的Google发布了全新的Pixel 11系列智能手机，包括Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL和Pixel 11 Pro Fold，并将更具自主性的Gemini Intelligence功能作为核心，以应对与Apple的AI手机竞争。Google硬件负责人Rick Osterloh表示，内存短缺正迫使消费电子产品价格上涨，Google未来可能需要进一步提高价格。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：内存短缺直接推动消费电子产品价格走高，Google的AI功能嵌入系统最先改变了智能手机的交互方式。 可能受益：Google及其母公司Alphabet、搭载Gemini Intelligence的Pixel 11系列手机。 可能承压：内存短缺背景下的消费电子厂商面临成本与定价压力，同时Apple作为Gemini模型的客户也面临直接竞争压力。 接下来观察：接下来用内存短缺对成本的实际影响程度、Pixel 11系列销量以及Apple即将推出的Siri表现来确认或证伪竞争格局。",
-      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "translation": "随着美伊协议前景存疑，霍尔木兹海峡的船舶交通量已接近三个月来的最低水平。自2月28日美国和以色列袭击伊朗之前，霍尔木兹海峡的日均通行量约为130艘船，而目前的交通量较该水平骤降了约90%。",
+      "article_explanation": "由于美国与伊朗协议陷入停滞，霍尔木兹海峡的船舶交通量跌至三个月来的低点。该海峡目前的交通量较2月28日美以对伊朗发动袭击前的日均130艘水平下降了约90%。",
+      "summary": "由于美国与伊朗协议陷入停滞，霍尔木兹海峡的船舶交通量跌至三个月来的低点。该海峡目前的交通量较2月28日美以对伊朗发动袭击前的日均130艘水平下降了约90%。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：霍尔木兹海峡的船舶交通量大幅下降约90%，直接导致航运供给减少和地缘物流成本上升。 可能受益：本篇未提供足以判断具体受益资产或行业的信息。 可能承压：本篇未提供足以判断具体承压企业的信息，但地缘冲突下航运受阻相关方承压。 接下来观察：接下来需核对霍尔木兹海峡的日均船舶过境数量以及美伊协议的后续进展。",
+      "url": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
       "source": "CNBC Markets",
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T22:49:44+00:00",
-      "pick_score": 69,
-      "event_type": "technology",
-      "severity": "moderate",
+      "published_at": "2026-08-12T16:33:35+00:00",
+      "pick_score": 73,
+      "event_type": "geopolitical",
+      "severity": "major",
       "impact_axes": [
-        "利率/美元/估值折现",
-        "AI硬件/数据中心产业链"
+        "指数风险偏好",
+        "能源/避险/通胀预期"
       ],
       "source_profile": {
         "key": "professional-media",
@@ -196,8 +232,8 @@
         "source_type": "专业媒体/市场背景",
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -239,55 +275,19 @@
       "in_event_ledger": true
     },
     {
-      "id": "f441f46ff412924f5790",
-      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+      "id": "7272a814a411b65f6b4d",
+      "title": "Why the Fed Is Likely to Hold Rates: TD Strategist",
       "translation_label": "原文中文译读",
-      "translation": "沙特阿拉伯正通过地中海管道增加石油出口，以避开红海袭击。根据Kpler的数据，来自埃及地中海Sidi Kerir港口的石油出口量已经翻了一番多，这些原油大部分来自沙特阿拉伯。",
-      "article_explanation": "沙特阿拉伯通过地中海管道大幅增加石油出口，以规避红海地区的袭击。根据Kpler的数据，埃及地中海锡迪克里尔港的石油出口量已经增长了一倍以上，其中原油大部分来自沙特阿拉伯。",
-      "summary": "沙特阿拉伯通过地中海管道大幅增加石油出口，以规避红海地区的袭击。根据Kpler的数据，埃及地中海锡迪克里尔港的石油出口量已经增长了一倍以上，其中原油大部分来自沙特阿拉伯。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：埃及锡迪克里尔港的石油出口量发生直接变化，因运输路线调整而出现成倍增长，改变了部分原油的实际输送通道。 可能受益：本篇未提供足以判断具体受益公司的信息。 可能承压：本篇未提供足以判断具体承压对象的明确信息。 接下来观察：接下来主要观察红海地区的袭击动态、埃及锡迪克里尔港的石油出口量数据，以及沙特阿拉伯通过地中海管道的后续原油输送规模。",
-      "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T21:04:18+00:00",
-      "pick_score": 63,
-      "event_type": "geopolitical",
-      "severity": "moderate",
-      "impact_axes": [
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "b7d6e5511d941edf3e2e",
-      "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
-      "translation_label": "原文中文译读",
-      "translation": "随着美联储加息预期和通胀概率方向转变，黄金价格经历了剧烈波动。今年早些时候创下每盎司5000美元以上的历史新高后，金价在2026年大幅震荡。上周，贵金属与白银迎来了数月来的最佳表现。温和的通胀数据和美联储加息概率的下降推动了这波反弹，但黄金交易的短期波动可能仍将持续。根据Goldprice.org的数据，2026年黄金一直是个很难把握时机的交易品种，曾从今年早些时候创下的超过5300美元的10年高点一度下跌多达18%。不过，上周是该贵金属自1月以来表现最好的一周，而黄金矿业股则迎来了2008年以来最火热的五天连涨。由于黄金交易的波动使其年初至今的收益率接近持平，一些人押持图表方向将继续向上。但前方仍存在潜在风险。毕竟，即便经历了近期的剧烈波动，金价在过去一年中仍然上涨了1000美元以上。前总统乔治·W·布什的特别助理、国家经济委员会成员Pippa Malmgren表示，黄金已成为新的黄金。Malmgren指出，吸引投资者流向黄金的因素并未改变。许多人担心美国的财政支出失控，且其他地区的经济增长将表现疲软。Malmgren认为，这意味着通胀的到来。她补充称，特朗普政府对昂贵海外战争的追求以及对加密货币的拥抱，都加剧了部分投资者的不安。这使得神经紧绷的投资者转向诸如购买黄金等保守的价值保值手段。与此同时，全球央行正在扩大黄金持仓，在以中国持续购金为首的带领下，这进一步释放了对法定货币失去信心的信号。Hartford投资管理公司创始人兼执行合伙人Patrick Kennedy表示，央行从未停止买入。中国央行在7月增持了19.9吨黄金，创下2023年10月以来单月最大增量，也是其连续第21个月增持。亿万富翁对冲基金经理John Paulson也持这种乐观态度，他近期向CNBC表示，黄金正处于长期牛市的初期阶段，并列举了对纸币失去信心以及政府支出失控的原因。世界黄金协会高级市场策略师Joe Cavatoni表示，尽管历史上恐惧一直是淘金热心理的驱动力，但他认为美国投资者近期的反弹更多是一种机会主义交易。Cavatoni指出，黄金近期的反弹似乎更多是由对利率和经济预期改变驱动，而非单纯出于恐惧。特别是就业方面出现疲软迹象，市场反应迅速。随着投资者调整对利率的展望，黄金正按预期对高度宏观敏感的资产做出反应。Cavatoni表示，他感觉驱动这一行情的美国资金流更具战术性，因为我们看到了GLD期权活动的增加，而来自亚洲和欧洲的买盘往往更具粘性，他指的是流入SPDR黄金ETF（GLD）的资金，这两个地区的投资者都在增加持仓。随着最新通胀数据被市场视为温和，美联储加息预期下降，黄金相对于其他对利率敏感的资产以及疲软美元的吸引力通常会增加。Cavatoni表示，不应简单将黄金视为避险资产，许多投资者正将其用作财富保值工具，以及在增长和政策不确定性持续的背景下帮助分散投资组合的手段。Kennedy表示，近期流入ETF达到六周新高的资金属于专业资金，而不仅仅是散户追涨。GLD在周三上涨了约1%. 英国金银实物交易商Solomon Global的特约分析师Nick Cawley表示，甚至在最新通胀数据发布之前，加息预期就在下降，过去一周下降了20个百分点以上。他指出，这表明市场对美国进一步加息变得更加谨慎，并提到了近期温和的通胀趋势以及上周五疲软的非农就业报告。Kennedy表示，其公司的观点是，上半年黄金遭抛售是一个买入机会，而不是见顶信号。他提到他们在7月技术底部买入并增持了费率更低的GLDM。但他也指出，加息预期下降并不等同于美联储准备降息。这还不是一笔降息交易，至少目前还不是。美联储今年全年的利率都停留在3.50%至3.75%，而9月在直到",
-      "article_explanation": "2026年黄金价格经历剧烈波动，曾在年初创下每盎司超过5,000美元甚至5,300美元的10年高点，随后一度下跌高达18%。由于通胀数据温和及美联储加息概率下降，黄金与白银在上周迎来数月最佳表现，金矿股创下2008年以来最强五日连涨。美国财政支出失控、全球央行（如中国人民银行7月增持19.9吨）持续购金及利率预期变化支撑了金价。",
-      "summary": "2026年黄金价格经历剧烈波动，曾在年初创下每盎司超过5,000美元甚至5,300美元的10年高点，随后一度下跌高达18%。由于通胀数据温和及美联储加息概率下降，黄金与白银在上周迎来数月最佳表现，金矿股创下2008年以来最强五日连涨。美国财政支出失控、全球央行（如中国人民银行7月增持19.9吨）持续购金及利率预期变化支撑了金价。",
+      "translation": "TD Securities美国利率策略师Molly Brooks表示，包括温和CPI在内的近期经济数据支持美联储在近期维持利率不变，尽管未来加息的门槛依然较低。",
+      "article_explanation": "道明证券美国利率策略师Molly Brooks表示，近期包括温和消费者价格指数（CPI）在内的经济数据支持美联储在近期维持利率不变，尽管未来加息的门槛依然较低。",
+      "summary": "道明证券美国利率策略师Molly Brooks表示，近期包括温和消费者价格指数（CPI）在内的经济数据支持美联储在近期维持利率不变，尽管未来加息的门槛依然较低。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：黄金与白银价格在上周迎来显著反弹，金矿股出现强势连涨，短期交易的波动性仍然存在，利率预期与通胀数据变化直接推动了市场交易方向的调整。 可能受益：黄金、白银、金矿股，以及持续扩大黄金持仓的全球央行（包括中国人民银行）。 可能承压：本篇未提供足以判断具体承压实体的充分信息。 接下来观察：接下来用美国通胀数据、美联储加息概率、就业市场的走势、黄金交易图表的后续方向，以及中国人民银行等全球央行的黄金增持数据来确认或证伪。",
-      "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
+      "impact_interpretation": "先发生什么：温和的消费者价格指数（CPI）及相关经济数据直接支持美联储短期内维持利率不变的决策，传导路径为经济数据回落降低了近期加息的紧迫性。 可能受益：对利率变动敏感的固定收益资产、道明证券等机构的研究观察方向，以及受益于利率预期的相关金融板块。 可能承压：未来加息门槛依然较低的预期，可能对依赖持续降息周期的资产估值造成潜在压制。 接下来观察：后续公布的美国消费者价格指数（CPI）等关键经济数据以及美联储的利率决议与表态。",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/why-the-fed-is-likely-to-hold-rates-td-strategist-video",
+      "source": "Bloomberg Economics",
+      "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T23:41:02+00:00",
+      "published_at": "2026-08-13T00:50:45+00:00",
       "pick_score": 72,
       "event_type": "macro",
       "severity": "moderate",
@@ -311,20 +311,56 @@
       "in_event_ledger": false
     },
     {
+      "id": "0ce8bdc68dc95771edae",
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "translation_label": "原文中文译读",
+      "translation": "谷歌全新的Pixel 11将Gemini置于与苹果AI手机之战的核心。谷歌设备业务负责人里克·奥斯特洛向CNBC表示，Pixel和iPhone正在走向“截然不同的方向”，因为谷歌正全力押注其宣称在Android上独一无二的Gemini功能。奥斯特洛表示，Gemini最终可能成为人们使用手机、笔记本电脑和其他设备的主要方式。他还指出，内存短缺正推高消费电子产品价格，谷歌预计需要进一步提价。字母表公司周三发布了全新的Pixel 11智能手机系列，将迄今为止最具智能体特性的Gemini版本置于设备的核心位置，而几周后苹果预计将推出由谷歌AI模型驱动的重建版Siri。全新系列包括Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL和Pixel 11 Pro Fold。但谷歌的硬件宣传同样严重依赖Gemini Intelligence，这是一套旨在理解用户在手机上的操作并跨不同应用采取行动的人工智能功能。例如，Gemini Intelligence可以连接来自信息、日历、地图和其他谷歌服务的信息，然后建议或执行后续步骤，例如检查可用性、比较旅行选项或开始餐厅预订。谷歌还在扩展直接在手机操作系统内部运行的AI功能，而不再需要用户打开独立的聊天机器人。谷歌设备业务负责人里克·奥斯特洛在接受CNBC独家采访时表示，该公司相信AI可以从根本上改变人们与智能手机交互的方式。奥斯特洛称，在过去的10到15年里，笔记本电脑和手机的使用方式并没有发生太大变化，但他认为这种情况即将发生戏剧性的改变。他将Gemini Intelligence描述为“与计算机交互的全新方式”，利用智能体能力让用户“不仅能找到信息，还能完成工作”。这次发布也使谷歌陷入了一个不寻常的境地，即与其最大的AI客户之一直接竞争。苹果正在围绕谷歌的Gemini模型重建Siri，其许多广泛目标与谷歌现在在Pixel上展示的相同：理解个人信息、识别屏幕上发生的事情并跨应用采取行动。当被问及Pixel是否为谷歌提供了在模型到达iPhone用户之前率先展示该模型的机会时，奥斯特洛反驳了这两种体验会完全相同的说法。奥斯特洛认为，显然Pixel和iPhone正朝着截然不同的方向发展，以新技术引领潮流一直是Pixel产品战略的前沿，特别是Gemini和AI。奥斯特洛指出了诈骗检测、Rambler语音转录技术以及Gemini在Android中更深层次的集成等功能，这些能力使谷歌的体验脱颖而出。他表示，所有这些都是Android和Gemini Intelligence独有的，因此这些是人们想要体验Pixel或Android手机的原因。两家公司面临的问题是，日益强大的人工智能是否足以说服消费者购买新手机。奥斯特洛承认，人工智能还不是人们升级设备的首要原因，尽管他表示近年来它在消费者心中的地位急剧上升。人工智能高昂的建设成本使美联储对抗通胀的努力变得复杂。谷歌全新的Pixel 11将Gemini置于与AI手机大战苹果的核心。Meta和Nvidia在由中国实验室主导的开源AI竞赛中插上了“非常坚定的旗帜”。CoreWeave股价在“更干净的季度”后飙升，以下是具体情况。Counterpoint Research表示，人工智能目前在消费者升级智能手机的原因中排名第六或第七，但在其最新调查中，随着Gemini和Apple Intelligence功能变得更加强大，它已经上升了的一到两个名次。Counterpoint研究总监塔伦·帕塔克表示，引人注目的用例和更高的消费者意识将是把这种不断增长的兴趣转化为实际升级的关键。他预计Apple Intelligence将成为iPhone升级的催化剂，并指出苹果手中拥有的具备生成式AI能力的智能手机比任何其他品牌都多。谷歌最终认为Gemini将对人们使用设备的方式变得更加核心。奥斯特洛表示，他们认为它的重要性将会增长，或许有一天会成为人们使用手机、笔记本电脑和其他设备的主要方式。谷歌还在应对另一项全行业压力，即内存组件短缺推高了硬件成本。奥斯特洛向CNBC表示，内存（包括RAM内存和闪存）明显存在短缺。他指出，这种挤压正迫使消费电子公司提高价格，并暗示谷歌预计其自身设备将面临额外的定价压力。奥斯特洛认为，在短期内，每个人都需要提高价格",
+      "article_explanation": "Alphabet旗下的Google发布了全新的Pixel 11系列智能手机，包括Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL和Pixel 11 Pro Fold，并将更具自主性的Gemini Intelligence功能作为核心，以应对与Apple的AI手机竞争。Google硬件负责人Rick Osterloh表示，内存短缺正迫使消费电子产品价格上涨，Google未来可能需要进一步提高价格。",
+      "summary": "Alphabet旗下的Google发布了全新的Pixel 11系列智能手机，包括Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL和Pixel 11 Pro Fold，并将更具自主性的Gemini Intelligence功能作为核心，以应对与Apple的AI手机竞争。Google硬件负责人Rick Osterloh表示，内存短缺正迫使消费电子产品价格上涨，Google未来可能需要进一步提高价格。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：内存短缺直接推动消费电子产品价格走高，Google的AI功能嵌入系统最先改变了智能手机的交互方式。 可能受益：Google及其母公司Alphabet、搭载Gemini Intelligence的Pixel 11系列手机。 可能承压：内存短缺背景下的消费电子厂商面临成本与定价压力，同时Apple作为Gemini模型的客户也面临直接竞争压力。 接下来观察：接下来用内存短缺对成本的实际影响程度、Pixel 11系列销量以及Apple即将推出的Siri表现来确认或证伪竞争格局。",
+      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-12T22:49:44+00:00",
+      "pick_score": 69,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "ca396eea87eccaf4f0be",
       "title": "COHR SEC 8-K: 8-K",
       "translation_label": "原文全文翻译",
       "translation": "COHR SEC 8-K: 8-K. COHERENT CORP. (COHR)提交了美国证券交易委员会(SEC)表8-K。提交日期：2026-08-12。8-K第2.02项：运营结果和财务状况。2026年8月12日，Coherent Corp.（以下简称“公司”）发布了一份新闻稿，报告其截至2026年6月30日的2026财年第四季度财务业绩，该新闻稿的副本作为附件99.1在此附上，并通过引用併入本文件。该信息在。报告日期：2026-08-12。8-K项目：2.02, 7.01, 9.01。描述：8-K。备案编号：0001193125-26-346860。",
-      "article_explanation": "COHR提交8-K，事项编号为2.02,7.01,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
-      "summary": "COHR提交8-K，事项编号为2.02,7.01,9.01.；正文未提取到足够事实，不能笼统称为利好或利空。 8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。",
+      "article_explanation": "Coherent Corp. (COHR) 于2026年8月12日向美国证监会（SEC）提交了8-K表格，披露了其截至2026年6月30日的2026财年第四季度财务状况与运营结果。",
+      "summary": "Coherent Corp. (COHR) 于2026年8月12日向美国证监会（SEC）提交了8-K表格，披露了其截至2026年6月30日的2026财年第四季度财务状况与运营结果。",
       "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给、AI硬件/数据中心产业链，但仍需要市场价格或下一份官方数据确认。",
-      "impact_interpretation": "先发生什么：8-K可能涵盖财务结果、管理层、融资或其他事项；只有明确事项正文才能定向。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：事项编号和正文；2.02常对应业绩，5.02常对应管理层，8.01为其他事项。",
+      "impact_interpretation": "先发生什么：公司正式发布2026财年第四季度财务业绩与运营状况，直接向市场披露了最新的经营数据和财务状况。 可能受益：Coherent Corp. (COHR) 的管理层、股东以及跟踪该公司的投资者和分析师可以直接获取其最新财报数据。 可能承压：本篇没有提供足以判断具体经营压力或业绩好坏的信息。 接下来观察：Coherent Corp. (COHR) 8-K表格中附件99.1所披露的具体季度营收、利润及后续财务指引数据。",
       "url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526346860/d128030d8k.htm",
       "source": "SEC EDGAR Submissions",
       "publisher": "美国证券交易委员会（SEC）",
       "publisher_type": "官方机构",
       "published_at": "2026-08-12T21:00:00+00:00",
-      "pick_score": 61,
+      "pick_score": 60,
       "event_type": "corporate",
       "severity": "moderate",
       "impact_axes": [
@@ -347,25 +383,25 @@
       "in_event_ledger": true
     },
     {
-      "id": "3adb09d255d0cc655080",
-      "title": "Pivotal Advisors CEO Affirms Long-Term Confidence in AI Amid Growing Investor Scrutiny",
+      "id": "78defe8196e69e4d662f",
+      "title": "Trump Reverts to Economic Squeeze of Iranian Regime",
       "translation_label": "原文中文译读",
-      "translation": "Pivotal Advisors的CEO兼CIO Tiffany McGhee在一档金融新闻直播节目中，表达了对人工智能行业的长期坚信。在承认人工智能技术的快速演进与变革潜力的同时，她强调市场正从最初的兴奋和巨额支出，转向对实际财务回报（包括营收和现金流）的更加严格的评估。她与Romaine Bostick和Isabelle Lee一同做客The Close节目。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-12/pivotal-advisors-ceo-affirms-long-term-confidence-in-ai-video",
-      "source": "Bloomberg Technology",
+      "translation": "特朗普重新对伊朗政权实施经济施压。由于美军针对伊朗的军事行动未能迫使该政权屈服，特朗普政府正依靠经济制裁和海军封锁来扼杀石油出口。彭博社的Onur Ant解释了其中的挑战，一些人认为该政权根基深厚，制裁不太可能说服伊朗放弃其核计划。",
+      "article_explanation": "特朗普政府对伊朗政权重新采取经济施压策略，因美国军事行动未能迫使其屈服，现通过经济制裁和海军封锁来扼杀石油出口。彭博社的 Onur Ant 指出，由于该政权根基深厚，外界认为制裁很难迫使伊朗放弃核计划。",
+      "summary": "特朗普政府对伊朗政权重新采取经济施压策略，因美国军事行动未能迫使其屈服，现通过经济制裁和海军封锁来扼杀石油出口。彭博社的 Onur Ant 指出，由于该政权根基深厚，外界认为制裁很难迫使伊朗放弃核计划。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：美国对伊朗实施海军封锁和经济制裁，直接导致伊朗的石油出口遭到严重限制和扼杀。 可能受益：本篇没有提供足以判断哪些具体公司、行业或资产将从中受益的信息。 可能承压：伊朗政权的石油出口及相关经济领域直接承受制裁带来的严厉压力。 接下来观察：接下来需要观察伊朗石油出口量的实际变化数据以及核计划相关动向，以确认制裁的实际效力。",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/trump-reverts-to-economic-squeeze-of-iranian-regime-video",
+      "source": "Bloomberg Markets",
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T20:24:11+00:00",
-      "pick_score": 69,
-      "event_type": "technology",
+      "published_at": "2026-08-13T04:36:19+00:00",
+      "pick_score": 64,
+      "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
-        "利率/美元/估值折现",
-        "AI硬件/数据中心产业链"
+        "指数风险偏好",
+        "能源/避险/通胀预期"
       ],
       "source_profile": {
         "key": "professional-media",
@@ -374,8 +410,8 @@
         "source_type": "专业媒体/市场背景",
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -417,56 +453,20 @@
       "in_event_ledger": true
     },
     {
-      "id": "aa2b694fd91696365589",
-      "title": "Oil rises on worries over supply disruptions as spill near Oman worsens",
+      "id": "b7d6e5511d941edf3e2e",
+      "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
       "translation_label": "原文中文译读",
-      "translation": "由于阿曼附近原油泄漏恶化，对供应中断的担忧推高油价。据报道，阿曼海岸线正受到漏油油轮造成的巨幅原油泄漏的影响。阿曼湾和红海针对船只的致命袭击，使市场对供应中断的担忧再度升级。国际能源署表示，今年全球石油需求降幅预计将超过此前预期。周四油价上涨，原因是近期阿曼湾和红海发生了针对船只的致命袭击事件，且阿曼附近的漏油事故持续蔓延。10月交割的国际基准布伦特原油期货上涨1.01%，至每桶88.09美元；美国WTI原油8月期货上涨1.15%，至每桶82.31美元。据路透社报道，阿曼海岸线据称已开始受到巨幅漏油事件的影响，肇事漏油油轮于6月30日搁浅，船上载有估计80万桶受国际制裁的俄罗斯原油。报道称，漏油地点靠近一个自然保护区，区内栖息着阿拉伯海座头鲸和索科特拉鸬鹚等野生动物。与此同时，国际能源署周三表示，在霍尔木兹海峡关闭的负面影响不断加深的大背景下，今年全球石油需求降幅预计将超过此前预期。国际能源署指出，新一轮冲突和海上运输中断正在破坏增加全球石油供应的努力。7月份的供应量同比仍减少了630万桶/日。此外，阿曼湾和红海针对船只的致命袭击，令市场对供应中断的担忧更上一层楼。尽管有迹象表明重新开放霍尔木兹海峡的外交努力仍在进行，但持续了五个多月的战争仍在继续扰乱能源流向。Exness高级市场策略师Christopher Tahir表示，由于缺乏关于该水道是否能完全重新开放的明朗预期，在市场供应仍然紧张之际，油价可能面临上行风险，并补充称任何进一步的挫折都可能推高油价。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：冲突或运输受阻会先推高原油和避险溢价；若高油价持续，会再推高通胀并压低降息概率。 可能受益：美国上游油气生产商、部分油服公司、黄金及受益于能源安全支出的企业。 可能承压：航空、运输、化工、餐饮零售等燃料或物流成本敏感行业，以及受更高利率压制的成长股。 接下来观察：WTI与布伦特、霍尔木兹和红海运输量、VIX及美元。若油价和避险资产不跟随，事件影响应快速降级。",
-      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T01:59:06+00:00",
-      "pick_score": 62,
-      "event_type": "energy",
-      "severity": "moderate",
-      "impact_axes": [
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "2297f3813f7abba3f92a",
-      "title": "Here's the inflation breakdown for July 2026 — in one chart",
-      "translation_label": "原文中文译读",
-      "translation": "经济学家表示，消费者的成本依然居高不下，但通胀正呈现出一些缓和的迹象。",
-      "article_explanation": "CNBC Markets报道了2026年7月的通胀细分情况。经济学家指出，消费者面临的成本依然处于高位，不过通胀已经出现了一些放缓的迹象。",
-      "summary": "CNBC Markets报道了2026年7月的通胀细分情况。经济学家指出，消费者面临的成本依然处于高位，不过通胀已经出现了一些放缓的迹象。",
+      "translation": "随着美联储加息预期和通胀概率方向转变，黄金价格经历了剧烈波动。今年早些时候创下每盎司5000美元以上的历史新高后，金价在2026年大幅震荡。上周，贵金属与白银迎来了数月来的最佳表现。温和的通胀数据和美联储加息概率的下降推动了这波反弹，但黄金交易的短期波动可能仍将持续。根据Goldprice.org的数据，2026年黄金一直是个很难把握时机的交易品种，曾从今年早些时候创下的超过5300美元的10年高点一度下跌多达18%。不过，上周是该贵金属自1月以来表现最好的一周，而黄金矿业股则迎来了2008年以来最火热的五天连涨。由于黄金交易的波动使其年初至今的收益率接近持平，一些人押持图表方向将继续向上。但前方仍存在潜在风险。毕竟，即便经历了近期的剧烈波动，金价在过去一年中仍然上涨了1000美元以上。前总统乔治·W·布什的特别助理、国家经济委员会成员Pippa Malmgren表示，黄金已成为新的黄金。Malmgren指出，吸引投资者流向黄金的因素并未改变。许多人担心美国的财政支出失控，且其他地区的经济增长将表现疲软。Malmgren认为，这意味着通胀的到来。她补充称，特朗普政府对昂贵海外战争的追求以及对加密货币的拥抱，都加剧了部分投资者的不安。这使得神经紧绷的投资者转向诸如购买黄金等保守的价值保值手段。与此同时，全球央行正在扩大黄金持仓，在以中国持续购金为首的带领下，这进一步释放了对法定货币失去信心的信号。Hartford投资管理公司创始人兼执行合伙人Patrick Kennedy表示，央行从未停止买入。中国央行在7月增持了19.9吨黄金，创下2023年10月以来单月最大增量，也是其连续第21个月增持。亿万富翁对冲基金经理John Paulson也持这种乐观态度，他近期向CNBC表示，黄金正处于长期牛市的初期阶段，并列举了对纸币失去信心以及政府支出失控的原因。世界黄金协会高级市场策略师Joe Cavatoni表示，尽管历史上恐惧一直是淘金热心理的驱动力，但他认为美国投资者近期的反弹更多是一种机会主义交易。Cavatoni指出，黄金近期的反弹似乎更多是由对利率和经济预期改变驱动，而非单纯出于恐惧。特别是就业方面出现疲软迹象，市场反应迅速。随着投资者调整对利率的展望，黄金正按预期对高度宏观敏感的资产做出反应。Cavatoni表示，他感觉驱动这一行情的美国资金流更具战术性，因为我们看到了GLD期权活动的增加，而来自亚洲和欧洲的买盘往往更具粘性，他指的是流入SPDR黄金ETF（GLD）的资金，这两个地区的投资者都在增加持仓。随着最新通胀数据被市场视为温和，美联储加息预期下降，黄金相对于其他对利率敏感的资产以及疲软美元的吸引力通常会增加。Cavatoni表示，不应简单将黄金视为避险资产，许多投资者正将其用作财富保值工具，以及在增长和政策不确定性持续的背景下帮助分散投资组合的手段。Kennedy表示，近期流入ETF达到六周新高的资金属于专业资金，而不仅仅是散户追涨。GLD在周三上涨了约1%. 英国金银实物交易商Solomon Global的特约分析师Nick Cawley表示，甚至在最新通胀数据发布之前，加息预期就在下降，过去一周下降了20个百分点以上。他指出，这表明市场对美国进一步加息变得更加谨慎，并提到了近期温和的通胀趋势以及上周五疲软的非农就业报告。Kennedy表示，其公司的观点是，上半年黄金遭抛售是一个买入机会，而不是见顶信号。他提到他们在7月技术底部买入并增持了费率更低的GLDM。但他也指出，加息预期下降并不等同于美联储准备降息。这还不是一笔降息交易，至少目前还不是。美联储今年全年的利率都停留在3.50%至3.75%，而9月在直到",
+      "article_explanation": "2026年黄金价格经历剧烈波动，曾在年初创下每盎司超过5,000美元甚至5,300美元的10年高点，随后一度下跌高达18%。由于通胀数据温和及美联储加息概率下降，黄金与白银在上周迎来数月最佳表现，金矿股创下2008年以来最强五日连涨。美国财政支出失控、全球央行（如中国人民银行7月增持19.9吨）持续购金及利率预期变化支撑了金价。",
+      "summary": "2026年黄金价格经历剧烈波动，曾在年初创下每盎司超过5,000美元甚至5,300美元的10年高点，随后一度下跌高达18%。由于通胀数据温和及美联储加息概率下降，黄金与白银在上周迎来数月最佳表现，金矿股创下2008年以来最强五日连涨。美国财政支出失控、全球央行（如中国人民银行7月增持19.9吨）持续购金及利率预期变化支撑了金价。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：根据本篇事实，消费者面临的成本保持高位，同时通胀出现放缓迹象，这直接改变了市场对当前物价走势与通胀降温进度的预期。 可能受益：本篇没有提供足以判断哪些具体公司、行业或资产能够受益的信息。 可能承压：本篇没有提供足以判断哪些具体公司、行业或资产将承压的信息。 接下来观察：接下来需要观察2026年7月通胀细分图表中的各项具体物价指数数据，以确认通胀放缓的迹象是否持续。",
-      "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
+      "impact_interpretation": "先发生什么：黄金与白银价格在上周迎来显著反弹，金矿股出现强势连涨，短期交易的波动性仍然存在，利率预期与通胀数据变化直接推动了市场交易方向的调整。 可能受益：黄金、白银、金矿股，以及持续扩大黄金持仓的全球央行（包括中国人民银行）。 可能承压：本篇未提供足以判断具体承压实体的充分信息。 接下来观察：接下来用美国通胀数据、美联储加息概率、就业市场的走势、黄金交易图表的后续方向，以及中国人民银行等全球央行的黄金增持数据来确认或证伪。",
+      "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
       "source": "CNBC Markets",
       "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T17:51:16+00:00",
-      "pick_score": 65,
+      "published_at": "2026-08-12T23:41:02+00:00",
+      "pick_score": 72,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -482,6 +482,42 @@
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "3adb09d255d0cc655080",
+      "title": "Pivotal Advisors CEO Affirms Long-Term Confidence in AI Amid Growing Investor Scrutiny",
+      "translation_label": "原文中文译读",
+      "translation": "Pivotal Advisors的CEO兼CIO Tiffany McGhee在一档金融新闻直播节目中，表达了对人工智能行业的长期坚信。在承认人工智能技术的快速演进与变革潜力的同时，她强调市场正从最初的兴奋和巨额支出，转向对实际财务回报（包括营收和现金流）的更加严格的评估。她与Romaine Bostick和Isabelle Lee一同做客The Close节目。",
+      "article_explanation": "Pivotal Advisors 首席执行官兼首席投资官 Tiffany McGhee 在一档直播财经节目中表示，尽管投资者审查日益严格且市场正从重金投入转向评估实际财务回报，但她对人工智能行业仍保持坚定的长期信心。",
+      "summary": "Pivotal Advisors 首席执行官兼首席投资官 Tiffany McGhee 在一档直播财经节目中表示，尽管投资者审查日益严格且市场正从重金投入转向评估实际财务回报，但她对人工智能行业仍保持坚定的长期信心。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：市场投资者的审查收紧，直接推动市场情绪从初期兴奋和重金投入转向对实际营收和现金流等财务回报的严格评估。 可能受益：Pivotal Advisors 以及能够证明自身具备真实财务回报和现金流的人工智能行业相关企业和板块。 可能承压：缺乏实际财务回报、过度依赖初期概念炒作的人工智能相关企业或项目将面临更大的市场审查压力。 接下来观察：接下来用人工智能相关企业的季度营收、现金流数据以及投资者对 AI 板块的资本开支态度来验证市场评估的转变。",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/pivotal-advisors-ceo-affirms-long-term-confidence-in-ai-video",
+      "source": "Bloomberg Technology",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-12T20:24:11+00:00",
+      "pick_score": 68,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -525,25 +561,25 @@
       "in_event_ledger": true
     },
     {
-      "id": "f941c7f0f20b4dfdf4ab",
-      "title": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+      "id": "2aa02a0f5ad073b67613",
+      "title": "Russian ghost fleet tankers use ‘Mad Max’ nets to fend off Ukraine’s drones",
       "translation_label": "原文中文译读",
-      "translation": "CoreWeave正在看到市场对六年期Nvidia芯片的强劲需求，这有助于为当前的所有人工智能资本支出提供合理性证明。",
-      "article_explanation": "CoreWeave反击了人工智能交易中的一个关键看空观点，显示出市场对六年前Nvidia芯片的强劲需求，从而帮助证明了当前人工智能资本支出的合理性。",
-      "summary": "CoreWeave反击了人工智能交易中的一个关键看空观点，显示出市场对六年前Nvidia芯片的强劲需求，从而帮助证明了当前人工智能资本支出的合理性。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：根据本篇事实，对六年前Nvidia芯片的强劲需求，直接支撑了当前人工智能领域的资本支出合理性，缓解了市场对AI投资回报的担忧。 可能受益：按本篇事实，CoreWeave以及数据中心股票可能受益于这种强劲需求与资本支出的正向逻辑。 可能承压：本篇没有提供足以判断哪些具体公司、行业或资产将承压的信息。 接下来观察：接下来用CoreWeave的业务订单数据、数据中心股票表现以及人工智能资本支出回报相关指标来确认或证伪。",
-      "url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
+      "translation": "俄罗斯影子舰队的油轮开始使用疯狂麦克斯风格的防护网来抵御乌克兰的无人机。这些受到制裁的船舶上的防御设施旨在防范乌克兰大规模的海上无人机行动。",
+      "article_explanation": "俄罗斯的影子舰队油轮开始在船只上加装被称为“疯狂麦克斯”的防护网，以防范乌克兰的大规模海上无人机袭击，保护这些处于制裁之下的船只。",
+      "summary": "俄罗斯的影子舰队油轮开始在船只上加装被称为“疯狂麦克斯”的防护网，以防范乌克兰的大规模海上无人机袭击，保护这些处于制裁之下的船只。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：受无人机袭击威胁及防护网加装动作影响，相关被制裁油轮的航行安全和物理防护成本发生变化。 可能受益：本篇没有提供足以判断具体受益者的信息。 可能承压：乌克兰的海上无人机行动面临这些防护网带来的拦截压力。 接下来观察：接下来可核对俄罗斯影子舰队油轮的受损情况以及乌克兰海上无人机战术的调整。",
+      "url": "https://www.ft.com/content/f2f2a881-1d4d-47db-a7d9-c6c50ee29a6a?syn-25a6b1a6=1",
+      "source": "Financial Times Technology",
+      "publisher": "Financial Times 金融时报",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T20:16:05+00:00",
-      "pick_score": 69,
-      "event_type": "technology",
+      "published_at": "2026-08-13T04:00:23+00:00",
+      "pick_score": 63,
+      "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
-        "利率/美元/估值折现",
-        "AI硬件/数据中心产业链"
+        "指数风险偏好",
+        "能源/避险/通胀预期"
       ],
       "source_profile": {
         "key": "professional-media",
@@ -552,8 +588,8 @@
         "source_type": "专业媒体/市场背景",
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -595,56 +631,20 @@
       "in_event_ledger": true
     },
     {
-      "id": "e298738e858454a6679f",
-      "title": "FirstFT: Vance asked Ukraine to halt strikes on tankers",
+      "id": "ddce51e868c2849b0425",
+      "title": "Stocks and Bonds Rise as Fed Rate-Hike Bets Ease: Markets Wrap",
       "translation_label": "原文中文译读",
-      "translation": "在今天出版的金融时报全球经济栏目晨报FirstFT中，头条报道指出，Vance曾要求乌克兰停止对油轮的打击。今天的简报内容还包括，一名温和派民主党人在威斯康星州的选举中获胜，以及美国银行承诺向美国基础设施项目投入2500亿美元。",
-      "article_explanation": "美国副总统候选人万斯要求乌克兰停止对油轮的打击。同日新闻显示，威斯康星州温和派民主党人赢得选举，美国银行承诺向美国基础设施项目注资2500亿美元。",
-      "summary": "美国副总统候选人万斯要求乌克兰停止对油轮的打击。同日新闻显示，威斯康星州温和派民主党人赢得选举，美国银行承诺向美国基础设施项目注资2500亿美元。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：乌克兰对油轮的打击行动若暂停，相关海域的运输安全预期将直接发生变化，供应链扰动风险下降。 可能受益：乌克兰及相关航运和石油运输资产，以及受益于美国基础设施项目的相关行业。 可能承压：受油轮打击影响相关的地缘政治冲突方及高风险航运费率。 接下来观察：乌克兰对油轮袭击的实际动向、威斯康星州选举后续政局变化以及美国银行基础设施资金的实际落地进度。",
-      "url": "https://www.ft.com/content/7cd5f1c5-1097-4bd4-bd00-8006759da28d?syn-25a6b1a6=1",
-      "source": "Financial Times Global Economy",
-      "publisher": "Financial Times 金融时报",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T09:59:31+00:00",
-      "pick_score": 62,
-      "event_type": "geopolitical",
-      "severity": "moderate",
-      "impact_axes": [
-        "指数风险偏好",
-        "能源/避险/通胀预期"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "指数风险偏好",
-          "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "0bdaed9da9c59375a2df",
-      "title": "US Core Inflation Comes in Subdued, Easing Pressure on Fed",
-      "translation_label": "原文中文译读",
-      "translation": "美国核心通胀率表现温和，缓解了美联储的压力。7月份美国潜在通胀率较为温和，这可能减轻了美联储加息的压力。",
-      "article_explanation": "美国七月核心通胀数据表现温和，这可能减轻联邦储备委员会加息的压力。本篇报道聚焦于这一通胀指标的具体表现及其对美联储货币政策方向的潜在缓和作用，未涉及其他具体公司或数字。",
-      "summary": "美国七月核心通胀数据表现温和，这可能减轻联邦储备委员会加息的压力。本篇报道聚焦于这一通胀指标的具体表现及其对美联储货币政策方向的潜在缓和作用，未涉及其他具体公司或数字。",
+      "translation": "由于对美联储加息的押顶降温，全球股票和债券价格双双上涨。温和的美国通胀报告缓解了市场对美联储即将加息的担忧，推动全球股市向纪录高位攀升，债券涨势进一步扩大。与此同时，布伦特原油终结了此前的六连涨。",
+      "article_explanation": "由于温和的美国通胀报告缓解了市场对美联储即将加息的担忧，全球股市向纪录高位攀升，债券延续涨势，同时布伦特原油结束了六天连涨。",
+      "summary": "由于温和的美国通胀报告缓解了市场对美联储即将加息的担忧，全球股市向纪录高位攀升，债券延续涨势，同时布伦特原油结束了六天连涨。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：美国核心通胀数据表现温和，最先发生变化的是市场对联邦储备委员会进一步加息的紧迫性预期，传导链第一步是降低了加息概率。 可能受益：本篇没有提供足以判断具体受益公司、行业或资产的信息。 可能承压：本篇没有提供足以判断具体承压对象的信息。 接下来观察：接下来用联邦储备委员会官员讲话、后续的美国消费者物价指数等通货膨胀相关数据来确认或证伪。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-core-inflation-was-subdued-in-july-easing-pressure-on-fed",
-      "source": "Bloomberg Economics",
+      "impact_interpretation": "先发生什么：受美国通胀报告和美联储加息预期降温影响，全球股票和债券价格上涨，布伦特原油价格结束连涨。 可能受益：全球股市和债券资产受益于加息预期降温。 可能承压：布伦特原油及相关能源资产承压结束连涨。 接下来观察：接下来用美国通胀数据、美联储利率决议及布伦特原油价格走势来确认或证伪。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T12:31:43+00:00",
-      "pick_score": 65,
+      "published_at": "2026-08-12T22:08:18+00:00",
+      "pick_score": 72,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -667,14 +667,50 @@
       "in_event_ledger": false
     },
     {
+      "id": "f941c7f0f20b4dfdf4ab",
+      "title": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+      "translation_label": "原文中文译读",
+      "translation": "CoreWeave正在看到市场对六年期Nvidia芯片的强劲需求，这有助于为当前的所有人工智能资本支出提供合理性证明。",
+      "article_explanation": "CoreWeave反击了人工智能交易中的一个关键看空观点，显示出市场对六年前Nvidia芯片的强劲需求，从而帮助证明了当前人工智能资本支出的合理性。",
+      "summary": "CoreWeave反击了人工智能交易中的一个关键看空观点，显示出市场对六年前Nvidia芯片的强劲需求，从而帮助证明了当前人工智能资本支出的合理性。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：根据本篇事实，对六年前Nvidia芯片的强劲需求，直接支撑了当前人工智能领域的资本支出合理性，缓解了市场对AI投资回报的担忧。 可能受益：按本篇事实，CoreWeave以及数据中心股票可能受益于这种强劲需求与资本支出的正向逻辑。 可能承压：本篇没有提供足以判断哪些具体公司、行业或资产将承压的信息。 接下来观察：接下来用CoreWeave的业务订单数据、数据中心股票表现以及人工智能资本支出回报相关指标来确认或证伪。",
+      "url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-12T20:16:05+00:00",
+      "pick_score": 68,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
       "id": "cbdb159fbc589029ada2",
       "title": "WDC SEC 4: PRIMARY DOCUMENT",
       "translation_label": "原文全文翻译",
       "translation": "WDC SEC 4: PRIMARY DOCUMENT。WESTERN DIGITAL CORP (WDC)提交了SEC表4。申报日期：2026-08-12。表4详情：2026年08月11日代码S处置2,478股，价格为$441.4838（2）；随后持有593,488股；2026年08月11日代码S处置989股，价格为$442.2155（3）；随后持有592,499股；2026年08月11日代码S处置1,840股，价格为$443.3465（4）；随后持有590,659股；2026年08月11日代码S处置1,880股，价格为$444.6745（5）；随后持有588,779股。报告日期：2026-08-11。描述：PRIMARY DOCUMENT。访问编号：0001266824-26-000166。",
-      "article_explanation": "WDC披露内部人持股变动。首笔已解析交易为代码S，处置2,478股，价格$441.4838 (2)。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
-      "summary": "WDC披露内部人持股变动。首笔已解析交易为代码S，处置2,478股，价格$441.4838 (2)。 文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。",
+      "article_explanation": "2026年8月12日，西部数据公司（WESTERN DIGITAL CORP）披露了SEC Form 4文件。根据报告，相关主体于2026年8月11日通过多次代码S交易处置了公司股票，包括以441.4838美元抛售2,478股、以442.2155美元抛售989股、以443.3465美元抛售1,840股及以444.6745美元抛售1,880股，交易后持股数量最终变更为588,779股。",
+      "summary": "2026年8月12日，西部数据公司（WESTERN DIGITAL CORP）披露了SEC Form 4文件。根据报告，相关主体于2026年8月11日通过多次代码S交易处置了公司股票，包括以441.4838美元抛售2,478股、以442.2155美元抛售989股、以443.3465美元抛售1,840股及以444.6745美元抛售1,880股，交易后持股数量最终变更为588,779股。",
       "selection_reason": "这是一条可追溯到SEC EDGAR的原始事实，可能影响公司基本面/股本供给、AI硬件/数据中心产业链，但仍需要市场价格或下一份官方数据确认。",
-      "impact_interpretation": "先发生什么：文件包含代码S的公开市场卖出，需结合卖出股数、持股比例和是否连续卖出判断压力。 可能受益：只有文件明确显示经营改善、主动买入或融资用途有利时，相关公司才可能受益；当前不能仅凭文件标题判断。 可能承压：新增股份供给、公开市场减持、盈利恶化或融资成本上升会压制相关公司，但必须先核对表格中的数量和交易性质。 接下来观察：交易代码P/S、成交金额、交易后持股，以及是否连续多次发生。",
+      "impact_interpretation": "先发生什么：根据本篇事实，最先发生变化的是WESTERN DIGITAL CORP相关主体的持股数量与持股结构，直接减少了特定数量的流通股票并完成了多笔公开的市场出售。 可能受益：本篇没有提供足以判断哪些具体公司、行业或资产能够直接受益的信息。 可能承压：本篇没有提供足以判断哪些具体主体将直接承压的信息，仅记录了WESTERN DIGITAL CORP相关主体的股票处置行为。 接下来观察：接下来需要核对WESTERN DIGITAL CORP后续的SEC Form 4持股变动报告，以及相关的股票交易价格与持股数量变化数据来确认或证伪。",
       "url": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000166/xslF345X06/edgardoc.xml",
       "source": "SEC EDGAR Submissions",
       "publisher": "美国证券交易委员会（SEC）",
@@ -703,25 +739,25 @@
       "in_event_ledger": false
     },
     {
-      "id": "26f9ca75269b73b7d515",
-      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+      "id": "f441f46ff412924f5790",
+      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
       "translation_label": "原文中文译读",
-      "translation": "华尔街巨头与Nvidia合作达成5000亿美元的AI融资交易。Apollo、Blackstone和Goldman Sachs等机构正与这家芯片制造商合作，为数据中心热潮筹集资金。",
-      "article_explanation": "华尔街巨头Apollo、Blackstone和Goldman Sachs与芯片制造商Nvidia合作，推进一项规模达5000亿美元的人工智能融资交易，为数据中心热潮筹集资金。",
-      "summary": "华尔街巨头Apollo、Blackstone和Goldman Sachs与芯片制造商Nvidia合作，推进一项规模达5000亿美元的人工智能融资交易，为数据中心热潮筹集资金。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：人工智能数据中心建设的资本供给规模显著扩大，融资渠道得到拓宽。 可能受益：Nvidia以及参与合作的Apollo、Blackstone和Goldman Sachs等金融机构。 可能承压：本篇没有提供足以判断谁将承压的信息。 接下来观察：接下来用实际筹集到的资本规模、数据中心项目落地进展以及相关财报数据来确认。",
-      "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-      "source": "Financial Times Technology",
-      "publisher": "Financial Times 金融时报",
+      "translation": "沙特阿拉伯正通过地中海管道增加石油出口，以避开红海袭击。根据Kpler的数据，来自埃及地中海Sidi Kerir港口的石油出口量已经翻了一番多，这些原油大部分来自沙特阿拉伯。",
+      "article_explanation": "沙特阿拉伯通过地中海管道大幅增加石油出口，以规避红海地区的袭击。根据Kpler的数据，埃及地中海锡迪克里尔港的石油出口量已经增长了一倍以上，其中原油大部分来自沙特阿拉伯。",
+      "summary": "沙特阿拉伯通过地中海管道大幅增加石油出口，以规避红海地区的袭击。根据Kpler的数据，埃及地中海锡迪克里尔港的石油出口量已经增长了一倍以上，其中原油大部分来自沙特阿拉伯。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：埃及锡迪克里尔港的石油出口量发生直接变化，因运输路线调整而出现成倍增长，改变了部分原油的实际输送通道。 可能受益：本篇未提供足以判断具体受益公司的信息。 可能承压：本篇未提供足以判断具体承压对象的明确信息。 接下来观察：接下来主要观察红海地区的袭击动态、埃及锡迪克里尔港的石油出口量数据，以及沙特阿拉伯通过地中海管道的后续原油输送规模。",
+      "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-10T21:42:54+00:00",
-      "pick_score": 65,
-      "event_type": "technology",
+      "published_at": "2026-08-12T21:04:18+00:00",
+      "pick_score": 63,
+      "event_type": "geopolitical",
       "severity": "moderate",
       "impact_axes": [
-        "利率/美元/估值折现",
-        "AI硬件/数据中心产业链"
+        "指数风险偏好",
+        "能源/避险/通胀预期"
       ],
       "source_profile": {
         "key": "professional-media",
@@ -730,8 +766,8 @@
         "source_type": "专业媒体/市场背景",
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
+          "指数风险偏好",
+          "能源/避险/通胀预期"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -773,19 +809,127 @@
       "in_event_ledger": false
     },
     {
-      "id": "16ce1f8ff88c196239fc",
-      "title": "Russian Economy Returns to Growth Despite Ukraine Drone Strikes",
+      "id": "2297f3813f7abba3f92a",
+      "title": "Here's the inflation breakdown for July 2026 — in one chart",
       "translation_label": "原文中文译读",
-      "translation": "尽管面临乌克兰无人机袭击，俄罗斯经济恢复增长。在经历了三年来的首次萎缩之后，俄罗斯经济在第二季度恢复了增长，但乌克兰在该国腹地不断升级的无人机袭击浪潮威胁到这一脆弱的复苏。",
-      "article_explanation": "俄罗斯经济在经历三年来首次萎缩后于第二季度恢复增长，但乌克兰对其境内不断升级的无人机袭击浪潮，正威胁着这一脆弱的经济复苏进程。",
-      "summary": "俄罗斯经济在经历三年来首次萎缩后于第二季度恢复增长，但乌克兰对其境内不断升级的无人机袭击浪潮，正威胁着这一脆弱的经济复苏进程。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：乌克兰对俄罗斯境内的无人机袭击升级，直接威胁到俄罗斯经济刚恢复的增长势头，可能对国内生产供给和基础设施造成破坏。 可能受益：本篇没有提供足以判断具体受益行业或资产的信息。 可能承压：俄罗斯国内经济及相关产业面临乌克兰无人机袭击带来的破坏压力，复苏进程承压。 接下来观察：接下来需核对俄罗斯后续的季度GDP增长率数据、工业产出指标以及乌克兰无人机袭击的频率与受损规模来验证经济复苏是否被中断。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/russian-economy-poised-to-resume-growth-despite-drone-strikes",
-      "source": "Bloomberg Economics",
+      "translation": "经济学家表示，消费者的成本依然居高不下，但通胀正呈现出一些缓和的迹象。",
+      "article_explanation": "CNBC Markets报道了2026年7月的通胀细分情况。经济学家指出，消费者面临的成本依然处于高位，不过通胀已经出现了一些放缓的迹象。",
+      "summary": "CNBC Markets报道了2026年7月的通胀细分情况。经济学家指出，消费者面临的成本依然处于高位，不过通胀已经出现了一些放缓的迹象。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：根据本篇事实，消费者面临的成本保持高位，同时通胀出现放缓迹象，这直接改变了市场对当前物价走势与通胀降温进度的预期。 可能受益：本篇没有提供足以判断哪些具体公司、行业或资产能够受益的信息。 可能承压：本篇没有提供足以判断哪些具体公司、行业或资产将承压的信息。 接下来观察：接下来需要观察2026年7月通胀细分图表中的各项具体物价指数数据，以确认通胀放缓的迹象是否持续。",
+      "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
+      "source": "CNBC Markets",
+      "publisher": "CNBC",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-12T17:51:16+00:00",
+      "pick_score": 65,
+      "event_type": "macro",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "3a48b2d5a295f302f68c",
+      "title": "Wealth managers cut fees to win AI’s paper millionaires",
+      "translation_label": "原文中文译读",
+      "translation": "财富管理机构纷纷下调费率，以争取人工智能带来的纸面百万富翁。Anthropic和OpenAI等公司拥有大量股权的技术人员的崛起，正在将谈判筹码交到客户手中。",
+      "article_explanation": "财富管理机构正在通过降低费率来争夺人工智能领域造就的纸面百万富翁。Anthropic和OpenAI等公司中持有大量股权的技术员工的崛起，正在将谈判筹码逐渐转移到这些客户手中，改变了传统财富管理市场的竞争态势。",
+      "summary": "财富管理机构正在通过降低费率来争夺人工智能领域造就的纸面百万富翁。Anthropic和OpenAI等公司中持有大量股权的技术员工的崛起，正在将谈判筹码逐渐转移到这些客户手中，改变了传统财富管理市场的竞争态势。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：根据本篇事实，最先发生变化的是财富管理机构收取的服务费率，因客户谈判能力的增强而出现下调。 可能受益：本篇明确提及的Anthropic和OpenAI中的股权丰富技术员工（即纸面百万富翁）可能受益于更低的财富管理费率。 可能承压：本篇没有提供足以判断哪些具体机构或资产承压的详细财务数据，仅指出财富管理机构在费率上面临来自客户的谈判压力。 接下来观察：接下来用财富管理行业的平均费率变动数据、Anthropic和OpenAI员工的资产管理规模以及相关财富管理机构的营收报告来确认或证伪这一趋势。",
+      "url": "https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1",
+      "source": "Financial Times Technology",
+      "publisher": "Financial Times 金融时报",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-13T04:00:04+00:00",
+      "pick_score": 68,
+      "event_type": "technology",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "AI硬件/数据中心产业链"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "AI硬件/数据中心产业链"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "cdbdbcc87c9fdd6ddc52",
+      "title": "Fed Rate-Hike Bets Ease on Tame CPI; Tech Shares Rally | The Asia Trade 8/13/2026",
+      "translation_label": "原文中文译读",
+      "translation": "温和的消费者物价指数令美联储加息押注降温，科技股全线反弹。亚洲交易时段报道为您带来亚洲交易日开始前所需掌握的所有关键信息。彭博电视台从东京和悉尼进行现场直播，由Shery Ahn和Haidi Stroud-Watts主持，并邀请新闻人物和行业领袖就塑造全球市场的重大新闻提供见解与分析。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：消息首先影响Fed Rate-Hike Bets的订单、收入、利润率或资金状况，不应直接外推为整个板块都上涨或下跌。 可能受益：能把合同、融资或客户增长转化为实际收入和现金流的公司及直接供应商。 可能承压：融资成本上升、利润率被稀释或无法兑现订单的公司，以及竞争中失去份额的同业。 接下来观察：下一份财报中的收入、利润率、订单和管理层指引，并观察股价是否放量且相对同业走强或走弱。",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/the-asia-trade-8-13-2026-video",
+      "source": "Bloomberg Technology",
       "publisher": "Bloomberg 彭博社",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T07:15:00+00:00",
+      "published_at": "2026-08-13T04:24:01+00:00",
+      "pick_score": 54,
+      "event_type": "macro",
+      "severity": "moderate",
+      "impact_axes": [
+        "利率/美元/估值折现",
+        "指数风险偏好"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "利率/美元/估值折现",
+          "指数风险偏好"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "e298738e858454a6679f",
+      "title": "FirstFT: Vance asked Ukraine to halt strikes on tankers",
+      "translation_label": "原文中文译读",
+      "translation": "在今天出版的金融时报全球经济栏目晨报FirstFT中，头条报道指出，Vance曾要求乌克兰停止对油轮的打击。今天的简报内容还包括，一名温和派民主党人在威斯康星州的选举中获胜，以及美国银行承诺向美国基础设施项目投入2500亿美元。",
+      "article_explanation": "美国副总统候选人万斯要求乌克兰停止对油轮的打击。同日新闻显示，威斯康星州温和派民主党人赢得选举，美国银行承诺向美国基础设施项目注资2500亿美元。",
+      "summary": "美国副总统候选人万斯要求乌克兰停止对油轮的打击。同日新闻显示，威斯康星州温和派民主党人赢得选举，美国银行承诺向美国基础设施项目注资2500亿美元。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足指数风险偏好、能源/避险/通胀预期的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：乌克兰对油轮的打击行动若暂停，相关海域的运输安全预期将直接发生变化，供应链扰动风险下降。 可能受益：乌克兰及相关航运和石油运输资产，以及受益于美国基础设施项目的相关行业。 可能承压：受油轮打击影响相关的地缘政治冲突方及高风险航运费率。 接下来观察：乌克兰对油轮袭击的实际动向、威斯康星州选举后续政局变化以及美国银行基础设施资金的实际落地进度。",
+      "url": "https://www.ft.com/content/7cd5f1c5-1097-4bd4-bd00-8006759da28d?syn-25a6b1a6=1",
+      "source": "Financial Times Global Economy",
+      "publisher": "Financial Times 金融时报",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-12T09:59:31+00:00",
       "pick_score": 61,
       "event_type": "geopolitical",
       "severity": "moderate",
@@ -809,20 +953,54 @@
       "in_event_ledger": false
     },
     {
-      "id": "beeb161b7b5016fbb4fd",
-      "title": "Major Economic Indicators Latest Numbers",
-      "translation_label": "原文全文翻译",
-      "translation": "主要经济指标最新数据。消费者价格指数（CPI）：2026年7月上涨0.1% 新闻稿 历史数据。失业率：2026年7月为4.1% 新闻稿 历史数据。非农就业人数：2026年7月减少23,000人（初步数据） 新闻稿 历史数据。平均每小时工资：2026年7月增加0.02美元（初步数据） 新闻稿 历史数据。生产者价格指数 - 最终需求：2026年6月下降0.3%（初步数据） 新闻稿 历史数据。就业成本指数（ECI）：2026年第二季度上涨0.9% 新闻稿 历史数据。生产率：2026年第二季度上涨1.4% 新闻稿 历史数据。美国进口价格指数：2026年6月上涨0.3% 新闻稿 历史数据。美国出口价格指数：2026年6月下降0.6% 新闻稿 历史数据。p代表初步数据。",
-      "article_explanation": "美国劳工统计局公布了2026年最新宏观经济指标：7月消费价格指数CPI上涨0.1%，失业率为4.1%，非农就业人口减少23,000人，平均每小时工资增加0.02美元；6月生产者价格指数PPI下降0.3%，进口价格指数上涨0.3%，出口价格指数下降0.6%；2026年第二季度就业成本指数上涨0.9%，生产率增长1.4%。",
-      "summary": "美国劳工统计局公布了2026年最新宏观经济指标：7月消费价格指数CPI上涨0.1%，失业率为4.1%，非农就业人口减少23,000人，平均每小时工资增加0.02美元；6月生产者价格指数PPI下降0.3%，进口价格指数上涨0.3%，出口价格指数下降0.6%；2026年第二季度就业成本指数上涨0.9%，生产率增长1.4%。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：非农就业人口减少23,000人及失业率录得4.1%，直接反映出美国劳动力市场供给与需求关系发生阶段性变化，传导至薪资及通胀压力指标。 可能受益：本篇没有提供足以判断具体受益资产或行业的充分信息。 可能承压：本篇没有提供足以判断具体承压企业或行业的充分信息。 接下来观察：接下来需要核对后续月份的消费价格指数CPI、生产者价格指数PPI以及非农就业人数等官方修正数据来进一步确认。",
-      "url": "https://www.bls.gov/bls/",
-      "source": "BLS Latest Numbers",
-      "publisher": "美国劳工统计局（BLS）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-08-12T12:30:24+00:00",
-      "pick_score": 59,
+      "id": "31156bc7c82ed705c9e0",
+      "title": "Bank of Korea Makes First Gold-Linked Investment in 13 Years",
+      "translation_label": "原文中文译读",
+      "translation": "韩国银行进行了13年来的首次黄金相关投资。韩国央行13年来首次买入黄金相关资产，加入全球储备管理机构的行列，转向投资这种贵金属，以此作为对冲地缘政治和经济不确定性的工具。",
+      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释黄金、白银与实际利率之间的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "summary": "这是一篇专业财经媒体报道，核心是在解释黄金、白银与实际利率之间的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足待确认影响路径的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：金价上涨反映避险需求或降息预期升温；要判断能否延续，关键看实际利率和美元是否同向配合。 可能受益：黄金、白银、贵金属矿企，以及在实际利率下行时受益的长久期资产。 可能承压：美元多头和依赖高实际利率获利的资产；若避险情绪只是短暂脉冲，追高者也会承压。 接下来观察：美元指数、10年期实际收益率、黄金ETF资金流，以及推动本轮避险的事件是否有后续。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/bank-of-korea-makes-first-gold-linked-investment-in-13-years",
+      "source": "Bloomberg Economics",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-13T04:39:13+00:00",
+      "pick_score": 46,
+      "event_type": "market",
+      "severity": "minor",
+      "impact_axes": [
+        "待确认影响路径"
+      ],
+      "source_profile": {
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "impact_axes": [
+          "待确认影响路径"
+        ],
+        "canonical_url": "",
+        "fetch_status": "live"
+      },
+      "in_event_ledger": false
+    },
+    {
+      "id": "0bdaed9da9c59375a2df",
+      "title": "US Core Inflation Comes in Subdued, Easing Pressure on Fed",
+      "translation_label": "原文中文译读",
+      "translation": "美国核心通胀率表现温和，缓解了美联储的压力。7月份美国潜在通胀率较为温和，这可能减轻了美联储加息的压力。",
+      "article_explanation": "美国七月核心通胀数据表现温和，这可能减轻联邦储备委员会加息的压力。本篇报道聚焦于这一通胀指标的具体表现及其对美联储货币政策方向的潜在缓和作用，未涉及其他具体公司或数字。",
+      "summary": "美国七月核心通胀数据表现温和，这可能减轻联邦储备委员会加息的压力。本篇报道聚焦于这一通胀指标的具体表现及其对美联储货币政策方向的潜在缓和作用，未涉及其他具体公司或数字。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：美国核心通胀数据表现温和，最先发生变化的是市场对联邦储备委员会进一步加息的紧迫性预期，传导链第一步是降低了加息概率。 可能受益：本篇没有提供足以判断具体受益公司、行业或资产的信息。 可能承压：本篇没有提供足以判断具体承压对象的信息。 接下来观察：接下来用联邦储备委员会官员讲话、后续的美国消费者物价指数等通货膨胀相关数据来确认或证伪。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-core-inflation-was-subdued-in-july-easing-pressure-on-fed",
+      "source": "Bloomberg Economics",
+      "publisher": "Bloomberg 彭博社",
+      "publisher_type": "财经媒体",
+      "published_at": "2026-08-12T12:31:43+00:00",
+      "pick_score": 64,
       "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
@@ -830,68 +1008,34 @@
         "指数风险偏好"
       ],
       "source_profile": {
-        "key": "bls",
-        "label": "BLS",
-        "authority": "U.S. Bureau of Labor Statistics",
-        "source_type": "就业、通胀、工资与生产率数据",
-        "evidence_role": "就业、通胀、工资与生产率数据：确认CPI/PPI/就业/工资等宏观数据是否超预期。",
+        "key": "professional-media",
+        "label": "专业财经媒体",
+        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
+        "source_type": "专业媒体/市场背景",
+        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
           "利率/美元/估值折现",
           "指数风险偏好"
         ],
-        "canonical_url": "https://www.bls.gov/feed/bls_latest.rss",
+        "canonical_url": "",
         "fetch_status": "live"
       },
-      "in_event_ledger": true
+      "in_event_ledger": false
     },
     {
-      "id": "3e7cc19fe5adea925fa8",
-      "title": "8-K - AMERICAN EXPRESS CO (0000004962) (Filer)",
-      "translation_label": "原文全文翻译",
-      "translation": "8-K - 美国运通公司 (AMERICAN EXPRESS CO) (0000004962) (申报人)。提交日期：2026-08-12 存根编号：0000004962-26-000338 大小：1 MB 事项 3.03：证券持有人权利的重大修改 事项 5.03：公司章程或章程细则的修改；会计年度的变更 事项 8.01：其他事项 事项 9.01：财务报表和展品",
-      "article_explanation": "美国运通公司于2026年8月12日向美国证券交易委员会提交了8-K文件，报告了证券持有人权利的重大修改、公司章程或章程细则的修订、财年变更以及其他相关重大事件和财务报表与展品的更新。",
-      "summary": "美国运通公司于2026年8月12日向美国证券交易委员会提交了8-K文件，报告了证券持有人权利的重大修改、公司章程或章程细则的修订、财年变更以及其他相关重大事件和财务报表与展品的更新。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：本篇仅披露了AMERICAN EXPRESS CO的法律文件和公司治理层面的修改，未直接涉及销量、利润或利率等经营指标的变化。 可能受益：本篇没有提供足以判断具体受益方的信息。 可能承压：本篇没有提供足以判断具体承压方的信息。 接下来观察：接下来需要查阅AMERICAN EXPRESS CO后续发布的详细财务报表以及公司章程修改的具体条款内容来确认实质影响。",
-      "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000338/0000004962-26-000338-index.htm",
-      "source": "SEC Current 8-K",
-      "publisher": "美国证券交易委员会（SEC）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-08-12T21:29:42+00:00",
-      "pick_score": 55,
-      "event_type": "corporate",
-      "severity": "moderate",
-      "impact_axes": [
-        "公司基本面/股本供给"
-      ],
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
-      "id": "a4621b3e4766c64f095b",
-      "title": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
+      "id": "516cb799e08a70856e1a",
+      "title": "Legal AI start-up Legora seeks funds at more than $10bn valuation",
       "translation_label": "原文中文译读",
-      "translation": "韩国综合股价指数在人工智能交易的推动下，在一个多月的时间里从熊市迅速逆转进入牛市。周四韩国股市强势反弹，推动基准的Kospi指数进入技术性牛市。根据Fundstrat Global Advisors的观点，随着该国重量级存储芯片制造商重现强势，韩国股市的反弹可能还有进一步的空间。受全球人工智能交易复苏的推动，韩国股市周四大幅反弹，帮助其从上个月的历史性抛售中实现剧烈复苏，并将基准的Kospi指数推入技术性牛市。LSEG的数据显示，Kospi指数在早盘交易中跳涨逾4%，使其自7月30日低点以来的反弹幅度达到约23%。指数权重股三星电子和SK Hynix领涨，这两家芯片巨头分别上涨逾4%和7%。随着全球科技巨头的最新财报显示其对人工智能的持续大额支出，投资者对科技硬件股票的兴趣正在回归。Kospi指数本轮反弹的最新动力来自于对人工智能支出的重新乐观情绪，这有助于重振市场对韩国重磅半导体股票的兴趣。Trade Nation高级市场分析师David Morrison在周二晚间的一份报告中指出，美国人工智能相关公司的强劲业绩表明，人工智能支出热潮远未结束。Supermicro和云服务提供商CoreWeave在公布超预期的业绩后，股价夜盘飙升。这些进展为韩国芯片制造商注入了新的动力，这些企业的命运与人工智能基础设施所需的存储芯片需求紧密相连。三星电子和SK Hynix领涨Kospi指数，延续了上个月由科技股主导的抛售行情后的强劲反弹。Fundstrat Global Advisors认为，随着韩国国内重量级存储芯片制造商恢复强势，韩国股市的涨势还有进一步的空间。该公司的技术策略主管Mark Newton表示，在三星电子和SK Hynix上涨的带动下，iShares MSCI韩国ETF已经突破了一个关键的技术位，从而改善了韩国股市的近期前景。Newton指出，该ETF的最新走势确认了一种反弹形态，从技术上看，这对于进一步的近期涨幅很有吸引力。更大的信号可能来自存储芯片股本身。Fundstrat表示，在经历近期科技股抛售中受创最重的打击之后，存储芯片股价自6月以来首次开始跑赢更广泛的科技板块。Newton将此描述为短期内科技板块中存储芯片的一个好兆头，并补充称该板块似乎是科技股中开始转向走高的最后几个主要角落之一。鉴于三星和SK Hynix对韩国股市的巨大影响，这一点对韩国市场至关重要。Fundstrat表示，韩国市场的反弹与存储芯片复苏的结合，正在扩大资金向科技板块的回流，尽管一些美国主要科技股表现挣扎。Newton对该市场短期保持看涨，但他同时警告称，如果美国国债收益率和美元再次开始攀升，该涨势可能会在本月晚些时候失去动能。不过就目前而言，他表示韩国和存储芯片看起来是进行近期风险敞口配置的正确工具。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "translation": "法律人工智能初创公司Legora寻求以超过100亿美元的估值进行融资。这家瑞典公司在仅仅四个月前的估值还只有56亿美元，随着市场对专业服务人工智能工具的需求激增，其估值也随之水涨船高。",
+      "article_explanation": "法律人工智能初创公司 Legora 正在寻求新一轮融资，其估值目标超过 100 亿美元。这家瑞典公司在短短四个月前的估值仅为 56 亿美元，反映出市场对专业服务人工智能工具的兴趣正在急剧高涨。",
+      "summary": "法律人工智能初创公司 Legora 正在寻求新一轮融资，其估值目标超过 100 亿美元。这家瑞典公司在短短四个月前的估值仅为 56 亿美元，反映出市场对专业服务人工智能工具的兴趣正在急剧高涨。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
+      "impact_interpretation": "先发生什么：Legora 的融资估值目标提升至超过 100 亿美元，直接反映出专业服务人工智能工具的市场需求和一级市场投资热度快速攀升。 可能受益：瑞典法律人工智能初创公司 Legora 及其早期投资者，以及专注于人工智能专业服务工具的行业。 可能承压：本篇没有提供足以判断竞争对手或相关公司承压情况的信息。 接下来观察：接下来需要观察 Legora 本轮融资的最终落地金额、实际估值水平以及专业人工智能工具的商业化进展数据。",
+      "url": "https://www.ft.com/content/8202960d-ec90-4709-96e0-ab9cbddb5258?syn-25a6b1a6=1",
+      "source": "Financial Times Technology",
+      "publisher": "Financial Times 金融时报",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T02:06:15+00:00",
+      "published_at": "2026-08-13T04:00:23+00:00",
       "pick_score": 51,
       "event_type": "technology",
       "severity": "moderate",
@@ -915,38 +1059,38 @@
       "in_event_ledger": false
     },
     {
-      "id": "0930553e1349270b6794",
-      "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
-      "translation_label": "原文中文译读",
-      "translation": "知情人士透露，Anthropic PBC正在就以大约60亿美元的价格收购人工智能初创公司Decart AI进行谈判。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释市场正在关注的事件背景和价格反应。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释市场正在关注的事件背景和价格反应。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足待确认影响路径的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这条信息本身不会直接决定股价；只有它改变盈利、利率、供需或风险偏好，影响才可能持续。 可能受益：文章主题中出现可量化改善，并得到价格、成交量或官方数据确认的公司和资产。 可能承压：成本、需求、融资条件或监管环境受到反向影响的公司；没有数据确认时不应提前扩大解读。 接下来观察：等待可量化数据、政策决定或公司指引确认。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-      "source": "Bloomberg Technology",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T01:25:06+00:00",
-      "pick_score": 46,
-      "event_type": "market",
-      "severity": "minor",
+      "id": "3e7cc19fe5adea925fa8",
+      "title": "8-K - AMERICAN EXPRESS CO (0000004962) (Filer)",
+      "translation_label": "原文全文翻译",
+      "translation": "8-K - 美国运通公司 (AMERICAN EXPRESS CO) (0000004962) (申报人)。提交日期：2026-08-12 存根编号：0000004962-26-000338 大小：1 MB 事项 3.03：证券持有人权利的重大修改 事项 5.03：公司章程或章程细则的修改；会计年度的变更 事项 8.01：其他事项 事项 9.01：财务报表和展品",
+      "article_explanation": "美国运通公司于2026年8月12日向美国证券交易委员会提交了8-K文件，报告了证券持有人权利的重大修改、公司章程或章程细则的修订、财年变更以及其他相关重大事件和财务报表与展品的更新。",
+      "summary": "美国运通公司于2026年8月12日向美国证券交易委员会提交了8-K文件，报告了证券持有人权利的重大修改、公司章程或章程细则的修订、财年变更以及其他相关重大事件和财务报表与展品的更新。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：本篇仅披露了AMERICAN EXPRESS CO的法律文件和公司治理层面的修改，未直接涉及销量、利润或利率等经营指标的变化。 可能受益：本篇没有提供足以判断具体受益方的信息。 可能承压：本篇没有提供足以判断具体承压方的信息。 接下来观察：接下来需要查阅AMERICAN EXPRESS CO后续发布的详细财务报表以及公司章程修改的具体条款内容来确认实质影响。",
+      "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000338/0000004962-26-000338-index.htm",
+      "source": "SEC Current 8-K",
+      "publisher": "美国证券交易委员会（SEC）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-08-12T21:29:42+00:00",
+      "pick_score": 54,
+      "event_type": "corporate",
+      "severity": "moderate",
       "impact_axes": [
-        "待确认影响路径"
+        "公司基本面/股本供给"
       ],
       "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
         "impact_axes": [
-          "待确认影响路径"
+          "公司基本面/股本供给"
         ],
-        "canonical_url": "",
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
         "fetch_status": "live"
       },
-      "in_event_ledger": false
+      "in_event_ledger": true
     },
     {
       "id": "164426d2c7e24f9b9a01",
@@ -985,25 +1129,24 @@
       "in_event_ledger": false
     },
     {
-      "id": "e2c62fa7cb1e2a1af3e7",
-      "title": "Japan wholesale inflation eases slightly to 7.2%, undershooting expectations",
+      "id": "2a869c07c7f64b59ba3c",
+      "title": "FirstFT: Anthropic investors bet on $2tn valuation",
       "translation_label": "原文中文译读",
-      "translation": "日本7月批发通胀率小幅放缓至7.2%，低于市场预期。周四公布的官方数据显示，日本7月生产者价格同比攀升7.2%，逊于分析师预期。这一读数低于路透社调查的经济学家预期的7.4%，也低于经修正后的6月7.3%的涨幅。从环比来看，PPI仅小幅上涨，其中电力价格是环比推动PPI上涨的最大贡献者，而这一影响部分被能源和化学品价格的下跌所抵消。日本一直在应对更高的能源价格，这也导致企业面临更高整体进口通胀，美元支付额的增加进一步给日元带来了压力。以日元计算的进口价格指数在7月攀升29.1%，而6月为上涨30.1%，这表明日元的持续疲软继续推高了进口成本。7月下旬，日元兑美元汇率曾触及数十年来的低点，逼近164关口，随后东京和华盛顿在月底采取了联合干预措施推动汇率走强，但目前日元已经失去了干预带来的一半以上涨幅。然而，尽管PPI较高，但消费者通胀率保持相对较低，6月整体通胀率为1.9%，核心通胀率为1.6%。分析师此前向CNBC表示，较低的消费者通胀归因于高市早苗行政当局为保护消费者免受高能源价格影响而发放的补贴。日本央行在其7月会议的意见摘要中曾警告称，油价上涨带来价格上行的风险，一些成员呼吁更快地加息以控制通胀。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释宏观数据、增长、利率预期或美元流动性的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：经济或价格数据偏强会先推高增长和利率预期，随后通过收益率、美元和盈利预期影响股票风格。 可能受益：周期股、银行和能够从需求改善中兑现盈利的公司；若通胀不升，风险资产也可能得到支持。 可能承压：长久期债券和高估值成长股；若数据强劲同时推高通胀，利率敏感资产压力更大。 接下来观察：2年期与10年期美债、美元、信用利差和周期股表现。若收益率不跟随，宏观冲击应降级。",
-      "url": "https://www.cnbc.com/2026/08/13/japan-ppi-inflation-energy-prices-takaichi-cpi.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
+      "translation": "FirstFT：Anthropic的投资者押注2万亿美元估值。今日简报的其他内容还包括：培育钻石以及华尔街对Nvidia人工智能芯片的押注。",
+      "article_explanation": "根据 FirstFT 报道，Anthropic 的投资者押注其未来估值可达 2 万亿美元。同时，今日时事通讯的内容还关注了培育钻石以及华尔街对 Nvidia 人工智能芯片的押注。",
+      "summary": "根据 FirstFT 报道，Anthropic 的投资者押注其未来估值可达 2 万亿美元。同时，今日时事通讯的内容还关注了培育钻石以及华尔街对 Nvidia 人工智能芯片的押注。",
+      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足待确认影响路径的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
+      "impact_interpretation": "先发生什么：Anthropic 投资者预期其估值达到 2 万亿美元，直接推动了市场对人工智能头部企业长期价值的乐观情绪和资金押注。 可能受益：Anthropic 及其投资者、Nvidia 以及培育钻石相关行业和华尔街相关投资机构。 可能承压：本篇没有提供足以判断具体公司或行业承压的信息。 接下来观察：接下来需要观察 Anthropic 的实际估值变化、Nvidia 芯片销售数据以及培育钻石的市场表现来验证投资预期。",
+      "url": "https://www.ft.com/content/ec651ee9-0f3c-411a-9cde-d326acf89cee?syn-25a6b1a6=1",
+      "source": "Financial Times Global Economy",
+      "publisher": "Financial Times 金融时报",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T01:25:47+00:00",
-      "pick_score": 54,
-      "event_type": "macro",
-      "severity": "moderate",
+      "published_at": "2026-08-13T04:31:39+00:00",
+      "pick_score": 46,
+      "event_type": "market",
+      "severity": "minor",
       "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
+        "待确认影响路径"
       ],
       "source_profile": {
         "key": "professional-media",
@@ -1012,8 +1155,7 @@
         "source_type": "专业媒体/市场背景",
         "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
         "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
+          "待确认影响路径"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1021,53 +1163,55 @@
       "in_event_ledger": false
     },
     {
-      "id": "0ec55f4f275853f4fd50",
-      "title": "8-K - BioStem Technologies, Inc. (0001658678) (Filer)",
+      "id": "beeb161b7b5016fbb4fd",
+      "title": "Major Economic Indicators Latest Numbers",
       "translation_label": "原文全文翻译",
-      "translation": "8-K - BioStem Technologies, Inc. (0001658678) (申报人)。提交日期：2026-08-12。案卷号：0001193125-26-347211。文件大小：459 KB。项目 2.02：运营结果与财务状况。项目 9.01：财务报表与展览文件。",
-      "article_explanation": "BioStem Technologies, Inc. 向美国证监会提交了 8-K 表格报告，文件披露了公司运营结果与财务状况等相关信息，并附带了财务报表与展览文件。",
-      "summary": "BioStem Technologies, Inc. 向美国证监会提交了 8-K 表格报告，文件披露了公司运营结果与财务状况等相关信息，并附带了财务报表与展览文件。",
+      "translation": "主要经济指标最新数据。消费者价格指数（CPI）：2026年7月上涨0.1% 新闻稿 历史数据。失业率：2026年7月为4.1% 新闻稿 历史数据。非农就业人数：2026年7月减少23,000人（初步数据） 新闻稿 历史数据。平均每小时工资：2026年7月增加0.02美元（初步数据） 新闻稿 历史数据。生产者价格指数 - 最终需求：2026年6月下降0.3%（初步数据） 新闻稿 历史数据。就业成本指数（ECI）：2026年第二季度上涨0.9% 新闻稿 历史数据。生产率：2026年第二季度上涨1.4% 新闻稿 历史数据。美国进口价格指数：2026年6月上涨0.3% 新闻稿 历史数据。美国出口价格指数：2026年6月下降0.6% 新闻稿 历史数据。p代表初步数据。",
+      "article_explanation": "美国劳工统计局公布了2026年最新宏观经济指标：7月消费价格指数CPI上涨0.1%，失业率为4.1%，非农就业人口减少23,000人，平均每小时工资增加0.02美元；6月生产者价格指数PPI下降0.3%，进口价格指数上涨0.3%，出口价格指数下降0.6%；2026年第二季度就业成本指数上涨0.9%，生产率增长1.4%。",
+      "summary": "美国劳工统计局公布了2026年最新宏观经济指标：7月消费价格指数CPI上涨0.1%，失业率为4.1%，非农就业人口减少23,000人，平均每小时工资增加0.02美元；6月生产者价格指数PPI下降0.3%，进口价格指数上涨0.3%，出口价格指数下降0.6%；2026年第二季度就业成本指数上涨0.9%，生产率增长1.4%。",
       "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：BioStem Technologies, Inc. 的最新运营业绩和财务状况数据得以公开披露，直接更新了市场对其基本面的认知。 可能受益：本篇没有提供足以判断具体受益者的信息。 可能承压：本篇没有提供足以判断具体承压者的信息。 接下来观察：接下来需要核对 BioStem Technologies, Inc. 在 8-K 文件中所公布的具体财务报表数据与各项经营指标。",
-      "url": "https://www.sec.gov/Archives/edgar/data/1658678/000119312526347211/0001193125-26-347211-index.htm",
-      "source": "SEC Current 8-K",
-      "publisher": "美国证券交易委员会（SEC）",
+      "impact_interpretation": "先发生什么：非农就业人口减少23,000人及失业率录得4.1%，直接反映出美国劳动力市场供给与需求关系发生阶段性变化，传导至薪资及通胀压力指标。 可能受益：本篇没有提供足以判断具体受益资产或行业的充分信息。 可能承压：本篇没有提供足以判断具体承压企业或行业的充分信息。 接下来观察：接下来需要核对后续月份的消费价格指数CPI、生产者价格指数PPI以及非农就业人数等官方修正数据来进一步确认。",
+      "url": "https://www.bls.gov/bls/",
+      "source": "BLS Latest Numbers",
+      "publisher": "美国劳工统计局（BLS）",
       "publisher_type": "官方机构",
-      "published_at": "2026-08-12T21:27:17+00:00",
-      "pick_score": 55,
-      "event_type": "corporate",
+      "published_at": "2026-08-12T12:30:24+00:00",
+      "pick_score": 58,
+      "event_type": "macro",
       "severity": "moderate",
       "impact_axes": [
-        "公司基本面/股本供给"
+        "利率/美元/估值折现",
+        "指数风险偏好"
       ],
       "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
+        "key": "bls",
+        "label": "BLS",
+        "authority": "U.S. Bureau of Labor Statistics",
+        "source_type": "就业、通胀、工资与生产率数据",
+        "evidence_role": "就业、通胀、工资与生产率数据：确认CPI/PPI/就业/工资等宏观数据是否超预期。",
         "impact_axes": [
-          "公司基本面/股本供给"
+          "利率/美元/估值折现",
+          "指数风险偏好"
         ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
+        "canonical_url": "https://www.bls.gov/feed/bls_latest.rss",
         "fetch_status": "live"
       },
       "in_event_ledger": true
     },
     {
-      "id": "8ab7f2607c4ac5d3b84f",
-      "title": "Blue-Collar Workers Are Training AI To Take Their Jobs",
+      "id": "434f99d4bcbecfcb05bc",
+      "title": "Everybody loves Nvidia — but then, they can’t afford not to",
       "translation_label": "原文中文译读",
-      "translation": "蓝领工人正在训练AI来取代自己的工作。在机器人接管人类工作之前，它们首先需要学习人类是如何运动的。印度的蓝领工人在额头上绑着摄像机，通过拍摄他们如何使用双手来训练人形机器人，这或许成为了人工智能领域的最新淘金热。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
+      "translation": "人人都爱Nvidia，而且他们也确实离不开它。业界巨头们对成为黄仁勋的坚定盟友感到兴奋，这背后的原因毫无神秘之处。",
+      "article_explanation": "Nvidia正受到市场热烈追捧，科技巨头们纷纷选择与其合作并将其作为重要盟友，这背后反映出行业内对该公司技术和算力的高度依赖，使得各大企业在激烈的竞争中无法忽视其核心地位。",
+      "summary": "Nvidia正受到市场热烈追捧，科技巨头们纷纷选择与其合作并将其作为重要盟友，这背后反映出行业内对该公司技术和算力的高度依赖，使得各大企业在激烈的竞争中无法忽视其核心地位。",
       "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/blue-collar-workers-are-training-ai-to-take-their-jobs-video",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
+      "impact_interpretation": "先发生什么：本篇没有提供足以判断具体销量、利润、利率预期、供给、价格或监管成本最先发生变化的信息。 可能受益：按本篇事实，Huang及其相关的Nvidia可能受益于市场的高度追捧与合作需求。 可能承压：本篇没有提供足以判断谁将承压的具体信息。 接下来观察：接下来用哪些可核对的数据、时点或价格来确认或证伪，本篇没有提供足以判断的具体指标名。",
+      "url": "https://www.ft.com/content/8cd394ef-c829-4905-bced-33250966c70b?syn-25a6b1a6=1",
+      "source": "Financial Times Technology",
+      "publisher": "Financial Times 金融时报",
       "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T00:18:09+00:00",
+      "published_at": "2026-08-13T04:00:23+00:00",
       "pick_score": 51,
       "event_type": "technology",
       "severity": "moderate",
@@ -1091,38 +1235,38 @@
       "in_event_ledger": false
     },
     {
-      "id": "0dd29337858d34aa39ad",
-      "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
-      "translation_label": "原文中文译读",
-      "translation": "高盛表示，日本拥有1万亿美元的外汇储备，这为未来进一步干预日元留出了充足的能力。高盛指出，日本拥有足够的资金，足以再进行几轮规模与上个月干预相当的买入日元行动。该行表示，东京方面是否会再次扣动扳机，取决于日本和美国利率之间的利差。高盛认为，美国上个月的参与主要旨在保护美国国债市场的运作，而不是为了引导日元走势。高盛表示，借助美联储的一项机制，日本手头的现金足以进行另外几轮创纪录规模的买入日元行动。高盛估计，在日本约1万亿美元的美元储备中，大约有2000亿美元（很可能是7月操作的规模）是以现金或现金等价物形式存放的。高盛研究策略师Karen Fishman在该行美东时间周三晚间发布的Exchanges播客中表示，他们手头现有的资金已经足够再进行几轮我们刚刚看到的接近创纪录规模的干预。Fishman说，实际上，他们不会动用接近全部的资金，但我认为这恰恰说明了，如果他们愿意，他们有充足的能力继续进行干预。她补充说，通过使用美联储的机制，理论上这整整1万亿美元都可以以流动性形式使用。日本官员曾表示，如有必要，他们将毫不犹豫地再次出手。Fishman表示，鉴于美国自1998年以来首次与日本联合干预以支撑日元，这种表态具有一定的信誉度。7月下旬的联合行动是在日元跌向兑164日元、徘徊在四十年来的最低水平附近之后进行的，这使得日本央行9月的政策会议成为这种暂歇能否维持的核心。这家华尔街银行估计，东京在上个月行动的前两天部署了多达850亿美元，并称这是东京自2011年10月福岛灾难后进行干预以来最大的一次两日外汇市场行动。在干预之后，日元走强并突破了200日周期均线的兑158日元水平。但这些涨幅现在正在消退：该货币在周三回落至接近160的关键水平，回吐了干预带来的大约一半涨幅。Fishman指出，干预并不是一个可持续的解决方案，最终只是争取了一些时间。她指出，在日本4月和5月单边干预后，日元在几个月内就回到了40年来的低点。日本财务省表示，计划使用美联储的FIMA回购机制，该机制允许各国央行以美债持仓质押来筹集美元现金，从而免于东京在二级市场上抛售美债来为干预筹资。更丰厚的资金池前景已经改变了市场情绪。高盛外汇期权交易主管Praneet Shah在播客中表示，上周美联储的机制让全额1万亿美元的干预资金触手可及后，客户确实对日元非常看好。期权定价显示，交易员仍在为日元再次大幅飙升做准备，这种恐惧本身可能会阻止新的抛售。Shah表示，短期日元看涨期权的溢价升高，表明市场仍对突然出现的跳空走势保持警惕，这使得投资者在日元漂回160关口附近时，对做空该货币持谨慎态度。他说，如果现货交易价格升至160，存在一种真正的风险，即当市场仍将这种巨大的下跌风险计入定价时，你不会想继续卖出日元。Shah认为，东京是否会再次出手，可能取决于日美借贷成本之间的利差，这仍然是汇率的压倒性驱动因素。美东时间周三晚间，10年期美国国债收益率报4.690%，而10年期日本国债收益率为2.839%，这给投资者持有美国债务留出了巨大的激励。在日本方面，市场目前定价日本央行在9月加息25个基点概率为65%，并在年底前共计收紧约40个基点。Fishman说，如果他们没有兑现9月的加息，那将对日元施加新的下行压力。Shah表示，日本央行需要以比预期更快的速度加息，才能改变导致日元五年内贬值45%的利差动态。在美联储方面，Shah表示，更温和的经济数据可能会削弱美联储进一步加息的理由，从而减轻日元的压力，并重燃对另一次干预的押注。Shah指出，2024年7月，日本央行和财务省最有效的几轮干预之一恰逢美国CPI数据不及预期，几天后非农就业数据也不及预期。他说，他认为市场会真正开始增加对本周晚些时候后续干预的预期。周三公布的通胀报告符合",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释能源价格、地缘风险或避险资产的传导。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足待确认影响路径的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：日本通胀回升会提高日本央行加息或减少宽松的可能，通常先推高日债收益率并支撑日元。 可能受益：日元、部分日本银行和能够转嫁成本的企业。 可能承压：日本国债、利率敏感型地产和利润率较薄的消费企业；油价上涨还会压缩进口企业利润。 接下来观察：日本核心CPI、工资、10年期日债收益率、美元兑日元和日本央行表态。",
-      "url": "https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html",
-      "source": "CNBC Markets",
-      "publisher": "CNBC",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T01:12:22+00:00",
-      "pick_score": 46,
-      "event_type": "market",
-      "severity": "minor",
+      "id": "0ec55f4f275853f4fd50",
+      "title": "8-K - BioStem Technologies, Inc. (0001658678) (Filer)",
+      "translation_label": "原文全文翻译",
+      "translation": "8-K - BioStem Technologies, Inc. (0001658678) (申报人)。提交日期：2026-08-12。案卷号：0001193125-26-347211。文件大小：459 KB。项目 2.02：运营结果与财务状况。项目 9.01：财务报表与展览文件。",
+      "article_explanation": "BioStem Technologies, Inc. 向美国证监会提交了 8-K 表格报告，文件披露了公司运营结果与财务状况等相关信息，并附带了财务报表与展览文件。",
+      "summary": "BioStem Technologies, Inc. 向美国证监会提交了 8-K 表格报告，文件披露了公司运营结果与财务状况等相关信息，并附带了财务报表与展览文件。",
+      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
+      "impact_interpretation": "先发生什么：BioStem Technologies, Inc. 的最新运营业绩和财务状况数据得以公开披露，直接更新了市场对其基本面的认知。 可能受益：本篇没有提供足以判断具体受益者的信息。 可能承压：本篇没有提供足以判断具体承压者的信息。 接下来观察：接下来需要核对 BioStem Technologies, Inc. 在 8-K 文件中所公布的具体财务报表数据与各项经营指标。",
+      "url": "https://www.sec.gov/Archives/edgar/data/1658678/000119312526347211/0001193125-26-347211-index.htm",
+      "source": "SEC Current 8-K",
+      "publisher": "美国证券交易委员会（SEC）",
+      "publisher_type": "官方机构",
+      "published_at": "2026-08-12T21:27:17+00:00",
+      "pick_score": 54,
+      "event_type": "corporate",
+      "severity": "moderate",
       "impact_axes": [
-        "待确认影响路径"
+        "公司基本面/股本供给"
       ],
       "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
+        "key": "sec-edgar",
+        "label": "SEC EDGAR",
+        "authority": "U.S. Securities and Exchange Commission",
+        "source_type": "上市公司申报文件",
+        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
         "impact_axes": [
-          "待确认影响路径"
+          "公司基本面/股本供给"
         ],
-        "canonical_url": "",
+        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
         "fetch_status": "live"
       },
-      "in_event_ledger": false
+      "in_event_ledger": true
     },
     {
       "id": "a40faa0ddf5e2e48e63f",
@@ -1154,146 +1298,6 @@
         "impact_axes": [
           "指数风险偏好",
           "能源/避险/通胀预期"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "ca715e78b82afa365bfd",
-      "title": "Gold Advances After Tame US Inflation Data Eases Rate-Hike Bets",
-      "translation_label": "原文中文译读",
-      "translation": "在美国温和通胀数据缓解加息预期后，黄金上涨。由于一份温和的美国通胀报告缓解了美联储在短期内加息的近端压力，黄金价格攀升至两个月高点。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释黄金、白银与实际利率之间的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释黄金、白银与实际利率之间的变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、指数风险偏好的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：金价回落通常意味着实际利率或美元走强、避险需求减弱；只有实际利率继续上行，压力才会延续。 可能受益：美元、现金类资产，以及能从较高实际利率中获益的金融资产。 可能承压：黄金、白银和成本较高的贵金属矿企；持有无息资产的机会成本随实际利率上升而变大。 接下来观察：美元指数、10年期实际收益率、黄金ETF资金流。若实际利率回落而金价仍不反弹，说明需求本身偏弱。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/gold-steadies-after-tame-us-inflation-data-eases-rate-hike-bets",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-12T23:14:51+00:00",
-      "pick_score": 54,
-      "event_type": "macro",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "指数风险偏好"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "指数风险偏好"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "595dc5a62751188dfa41",
-      "title": "8-K - Shepherd's Finance, LLC (0001544190) (Filer)",
-      "translation_label": "原文全文翻译",
-      "translation": "8-K - Shepherd's Finance, LLC (0001544190) (申报人)。提交日期：2026-08-12。案卷号：0001493152-26-037454。文件大小：215 KB。项目 4.01：注册会计师变更。项目 9.01：财务报表与展览文件。",
-      "article_explanation": "SEC Current 8-K发布公司层面公告，但当前摘要未提取到可量化经营变化。 在收入、利润率、订单、融资规模或管理层变动被明确前，不据此判断方向。",
-      "summary": "SEC Current 8-K发布公司层面公告，但当前摘要未提取到可量化经营变化。 在收入、利润率、订单、融资规模或管理层变动被明确前，不据此判断方向。",
-      "selection_reason": "保留它是为了形成官方事实账本；当前方向含义有限，重点是记录原文、时间和后续验证条件。",
-      "impact_interpretation": "先发生什么：消息首先影响报道中的公司的订单、收入、利润率或资金状况，不应直接外推为整个板块都上涨或下跌。 可能受益：能把合同、融资或客户增长转化为实际收入和现金流的公司及直接供应商。 可能承压：融资成本上升、利润率被稀释或无法兑现订单的公司，以及竞争中失去份额的同业。 接下来观察：下一份财报中的收入、利润率、订单和管理层指引，并观察股价是否放量且相对同业走强或走弱。",
-      "url": "https://www.sec.gov/Archives/edgar/data/1544190/000149315226037454/0001493152-26-037454-index.htm",
-      "source": "SEC Current 8-K",
-      "publisher": "美国证券交易委员会（SEC）",
-      "publisher_type": "官方机构",
-      "published_at": "2026-08-12T21:25:51+00:00",
-      "pick_score": 55,
-      "event_type": "corporate",
-      "severity": "moderate",
-      "impact_axes": [
-        "公司基本面/股本供给"
-      ],
-      "source_profile": {
-        "key": "sec-edgar",
-        "label": "SEC EDGAR",
-        "authority": "U.S. Securities and Exchange Commission",
-        "source_type": "上市公司申报文件",
-        "evidence_role": "上市公司申报文件：确认公司经营、融资、股本、治理和内部人交易的一手文件。",
-        "impact_axes": [
-          "公司基本面/股本供给"
-        ],
-        "canonical_url": "https://www.sec.gov/edgar/search-and-access",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": true
-    },
-    {
-      "id": "724a8193016eafbcaa2a",
-      "title": "Korean Stocks Rise 22% in 10 Days as Chip Rally Regains Steam",
-      "translation_label": "原文中文译读",
-      "translation": "韩国股市在10天内上涨22%，芯片股涨势重燃。韩国股市攀升，基准指数有望进入技术性牛市，因为人工智能交易的全球反弹推动了对上月历史性暴跌的快速逆转。",
-      "article_explanation": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "summary": "这是一篇专业财经媒体报道，核心是在解释AI、芯片或数据中心产业链的最新变化。它的价值是补足记者采访、市场反应和投资者关注点；它不等同于官方披露，关键事实需要用公司公告、监管文件或原始数据交叉确认。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足利率/美元/估值折现、AI硬件/数据中心产业链的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：这类消息会先改变AI采用速度、算力需求或合规成本；只有形成订单、付费用户或资本开支，才会进入公司盈利。 可能受益：拥有真实客户、算力基础设施、芯片供给或平台分发能力的公司。 可能承压：只有概念但缺少收入兑现的高估值公司，以及因监管、版权或安全要求增加成本的平台。 接下来观察：云厂商资本开支、芯片订单、企业付费用户、监管落地时间，以及相关公司下一份业绩指引。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/korean-stocks-rise-22-in-ten-days-as-chip-rally-regains-steam",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T00:07:27+00:00",
-      "pick_score": 51,
-      "event_type": "technology",
-      "severity": "moderate",
-      "impact_axes": [
-        "利率/美元/估值折现",
-        "AI硬件/数据中心产业链"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "利率/美元/估值折现",
-          "AI硬件/数据中心产业链"
-        ],
-        "canonical_url": "",
-        "fetch_status": "live"
-      },
-      "in_event_ledger": false
-    },
-    {
-      "id": "5847f94a87de1a6baa2e",
-      "title": "Australia Home Price Drop Adds to Restrictive Stance: RBA’s Kent",
-      "translation_label": "原文中文译读",
-      "translation": "澳大利亚央行助理行长克里斯·肯特在一次活动上表示，澳大利亚不断降温的住房市场，正促使金融状况可能比预期更具限制性。",
-      "article_explanation": "澳大利亚储备银行助理行长克里斯·肯特（Chris Kent）在一次活动上表示，澳大利亚房地产市场走软，正导致金融条件可能比正常情况下更具限制性。",
-      "summary": "澳大利亚储备银行助理行长克里斯·肯特（Chris Kent）在一次活动上表示，澳大利亚房地产市场走软，正导致金融条件可能比正常情况下更具限制性。",
-      "selection_reason": "来自专业财经媒体的专业财经报道，能快速补足待确认影响路径的市场语境；关键数字、公司表述和监管事实仍需回到官方文件或公司原文确认。",
-      "impact_interpretation": "先发生什么：澳大利亚房地产市场走软直接推动金融条件变得更为紧缩，强化了当前的限制性立场。 可能受益：本篇没有提供足以判断具体受益者的信息。 可能承压：澳大利亚房地产市场及其相关产业链企业在本篇中面临较为紧缩的金融条件压力。 接下来观察：接下来需观察澳大利亚房地产价格走势数据以及澳大利亚储备银行对利率和金融条件的后续表态。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/australia-home-price-drop-adds-to-restrictive-stance-rba-s-kent",
-      "source": "Bloomberg Markets",
-      "publisher": "Bloomberg 彭博社",
-      "publisher_type": "财经媒体",
-      "published_at": "2026-08-13T01:09:51+00:00",
-      "pick_score": 46,
-      "event_type": "market",
-      "severity": "minor",
-      "impact_axes": [
-        "待确认影响路径"
-      ],
-      "source_profile": {
-        "key": "professional-media",
-        "label": "专业财经媒体",
-        "authority": "Bloomberg / Financial Times / The Economist / MarketWatch / CNBC 等公开 feed",
-        "source_type": "专业媒体/市场背景",
-        "evidence_role": "提供记者报道、采访线索、市场语境和事件解释；需要回到官方文件或公司原文确认关键事实。",
-        "impact_axes": [
-          "待确认影响路径"
         ],
         "canonical_url": "",
         "fetch_status": "live"
@@ -1635,7 +1639,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-13T01:31:23+00:00",
+      "latest_published_at": "2026-08-13T04:36:19+00:00",
       "warning": null
     },
     {
@@ -1644,7 +1648,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-13T01:25:06+00:00",
+      "latest_published_at": "2026-08-13T04:49:14+00:00",
       "warning": null
     },
     {
@@ -1653,7 +1657,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-13T00:50:45+00:00",
+      "latest_published_at": "2026-08-13T04:45:30+00:00",
       "warning": null
     },
     {
@@ -1662,7 +1666,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 20,
-      "latest_published_at": "2026-08-13T00:03:07+00:00",
+      "latest_published_at": "2026-08-13T04:10:23+00:00",
       "warning": null
     },
     {
@@ -1689,7 +1693,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 25,
-      "latest_published_at": "2026-08-12T23:01:09+00:00",
+      "latest_published_at": "2026-08-13T03:15:34+00:00",
       "warning": null
     },
     {
@@ -1698,7 +1702,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 25,
-      "latest_published_at": "2026-08-12T21:36:19+00:00",
+      "latest_published_at": "2026-08-13T04:00:23+00:00",
       "warning": null
     },
     {
@@ -1706,8 +1710,8 @@
       "tier": "tier1",
       "enabled": true,
       "status": "ok",
-      "recent_items": 22,
-      "latest_published_at": "2026-08-12T20:22:39+00:00",
+      "recent_items": 23,
+      "latest_published_at": "2026-08-13T04:31:39+00:00",
       "warning": null
     },
     {
@@ -1716,7 +1720,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 25,
-      "latest_published_at": "2026-08-12T23:01:09+00:00",
+      "latest_published_at": "2026-08-13T04:31:39+00:00",
       "warning": null
     },
     {
@@ -1752,7 +1756,7 @@
       "enabled": true,
       "status": "ok",
       "recent_items": 30,
-      "latest_published_at": "2026-08-13T02:06:15+00:00",
+      "latest_published_at": "2026-08-13T05:07:55+00:00",
       "warning": null
     },
     {
