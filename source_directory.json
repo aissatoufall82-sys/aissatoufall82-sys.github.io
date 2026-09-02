@@ -2,12 +2,12 @@
   "schema_version": 1,
   "purpose": "第三方媒体官网目录查询",
   "content_policy": "仅提供第三方媒体官网地址、公开覆盖范围和连接状态，不提供新闻正文、标题聚合、翻译、摘要、观点或投资建议。",
-  "generated_at": "2026-09-02T02:10:24.601502+00:00",
-  "generated_at_local": "2026-09-02 10:10:24 北京时间",
+  "generated_at": "2026-09-02T03:02:51.507064+00:00",
+  "generated_at_local": "2026-09-02 11:02:51 北京时间",
   "next_update_at_local": "2026-09-03 10:10:00 北京时间",
   "timezone": "Asia/Shanghai",
-  "source_count": 21,
-  "available_count": 21,
+  "source_count": 26,
+  "available_count": 26,
   "sources": [
     {
       "key": "bloomberg",
@@ -216,6 +216,56 @@
       "website": "https://www.abc.net.au/news/business/",
       "domain": "abc.net.au",
       "coverage": "澳大利亚与亚太商品、公司、劳动力和区域经济。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "straits-times-business",
+      "label": "The Straits Times Business 海峡时报商业",
+      "authority": "The Straits Times",
+      "website": "https://www.straitstimes.com/business",
+      "domain": "straitstimes.com",
+      "coverage": "新加坡、东南亚与全球资本市场、公司和区域经济。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "the-national-business",
+      "label": "The National Business",
+      "authority": "The National",
+      "website": "https://www.thenationalnews.com/business/",
+      "domain": "thenationalnews.com",
+      "coverage": "海湾市场、能源、主权资本、全球宏观与跨境投资。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "al-jazeera-business",
+      "label": "Al Jazeera Business & Economy 半岛电视台商业与经济",
+      "authority": "Al Jazeera",
+      "website": "https://www.aljazeera.com/economy/",
+      "domain": "aljazeera.com",
+      "coverage": "全球经济、能源运输、地缘风险与新兴市场政策传导。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "propublica",
+      "label": "ProPublica",
+      "authority": "ProPublica",
+      "website": "https://www.propublica.org/",
+      "domain": "propublica.org",
+      "coverage": "公司治理、监管执行、公共资金和产业风险的调查报道。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "ars-technica",
+      "label": "Ars Technica",
+      "authority": "Ars Technica",
+      "website": "https://arstechnica.com/",
+      "domain": "arstechnica.com",
+      "coverage": "人工智能、半导体、平台竞争和科技产业政策。",
       "cadence": "持续更新",
       "status": "available"
     }
