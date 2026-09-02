@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "purpose": "第三方媒体官网目录查询",
+  "content_policy": "仅提供第三方媒体官网地址、公开覆盖范围和连接状态，不提供新闻正文、标题聚合、翻译、摘要、观点或投资建议。",
+  "generated_at": "2026-09-02T02:10:24.601502+00:00",
+  "generated_at_local": "2026-09-02 10:10:24 北京时间",
+  "next_update_at_local": "2026-09-03 10:10:00 北京时间",
+  "timezone": "Asia/Shanghai",
+  "source_count": 21,
+  "available_count": 21,
+  "sources": [
+    {
+      "key": "bloomberg",
+      "label": "Bloomberg 彭博社",
+      "authority": "Bloomberg",
+      "website": "https://www.bloomberg.com/markets",
+      "domain": "bloomberg.com",
+      "coverage": "全球市场、宏观政策、公司和行业价格发现。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "financial-times",
+      "label": "Financial Times 金融时报",
+      "authority": "Financial Times",
+      "website": "https://www.ft.com/",
+      "domain": "ft.com",
+      "coverage": "全球经济、资本市场、公司战略和政策传导。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "economist",
+      "label": "The Economist 经济学人",
+      "authority": "The Economist",
+      "website": "https://www.economist.com/",
+      "domain": "economist.com",
+      "coverage": "宏观框架、行业结构和中长期政策影响。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "marketwatch",
+      "label": "MarketWatch",
+      "authority": "MarketWatch",
+      "website": "https://www.marketwatch.com/",
+      "domain": "marketwatch.com",
+      "coverage": "美股、利率、个人投资者情绪和市场即时反应。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "cnbc",
+      "label": "CNBC",
+      "authority": "CNBC",
+      "website": "https://www.cnbc.com/markets/",
+      "domain": "cnbc.com",
+      "coverage": "美股、公司动态、投资者访谈和盘中市场反应。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "guardian-business",
+      "label": "The Guardian Business 卫报商业",
+      "authority": "The Guardian",
+      "website": "https://www.theguardian.com/uk/business",
+      "domain": "theguardian.com",
+      "coverage": "英国与全球经济、能源、公司和公共政策影响。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "bbc-business",
+      "label": "BBC Business",
+      "authority": "BBC",
+      "website": "https://www.bbc.com/business",
+      "domain": "bbc.com",
+      "coverage": "全球商业、消费、科技和经济政策的公共新闻报道。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "fortune",
+      "label": "Fortune 财富",
+      "authority": "Fortune",
+      "website": "https://fortune.com/",
+      "domain": "fortune.com",
+      "coverage": "大型公司、管理层、全球商业和产业趋势。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "semafor",
+      "label": "Semafor",
+      "authority": "Semafor",
+      "website": "https://www.semafor.com/",
+      "domain": "semafor.com",
+      "coverage": "全球政治经济、资本流动和跨区域商业事件。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "techcrunch",
+      "label": "TechCrunch",
+      "authority": "TechCrunch",
+      "website": "https://techcrunch.com/",
+      "domain": "techcrunch.com",
+      "coverage": "科技公司、创业融资、人工智能和平台竞争。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "wired-business",
+      "label": "WIRED Business",
+      "authority": "WIRED",
+      "website": "https://www.wired.com/category/business/",
+      "domain": "wired.com",
+      "coverage": "科技商业、人工智能、劳动力和数字平台风险。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "mit-technology-review",
+      "label": "MIT Technology Review",
+      "authority": "MIT Technology Review",
+      "website": "https://www.technologyreview.com/",
+      "domain": "technologyreview.com",
+      "coverage": "前沿技术、人工智能、半导体和技术产业化路径。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "business-insider",
+      "label": "Business Insider",
+      "authority": "Business Insider",
+      "website": "https://www.businessinsider.com/",
+      "domain": "businessinsider.com",
+      "coverage": "公司、市场、科技和全球商业事件的快速报道。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "axios",
+      "label": "Axios",
+      "authority": "Axios",
+      "website": "https://www.axios.com/",
+      "domain": "axios.com",
+      "coverage": "美国政策、商业、科技和资本市场的简明报道。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "rest-of-world",
+      "label": "Rest of World",
+      "authority": "Rest of World",
+      "website": "https://restofworld.org/",
+      "domain": "restofworld.org",
+      "coverage": "美国以外的科技产业、数字经济和全球供应链。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "abc-news-business",
+      "label": "ABC News Business",
+      "authority": "ABC News",
+      "website": "https://abcnews.go.com/Business",
+      "domain": "abcnews.go.com",
+      "coverage": "美国与全球公司、贸易、消费和经济政策报道。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "dw-business",
+      "label": "DW Business 德国之声商业",
+      "authority": "Deutsche Welle",
+      "website": "https://www.dw.com/en/business/s-1431",
+      "domain": "dw.com",
+      "coverage": "德国、欧洲与全球制造业、贸易、能源和公司转型。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "the-conversation-business",
+      "label": "The Conversation Business",
+      "authority": "The Conversation",
+      "website": "https://theconversation.com/us/business",
+      "domain": "theconversation.com",
+      "coverage": "由学者撰写并经编辑审核的商业、公司治理和经济背景分析。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "independent-business",
+      "label": "The Independent Business 独立报商业",
+      "authority": "The Independent",
+      "website": "https://www.independent.co.uk/news/business",
+      "domain": "independent.co.uk",
+      "coverage": "英国市场、能源账单、公司动态和全球商业事件。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "scmp-business",
+      "label": "SCMP Business 南华早报商业",
+      "authority": "South China Morning Post",
+      "website": "https://www.scmp.com/business",
+      "domain": "scmp.com",
+      "coverage": "中国、香港与亚洲资本市场、公司、房地产和科技产业。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "abc-australia-business",
+      "label": "ABC Australia Business",
+      "authority": "Australian Broadcasting Corporation",
+      "website": "https://www.abc.net.au/news/business/",
+      "domain": "abc.net.au",
+      "coverage": "澳大利亚与亚太商品、公司、劳动力和区域经济。",
+      "cadence": "持续更新",
+      "status": "available"
+    }
+  ]
+}
