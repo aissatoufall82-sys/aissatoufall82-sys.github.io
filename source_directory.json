@@ -2,12 +2,12 @@
   "schema_version": 1,
   "purpose": "第三方媒体官网目录查询",
   "content_policy": "仅提供第三方媒体官网地址、公开覆盖范围和连接状态，不提供新闻正文、标题聚合、翻译、摘要、观点或投资建议。",
-  "generated_at": "2026-09-03T02:10:28.185555+00:00",
-  "generated_at_local": "2026-09-03 10:10:28 北京时间",
-  "next_update_at_local": "2026-09-04 10:10:00 北京时间",
+  "generated_at": "2026-09-03T07:03:19.763435+00:00",
+  "generated_at_local": "2026-09-03 15:03:19 北京时间",
+  "next_update_at_local": "2026-09-03 16:10:00 北京时间",
   "timezone": "Asia/Shanghai",
-  "source_count": 26,
-  "available_count": 26,
+  "source_count": 35,
+  "available_count": 35,
   "sources": [
     {
       "key": "bloomberg",
@@ -266,6 +266,96 @@
       "website": "https://arstechnica.com/",
       "domain": "arstechnica.com",
       "coverage": "人工智能、半导体、平台竞争和科技产业政策。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "the-verge",
+      "label": "The Verge",
+      "authority": "The Verge",
+      "website": "https://www.theverge.com/tech",
+      "domain": "theverge.com",
+      "coverage": "平台公司、人工智能、消费电子和数字产业竞争。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "the-register",
+      "label": "The Register",
+      "authority": "The Register",
+      "website": "https://www.theregister.com/",
+      "domain": "theregister.com",
+      "coverage": "企业软件、云计算、数据中心、芯片与网络安全。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "ieee-spectrum",
+      "label": "IEEE Spectrum",
+      "authority": "IEEE Spectrum",
+      "website": "https://spectrum.ieee.org/",
+      "domain": "spectrum.ieee.org",
+      "coverage": "工程技术、机器人、芯片和前沿技术商业化。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "semiconductor-engineering",
+      "label": "Semiconductor Engineering",
+      "authority": "Semiconductor Engineering",
+      "website": "https://semiengineering.com/",
+      "domain": "semiengineering.com",
+      "coverage": "芯片设计、制造、封装、设备和半导体供应链。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "securityweek",
+      "label": "SecurityWeek",
+      "authority": "SecurityWeek",
+      "website": "https://www.securityweek.com/",
+      "domain": "securityweek.com",
+      "coverage": "企业网络安全、漏洞、攻击事件和安全监管。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "bleepingcomputer",
+      "label": "BleepingComputer",
+      "authority": "BleepingComputer",
+      "website": "https://www.bleepingcomputer.com/",
+      "domain": "bleepingcomputer.com",
+      "coverage": "勒索软件、数据泄露、企业系统漏洞和安全响应。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "krebsonsecurity",
+      "label": "KrebsOnSecurity",
+      "authority": "KrebsOnSecurity",
+      "website": "https://krebsonsecurity.com/",
+      "domain": "krebsonsecurity.com",
+      "coverage": "网络犯罪、支付安全、数据泄露和关键基础设施风险。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "siliconangle",
+      "label": "SiliconANGLE",
+      "authority": "SiliconANGLE",
+      "website": "https://siliconangle.com/",
+      "domain": "siliconangle.com",
+      "coverage": "企业科技、云计算、人工智能、融资和并购。",
+      "cadence": "持续更新",
+      "status": "available"
+    },
+    {
+      "key": "engadget",
+      "label": "Engadget",
+      "authority": "Engadget",
+      "website": "https://www.engadget.com/",
+      "domain": "engadget.com",
+      "coverage": "消费电子、平台产品、人工智能和科技公司动态。",
       "cadence": "持续更新",
       "status": "available"
     }
